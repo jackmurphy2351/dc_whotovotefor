@@ -1,11 +1,11 @@
 ---
 title: "Ranked Choice Voting / Initiative 83"
 sources:
-  - url: https://dcboe.org/Elections/Ranked-Choice-Voting
+  - url: https://www.dcboe.org/rcv
     title: "Ranked Choice Voting — DC Board of Elections"
     publisher: dcboe.org
     accessed: 2026-05-27
-  - url: https://lims.dccouncil.gov/Legislation/B25-0072
+  - url: https://code.dccouncil.gov/us/dc/council/laws/25-295
     title: "Initiative 83 — DC Council LIMS"
     publisher: dccouncil.gov
     accessed: 2026-05-27
