@@ -166,7 +166,7 @@ button.btn     { font-family: inherit; }
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
-  margin-bottom: 2.5rem;
+  margin-bottom: 1.5rem;
 }
 @media (min-width: 600px) {
   .elections-grid { grid-template-columns: 1fr 1fr; }
@@ -188,6 +188,7 @@ button.btn     { font-family: inherit; }
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1.25rem;
+  margin-bottom: 1.5rem;
 }
 .how-it-works ol { padding-left: 1.25rem; }
 .how-it-works li { margin-bottom: .4rem; }
@@ -337,11 +338,11 @@ button.btn     { font-family: inherit; }
   transition: border-color .12s, background .12s;
   font-size: .95rem;
 }
-.stance-option:hover, .importance-option:hover {
+.importance-option:hover {
   border-color: var(--dc-navy);
   background: #f0f4f8;
 }
-.stance-option.selected, .importance-option.selected {
+.importance-option.selected {
   border-color: var(--dc-navy);
   background: #e8f0f8;
 }
@@ -357,6 +358,55 @@ button.btn     { font-family: inherit; }
 }
 .quiz-reset { font-size: .85rem; color: var(--text-light); }
 .quiz-reset a { color: var(--text-light); }
+
+/* ── Stance scale (horizontal, colour-coded) ────────────────────────────── */
+.stance-options-row {
+  display: flex;
+  gap: .4rem;
+  flex-wrap: wrap;
+}
+.stance-option {
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: .65rem .3rem;
+  gap: 0;
+  font-size: .82rem;
+  line-height: 1.3;
+  min-width: 64px;
+  margin-bottom: 0;
+  position: relative;
+}
+.stance-option input[type=radio] {
+  appearance: none;
+  -webkit-appearance: none;
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.stance-strong-disagree          { border-color: #b91c1c; background: #fee2e2; color: #7f1d1d; }
+.stance-strong-disagree:hover    { border-color: #b91c1c; background: #fecaca; }
+.stance-strong-disagree.selected { background: #b91c1c;   border-color: #b91c1c; color: #fff; }
+
+.stance-disagree                 { border-color: #f87171; background: #fff5f5; color: #991b1b; }
+.stance-disagree:hover           { border-color: #f87171; background: #fee2e2; }
+.stance-disagree.selected        { background: #f87171;   border-color: #f87171; color: #7f1d1d; }
+
+.stance-skip                     { border-color: #d97706; background: #fef3c7; color: #78350f; }
+.stance-skip:hover               { border-color: #d97706; background: #fde68a; }
+.stance-skip.selected            { background: #fbbf24;   border-color: #d97706; color: #78350f; }
+
+.stance-agree                    { border-color: #4ade80; background: #f0fdf4; color: #14532d; }
+.stance-agree:hover              { border-color: #4ade80; background: #bbf7d0; }
+.stance-agree.selected           { background: #4ade80;   border-color: #4ade80; color: #14532d; }
+
+.stance-strong-agree             { border-color: #15803d; background: #dcfce7; color: #14532d; }
+.stance-strong-agree:hover       { border-color: #15803d; background: #86efac; }
+.stance-strong-agree.selected    { background: #15803d;   border-color: #15803d; color: #fff; }
 
 /* ── Results ─────────────────────────────────────────────────────────────── */
 .results-header { margin-bottom: 1.5rem; }
