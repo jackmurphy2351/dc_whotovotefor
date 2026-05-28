@@ -68,17 +68,29 @@
   name: "Trent Holbrook"
   election_slug: delegate
   in_fair_elections: true
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://www.trentholbrook.com
   endorsements: []
   short_bio: >
     Eight-year staffer to incumbent Delegate Eleanor Holmes Norton; strong
-    proponent of DC statehood.
+    proponent of DC statehood and DC self-governance over its courts and police.
   long_bio: |
     Trent Holbrook (age 40) has worked as a staffer to incumbent Delegate Eleanor
     Holmes Norton for eight years. He is a strong proponent of DC statehood and
-    is participating in the DC Fair Elections Program.
+    is participating in the DC Fair Elections Program. His platform emphasizes DC
+    self-governance: he proposes creating a local prosecutor's office answerable
+    only to DC residents, wants DC to appoint its own judges, and opposes using
+    the DC National Guard for local law enforcement. He supports pay raises and
+    backpay for federal workers, protection of their retirement benefits, and
+    opposing relocation of federal agencies out of the National Capital Region. He
+    opposes school vouchers, supports preserving the DC Tuition Assistance Grant
+    Program, and views healthcare as a right — including protecting DC's Medicaid
+    reimbursement rates and abortion access.
   advisories: []
   sources:
+    - url: https://www.trentholbrook.com/issues
+      title: "Issues — Trent Holbrook for DC Delegate"
+      publisher: "Trent Holbrook Campaign"
+      accessed: 2026-05-28
     - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
       title: "Trent Holbrook — Free DC Candidate Questionnaire"
       publisher: "Free DC Project"
@@ -86,12 +98,12 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
-      explanation: "Strong proponent of DC statehood."
+      explanation: "Strong proponent of DC statehood; highlights over 200 years of disenfranchisement and commits to continuing work on full voting representation."
       sources:
-        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
-          title: "Trent Holbrook — Free DC Candidate Questionnaire"
-          publisher: "Free DC Project"
-          accessed: 2026-05-27
+        - url: https://www.trentholbrook.com/issues
+          title: "Issues — Trent Holbrook for DC Delegate"
+          publisher: "Trent Holbrook Campaign"
+          accessed: 2026-05-28
 
     - question_id: mpd_ice_cooperation
       stance: 2
@@ -115,48 +127,68 @@
   name: "Greg Jaczko"
   election_slug: delegate
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://gojaczko4dc.com
   endorsements: []
   short_bio: >
-    Physicist and renewable energy consultant. Proposes exempting DC from federal
-    taxes as an alternative to statehood.
+    Physicist and former NRC chair who ran a federal agency. Supports full
+    statehood; proposes federal tax exemption for DC residents as an interim
+    measure until statehood is won.
   long_bio: |
-    Greg Jaczko (age 55) is a physicist who runs a renewable energy consultancy.
-    He pledges to fight for federal workers. Rather than prioritizing statehood,
-    his signature proposal is to exempt DC residents from federal income taxes —
-    similar to the treatment of U.S. territories like Puerto Rico — on the grounds
-    that "no taxation without representation" demands relief until DC has full
-    voting rights.
+    Greg Jaczko (age 55) is a physicist who runs a renewable energy consultancy
+    and previously chaired the Nuclear Regulatory Commission. He supports full DC
+    statehood ("Statehood Now") while also proposing to exempt DC residents and
+    businesses from federal income taxes until statehood is achieved — framing it
+    as "No Taxation UNTIL Representation." He pledges to fight reckless cuts to
+    the federal workforce and restore jobs and dignity for mistreated federal
+    workers, drawing on his experience running a federal agency. On energy, he
+    supports a public power transition to address utility costs, wants to rein in
+    data-center expansion that strains local infrastructure, and would invest in
+    renewables and energy storage to lower bills. On justice, he wants to get the
+    federal government out of DC's local justice system so that residents can
+    shape policies focused on prevention and rehabilitation.
   advisories: []
   sources:
+    - url: https://gojaczko4dc.com/platform
+      title: "Platform — Greg Jaczko for Congress"
+      publisher: "Greg Jaczko Campaign"
+      accessed: 2026-05-28
     - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
       title: "Meet the candidates running to be D.C.'s delegate to Congress — The 51st"
       publisher: "The 51st"
       accessed: 2026-05-27
   positions:
     - question_id: statehood_top_priority
-      stance: 0
-      explanation: "Proposes federal tax exemption for DC residents as an alternative path to representation, rather than prioritizing conventional statehood."
+      stance: 2
+      explanation: "Supports full statehood as a top priority ('Statehood Now'); frames tax exemption as an interim 'No Taxation UNTIL Representation' measure, not a replacement for statehood."
       sources:
-        - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
-          title: "Meet the candidates — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://gojaczko4dc.com/platform
+          title: "Platform — Greg Jaczko for Congress"
+          publisher: "Greg Jaczko Campaign"
+          accessed: 2026-05-28
 
     - question_id: statehood_tax_exemption
       stance: 2
-      explanation: "Proposes exempting DC from federal income taxes until DC achieves full voting representation."
+      explanation: "Explicitly proposes exempting DC residents and businesses from federal income taxes until statehood is achieved."
       sources:
-        - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
-          title: "Meet the candidates — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://gojaczko4dc.com/platform
+          title: "Platform — Greg Jaczko for Congress"
+          publisher: "Greg Jaczko Campaign"
+          accessed: 2026-05-28
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Calls for getting the federal government out of DC's local justice system so residents can shape policies focused on prevention and rehabilitation — implying opposition to federal enforcement intrusions."
+      sources:
+        - url: https://gojaczko4dc.com/platform
+          title: "Platform — Greg Jaczko for Congress"
+          publisher: "Greg Jaczko Campaign"
+          accessed: 2026-05-28
 
 - id: brooke-pinto
   name: "Brooke Pinto"
   election_slug: delegate
   in_fair_elections: false
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://brookepintoforcongress.com
   endorsements: []
   short_bio: >
     Ward 2 Councilmember (Logan Circle). Did not participate in DC Fair Elections
@@ -166,9 +198,14 @@
     She had never lived in DC before 2020, the year she was elected to the Council.
     She chose not to participate in the DC Fair Elections Program, enabling her to
     accept large contributions from out-of-district donors; she raised more money
-    than any other delegate candidate. As a councilmember, she increased penalties
-    for gun crimes, expanded pre-trial detention, and introduced teen curfews. Free
-    DC has advised voters not to rank her.
+    than any other delegate candidate. As a councilmember, she co-authored the
+    Secure DC and Peace DC legislation, which she credits with a 50% reduction in
+    violent crime. She also increased penalties for gun crimes, expanded pre-trial
+    detention, and introduced teen curfews. In the delegate race, she emphasizes
+    fighting the Trump administration's encroachment on DC autonomy and supports DC
+    statehood. She opposes federal military deployment in DC while supporting
+    adequate resources for MPD, firefighters, and EMS. Free DC has advised voters
+    not to rank her.
   advisories:
     - organization: "Free DC"
       year: 2026
@@ -179,6 +216,10 @@
         publisher: "Free DC Project"
         accessed: 2026-05-27
   sources:
+    - url: https://brookepintoforcongress.com/issues/
+      title: "Issues — Brooke Pinto for Congress"
+      publisher: "Brooke Pinto Campaign"
+      accessed: 2026-05-28
     - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
       title: "Brooke Pinto — Free DC Candidate Questionnaire"
       publisher: "Free DC Project"
@@ -237,17 +278,26 @@
   endorsements: []
   short_bio: >
     President of Peer Forward (formerly College Summit); former legal counsel to
-    Janet Reno. Has lived in DC for 30 years.
+    Janet Reno. Proposes a "grand bargain" approach to statehood and a Capital
+    Caucus with neighboring jurisdictions.
   long_bio: |
     Kinney Zalesne (age 59) is President of Peer Forward (formerly College Summit),
     a nonprofit that helps DC students access higher education. In the 1990s she
     served as legal counsel to Attorney General Janet Reno and worked with Vice
     President Al Gore. She has also worked for Microsoft and has done fundraising
-    for the DNC. A 30-year DC resident, she emphasizes coalition building. If
-    elected, she would convene a "statehood summit" to develop a concrete plan for
-    DC statehood.
+    for the DNC. A 30-year DC resident, she calls DC's lack of voting representation
+    "a national disgrace and part of the legacy of racism." Rather than relying on
+    outrage, she proposes pursuing a strategic "grand bargain" on Capitol Hill using
+    her coalition-building background. She also proposes creating a Capital Caucus
+    in Congress to leverage DC, Maryland, Virginia, and neighboring jurisdictions as
+    an economic and policy unit — coordinating on healthcare, transportation,
+    housing, and infrastructure.
   advisories: []
   sources:
+    - url: https://www.kinneyfordc.com/issues-1
+      title: "Issues — Kinney Zalesne for DC Delegate"
+      publisher: "Kinney Zalesne Campaign"
+      accessed: 2026-05-28
     - url: https://www.kinneyfordc.com/about
       title: "About Kinney — Kinney Zalesne for DC Delegate"
       publisher: "Kinney Zalesne Campaign"
@@ -259,9 +309,9 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
-      explanation: "Would convene a 'statehood summit' to develop a concrete plan for DC statehood if elected."
+      explanation: "Calls DC's lack of voting representation 'a national disgrace and part of the legacy of racism.' Proposes pursuing a strategic 'grand bargain' on Capitol Hill rather than relying on outrage; emphasizes coalition-building to advance full representation."
       sources:
-        - url: https://www.kinneyfordc.com/about
-          title: "About Kinney — Kinney Zalesne for DC Delegate"
+        - url: https://www.kinneyfordc.com/issues-1
+          title: "Issues — Kinney Zalesne for DC Delegate"
           publisher: "Kinney Zalesne Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-28
