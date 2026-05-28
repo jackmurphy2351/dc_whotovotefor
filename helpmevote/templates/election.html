@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block title %}{{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ url_for('main.index') }}">Elections</a> › {{ election.title }}
+</nav>
+
+<div class="election-header">
+  <h1>{{ election.title }}</h1>
+  <p class="election-date">Democratic Primary — June 2, 2026</p>
+</div>
+
+<section class="whats-at-stake">
+  <h2>What's at stake</h2>
+  <p>{{ election.whats_at_stake }}</p>
+</section>
+
+<div class="quiz-cta">
+  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-primary btn-large">
+    Take the quiz — find your match →
+  </a>
+</div>
+
+<section class="candidates-section">
+  <h2>Candidates</h2>
+  <div class="candidates-grid">
+    {% for candidate in candidates %}
+    <div class="candidate-card">
+      <div class="candidate-header">
+        <h3>
+          <a href="{{ url_for('elections.candidate', election_slug=election.slug, candidate_id=candidate.id) }}">
+            {{ candidate.name }}
+          </a>
+        </h3>
+        {% if candidate.in_fair_elections %}
+        <span class="badge badge-fair-elections" title="Participating in DC Fair Elections Program">
+          Fair Elections ✓
+        </span>
+        {% endif %}
+      </div>
+
+      {% if candidate.advisories %}
+      <div class="advisories">
+        {% for adv in candidate.advisories %}
+        <div class="advisory advisory-warning">
+          ⚠ <strong>{{ adv.organization }} ({{ adv.year }}):</strong>
+          "{{ adv.text }}"
+          <a href="{{ adv.source.url }}" rel="noopener" class="source-link">[source]</a>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <p class="candidate-bio">{{ candidate.short_bio }}</p>
+
+      {% if candidate.endorsements %}
+      <p class="endorsements">
+        <strong>Endorsed by:</strong>
+        {{ candidate.endorsements | join(", ") }}
+      </p>
+      {% endif %}
+
+      <a href="{{ url_for('elections.candidate', election_slug=election.slug, candidate_id=candidate.id) }}"
+         class="btn btn-ghost">Full profile →</a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% if election.sources %}
+<section class="page-sources">
+  <h3>Sources</h3>
+  <ul>
+    {% for src in election.sources %}
+    <li><a href="{{ src.url }}" rel="noopener">{{ src.title }}</a> — {{ src.publisher }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% endblock %}

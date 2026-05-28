@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Resources — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<h1>Resources</h1>
+<p class="lead">Background information on DC elections, policies, and political context.</p>
+
+<ul class="resource-list">
+  {% for topic in topics %}
+  <li>
+    <a href="{{ url_for('resources.topic', topic=topic.slug) }}">{{ topic.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endblock %}

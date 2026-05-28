@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}About — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<h1>About This Site</h1>
+
+<section>
+  <h2>What is this?</h2>
+  <p>
+    <strong>Help Me Vote DC 2026!</strong> is a free, open-source voter guide for Washington, DC's
+    June 2, 2026 Democratic Primary elections. It helps you compare candidates based on the issues
+    you actually care about, using a weighted questionnaire inspired by OKCupid's matching system.
+  </p>
+</section>
+
+<section>
+  <h2>How are candidate positions sourced?</h2>
+  <p>
+    Every candidate position must be linked directly to a primary source — the candidate's own
+    campaign website, an official questionnaire response, or a verified news article. No position
+    is listed without a citation. We do not editorialize about which positions are "correct."
+  </p>
+  <p>
+    Where a candidate's position is unknown — because they haven't addressed an issue publicly —
+    we mark it as "Unknown" rather than guessing or inferring.
+  </p>
+</section>
+
+<section>
+  <h2>Endorsement advisories</h2>
+  <p>
+    This site displays endorsement advisories (such as "Free DC: do not rank candidate X")
+    as third-party opinions with a direct link to the source. These are not this site's own
+    recommendations — they are factual reports of what named organizations have said.
+  </p>
+</section>
+
+<section>
+  <h2>Methodology</h2>
+  <p>
+    The quiz uses a weighted alignment score: for each question, we compare your answer to
+    the candidate's stance and compute an agreement score (1.0 = perfect match, 0.0 = opposite).
+    That score is multiplied by your importance rating (0–3). Questions you skip or rate as
+    "not important" are excluded. The final percentage reflects the weighted average across
+    all included questions.
+  </p>
+  <p>
+    A "coverage warning" appears if a candidate lacks a known public stance on issues
+    you rated as very or extremely important — so a high match score based on thin data
+    is flagged.
+  </p>
+</section>
+
+<section>
+  <h2>Open source</h2>
+  <p>
+    This site is released under the
+    <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="noopener">AGPL-3.0 license</a>.
+    All source code and candidate data are publicly available.
+    Contributions, corrections, and issue reports are welcome.
+  </p>
+</section>
+
+<section>
+  <h2>Disclaimer</h2>
+  <p>
+    This site is an independent civic project and is not affiliated with any candidate,
+    campaign, political party, or government agency.
+  </p>
+</section>
+{% endblock %}

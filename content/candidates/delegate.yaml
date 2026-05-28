@@ -1,0 +1,231 @@
+# Non-Voting Delegate to Congress — 2026 DC Democratic Primary
+
+- id: robert-white
+  name: "Robert White"
+  election_slug: delegate
+  in_fair_elections: true
+  campaign_url: https://www.joinrobertwhite.com/
+  endorsements:
+    - "Free DC (freedcproject.org/news/our-2026-endorsements-guide)"
+    - "Working Families Party"
+    - "Congressional Black Caucus"
+    - "Janeese Lewis George (DC Council)"
+    - "Charles Allen (DC Council)"
+    - "Sen. Elizabeth Warren"
+  short_bio: >
+    Current DC At-Large Councilmember; chairs housing committee. Native Washingtonian;
+    former legislative counsel to Norton (2008–2013). Endorsed by Free DC, WFP,
+    the Congressional Black Caucus, and Sen. Elizabeth Warren.
+  long_bio: |
+    Robert White (age 44) is a native Washingtonian and the only Black candidate
+    in the delegate race. He worked as legislative counsel to incumbent Delegate
+    Eleanor Holmes Norton from 2008 to 2013. He currently serves as an At-Large
+    Councilmember on DC Council, where he chairs the council's housing committee.
+    If elected Delegate, he says he'd seek a seat on the House Appropriations
+    Committee to bring more funding to DC. He has also proposed removing federal
+    taxes on profits made in DC for businesses that relocate to the District as an
+    economic incentive. He is endorsed by Free DC, the Working Families Party, the
+    Congressional Black Caucus, and Senator Elizabeth Warren.
+  advisories: []
+  sources:
+    - url: https://www.joinrobertwhite.com/
+      title: "Robert White for DC Delegate — Campaign Website"
+      publisher: "Robert White Campaign"
+      accessed: 2026-05-27
+    - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce90fc2559e5d7c6a5bcc/1771890959907/Robert+White+Free+DC+Candidate+Questionnaire.pdf
+      title: "Robert White — Free DC Candidate Questionnaire"
+      publisher: "Free DC Project"
+      accessed: 2026-05-27
+  positions:
+    - question_id: statehood_top_priority
+      stance: 2
+      explanation: "Big proponent of statehood; says he'd seek a seat on the House Appropriations Committee to leverage DC's funding interests."
+      sources:
+        - url: https://www.joinrobertwhite.com/
+          title: "Robert White for DC Delegate — Campaign Website"
+          publisher: "Robert White Campaign"
+          accessed: 2026-05-27
+
+    - question_id: fair_elections_participation
+      stance: 2
+      explanation: "Participating in the DC Fair Elections Program."
+      sources:
+        - url: https://fairelections.ocf.dc.gov/
+          title: "DC Fair Elections Program Candidate Search"
+          publisher: dc.gov
+          accessed: 2026-05-27
+
+- id: trent-holbrook
+  name: "Trent Holbrook"
+  election_slug: delegate
+  in_fair_elections: true
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Eight-year staffer to incumbent Delegate Eleanor Holmes Norton; strong
+    proponent of DC statehood.
+  long_bio: |
+    Trent Holbrook (age 40) has worked as a staffer to incumbent Delegate Eleanor
+    Holmes Norton for eight years. He is a strong proponent of DC statehood and
+    is participating in the DC Fair Elections Program.
+  advisories: []
+  sources:
+    - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
+      title: "Trent Holbrook — Free DC Candidate Questionnaire"
+      publisher: "Free DC Project"
+      accessed: 2026-05-27
+  positions:
+    - question_id: statehood_top_priority
+      stance: 2
+      explanation: "Strong proponent of DC statehood."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
+          title: "Trent Holbrook — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: fair_elections_participation
+      stance: 2
+      explanation: "Participating in the DC Fair Elections Program."
+      sources:
+        - url: https://fairelections.ocf.dc.gov/
+          title: "DC Fair Elections Program Candidate Search"
+          publisher: dc.gov
+          accessed: 2026-05-27
+
+- id: greg-jaczko
+  name: "Greg Jaczko"
+  election_slug: delegate
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Physicist and renewable energy consultant. Proposes exempting DC from federal
+    taxes as an alternative to statehood.
+  long_bio: |
+    Greg Jaczko (age 55) is a physicist who runs a renewable energy consultancy.
+    He pledges to fight for federal workers. Rather than prioritizing statehood,
+    his signature proposal is to exempt DC residents from federal income taxes —
+    similar to the treatment of U.S. territories like Puerto Rico — on the grounds
+    that "no taxation without representation" demands relief until DC has full
+    voting rights.
+  advisories: []
+  sources:
+    - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
+      title: "Meet the candidates running to be D.C.'s delegate to Congress — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: statehood_top_priority
+      stance: 0
+      explanation: "Proposes federal tax exemption for DC residents as an alternative path to representation, rather than prioritizing conventional statehood."
+      sources:
+        - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: statehood_tax_exemption
+      stance: 2
+      explanation: "Proposes exempting DC from federal income taxes until DC achieves full voting representation."
+      sources:
+        - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: brooke-pinto
+  name: "Brooke Pinto"
+  election_slug: delegate
+  in_fair_elections: false
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Ward 2 Councilmember (Logan Circle). Did not participate in DC Fair Elections
+    Program; raised more than any other delegate candidate, largely from out of town.
+  long_bio: |
+    Brooke Pinto (age 33) is the Ward 2 Councilmember representing Logan Circle.
+    She had never lived in DC before 2020, the year she was elected to the Council.
+    She chose not to participate in the DC Fair Elections Program, enabling her to
+    accept large contributions from out-of-district donors; she raised more money
+    than any other delegate candidate. As a councilmember, she increased penalties
+    for gun crimes, expanded pre-trial detention, and introduced teen curfews. Free
+    DC has advised voters not to rank her.
+  advisories:
+    - organization: "Free DC"
+      year: 2026
+      text: "Do not rank Brooke Pinto."
+      source:
+        url: https://freedcproject.org/news/our-2026-endorsements-guide
+        title: "Our 2026 Endorsements Guide — Free DC"
+        publisher: "Free DC Project"
+        accessed: 2026-05-27
+  sources:
+    - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
+      title: "Brooke Pinto — Free DC Candidate Questionnaire"
+      publisher: "Free DC Project"
+      accessed: 2026-05-27
+  positions:
+    - question_id: fair_elections_participation
+      stance: -2
+      explanation: "Chose not to participate in the DC Fair Elections Program, enabling her to accept large out-of-district contributions."
+      sources:
+        - url: https://ocf.dc.gov/release/fair-elections-program-2026
+          title: "Fair Elections Program 2026 — DC Office of Campaign Finance"
+          publisher: dc.gov
+          accessed: 2026-05-27
+
+    - question_id: youth_curfew_support
+      stance: 1
+      explanation: "Introduced teen curfew legislation as Ward 2 Councilmember."
+      sources:
+        - url: https://lims.dccouncil.gov/
+          title: "DC Council Legislative Information Management System"
+          publisher: dccouncil.gov
+          accessed: 2026-05-27
+
+    - question_id: statehood_top_priority
+      stance: 1
+      explanation: "Supports DC statehood."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
+          title: "Brooke Pinto — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+- id: kinney-zalesne
+  name: "Kinney Zalesne"
+  election_slug: delegate
+  in_fair_elections: false  # TODO: verify
+  campaign_url: https://www.kinneyfordc.com/about
+  endorsements: []
+  short_bio: >
+    President of Peer Forward (formerly College Summit); former legal counsel to
+    Janet Reno. Has lived in DC for 30 years.
+  long_bio: |
+    Kinney Zalesne (age 59) is President of Peer Forward (formerly College Summit),
+    a nonprofit that helps DC students access higher education. In the 1990s she
+    served as legal counsel to Attorney General Janet Reno and worked with Vice
+    President Al Gore. She has also worked for Microsoft and has done fundraising
+    for the DNC. A 30-year DC resident, she emphasizes coalition building. If
+    elected, she would convene a "statehood summit" to develop a concrete plan for
+    DC statehood.
+  advisories: []
+  sources:
+    - url: https://www.kinneyfordc.com/about
+      title: "About Kinney — Kinney Zalesne for DC Delegate"
+      publisher: "Kinney Zalesne Campaign"
+      accessed: 2026-05-27
+    - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
+      title: "Meet the candidates running to be D.C.'s delegate to Congress — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: statehood_top_priority
+      stance: 2
+      explanation: "Would convene a 'statehood summit' to develop a concrete plan for DC statehood if elected."
+      sources:
+        - url: https://www.kinneyfordc.com/about
+          title: "About Kinney — Kinney Zalesne for DC Delegate"
+          publisher: "Kinney Zalesne Campaign"
+          accessed: 2026-05-27

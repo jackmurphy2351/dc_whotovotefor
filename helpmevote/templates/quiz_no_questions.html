@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Quiz: {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<h1>{{ election.title }}</h1>
+<div class="alert alert-info">
+  No quiz questions are available for this election yet.
+  Check back soon, or <a href="{{ url_for('elections.election', slug=election.slug) }}">read about the candidates</a>.
+</div>
+{% endblock %}

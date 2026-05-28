@@ -1,0 +1,87 @@
+# DC 2026 elections — primary date: June 16, 2026
+# Source: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+# Source: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+
+- slug: mayor
+  title: "Mayoral Election"
+  short_description: "Choose DC's next mayor — seven Democrats are on the June 16 primary ballot."
+  whats_at_stake: |
+    The mayor sets DC's annual budget, appoints all major agency heads (including
+    the MPD chief), and is the District's primary negotiator with Congress and the
+    White House. In 2026, with federal threats to DC autonomy intensifying, this
+    race carries extra weight. Incumbent Mayor Muriel Bowser is not seeking
+    re-election. Seven Democrats are running in the primary.
+  election_date: 2026-06-16
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 (June 16 Democratic primary) — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+    - url: https://dcboe.org/Elections/2026-Elections
+      title: "2026 DC Elections — DC Board of Elections"
+      publisher: dcboe.org
+      accessed: 2026-05-27
+
+- slug: delegate
+  title: "Non-Voting Delegate to Congress"
+  short_description: "Choose DC's next advocate in the U.S. House. Eleanor Holmes Norton is retiring after 35 years."
+  whats_at_stake: |
+    DC's Delegate can speak on the House floor, serve on committees, introduce
+    legislation, and fight for the District's budget — but cannot vote on final
+    passage of bills. Incumbent Eleanor Holmes Norton is not seeking re-election
+    after 18 terms. This is one of the most competitive and expensive delegate
+    races in DC history. Five Democrats are in the primary.
+  election_date: 2026-06-16
+  sources:
+    - url: https://ballotpedia.org/United_States_House_of_Representatives_election_in_the_District_of_Columbia,_2026
+      title: "United States House of Representatives election in the District of Columbia, 2026 — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+
+- slug: at_large_mcduffie
+  title: "At-Large Council — Special Election (McDuffie Seat)"
+  short_description: "A non-partisan special general election to fill the At-Large seat vacated when Kenyan McDuffie ran for mayor."
+  whats_at_stake: |
+    This is a NON-PARTISAN SPECIAL GENERAL ELECTION — not a Democratic primary.
+    All registered DC voters may vote regardless of party. Three candidates
+    (Doni Crawford, Jacque Patterson, and Elissa Silverman) are on the June 16
+    ballot. The winner fills the remainder of Kenyan McDuffie's At-Large term
+    through January 2027. Ranked choice voting applies.
+  election_date: 2026-06-16
+  sources:
+    - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+      title: "City elections in Washington, D.C. (2026) — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+
+- slug: at_large_bonds
+  title: "At-Large Council — Regular Election (2 Seats)"
+  short_description: "Two At-Large seats are up — including Anita Bonds' retiring seat. Nine Democrats are on the June 16 primary ballot."
+  whats_at_stake: |
+    Two At-Large Council seats are being contested in the regular 2026 election,
+    including the seat held by retiring Councilmember Anita Bonds. Nine Democrats
+    are running in the primary. The top two Democratic vote-getters will advance
+    to the November general election. At-Large members represent the entire
+    District and serve four-year terms.
+  election_date: 2026-06-16
+  sources:
+    - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+      title: "City elections in Washington, D.C. (2026) — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+
+- slug: ward1
+  title: "Ward 1 Councilmember"
+  short_description: "Seven Democrats are vying to replace retiring Councilmember Brianne Nadeau in the June 16 primary."
+  whats_at_stake: |
+    Ward 1 covers Columbia Heights, Mt. Pleasant, Adams Morgan, Petworth, Shaw,
+    and parts of U Street. The ward has a large Latinx community, significant
+    affordable housing stock, and ongoing gentrification pressures. Retiring
+    Councilmember Brianne Nadeau has endorsed Rashida Brown. Seven Democrats are
+    in the primary.
+  election_date: 2026-06-16
+  sources:
+    - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+      title: "City elections in Washington, D.C. (2026) — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27

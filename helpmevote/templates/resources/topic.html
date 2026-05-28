@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{{ resource.title }} — Resources — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ url_for('resources.index') }}">Resources</a> › {{ resource.title }}
+</nav>
+
+<article class="resource-article">
+  <h1>{{ resource.title }}</h1>
+  {{ resource.html | safe }}
+</article>
+
+{% if resource.meta.sources %}
+<section class="page-sources">
+  <h2>Sources</h2>
+  <ol>
+    {% for src in resource.meta.sources %}
+    <li>
+      <a href="{{ src.url }}" rel="noopener">{{ src.title }}</a>
+      — {{ src.publisher }}. Accessed {{ src.accessed }}.
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}Help Me Vote DC 2026!{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ url_for('main.index') }}" class="site-logo">Help Me Vote DC 2026!</a>
+      <nav>
+        <a href="{{ url_for('main.index') }}">Elections</a>
+        <a href="{{ url_for('resources.index') }}">Resources</a>
+        <a href="{{ url_for('main.about') }}">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="primary-notice">
+    <div class="container">
+      <strong>These are Democratic Primary elections.</strong>
+      In DC, winning the primary is effectively winning the general election.
+      <a href="{{ url_for('resources.topic', topic='primary_vs_general') }}">Learn why →</a>
+    </div>
+  </div>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Open source under <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="noopener">AGPL-3.0</a>.
+        All factual claims link directly to sources.
+        <a href="https://github.com/jackmurphy2351/dc_whotovotefor">View source on GitHub</a>.
+      </p>
+      <p>Not affiliated with any campaign or political organization.</p>
+    </div>
+  </footer>
+
+  {% block scripts %}{% endblock %}
+</body>
+</html>

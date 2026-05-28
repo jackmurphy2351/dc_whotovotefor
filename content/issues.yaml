@@ -1,0 +1,53 @@
+- id: housing
+  label: "Housing & Affordability"
+  description: >
+    How DC should address its severe housing shortage, including rent stabilization,
+    tenant purchase rights (TOPA/DOPA), social housing models, and the Housing
+    Production Trust Fund.
+
+- id: tenants_rights
+  label: "Tenants' Rights"
+  description: >
+    Protections for DC renters, including the Tenant Opportunity to Purchase Act
+    (TOPA), emergency rental assistance, and anti-displacement measures.
+
+- id: transit
+  label: "Transit, Bikes & Streets"
+  description: >
+    Investment in public transit, protected bike infrastructure, and pedestrian safety.
+
+- id: mpd_ice
+  label: "MPD & Federal Immigration Enforcement"
+  description: >
+    Whether DC's Metropolitan Police Department should cooperate with ICE or other
+    federal agents in immigration enforcement operations.
+
+- id: education
+  label: "Education & Youth Services"
+  description: >
+    Funding for DC public schools (DCPS and charters), community schools, early
+    childhood education, and out-of-school programming for youth.
+
+- id: crime_reduction
+  label: "Crime Reduction Approach"
+  description: >
+    Whether DC should prioritize traditional law enforcement measures, public-health
+    approaches to violence (such as violence interrupters and the NEAR Act), or both.
+
+- id: youth_curfew
+  label: "Youth Curfews"
+  description: >
+    Whether DC should enforce a curfew for minors as a tool to reduce youth crime,
+    and what alternative programming should accompany any such policy.
+
+- id: dc_statehood
+  label: "DC Statehood"
+  description: >
+    How the District should pursue full statehood and voting representation in Congress,
+    including alternative approaches such as federal tax exemption for DC residents.
+
+- id: economic_development
+  label: "Economic Development"
+  description: >
+    Policies to attract businesses, support local workers, and ensure DC's budget
+    remains healthy — especially in the face of federal workforce reductions.

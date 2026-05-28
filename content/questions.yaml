@@ -1,0 +1,264 @@
+# Quiz questions for Help Me Vote DC 2026!
+# Each question is a statement users agree/disagree with (-2 to +2)
+# and rate by importance (0–3).
+#
+# stance scale:  -2 strongly opposes / -1 opposes / 0 neutral / 1 supports / 2 strongly supports
+# null = no known stance (excluded from scoring)
+
+# ── HOUSING ──────────────────────────────────────────────────────────────────
+
+- id: housing_topa_restore
+  issue: tenants_rights
+  prompt: "DC should restore and strengthen TOPA (the Tenant Opportunity to Purchase Act) to give tenants the right to purchase their building before it's sold to an outside buyer."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    TOPA (DC Code Title 42, Chapter 34) gives DC tenants a right of first refusal
+    when their landlord wants to sell. Recent amendments narrowed its scope.
+    Strengthening TOPA is a key anti-displacement tool.
+  sources:
+    - url: https://dhcd.dc.gov/service/tenant-opportunity-purchase-act-topa
+      title: "Tenant Opportunity to Purchase Act (TOPA)"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+- id: housing_rent_stabilization
+  issue: housing
+  prompt: "DC should expand rent stabilization to cover more housing — including buildings constructed after 1975 — to protect more renters from steep rent increases."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's rent stabilization law currently covers most units in buildings built
+    before 1978 with 5 or more units. Expanding it would protect tens of thousands
+    of additional renters, but critics argue it may discourage new construction.
+  sources:
+    - url: https://dhcd.dc.gov/service/rent-stabilization-program
+      title: "Rent Stabilization Program"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+- id: housing_dopa
+  issue: housing
+  prompt: "DC should use the District Opportunity to Purchase Act (DOPA) to buy apartment buildings and preserve them as affordable housing."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DOPA gives the District a right to purchase certain multifamily buildings
+    when they go on the market, allowing the city to preserve affordable units
+    rather than let them be converted to market-rate housing.
+  sources:
+    - url: https://dhcd.dc.gov/service/district-opportunity-purchase-act-dopa
+      title: "District Opportunity to Purchase Act (DOPA)"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+- id: housing_production_trust_fund
+  issue: housing
+  prompt: "DC should significantly increase the Housing Production Trust Fund — the city's primary tool for financing affordable housing — rather than cut it."
+  applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    The Housing Production Trust Fund (HPTF) finances construction and preservation
+    of affordable housing. Mayor Bowser proposed cutting the fund by 50% in her most
+    recent budget. Candidates differ on whether to increase, maintain, or cut it.
+  sources:
+    - url: https://dhcd.dc.gov/service/housing-production-trust-fund
+      title: "Housing Production Trust Fund"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+- id: housing_social_model
+  issue: housing
+  prompt: "DC should adopt a social housing model — publicly owned, mixed-income housing — as a long-term solution to affordability."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Social housing (as implemented in Vienna, Singapore, and Montgomery County, MD)
+    uses public land and financing to build permanently affordable, mixed-income
+    communities. DC currently relies primarily on subsidies to private developers.
+  sources:
+    - url: https://dhcd.dc.gov/service/housing-production-trust-fund
+      title: "Housing Production Trust Fund — DC DHCD"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+# ── TRANSIT ──────────────────────────────────────────────────────────────────
+
+- id: transit_bike_bus_lanes
+  issue: transit
+  prompt: "DC should build more protected bike lanes and dedicated bus lanes to make transit faster and safer."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC has expanded its protected bike lane network in recent years, but progress
+    has been uneven. Bus lanes on corridors like Georgia Ave and 14th St could
+    significantly cut commute times for thousands of riders.
+  sources:
+    - url: https://ddot.dc.gov/page/bicycle-lanes
+      title: "Bicycle Lanes — DC Department of Transportation"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+# ── MPD & ICE ────────────────────────────────────────────────────────────────
+
+- id: mpd_ice_cooperation
+  issue: mpd_ice
+  prompt: "MPD should not assist ICE or other federal agencies in immigration enforcement operations within DC."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds, delegate]
+  explanation: |
+    DC has sanctuary-values policies limiting MPD cooperation with federal immigration
+    enforcement. Under the Trump administration, pressure has grown on local police
+    to assist ICE. Candidates differ sharply on this issue.
+  sources:
+    - url: https://mpdc.dc.gov/page/immigration-and-metropolitan-police-department
+      title: "Immigration and the Metropolitan Police Department"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+# ── EDUCATION ────────────────────────────────────────────────────────────────
+
+- id: education_community_schools
+  issue: education
+  prompt: "DC should expand the 'community schools' model, where schools serve as neighborhood hubs providing mental health, family support, and other services beyond education."
+  applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Community schools provide wraparound services — mental health clinicians, social
+    workers, family support programs — in addition to academic instruction. DC has a
+    Community Schools Incentive Initiative through OSSE.
+  sources:
+    - url: https://osse.dc.gov/service/community-schools-incentive-initiative
+      title: "Community Schools Incentive Initiative — OSSE"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+- id: education_mental_health_schools
+  issue: education
+  prompt: "Every DC public school should have a dedicated behavioral health clinician on staff."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Advocates argue that having mental health professionals in every school can
+    reduce behavioral incidents, improve attendance, and provide early intervention
+    before crises develop.
+  sources:
+    - url: https://dbh.dc.gov/page/school-based-behavioral-health-program
+      title: "School-Based Behavioral Health Program — DBH"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+# ── CRIME REDUCTION ──────────────────────────────────────────────────────────
+
+- id: crime_public_health
+  issue: crime_reduction
+  prompt: "DC should treat violence as a public health problem, investing heavily in violence interruption programs and community-based solutions — not just policing."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    The Neighborhood Engagement Achieves Results (NEAR) Act, passed by DC Council
+    in 2016, established a public-health framework for violence reduction including
+    violence interrupters, trauma-informed care, and community health workers.
+  sources:
+    - url: https://ovsjg.dc.gov/page/near-act-implementation
+      title: "NEAR Act Implementation — OVSJG"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+- id: crime_secure_dc
+  issue: crime_reduction
+  prompt: "The 2024 Secure DC omnibus legislation — which increased penalties and expanded pre-trial detention — was the right approach to addressing DC's crime surge."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    The Secure DC Omnibus Amendment Act of 2024 increased criminal penalties,
+    expanded tools for pre-trial detention, and added new offenses. It passed with
+    support from across the political spectrum on DC Council, though critics called
+    it ineffective or counterproductive.
+  sources:
+    - url: https://lims.dccouncil.gov/Legislation/B25-0485
+      title: "Secure DC Omnibus Amendment Act of 2024 — DC Council LIMS"
+      publisher: dccouncil.gov
+      accessed: 2026-05-27
+
+- id: crime_more_police
+  issue: crime_reduction
+  prompt: "Hiring significantly more MPD officers is a priority for reducing crime in DC."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    MPD has seen its officer count decline significantly below its authorized
+    strength in recent years. Both major mayoral candidates support hiring more
+    officers, but differ on how much to prioritize this versus other crime-reduction
+    approaches.
+  sources:
+    - url: https://mpdc.dc.gov/page/about-mpd
+      title: "About MPD — Metropolitan Police Department"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+# ── YOUTH CURFEWS ────────────────────────────────────────────────────────────
+
+- id: youth_curfew_support
+  issue: youth_curfew
+  prompt: "DC should enforce a curfew for minors as a tool to reduce youth crime."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC has had youth curfew legislation for years. Supporters argue curfews can
+    reduce juvenile crime and protect young people; opponents say they criminalize
+    normal youth behavior, disproportionately target Black youth, and aren't
+    effective without robust alternative programming.
+  sources:
+    - url: https://mpdc.dc.gov/page/youth-curfew
+      title: "Youth Curfew — Metropolitan Police Department"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+- id: youth_curfew_programming
+  issue: youth_curfew
+  prompt: "Any youth curfew must be paired with substantial investment in alternative programming — jobs, recreation centers, mental health services — for young people."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Even candidates who support curfews often argue they are only a short-term
+    measure and must be accompanied by expanded out-of-school programming, extended
+    rec center hours, and youth employment opportunities.
+  sources:
+    - url: https://dpr.dc.gov/page/youth-programs
+      title: "Youth Programs — DC Department of Parks and Recreation"
+      publisher: dc.gov
+      accessed: 2026-05-27
+
+# ── DC STATEHOOD (Delegate race) ─────────────────────────────────────────────
+
+- id: statehood_top_priority
+  issue: dc_statehood
+  prompt: "Achieving DC statehood should be the top priority for the District's Congressional Delegate."
+  applies_to_elections: [delegate]
+  explanation: |
+    DC residents pay federal taxes and serve in the military but have no voting
+    representation in Congress. Statehood would give DC two senators and a voting
+    House representative.
+  sources:
+    - url: https://dcboe.org/About-Us/Frequently-Asked-Questions/DC-Voting-Rights
+      title: "DC Voting Rights — DC Board of Elections"
+      publisher: dcboe.org
+      accessed: 2026-05-27
+
+- id: statehood_tax_exemption
+  issue: dc_statehood
+  prompt: "DC residents should be exempted from federal income taxes (like residents of Puerto Rico) as an alternative to full statehood."
+  applies_to_elections: [delegate]
+  explanation: |
+    One candidate (Greg Jaczko) proposes that, since DC residents have no voting
+    representation, they should not be subject to federal income taxes — an approach
+    modeled on territories like Puerto Rico. Critics argue this is a distraction
+    from the statehood fight.
+  sources:
+    - url: https://dcboe.org/About-Us/Frequently-Asked-Questions/DC-Voting-Rights
+      title: "DC Voting Rights — DC Board of Elections"
+      publisher: dcboe.org
+      accessed: 2026-05-27
+
+# ── FAIR ELECTIONS PROGRAM ───────────────────────────────────────────────────
+
+- id: fair_elections_participation
+  issue: economic_development
+  prompt: "Candidates for DC office should participate in the DC Fair Elections Program, which matches small-dollar donations 5:1 and bans corporate contributions."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds, delegate]
+  explanation: |
+    The DC Fair Elections Program matches small-dollar donations from DC residents
+    at a 5:1 ratio for candidates who agree to accept only small contributions and
+    no corporate or PAC money. Participation is voluntary.
+  sources:
+    - url: https://ocf.dc.gov/release/fair-elections-program-2026
+      title: "Fair Elections Program 2026 — DC Office of Campaign Finance"
+      publisher: dc.gov
+      accessed: 2026-05-27

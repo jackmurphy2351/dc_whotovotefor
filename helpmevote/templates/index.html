@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Help Me Vote DC 2026! — Choose an Election{% endblock %}
+
+{% block content %}
+<div class="page-hero">
+  <h1>Help Me Vote DC 2026!</h1>
+  <p class="lead">
+    DC's June 2 Democratic Primary covers five races that will shape the District for years.
+    Pick an election below to learn about the candidates and find out who best matches your values.
+  </p>
+</div>
+
+<section class="elections-grid">
+  {% for election in elections %}
+  <div class="election-card">
+    <h2>{{ election.title }}</h2>
+    <p class="election-description">{{ election.short_description }}</p>
+    <div class="election-actions">
+      <a href="{{ url_for('elections.election', slug=election.slug) }}" class="btn btn-primary">
+        Explore →
+      </a>
+      <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-secondary">
+        Take the quiz
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="how-it-works">
+  <h2>How it works</h2>
+  <ol>
+    <li>Choose an election race that applies to you.</li>
+    <li>Answer questions about issues you care about.</li>
+    <li>Rate how important each issue is to you.</li>
+    <li>See which candidates align most with your values.</li>
+  </ol>
+  <p>
+    <strong>All candidate positions link directly to sources</strong> — campaign pages,
+    official DC government sites, and verified news coverage.
+    No unsourced claims.
+  </p>
+</section>
+{% endblock %}

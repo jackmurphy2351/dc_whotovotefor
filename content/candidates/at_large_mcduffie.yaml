@@ -1,0 +1,174 @@
+# At-Large Council (Special Election — McDuffie seat) — 2026 NON-PARTISAN SPECIAL GENERAL ELECTION
+# All three candidates run as Independents. This is NOT a Democratic primary.
+# ALL registered DC voters may vote regardless of party affiliation.
+# Source: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+
+- id: doni-crawford
+  name: "Doni Crawford"
+  election_slug: at_large_mcduffie
+  in_fair_elections: false  # TODO: verify Fair Elections status
+  campaign_url: null  # TODO: add campaign URL
+  endorsements:
+    - "DC Realtors"
+    - "Restaurant Association of Metropolitan Washington"
+    - "Opportunity DC"
+  short_bio: >
+    Former senior policy advisor to Kenyan McDuffie; director of DC Council's
+    Committee on Business and Economic Development. Cross-endorsing with Jacque
+    Patterson.
+  long_bio: |
+    Doni Crawford (age 36) served as Kenyan McDuffie's senior policy advisor and
+    as director of DC Council's Committee on Business and Economic Development.
+    During his time on Council staff, he worked on the RFK Stadium deal and helped
+    fund a direct cash assistance program for mothers. He describes himself as a
+    "consensus builder" and has agreed to cross-endorse with Jacque Patterson.
+    He conditionally supports teen curfews as a short-term measure (to be phased
+    out by 2028), paired with youth programming investment. He is endorsed by the
+    city's realtors, the Restaurant Association, and Opportunity DC (a pro-business
+    group).
+  advisories: []
+  sources:
+    - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+      title: "Meet the candidates running in the D.C. Council At-Large special election — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: youth_curfew_support
+      stance: 1
+      explanation: "Conditionally supports teen curfews as a short-term measure, to be phased out by 2028. States curfews must be paired with alternative programming."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "When police institute a curfew, the city must provide alternative programming. Wants to invest in out-of-school programming, behavioral health clinicians in schools, and extended rec center hours."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Wants to guarantee a behavioral health clinician in all DC schools."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: jacque-patterson
+  name: "Jacque Patterson"
+  election_slug: at_large_mcduffie
+  in_fair_elections: false  # TODO: verify Fair Elections status
+  campaign_url: null  # TODO: add campaign URL
+  endorsements:
+    - "ElectED DC (education equity group)"
+  short_bio: >
+    Current DC State Board of Education President; advocate for community schools
+    and underserved DC communities. Cross-endorsing with Doni Crawford.
+  long_bio: |
+    Jacque Patterson (age 61) has lived in DC's Ward 8 since the mid-1990s. He
+    served on an ANC for five terms (10 years) and has worked for the DC mayor's
+    office, nonprofits, and charter schools. He is currently President of the DC
+    State Board of Education and is a strong advocate for "community schools" —
+    which provide resources for families beyond education. He has agreed to
+    cross-endorse with Doni Crawford. On housing, he would increase the Housing
+    Production Trust Fund from $100M to $250M per year (Mayor Bowser had proposed
+    cutting it by 50%). He supports teen curfews only temporarily, as youth
+    programming scales up.
+  advisories: []
+  sources:
+    - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+      title: "Meet the candidates running in the D.C. Council At-Large special election — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Has advocated for 'community schools' with additional resources for families beyond basic education throughout his political career."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+        - url: https://osse.dc.gov/service/community-schools-incentive-initiative
+          title: "Community Schools Incentive Initiative — OSSE"
+          publisher: dc.gov
+          accessed: 2026-05-27
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Would increase the Housing Production Trust Fund from $100M/year to $250M/year. Mayor Bowser proposed cutting the fund by 50%."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: housing_social_model
+      stance: 1
+      explanation: "Supports building more dense, mixed-income housing."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: youth_curfew_support
+      stance: 1
+      explanation: "Supports teen curfews only temporarily, as youth programming is implemented."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: elissa-silverman
+  name: "Elissa Silverman"
+  election_slug: at_large_mcduffie
+  in_fair_elections: false  # TODO: verify Fair Elections status
+  campaign_url: null  # TODO: add campaign URL
+  endorsements:
+    - "Greater Greater Washington (pro-transit group)"
+    - "Bike Walk Bus PAC"
+    - "Sierra Club DC"
+  short_bio: >
+    Former At-Large Councilmember (8 years); transit and housing advocate.
+    Lost her At-Large seat to Kenyan McDuffie in 2022.
+  long_bio: |
+    Elissa Silverman (age 53) held the At-Large councilmember position for eight
+    years before losing it to Kenyan McDuffie in 2022. She briefly worked for
+    Maryland Governor Wes Moore's Department of Labor in 2024. Her three primary
+    focus areas are: (1) building a coordinated city-wide response to Trump-era
+    federal threats; (2) reforming DC Housing Authority and the Housing Production
+    Trust Fund; and (3) reducing truancy by making schools safer and more welcoming.
+    She is endorsed by Greater Greater Washington, Bike Walk Bus PAC, and Sierra
+    Club DC. She is aligned with Janeese Lewis George.
+  advisories: []
+  sources:
+    - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+      title: "Meet the candidates running in the D.C. Council At-Large special election — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      explanation: "Endorsed by Greater Greater Washington (pro-transit) and Bike Walk Bus PAC, signaling strong support for transit and active-transportation infrastructure."
+      sources:
+        - url: https://ggwash.org/
+          title: "Greater Greater Washington — Endorsement"
+          publisher: "Greater Greater Washington"
+          accessed: 2026-05-27
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Would streamline and increase access to DCHA resources, the Housing Production Trust Fund, and private partnerships. Opposes cutting the fund."
+      sources:
+        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
+          title: "Meet the candidates — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27

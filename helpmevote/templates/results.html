@@ -1,0 +1,124 @@
+{% extends "base.html" %}
+{% block title %}Your Results: {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
+  Your Results
+</nav>
+
+<div class="results-header">
+  <h1>Your results: {{ election.title }}</h1>
+  <p class="results-note">
+    Candidates are ranked by how well their known positions match yours,
+    weighted by the importance you assigned to each issue.
+    <a href="{{ url_for('main.about') }}">How is this calculated?</a>
+  </p>
+</div>
+
+{% if all_zero %}
+<div class="alert alert-warning">
+  <strong>No answers recorded.</strong>
+  You haven't answered any questions yet, or marked all issues as "Not at all important."
+  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}">Take the quiz →</a>
+</div>
+{% else %}
+
+<div class="results-list">
+  {% set stance_labels = {-2: "Strongly opposes", -1: "Opposes", 0: "Neutral", 1: "Supports", 2: "Strongly supports"} %}
+
+  {% for sc in ranked %}
+  {% set cand = sc.candidate %}
+  <div class="result-card {% if loop.first %}result-card-top{% endif %}">
+    <div class="result-card-header">
+      <div class="result-rank">{{ loop.index }}</div>
+      <div class="result-name-block">
+        <h2>
+          <a href="{{ url_for('elections.candidate', election_slug=election.slug, candidate_id=cand.id) }}">
+            {{ cand.name }}
+          </a>
+        </h2>
+        {% if cand.in_fair_elections %}
+        <span class="badge badge-fair-elections">Fair Elections ✓</span>
+        {% endif %}
+      </div>
+      <div class="result-score-block">
+        {% if sc.match_percent is not none %}
+        <div class="match-percent">{{ sc.match_percent | round | int }}%</div>
+        <div class="match-label">match</div>
+        {% else %}
+        <div class="match-percent match-unknown">—</div>
+        <div class="match-label">no data</div>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if sc.match_percent is not none %}
+    <div class="match-bar-container" aria-hidden="true">
+      <div class="match-bar" style="width: {{ sc.match_percent | round | int }}%"></div>
+    </div>
+    {% endif %}
+
+    {% if sc.coverage_warning %}
+    <div class="coverage-warning">
+      ⚠ This candidate has not stated a public position on
+      {{ sc.total_high_importance - sc.covered_high_importance }}
+      of your {{ sc.total_high_importance }} high-priority issue(s).
+      The match score may not reflect the full picture.
+    </div>
+    {% endif %}
+
+    {% if cand.advisories %}
+    <div class="advisories">
+      {% for adv in cand.advisories %}
+      <div class="advisory advisory-warning">
+        ⚠ <strong>{{ adv.organization }} ({{ adv.year }}):</strong>
+        "{{ adv.text }}"
+        <a href="{{ adv.source.url }}" rel="noopener" class="source-link">[source]</a>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if sc.issue_scores %}
+    <details class="issue-breakdown">
+      <summary>Issue breakdown</summary>
+      <div class="issue-breakdown-grid">
+        {% for is in sc.issue_scores %}
+        <div class="issue-score-row">
+          <span class="issue-score-label">{{ is.issue_label }}</span>
+          {% if is.match_percent is not none %}
+          <span class="issue-score-bar-wrap">
+            <span class="issue-score-bar" style="width: {{ is.match_percent | round | int }}%"></span>
+          </span>
+          <span class="issue-score-pct">{{ is.match_percent | round | int }}%</span>
+          {% else %}
+          <span class="issue-score-bar-wrap"></span>
+          <span class="issue-score-pct">—</span>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </details>
+    {% endif %}
+
+    <div class="result-card-footer">
+      <a href="{{ url_for('elections.candidate', election_slug=election.slug, candidate_id=cand.id) }}"
+         class="btn btn-ghost">Full profile →</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="results-actions">
+  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-secondary">
+    Retake the quiz
+  </a>
+  <a href="{{ url_for('main.index') }}" class="btn btn-ghost">
+    Explore another race
+  </a>
+</div>
+
+{% endif %}
+{% endblock %}

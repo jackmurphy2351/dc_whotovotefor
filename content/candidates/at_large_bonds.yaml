@@ -1,0 +1,430 @@
+# At-Large Council (Regular — 2 seats) — 2026 DC Democratic Primary
+# Nine Democratic candidates compete; top two vote-getters advance to November general.
+# Sources: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+#          https://51st.news/at-large-candidates-dc-council-anita-bonds/
+
+- id: kevin-chavous
+  name: "Kevin B. Chavous"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements:
+    - "Anita Bonds (retiring At-Large Councilmember)"
+  short_bio: >
+    Attorney and DC Council staffer (age 41); son of former Ward 7 Councilmember
+    Kevin P. Chavous. Howard BA + JD. Director of council's labor committee
+    under Anita Bonds. Deep TOPA background from tenant organizing work.
+  long_bio: |
+    Kevin B. Chavous (age 41) grew up in a household steeped in DC politics: his
+    father, Kevin P. Chavous, represented Ward 7 on DC Council from the early 1990s
+    through 2005. A formative experience visiting a fire-damaged public housing complex
+    with his father instilled a lifelong interest in fair housing. As an undergraduate
+    at Howard University, he worked at Housing Counseling Services helping tenants
+    organize under TOPA. During Howard Law School, he spent summers at AARP's Legal
+    Housing for the Elderly. After law school he ran his own practice until 2022,
+    when he became director of the DC Council's Committee on Executive Administration
+    and Labor, chaired by Councilmember Anita Bonds. Bonds has endorsed him for her
+    seat. He lives in Ward 7 but sends his kids to school in Ward 3 because of
+    resource inequities — a gap he says he wants to close. Key platform priorities:
+    out-of-school time programming, school counselors and nurses in every school,
+    and raising inclusionary zoning requirements from 8–10% to 15% of residential
+    floor area.
+  advisories: []
+  sources:
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: housing_topa_restore
+      stance: 2
+      explanation: "Built his early career organizing tenant associations under TOPA at Howard University. Supports maintaining and restoring tenant purchase rights."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Wants every school to have a counselor and a nurse regardless of enrollment or funding level, especially in schools in 'areas hardest hit by trauma.'"
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: dwight-davis
+  name: "Dwight Davis"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Lifelong Washingtonian and DCPS educator (age 51). 20 years as a 5th-grade
+    teacher at DCPS; former school principal. BA from Albright College; graduate
+    degrees in divinity and education from Princeton. Father of four.
+  long_bio: |
+    Dwight Davis (age 51) was born and raised in DC by his grandparents, whom
+    he describes as "old-school Washingtonians." He attended DC public schools
+    from Whittier Elementary through Calvin Coolidge High School, then played
+    basketball at Albright College in Pennsylvania — a passion that took him to
+    Colombia for semi-professional play and later to England. He earned graduate
+    degrees in divinity and education from Princeton Theological Seminary (2004)
+    before returning to DC as a DCPS fifth-grade teacher for twenty years.
+
+    "Education is my jam," says Davis. "It cuts through all of the other issues.
+    If we have an educated populace, our crime rates drop." As a father of four,
+    affordability is also a top priority — particularly workforce housing for
+    teachers, firefighters, nurses, and police. He believes his background running
+    a classroom of 30 constituents with different needs gives him exactly the
+    leadership skills the council needs.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Dwight_Davis_(Washington,_D.C.)
+      title: "Dwight Davis — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Education is his central platform issue. Wants every DC school — regardless of enrollment or funding — to have adequate resources, counselors, and nurses."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: dyana-forester
+  name: "Dyana Forester"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Labor leader and former DC Housing Authority commissioner (age 46). Former
+    president of AFL-CIO Metropolitan Washington Council; senior director of labor
+    relations under MD Gov. Wes Moore. Grew up working-class in Southeast DC.
+  long_bio: |
+    Dyana Forester (age 46) grew up in a working-class family in Southeast DC and
+    became a mom at 18. She built a career in labor organizing, starting at Teaching
+    for Change (community schools and parent engagement), then DC Jobs with Justice
+    (fighting for Walmart worker wages), and then as political and community affairs
+    director for UFCW Local 400 — where she helped pass DC's minimum wage increase
+    and paid family leave law. She was elected president of the AFL-CIO's Metropolitan
+    Washington Council before becoming senior director of labor relations to Maryland
+    Governor Wes Moore.
+
+    A former DC Housing Authority commissioner, housing is a major priority for
+    Forester, particularly workforce housing for teachers, bus drivers, firefighters,
+    and police. She questions whether building faster is the right first answer: "Is
+    this the right solution for the problem we want to fix? And the fix is, how do we
+    create more affordable housing for families?" She frames her candidacy as bringing
+    lived working-class experience to a council that often debates policy without it.
+  advisories: []
+  sources:
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Former DC Housing Authority commissioner; wants to increase investment in affordable housing and workforce housing. Skeptical of fast-build-first approaches; focuses on what families can actually afford."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: fred-hill
+  name: "Fred Hill"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Former 10-year chair of DC Board of Zoning Adjustment (age 57); ran federal
+    contracting firm for ~28 years. Business-friendly moderate who supports
+    fast-tracking city-financed affordable housing. Supports Kenyan McDuffie for mayor.
+  long_bio: |
+    Fred Hill (age 57) grew up in rural Poolesville, Maryland, the son of a Native
+    American father and a mother who immigrated from Sikkim, India (formerly an
+    independent kingdom, annexed by India in 1975). He ran his own federal contracting
+    firm for nearly three decades, then served as chair of the DC Board of Zoning
+    Adjustment (BZA) for ten years — a body that rules on requests from residents and
+    developers seeking zoning exceptions. That experience gave him, he says, "an eye
+    for the whole city."
+
+    If elected, Hill would propose that any affordable housing project receiving city
+    financing be fast-tracked to prevent bureaucratic delays from killing projects.
+    A business-friendly moderate, he argues the council needs a private-sector voice:
+    "There are 13 members and almost all of them came from inside the system. I'm
+    coming from the private sector." He supports Kenyan McDuffie for mayor and favors
+    strategic — rather than activist — resistance to federal overreach.
+  advisories: []
+  sources:
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Would fast-track any affordable housing project that receives city financing to prevent bureaucratic delay. BZA experience showed him how projects die in the permitting process."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: greg-jackson-jr
+  name: "Greg Jackson Jr."
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements:
+    - "Rep. Maxwell Alejandro Frost (D-FL)"
+    - "Fmr. Gov. Kathleen Sebelius (D-KS)"
+    - "Opportunity DC"
+    - "The Collective PAC"
+  short_bio: >
+    Former Biden White House deputy director of gun violence prevention (age 41);
+    UVA grad. Survived a Shaw shooting in 2013 (6 surgeries). Former director of
+    Bowser's Office of Community Relations. Lives in Congress Heights.
+  long_bio: |
+    Greg Jackson Jr. (age 41) was shot in the crossfire of a Shaw neighborhood
+    shooting in 2013. He nearly died and required six surgeries over six months to
+    recover. "My tragedy shined a light on interpersonal violence in inner cities,"
+    he says. That experience redirected a career that had begun at a consulting firm
+    and the DCCC, steering him toward DC's violence reduction infrastructure.
+
+    He went on to serve as director of Mayor Muriel Bowser's Office of Community
+    Relations and Services, then director of DC's Office of Neighborhood Safety and
+    Engagement, and ultimately as deputy director of the White House Office of Gun
+    Violence Prevention under President Biden. He graduated from the University of
+    Virginia in 2007 and now lives in Congress Heights, where he says shootings
+    remain a regular occurrence.
+
+    His platform centers on evidence-based public safety strategies (pointing to
+    Baltimore and Miami as models), investment in pathways to home ownership, and
+    protecting DC home rule. He is endorsed by Rep. Maxwell Frost, former Gov.
+    Kathleen Sebelius, Opportunity DC, and The Collective PAC.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Greg_Jackson_Jr._(Washington,_D.C.,_City_Council_At-large_candidate)
+      title: "Greg Jackson Jr. — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: crime_public_health
+      stance: 2
+      explanation: "Survived a 2013 Shaw shooting; built his post-consulting career around gun violence prevention (DC, White House). Advocates evidence-based approaches modeled on Baltimore and Miami's violence reduction successes."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: crime_more_police
+      stance: 1
+      explanation: "Public safety is his top priority but he frames it as 'more than crime prevention' — also jobs, schools, mental health. Favors a mix of law enforcement and investment."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: leniquadominique-jenkins
+  name: "Leniqua'dominique Jenkins"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Deanwood ANC alum and small business owner (age 40); arrived in DC as an
+    unpaid Hill intern. Ran Capitol Living (home care agency) 10 years. Ran against
+    Bonds in 2021, then worked in Bonds' office. Running on equity, education,
+    and environmental justice.
+  long_bio: |
+    Leniqua'dominique Jenkins (age 40) arrived in Washington in 2010 as an unpaid
+    intern for Rep. Alan Grayson, working a second retail job in the evenings to
+    make rent. She earned a certificate in entrepreneurship at Operation Hope and
+    used it to launch Capitol Living, a home care agency she ran for ten years —
+    training her father and brother (who were re-entering society after incarceration)
+    as care assistants.
+
+    She served one term as an ANC commissioner in Deanwood, focused on environmental
+    justice. In 2021 she ran for the At-Large seat against Bonds but didn't make the
+    ballot; she subsequently worked as a staffer in Bonds' office for a year, then
+    became program director of East River Family Strengthening Collaborative's senior
+    services hub. She lives east of the Anacostia River and says those communities are
+    "a macro example of what's happening at a micro level throughout the city."
+
+    Her "three E's" platform: equity, education, and environmental justice. Top
+    priorities include third-grade reading proficiency and modernizing senior services.
+  advisories: []
+  sources:
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Prioritizes third-grade reading proficiency as a key indicator of lifelong outcomes. Wants modernized, accessible senior services. Represents under-resourced communities east of the Anacostia River."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: candace-nelson
+  name: "Candace Tiana Nelson"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Government oversight specialist (age 50); former chief of staff to Ward 4
+    Councilmember Janeese Lewis George. Nearly 20 years across 5 DC agencies;
+    led AG Brian Schwalb's transition. Lives in Brightwood.
+  long_bio: |
+    Candace Tiana Nelson (age 50) has nearly two decades of experience inside DC's
+    government, working across five city agencies under multiple mayors. Most recently
+    she served as chief of staff to Ward 4 Councilmember Janeese Lewis George, and
+    before that led the transition team for DC Attorney General Brian Schwalb after
+    his 2022 election. She lives in the Brightwood neighborhood.
+
+    Nelson says the issue that pushed her to run was DC's inadequate response to
+    Republican attacks on home rule: she says there wasn't enough communication
+    among the city's top leaders or within the council itself. She wants the council
+    to create its own dedicated federal affairs office, a stand-alone education
+    committee, and a committee focused exclusively on finance and revenue. Above all,
+    she runs on oversight and accountability: "I will understand oversight," she says,
+    because she has worked inside five agencies and seen how government can fail
+    without rigorous scrutiny.
+  advisories: []
+  sources:
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Wants a stand-alone DC Council education committee, which does not currently exist. Believes DC already spends significant money on education and housing but needs better oversight to ensure quality."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: oye-owolewa
+  name: "Oye Owolewa"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements:
+    - "Working Families Party"
+    - "Washington Area Bicyclist Association (WABA)"
+  short_bio: >
+    Current DC Shadow Representative (2021–present, age 36); PharmD from
+    Northeastern. Led protests against ICE HQ construction at St. Elizabeth's.
+    Wants UDC tuition-free. Endorsed by WFP and WABA.
+  long_bio: |
+    Oye Owolewa (age 36) was born in Boston and earned a doctorate in pharmacy from
+    Northeastern University in 2014. He worked as a pharmacy manager at Safeway and
+    pharmacist at Rite Aid before winning his first ANC race in 2018 — by a single
+    vote. Since January 2021 he has served as DC's U.S. Shadow Representative, one
+    of the city's unpaid statehood advocates with standing in the House.
+
+    He recently led protests against the construction of an ICE headquarters on the
+    St. Elizabeth's campus in Ward 8, alongside the DHS headquarters. He is outspoken
+    about what he sees as insufficient pushback from DC's leadership against Republican
+    interference: "Last year was very difficult for D.C. People were wondering why our
+    council wasn't being more forceful." His signature proposal is making the University
+    of the District of Columbia tuition-free — both to help struggling residents and to
+    serve as a retraining hub for laid-off federal workers.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Oye_Owolewa
+      title: "Oye Owolewa — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Led public protests against construction of a new ICE headquarters on the St. Elizabeth's campus in Ward 8. Supports DC's sanctuary values against federal immigration enforcement."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: lisa-raymond
+  name: "Lisa Raymond"
+  election_slug: at_large_bonds
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements:
+    - "Greater Greater Washington (pro-transit group)"
+    - "DC Yimbys (pro-housing group)"
+    - "DC Association of Realtors"
+  short_bio: >
+    Education policy veteran and former DC AG chief of staff (age 56). Served on DC
+    State Board of Education (2006); chief of staff to AG Karl Racine (2018–2020).
+    Lives on Capitol Hill. Originally from Connecticut.
+  long_bio: |
+    Lisa Raymond (age 56) came to DC from Connecticut in the late 1990s and was drawn
+    into education policy by helping paint the walls of what would become Cesar Chavez
+    Public Charter School in Southwest. She joined the school as chief of operations
+    and later chief operating officer, where she saw firsthand how many high schoolers
+    arrived years behind grade level. In 2006 she won a seat on the DC State Board of
+    Education (representing Wards 5 and 6), only to see its powers transferred to the
+    mayor shortly after.
+
+    She then served as a senior advisor on education for DC Council's Committee of the
+    Whole (from 2011), and as chief of staff to DC Attorney General Karl Racine from
+    2018 to 2020. A Capitol Hill resident and mother of two, her top priorities are
+    childcare, housing, and education. On housing: "We have to take a good look at
+    what we are doing as a city, what we're doing that gets in the way — but it's not
+    an invitation to developers to come in here and do whatever they want." She is
+    endorsed by Greater Greater Washington, DC Yimbys, and the DC Association of
+    Realtors.
+  advisories: []
+  sources:
+    - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+      title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-27
+  positions:
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Has spent her entire career in DC education policy: charter school COO, DC State Board of Education member, senior DC Council education advisor. Would prioritize the council's education oversight function."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      explanation: "Endorsed by DC Yimbys and Greater GW (pro-housing groups) and DC Association of Realtors. Supports building more housing but cautions it 'is not an invitation to developers to do whatever they want.'"
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27

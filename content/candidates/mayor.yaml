@@ -1,0 +1,418 @@
+# Mayor candidates — 2026 DC Democratic Primary, June 16
+# Source: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+# Note: Yaida Ford did not make the ballot. Withdrawn: Kathy Henderson, Stanley Lawson Sr.
+
+- id: janeese-lewis-george
+  name: "Janeese Lewis George"
+  election_slug: mayor
+  in_fair_elections: true
+  campaign_url: https://www.janeese4dc.com/
+  endorsements:
+    - "Free DC (freedcproject.org/news/our-2026-endorsements-guide)"
+    - "Working Families Party (workingfamilies.org/candidates/)"
+    - "Democratic Socialists of America"
+    - "Washington Area Bicyclist Association (WABA)"
+  short_bio: >
+    Ward 4 Councilmember and native Washingtonian with six years on DC Council.
+    Howard University law graduate; former assistant attorney general of DC.
+  long_bio: |
+    Janeese Lewis George has represented Ward 4 on DC Council since 2021. A native
+    Washingtonian, she earned her B.A. in political science from St. John's University
+    and her J.D. from Howard University. She worked as an attorney, assistant district
+    attorney in Philadelphia, and assistant attorney general of Washington, D.C. before
+    entering elected office.
+
+    Her campaign platforms include building more housing by reforming zoning laws and
+    streamlining permitting, expanding childcare access, and improving job pathways for
+    young people. She opposes teen curfews and supports the NEAR Act's public-health
+    approach to violence. She voted for the 2024 Secure DC omnibus legislation.
+    She is endorsed by Free DC, the Working Families Party, and DC DSA.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+    - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
+      title: "Janeese Lewis George — Free DC Candidate Questionnaire"
+      publisher: "Free DC Project"
+      accessed: 2026-05-27
+  positions:
+    - question_id: youth_curfew_support
+      stance: -2
+      explanation: "Lewis George has publicly opposed teen curfews."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
+          title: "Janeese Lewis George — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Supports investment in out-of-school programming, jobs, and mental health services for youth."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
+          title: "Janeese Lewis George — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: crime_public_health
+      stance: 2
+      explanation: "Supports treating violence as a public health problem; backs the NEAR Act approach."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
+          title: "Janeese Lewis George — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: crime_secure_dc
+      stance: 1
+      explanation: "Voted for the 2024 Secure DC omnibus legislation."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B25-0485
+          title: "Secure DC Omnibus Amendment Act of 2024 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-05-27
+
+    - question_id: crime_more_police
+      stance: 1
+      explanation: "Supports hiring more MPD officers to restore staffing levels. In 2019 she tweeted about divestment but has since voted to fund MPD budgets for six years on council. 2019 statements are frequently used against her in attack ads."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-fact-check/
+          title: "We fact-checked the attacks in the D.C. mayoral race — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Supports DC's sanctuary values and opposes MPD cooperation with ICE and federal immigration enforcement."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
+          title: "Janeese Lewis George — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: housing_topa_restore
+      stance: 2
+      explanation: "Campaign platform calls for building more housing and reforming zoning to increase supply near transit."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Janeese Lewis George — Campaign Website"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-27
+
+    - question_id: fair_elections_participation
+      stance: 2
+      explanation: "Participating in the DC Fair Elections Program."
+      sources:
+        - url: https://fairelections.ocf.dc.gov/
+          title: "DC Fair Elections Program Candidate Search"
+          publisher: dc.gov
+          accessed: 2026-05-27
+
+- id: kenyan-mcduffie
+  name: "Kenyan McDuffie"
+  election_slug: mayor
+  in_fair_elections: false
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Fourth-generation Washingtonian; 13-year DC Council member (Ward 5, then
+    At-Large); author of the NEAR Act; former civil rights attorney in the Obama
+    Justice Department. Howard University and UDC graduate.
+  long_bio: |
+    Kenyan McDuffie is a fourth-generation Washingtonian who served 13 years on
+    DC Council, first representing Ward 5 and then serving At-Large. He graduated
+    from the University of the District of Columbia and Howard University before
+    earning his law degree from the University of Maryland Carey School of Law.
+    He worked for Congresswoman Eleanor Holmes Norton, then became a prosecutor
+    and later a civil rights attorney in the Obama-era Justice Department.
+
+    In 2016, McDuffie authored the NEAR Act, establishing DC's public-health
+    framework for violence reduction. He voted for the 2024 Secure DC omnibus.
+    His campaign pledges include building 12,000 new housing units by 2030,
+    fully funding the NEAR Act, ending MPD cooperation with ICE, and expanding
+    legal protections for immigrant families. He conditionally supports teen
+    curfews as a short-term measure alongside youth programming. Free DC has
+    advised voters not to rank him.
+  advisories:
+    - organization: "Free DC"
+      year: 2026
+      text: "Do not rank Kenyan McDuffie."
+      source:
+        url: https://freedcproject.org/news/our-2026-endorsements-guide
+        title: "Our 2026 Endorsements Guide — Free DC"
+        publisher: "Free DC Project"
+        accessed: 2026-05-27
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+    - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce7c140f0bb123dfe27f6/1771890625096/Kenyon+McDuffie+Free+DC+Candidate+Questionnaire.pdf
+      title: "Kenyan McDuffie — Free DC Candidate Questionnaire"
+      publisher: "Free DC Project"
+      accessed: 2026-05-27
+  positions:
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "McDuffie's Ballotpedia candidate survey response explicitly states he will 'end MPD cooperation with ICE' and expand legal protections for immigrant families."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+    - question_id: crime_public_health
+      stance: 2
+      explanation: "McDuffie authored the NEAR Act in 2016 and pledges to fully fund it as mayor."
+      sources:
+        - url: https://ovsjg.dc.gov/page/near-act-implementation
+          title: "NEAR Act Implementation — OVSJG"
+          publisher: dc.gov
+          accessed: 2026-05-27
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+    - question_id: crime_secure_dc
+      stance: 1
+      explanation: "Voted for the 2024 Secure DC omnibus legislation."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B25-0485
+          title: "Secure DC Omnibus Amendment Act of 2024 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-05-27
+
+    - question_id: crime_more_police
+      stance: 2
+      explanation: "Campaign platform explicitly calls for fully staffing MPD."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+    - question_id: youth_curfew_support
+      stance: 1
+      explanation: "Conditionally supports teen curfews as a short-term measure alongside alternative programming, jobs, and mental health access."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce7c140f0bb123dfe27f6/1771890625096/Kenyon+McDuffie+Free+DC+Candidate+Questionnaire.pdf
+          title: "Kenyan McDuffie — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Frames curfews as a short-term measure that must be accompanied by programming, jobs, and mental health access."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce7c140f0bb123dfe27f6/1771890625096/Kenyon+McDuffie+Free+DC+Candidate+Questionnaire.pdf
+          title: "Kenyan McDuffie — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Pledges to build 12,000 new housing units by 2030 and preserve 20,000 affordable homes."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+    - question_id: crime_more_police
+      stance: 2
+      explanation: "Has explicitly pledged to hire 1,000 new MPD officers and double the hiring bonus to $50,000 to bring MPD back up from ~3,100 toward historical levels."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-fact-check/
+          title: "We fact-checked the attacks in the D.C. mayoral race — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+- id: gary-goodweather
+  name: "Gary Goodweather"
+  election_slug: mayor
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    U.S. Army veteran (Captain); 30+ years in business and organizational
+    leadership; Bucknell B.A. (Political Science) and Johns Hopkins MBA (Finance).
+    DC area resident for 20+ years.
+  long_bio: |
+    Gary Goodweather is a U.S. Army veteran who attained the rank of Captain
+    before receiving an honorable discharge in 2004. He holds a B.A. in Political
+    Science from Bucknell University and an MBA in Finance from Johns Hopkins
+    University. With over 30 years of experience in business and organizational
+    management, he has worked with DC government agencies and the legislative branch.
+
+    His key policy proposals include:
+    - Fare-Free DC: making Metrobus and Metrorail free for DC residents, saving
+      regular riders ~$1,000/year
+    - Power DC: reducing utility bills and transitioning to solar, geothermal, and
+      biogas energy
+    - Rat Free DC: addressing DC's rodent problem with rat-proof trash cans and
+      faster sanitation response
+    - Data-driven policing with investment in mental health and youth services
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+  positions:
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      explanation: "Proposes Fare-Free DC, making Metrobus and Metrorail free for DC residents to cut commuting costs."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "Supports investing in mental health services, youth engagement, and economic opportunity alongside law enforcement."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+- id: ernest-johnson
+  name: "Ernest E. Johnson"
+  election_slug: mayor
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Lifelong Washingtonian; University of Maryland graduate; completing a master's
+    in Government at Harvard. Community advocate, nonprofit leader, and opponent
+    of public land giveaways to billionaires. Has a prior conviction.
+  long_bio: |
+    Ernest E. Johnson is a lifelong Washingtonian who graduated from the University
+    of Maryland and is currently completing a master's degree in Government at Harvard
+    University. He has led nonprofits, chaired local organizations, and fought for
+    affordable housing, youth programs, and economic opportunity across all eight wards.
+    He has been open about having a prior conviction in his youth, framing his candidacy
+    as proof that "redemption is real."
+
+    As founder of the nonprofit Friends of the Frank Reeves Center, he has championed
+    using public land for community benefit — including affordable housing and a museum
+    of Black Broadway — rather than luxury development. He opposes giving away public
+    assets like RFK Stadium to wealthy sports owners without guaranteed community benefits
+    and has called for a 26% "community stake" in the Washington Commanders.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+  positions:
+    - question_id: housing_topa_restore
+      stance: 1
+      explanation: "Supports tenant protections and has fought for affordable housing through his nonprofit work."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "Supports restoring community trust through smart policing, youth violence prevention, and expanded mental health resources."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+- id: vincent-orange
+  name: "Vincent Orange"
+  election_slug: mayor
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Attorney, CPA, and long-serving DC politician. Former Ward 5 Councilmember
+    (2 terms) and At-Large Councilmember (2 terms); DC Democratic National
+    Committeeman. Championed DC's $15 minimum wage.
+  long_bio: |
+    Vincent Orange is an attorney and certified public accountant with degrees in
+    taxation, law, communications, and business administration. He has served two
+    terms as Ward 5 Councilmember and two terms as an At-Large Councilmember on
+    DC Council, and as DC Democratic National Committeeman.
+
+    During his time on Council, he helped spark economic development projects
+    including Home Depot, Costco, Rhode Island Row, and Union Market in NoMa.
+    He secured DC's $15 minimum wage with CPI indexing, passed laws on sick leave
+    and wage theft, and expanded youth employment through MBSYEP. He reopened
+    McKinley Technology High School. He has been a longtime advocate for DC
+    statehood, including speaking at the 20th Anniversary of the Million Man March.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+  positions: []
+
+- id: rini-sampath
+  name: "Rini Sampath"
+  election_slug: mayor
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Cybersecurity director and federal contractor. Born in India, immigrated at
+    age 7; DC resident for 10+ years. Not a career politician.
+  long_bio: |
+    Rini Sampath is a cybersecurity director who was born in Theni, India,
+    immigrated to the United States at age seven, and has spent over a decade
+    calling DC home. As a federal contractor, she has spent years improving
+    government programs and citizen services. She has also worked as a field
+    organizer in local communities and managed higher education nonprofit programs.
+
+    Her campaign focuses on fixing basic city services, lowering the cost of
+    living (particularly childcare and housing), strengthening neighborhoods
+    (including addressing food deserts east of the Anacostia River), and making
+    DC's streets safer for pedestrians and cyclists. She is not a career politician
+    and is not affiliated with any special interest groups.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+  positions:
+    - question_id: transit_bike_bus_lanes
+      stance: 1
+      explanation: "Proposes redesigning streets to prioritize pedestrians, cyclists, and public transit."
+      sources:
+        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+          publisher: ballotpedia.org
+          accessed: 2026-05-27
+
+- id: hope-solomon
+  name: "Hope Solomon"
+  election_slug: mayor
+  in_fair_elections: false  # TODO: verify
+  campaign_url: null  # TODO: add campaign URL
+  endorsements: []
+  short_bio: >
+    Democratic primary candidate for mayor. Campaign website and platform
+    details to be added.
+  long_bio: |
+    Hope Solomon is a Democratic candidate for mayor of Washington, D.C. in the
+    2026 primary. Additional campaign information, platform details, and
+    biographical background are pending verification from her campaign website
+    or official sources.
+  advisories: []
+  sources:
+    - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
+      title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-27
+  positions: []

@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+{% block title %}Quiz: {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
+  Quiz
+</nav>
+
+<div class="quiz-header">
+  <h1>{{ election.title }}</h1>
+  <div class="quiz-progress" role="progressbar"
+       aria-valuenow="{{ step + 1 }}" aria-valuemin="1" aria-valuemax="{{ total }}">
+    <div class="quiz-progress-bar" style="width: {{ ((step + 1) / total * 100) | int }}%"></div>
+  </div>
+  <p class="quiz-progress-label">Question {{ step + 1 }} of {{ total }}</p>
+</div>
+
+<form method="post" action="{{ url_for('quiz.quiz_post', slug=election.slug) }}" class="quiz-form">
+  <input type="hidden" name="step" value="{{ step }}">
+
+  <div class="question-card">
+    {% if issue %}
+    <div class="question-issue-tag">{{ issue.label }}</div>
+    {% endif %}
+
+    <h2 class="question-prompt">{{ question.prompt }}</h2>
+
+    {% if question.explanation %}
+    <details class="question-context">
+      <summary>Background context</summary>
+      <p>{{ question.explanation }}</p>
+      {% if question.sources %}
+      <p class="question-sources">
+        Sources:
+        {% for src in question.sources %}
+        <a href="{{ src.url }}" rel="noopener">[{{ src.title }}]</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </p>
+      {% endif %}
+    </details>
+    {% endif %}
+
+    <fieldset class="stance-fieldset">
+      <legend>Your position</legend>
+      {% set stance_options = [
+        (-2, "Strongly disagree"),
+        (-1, "Disagree"),
+        (1,  "Agree"),
+        (2,  "Strongly agree"),
+      ] %}
+      {% for val, label in stance_options %}
+      <label class="stance-option {% if saved_stance == val %}selected{% endif %}">
+        <input type="radio" name="stance" value="{{ val }}"
+               {% if saved_stance == val %}checked{% endif %} required>
+        {{ label }}
+      </label>
+      {% endfor %}
+      <label class="stance-option {% if saved_stance is none and step > 0 %}{% endif %}">
+        <input type="radio" name="stance" value="skip"
+               {% if saved_stance is none %}checked{% endif %}>
+        Skip / No opinion
+      </label>
+    </fieldset>
+
+    <fieldset class="importance-fieldset">
+      <legend>How important is this issue to you?</legend>
+      {% set importance_options = [
+        (0, "Not at all important"),
+        (1, "Somewhat important"),
+        (2, "Very important"),
+        (3, "Extremely important"),
+      ] %}
+      {% for val, label in importance_options %}
+      <label class="importance-option {% if saved_importance == val %}selected{% endif %}">
+        <input type="radio" name="importance" value="{{ val }}"
+               {% if saved_importance == val %}checked{% elif saved_importance is none and val == 1 %}checked{% endif %}>
+        {{ label }}
+      </label>
+      {% endfor %}
+    </fieldset>
+  </div>
+
+  <div class="quiz-navigation">
+    {% if step > 0 %}
+    <a href="{{ url_for('quiz.quiz', slug=election.slug, step=step-1) }}"
+       class="btn btn-ghost">← Back</a>
+    {% endif %}
+
+    {% if step < total - 1 %}
+    <button type="submit" class="btn btn-primary">Next →</button>
+    {% else %}
+    <button type="submit" class="btn btn-primary btn-large">See my results →</button>
+    {% endif %}
+  </div>
+</form>
+
+<p class="quiz-reset">
+  <a href="{{ url_for('quiz.reset', slug=election.slug) }}">Start over</a>
+</p>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/quiz.js') }}"></script>
+{% endblock %}

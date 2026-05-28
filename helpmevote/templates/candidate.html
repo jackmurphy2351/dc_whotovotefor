@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% block title %}{{ candidate.name }} — {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
+  {{ candidate.name }}
+</nav>
+
+<div class="candidate-profile-header">
+  <h1>{{ candidate.name }}</h1>
+  <p class="candidate-race">{{ election.title }} — Democratic Primary, June 2, 2026</p>
+  {% if candidate.in_fair_elections %}
+  <span class="badge badge-fair-elections">Participating in DC Fair Elections Program ✓</span>
+  {% else %}
+  <span class="badge badge-no-fair-elections">Not in DC Fair Elections Program</span>
+  {% endif %}
+</div>
+
+{% if candidate.advisories %}
+<div class="advisories-block">
+  {% for adv in candidate.advisories %}
+  <div class="advisory advisory-warning">
+    ⚠ <strong>{{ adv.organization }} ({{ adv.year }}):</strong>
+    "{{ adv.text }}"
+    <a href="{{ adv.source.url }}" rel="noopener" class="source-link">[source]</a>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+<section class="candidate-bio-section">
+  <p class="candidate-long-bio">{{ candidate.long_bio }}</p>
+  {% if candidate.campaign_url %}
+  <p><a href="{{ candidate.campaign_url }}" rel="noopener" class="btn btn-ghost">Official campaign site →</a></p>
+  {% endif %}
+</section>
+
+{% if candidate.endorsements %}
+<section class="endorsements-section">
+  <h2>Endorsements</h2>
+  <ul>
+    {% for e in candidate.endorsements %}
+    <li>{{ e }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if candidate.positions %}
+<section class="positions-section">
+  <h2>Positions on the issues</h2>
+  <p class="positions-note">
+    All positions are sourced directly from the candidate's campaign materials, official
+    questionnaire responses, or verified news coverage. Stances are rated on a scale from
+    <strong>Strongly opposes (−2)</strong> to <strong>Strongly supports (+2)</strong>.
+    A stance of <em>Unknown</em> means no public position has been found.
+  </p>
+
+  {% set stance_labels = {-2: "Strongly opposes", -1: "Opposes", 0: "Neutral", 1: "Supports", 2: "Strongly supports"} %}
+  {% set stance_classes = {-2: "stance-strongly-opposes", -1: "stance-opposes", 0: "stance-neutral", 1: "stance-supports", 2: "stance-strongly-supports"} %}
+
+  {% for pos in candidate.positions %}
+  {% set q = questions.get(pos.question_id) %}
+  {% if q %}
+  <div class="position-item">
+    <div class="position-issue">
+      {% set issue = issues.get(q.issue) %}
+      {% if issue %}<span class="issue-tag">{{ issue.label }}</span>{% endif %}
+    </div>
+    <p class="position-question">{{ q.prompt }}</p>
+    {% if pos.stance is not none %}
+    <div class="position-stance {{ stance_classes.get(pos.stance, '') }}">
+      {{ stance_labels.get(pos.stance, pos.stance) }}
+    </div>
+    {% else %}
+    <div class="position-stance stance-unknown">Unknown / no public position</div>
+    {% endif %}
+    {% if pos.explanation %}
+    <p class="position-explanation">{{ pos.explanation }}</p>
+    {% endif %}
+    {% if pos.sources %}
+    <p class="position-sources">
+      Sources:
+      {% for src in pos.sources %}
+      <a href="{{ src.url }}" rel="noopener" class="source-link">[{{ src.title }}]</a>{% if not loop.last %},{% endif %}
+      {% endfor %}
+    </p>
+    {% endif %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if candidate.sources %}
+<section class="page-sources">
+  <h2>General sources</h2>
+  <ol>
+    {% for src in candidate.sources %}
+    <li><a href="{{ src.url }}" rel="noopener">{{ src.title }}</a> — {{ src.publisher }}. Accessed {{ src.accessed }}.</li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}
+
+<div class="quiz-cta">
+  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-primary">
+    Take the quiz for this race →
+  </a>
+</div>
+{% endblock %}
