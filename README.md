@@ -15,13 +15,13 @@ An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Dem
 
 ### The five races
 
-| Slug | Race | Type |
-|---|---|---|
-| `mayor` | Mayoral Election | Democratic Primary (7 candidates) |
-| `delegate` | Non-Voting Delegate to Congress | Democratic Primary (5 candidates) |
+| Slug | Race                                | Type |
+|---|-------------------------------------|---|
+| `mayor` | Mayoral Election                    | Democratic Primary (7 candidates) |
+| `delegate` | Non-Voting Delegate to Congress     | Democratic Primary (5 candidates) |
 | `at_large_mcduffie` | At-Large Council — Special Election | **Non-partisan** general election (3 candidates) |
-| `at_large_bonds` | At-Large Council — Regular (2 seats) | Democratic Primary (9 candidates) |
-| `ward1` | Ward 1 Councilmember | Democratic Primary (5 candidates) |
+| `at_large_bonds` | At-Large Council — Regular          | Democratic Primary (9 candidates) |
+| `ward1` | Ward 1 Councilmember                | Democratic Primary (5 candidates) |
 
 ---
 
