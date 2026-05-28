@@ -37,7 +37,9 @@ def quiz(slug: str):
     issue = content.issues.get(question.issue)
 
     saved = session.get(_session_key(slug), {})
-    saved_stance, saved_importance = saved.get(question.id, (None, None))
+    saved_stance, _ = saved.get(question.id, (None, None))
+    if request.args.get("fresh"):
+        saved_stance = None
 
     return render_template(
         "quiz.html",
@@ -47,7 +49,6 @@ def quiz(slug: str):
         step=step,
         total=len(questions),
         saved_stance=saved_stance,
-        saved_importance=saved_importance,
     )
 
 
@@ -64,16 +65,15 @@ def quiz_post(slug: str):
     if step < len(questions):
         qid = questions[step].id
         raw_stance = request.form.get("stance")
-        raw_importance = request.form.get("importance", 0, type=int)
 
         saved = session.get(_session_key(slug), {})
         stance = int(raw_stance) if raw_stance not in (None, "", "skip") else None
-        saved[qid] = (stance, raw_importance)
+        saved[qid] = (stance, 1)
         session[_session_key(slug)] = saved
 
     next_step = step + 1
     if next_step < len(questions):
-        return redirect(url_for("quiz.quiz", slug=slug, step=next_step))
+        return redirect(url_for("quiz.quiz", slug=slug, step=next_step, fresh=1))
     return redirect(url_for("quiz.results", slug=slug))
 
 

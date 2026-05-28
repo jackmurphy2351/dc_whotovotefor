@@ -62,21 +62,6 @@
       </div>
     </fieldset>
 
-    <fieldset class="importance-fieldset">
-      <legend>How important is this issue to you?</legend>
-      {% set importance_options = [
-        (0, "Not at all important"),
-        (1, "Somewhat important"),
-        (2, "Very important"),
-      ] %}
-      {% for val, label in importance_options %}
-      <label class="importance-option {% if saved_importance == val %}selected{% endif %}">
-        <input type="radio" name="importance" value="{{ val }}"
-               {% if saved_importance == val %}checked{% elif saved_importance is none and val == 1 %}checked{% endif %}>
-        {{ label }}
-      </label>
-      {% endfor %}
-    </fieldset>
   </div>
 
   <div class="quiz-navigation">

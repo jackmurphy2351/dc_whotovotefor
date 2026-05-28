@@ -317,16 +317,16 @@ button.btn     { font-family: inherit; }
   color: var(--dc-navy);
 }
 
-.stance-fieldset, .importance-fieldset {
+.stance-fieldset {
   border: none;
   margin-bottom: 1rem;
 }
-.stance-fieldset legend, .importance-fieldset legend {
+.stance-fieldset legend {
   font-weight: 600;
   margin-bottom: .5rem;
   font-size: .95rem;
 }
-.stance-option, .importance-option {
+.stance-option {
   display: flex;
   align-items: center;
   gap: .6rem;
@@ -337,17 +337,6 @@ button.btn     { font-family: inherit; }
   cursor: pointer;
   transition: border-color .12s, background .12s;
   font-size: .95rem;
-}
-.importance-option:hover {
-  border-color: var(--dc-navy);
-  background: #f0f4f8;
-}
-.importance-option.selected {
-  border-color: var(--dc-navy);
-  background: #e8f0f8;
-}
-.stance-option input, .importance-option input {
-  accent-color: var(--dc-navy);
 }
 
 .quiz-navigation {

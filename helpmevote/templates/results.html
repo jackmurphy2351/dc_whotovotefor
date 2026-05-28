@@ -11,8 +11,7 @@
 <div class="results-header">
   <h1>Your results: {{ election.title }}</h1>
   <p class="results-note">
-    Candidates are ranked by how well their known positions match yours,
-    weighted by the importance you assigned to each issue.
+    Candidates are ranked by how well their known positions match yours.
     <a href="{{ url_for('main.about') }}">How is this calculated?</a>
   </p>
 </div>
@@ -20,7 +19,7 @@
 {% if all_zero %}
 <div class="alert alert-warning">
   <strong>No answers recorded.</strong>
-  You haven't answered any questions yet, or marked all issues as "Not at all important."
+  You haven't answered any questions yet.
   <a href="{{ url_for('quiz.quiz', slug=election.slug) }}">Take the quiz →</a>
 </div>
 {% else %}
@@ -57,15 +56,6 @@
     {% if sc.match_percent is not none %}
     <div class="match-bar-container" aria-hidden="true">
       <div class="match-bar" style="width: {{ sc.match_percent | round | int }}%"></div>
-    </div>
-    {% endif %}
-
-    {% if sc.coverage_warning %}
-    <div class="coverage-warning">
-      ⚠ This candidate has not stated a public position on
-      {{ sc.total_high_importance - sc.covered_high_importance }}
-      of your {{ sc.total_high_importance }} high-priority issue(s).
-      The match score may not reflect the full picture.
     </div>
     {% endif %}
 
