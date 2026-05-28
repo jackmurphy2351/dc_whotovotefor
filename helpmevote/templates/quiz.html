@@ -44,24 +44,22 @@
 
     <fieldset class="stance-fieldset">
       <legend>Your position</legend>
-      {% set stance_options = [
-        (-2, "Strongly disagree"),
-        (-1, "Disagree"),
-        (1,  "Agree"),
-        (2,  "Strongly agree"),
-      ] %}
-      {% for val, label in stance_options %}
-      <label class="stance-option {% if saved_stance == val %}selected{% endif %}">
-        <input type="radio" name="stance" value="{{ val }}"
-               {% if saved_stance == val %}checked{% endif %} required>
-        {{ label }}
-      </label>
-      {% endfor %}
-      <label class="stance-option {% if saved_stance is none and step > 0 %}{% endif %}">
-        <input type="radio" name="stance" value="skip"
-               {% if saved_stance is none %}checked{% endif %}>
-        Skip / No opinion
-      </label>
+      <div class="stance-options-row">
+        {% set stance_options = [
+          (-2, "Strongly disagree", "stance-strong-disagree"),
+          (-1, "Disagree",          "stance-disagree"),
+          ("skip", "Skip / No opinion", "stance-skip"),
+          (1,  "Agree",             "stance-agree"),
+          (2,  "Strongly agree",    "stance-strong-agree"),
+        ] %}
+        {% for val, label, cls in stance_options %}
+        <label class="stance-option {{ cls }}{% if val == 'skip' %}{% if saved_stance is none %} selected{% endif %}{% else %}{% if saved_stance == val %} selected{% endif %}{% endif %}">
+          <input type="radio" name="stance" value="{{ val }}"
+                 {% if val == 'skip' %}{% if saved_stance is none %}checked{% endif %}{% else %}{% if saved_stance == val %}checked{% endif %} required{% endif %}>
+          {{ label }}
+        </label>
+        {% endfor %}
+      </div>
     </fieldset>
 
     <fieldset class="importance-fieldset">
@@ -70,7 +68,6 @@
         (0, "Not at all important"),
         (1, "Somewhat important"),
         (2, "Very important"),
-        (3, "Extremely important"),
       ] %}
       {% for val, label in importance_options %}
       <label class="importance-option {% if saved_importance == val %}selected{% endif %}">

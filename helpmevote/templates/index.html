@@ -10,6 +10,21 @@
   </p>
 </div>
 
+<section class="how-it-works">
+  <h2>How it works</h2>
+  <ol>
+    <li>Choose an election race that applies to you.</li>
+    <li>Answer questions about issues you care about.</li>
+    <li>Rate how important each issue is to you.</li>
+    <li>See which candidates align most with your values.</li>
+  </ol>
+  <p>
+    <strong>All candidate positions link directly to sources</strong> — campaign pages,
+    official DC government sites, and verified news coverage.
+    No unsourced claims.
+  </p>
+</section>
+
 <section class="elections-grid">
   {% for election in elections %}
   <div class="election-card">
@@ -25,20 +40,5 @@
     </div>
   </div>
   {% endfor %}
-</section>
-
-<section class="how-it-works">
-  <h2>How it works</h2>
-  <ol>
-    <li>Choose an election race that applies to you.</li>
-    <li>Answer questions about issues you care about.</li>
-    <li>Rate how important each issue is to you.</li>
-    <li>See which candidates align most with your values.</li>
-  </ol>
-  <p>
-    <strong>All candidate positions link directly to sources</strong> — campaign pages,
-    official DC government sites, and verified news coverage.
-    No unsourced claims.
-  </p>
 </section>
 {% endblock %}
