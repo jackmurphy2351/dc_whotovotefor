@@ -1,6 +1,7 @@
 # Mayor candidates — 2026 DC Democratic Primary, June 16
 # Source: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
-# Note: Yaida Ford did not make the ballot. Withdrawn: Kathy Henderson, Stanley Lawson Sr.
+# Withdrawn: Kathy Henderson, Stanley Lawson Sr.
+# Note: Yaida Ford is a write-in candidate (did not qualify for the primary ballot)
 
 - id: janeese-lewis-george
   name: "Janeese Lewis George"
@@ -22,11 +23,17 @@
     attorney in Philadelphia, and assistant attorney general of Washington, D.C. before
     entering elected office.
 
-    Her campaign platforms include building more housing by reforming zoning laws and
-    streamlining permitting, expanding childcare access, and improving job pathways for
-    young people. She opposes teen curfews and supports the NEAR Act's public-health
-    approach to violence. She voted for the 2024 Secure DC omnibus legislation.
-    She is endorsed by Free DC, the Working Families Party, and DC DSA.
+    Her campaign platforms include: universal affordable childcare (every family
+    capped at 7% of household income); a 10-point utility affordability plan holding
+    Pepco accountable and expanding community solar; Dignified Homes DC (DC-owned
+    mixed-income housing with stable rents); modernizing rent stabilization;
+    dedicated bus lanes and protected bike lanes; safe injection sites; a rapid
+    response Federal Workforce Transition Center for displaced federal employees;
+    and a comprehensive public safety plan balancing enforcement with the NEAR Act's
+    public health approach. She opposes teen curfews and voted for the 2024 Secure
+    DC omnibus. She has been sharply critical of the Bowser administration for not
+    doing enough to resist federal encroachment. She is endorsed by Free DC, the
+    Working Families Party, and DC DSA.
   advisories: []
   sources:
     - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
@@ -37,6 +44,10 @@
       title: "Janeese Lewis George — Free DC Candidate Questionnaire"
       publisher: "Free DC Project"
       accessed: 2026-05-27
+    - url: https://www.janeese4dc.com/
+      title: "Platform — Janeese Lewis George for Mayor"
+      publisher: "Janeese Lewis George Campaign"
+      accessed: 2026-05-28
   positions:
     - question_id: youth_curfew_support
       stance: -2
@@ -94,12 +105,12 @@
 
     - question_id: housing_topa_restore
       stance: 2
-      explanation: "Campaign platform calls for building more housing and reforming zoning to increase supply near transit."
+      explanation: "Platform supports tenant purchase rights: 'Enhancing pathways from renting to owning to help tenants become owners through cooperatives, tenant purchases, and structured negotiations.' Her broader housing platform is strongly pro-tenant, including ending the 'slumlord business model' and funding cooperative conversions."
       sources:
         - url: https://www.janeese4dc.com/
-          title: "Janeese Lewis George — Campaign Website"
+          title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-28
 
     - question_id: fair_elections_participation
       stance: 2
@@ -110,11 +121,109 @@
           publisher: dc.gov
           accessed: 2026-05-27
 
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Lewis George pledges to 'establish a rapid response Federal Workforce Transition Center for displaced federal employees and contractors, including partnering with universities to reskill and support transitions into DC teaching jobs and other in-demand jobs.' She has also been sharply critical of the Bowser administration for not sufficiently resisting federal intrusion."
+      sources:
+        - url: https://www.nbcwashington.com/news/politics/dc-mayoral-candidate-lewis-george/4045936/
+          title: "DC Mayoral Candidate Lewis George on Her Platform — NBC Washington"
+          publisher: "NBC Washington"
+          accessed: 2026-05-28
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: harm_reduction_safe_injection
+      stance: 2
+      explanation: "Lewis George supports opening safe injection sites, calling opioid overdoses 'one of the most urgent public health crises' facing DC. In 2023 she requested $15 million in the FY2024 budget to open two overdose prevention centers."
+      sources:
+        - url: https://www.washingtonexaminer.com/news/campaigns/4584819/janeese-lewis-george-backs-safe-drug-injection-site-dc/
+          title: "Janeese Lewis George backs safe injection sites in DC for drug use — Washington Examiner"
+          publisher: "Washington Examiner"
+          accessed: 2026-05-28
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "Lewis George's 'Childcare For All' platform calls for universal affordable childcare: every family eligible for assistance, capped at 7% of household income (under $600/month for families earning under $100K). Three-part plan: expand subsidy to all families, increase supply through co-location in schools and microgrants, and guarantee wages comparable to DCPS teachers through the Pay Equity Fund."
+      sources:
+        - url: https://www.nbcwashington.com/news/politics/dc-mayoral-candidate-lewis-george/4045936/
+          title: "DC Mayoral Candidate Lewis George on Her Platform — NBC Washington"
+          publisher: "NBC Washington"
+          accessed: 2026-05-28
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      explanation: "Platform pledges to add dedicated bus lanes on DC's busiest routes and implement community-supported protected bike lanes citywide, including the Shepherd Branch Trail in Wards 7 and 8 and a northeast-northwest protected bike lane. Also pledges to make buses free for SNAP recipients and explore broader transit fare support."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "Lewis George's 10-point utility affordability plan includes substantially expanding community solar on all available government buildings, school parking lots, playgrounds, and vacant government land; incentivizing balcony solar for renters; implementing energy savings performance contracts (ESPCs) in schools and government buildings; and expanding the Solar Shade Expansion Amendment Act."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Platform explicitly states: 'Invest in and expand Community Schools grants and expand successful home visiting services to connect with families.' Her 'Support the whole child' pillar mirrors the community schools model, adding caregiver navigation support and streamlined anti-truancy efforts."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: housing_social_model
+      stance: 2
+      explanation: "Platform pledges to 'Launch Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit.' This is an explicit social housing model with public ownership and mixed-income design."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: housing_rent_stabilization
+      stance: 1
+      explanation: "Platform calls for 'Stabilizing rent by modernizing rent stabilization so tenants have predictable housing costs and housing providers have clear guidelines.' Her framing is 'modernizing' rather than explicitly expanding to post-1975 buildings, but she is firmly pro-rent stabilization as a tool for tenant protection."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Platform calls for 'Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need,' plus launching Dignified Homes DC as a new publicly-funded housing initiative. Her full audit of housing systems in the first 100 days and strong affordable housing investment priorities imply maintaining and expanding the HPTF rather than cutting it."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
+    - question_id: parks_rec_funding
+      stance: 1
+      explanation: "Platform pledges to 'Invest in afterschool and late-night weekend safe spaces where youth can socialize and have fun,' 'Expand afterschool and summer programming in every ward,' and create community hubs in all 8 wards. Implies support for DPR-style programming but doesn't explicitly name DPR or call for a budget increase."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-28
+
 - id: kenyan-mcduffie
   name: "Kenyan McDuffie"
   election_slug: mayor
   in_fair_elections: false
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://kenyanmcduffie.com/
   endorsements: []
   short_bio: >
     Fourth-generation Washingtonian; 13-year DC Council member (Ward 5, then
@@ -130,11 +239,18 @@
 
     In 2016, McDuffie authored the NEAR Act, establishing DC's public-health
     framework for violence reduction. He voted for the 2024 Secure DC omnibus.
-    His campaign pledges include building 12,000 new housing units by 2030,
-    fully funding the NEAR Act, ending MPD cooperation with ICE, and expanding
-    legal protections for immigrant families. He conditionally supports teen
-    curfews as a short-term measure alongside youth programming. Free DC has
-    advised voters not to rank him.
+    On the Council he led passage of one of the nation's strongest clean energy
+    standards, authored the Child Wealth Building Act (Baby Bonds) and the
+    District's first Guaranteed Basic Income program, and directed $100 million
+    in pandemic relief grants to small businesses. He grew up in Ward 5, home to
+    the city's largest share of industrial land, and frames environmental justice
+    as a core pillar of his campaign. His mayoral platform pledges to build
+    12,000 new housing units by 2030, fully fund the NEAR Act, issue a Day-One
+    directive ending MPD cooperation with ICE, expand legal protections for
+    immigrant families, and create a federal workforce transition pipeline for
+    displaced federal workers. He conditionally supports teen curfews as a
+    short-term measure alongside youth programming. Free DC has advised voters
+    not to rank him.
   advisories:
     - organization: "Free DC"
       year: 2026
@@ -153,6 +269,10 @@
       title: "Kenyan McDuffie — Free DC Candidate Questionnaire"
       publisher: "Free DC Project"
       accessed: 2026-05-27
+    - url: https://kenyanmcduffie.com/platform
+      title: "Platform — Kenyan McDuffie for Mayor"
+      publisher: "Kenyan McDuffie Campaign"
+      accessed: 2026-05-28
   positions:
     - question_id: mpd_ice_cooperation
       stance: 2
@@ -214,18 +334,67 @@
 
     - question_id: crime_more_police
       stance: 2
-      explanation: "Has explicitly pledged to hire 1,000 new MPD officers and double the hiring bonus to $50,000 to bring MPD back up from ~3,100 toward historical levels."
+      explanation: "Has pledged to hire 1,000 new MPD officers and double the hiring bonus to $50,000. His platform calls for a 'right-sized MPD through smart recruitment, home purchase assistance, and reinvestment in community safety programs' alongside an expanded cadet program."
       sources:
         - url: https://51st.news/dc-mayoral-race-fact-check/
           title: "We fact-checked the attacks in the D.C. mayoral race — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-05-28
+
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      explanation: "Platform calls for accelerating bus lane infrastructure and signal improvements on corridors where buses are delayed, investing in protected bike lanes and safer intersections, and fully funding Metro for the long term."
+      sources:
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-05-28
+
+    - question_id: education_mental_health_schools
+      stance: 1
+      explanation: "Platform pledges 'timely special education, mental health, and school health services' in DC public schools and frames school-based behavioral health as part of his education agenda."
+      sources:
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-05-28
+
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Platform's Accountability pillar is titled 'Defend Home Rule and DC Autonomy.' He pledges to issue a Day-One directive ending MPD cooperation with ICE, bolster the Mayor's Office of Legal Counsel for constitutional challenges, and 'fight for statehood, expand legislative and budget autonomy and defend Home Rule.' He also promises a federal workforce transition pipeline for displaced federal workers."
+      sources:
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-05-28
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "McDuffie led passage of one of the nation's strongest clean energy standards on DC Council. His platform's Environmental Justice section pledges investments in community solar, expanded weatherization and energy-efficiency upgrades for low-income families, and a 'Climate and Environmental Justice Workforce Initiative' tied to clean energy investments."
+      sources:
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-05-28
+
+    - question_id: childcare_universal
+      stance: 1
+      explanation: "Platform has a dedicated 'Expand Access to Childcare & Early Learning' section. McDuffie pledges an expanded Local Child Tax Credit, employer incentives, repurposed District-owned space for subsidized care in underserved areas, and updated zoning for home-based childcare. His approach expands access and reduces costs but through targeted measures rather than a universal program."
+      sources:
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-05-28
 
 - id: gary-goodweather
   name: "Gary Goodweather"
   election_slug: mayor
-  in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  in_fair_elections: true
+  campaign_url: https://www.goodweatherfordc.com/
   endorsements: []
   short_bio: >
     U.S. Army veteran (Captain); 30+ years in business and organizational
@@ -238,72 +407,235 @@
     University. With over 30 years of experience in business and organizational
     management, he has worked with DC government agencies and the legislative branch.
 
-    His key policy proposals include:
-    - Fare-Free DC: making Metrobus and Metrorail free for DC residents, saving
-      regular riders ~$1,000/year
-    - Power DC: reducing utility bills and transitioning to solar, geothermal, and
-      biogas energy
-    - Rat Free DC: addressing DC's rodent problem with rat-proof trash cans and
-      faster sanitation response
-    - Data-driven policing with investment in mental health and youth services
+    His platform is organized around four signature initiatives:
+    - Fare-Free DC: eliminating Metrobus and Metrorail fares for DC residents,
+      saving regular riders ~$1,000/year
+    - Power DC: solar on public buildings, community solar bill credits,
+      geothermal and sewer heat recovery to lower utility bills
+    - Rat Free DC: rodent-proof trash containers, dry ice burrow treatment,
+      increased trash collection, and a community Rat Block Captain program
+    - Capital Corps: a structured civic service program connecting residents to
+      training, mentorship, and careers in healthcare, education, tech, and
+      public safety; includes a Youth Track with after-school programs and
+      a dedicated mental health clinician and nurse in every school
+
+    He supports social housing and community land trusts for permanent
+    affordability, and a strong Home Rule / sanctuary stance: DC agencies would
+    be prohibited from cooperating with immigration enforcement without a
+    judicial warrant, and schools, hospitals, and houses of worship would be
+    designated protected spaces.
   advisories: []
   sources:
     - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
       title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+    - url: https://www.goodweatherfordc.com/issues
+      title: "Issues — Gary Goodweather for Mayor"
+      publisher: "Gary Goodweather Campaign"
+      accessed: 2026-05-28
+    - url: https://www.goodweatherfordc.com/policy-plans
+      title: "Policy & Plans — Gary Goodweather for Mayor"
+      publisher: "Gary Goodweather Campaign"
+      accessed: 2026-05-28
   positions:
     - question_id: transit_bike_bus_lanes
       stance: 2
-      explanation: "Proposes Fare-Free DC, making Metrobus and Metrorail free for DC residents to cut commuting costs."
+      explanation: "Proposes Fare-Free DC (eliminating Metrobus and Metrorail fares for DC residents) and calls for expanded transit access, biking and walking infrastructure, and EV transition as part of his Sustainability platform."
       sources:
-        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
-          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
-          publisher: ballotpedia.org
-          accessed: 2026-05-27
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
 
     - question_id: crime_public_health
       stance: 1
-      explanation: "Supports investing in mental health services, youth engagement, and economic opportunity alongside law enforcement."
+      explanation: "Supports 'community-based violence prevention and intervention programs that stop crime before it starts' and expanding mental health services to address root causes of trauma and violence alongside law enforcement investment."
       sources:
-        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
-          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
-          publisher: ballotpedia.org
-          accessed: 2026-05-27
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: crime_more_police
+      stance: 2
+      explanation: "Calls for rebuilding MPD 'to the lowest levels in decades' by offering competitive compensation, comprehensive training including mental health crisis intervention, housing incentives, and property tax abatements to help officers live in the communities they serve."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: housing_social_model
+      stance: 2
+      explanation: "Explicitly pledges to 'support permanently affordable housing through tools like community land trusts and social housing' as part of his housing platform."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Democracy platform explicitly pledges to 'strengthen sanctuary protections by prohibiting DC agencies from cooperating with immigration enforcement without a judicial warrant and preventing the use of local resources for federal immigration activities.' Schools, hospitals, and houses of worship designated as protected spaces."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: education_community_schools
+      stance: 1
+      explanation: "Supports schools functioning as community hubs: after-school and summer programs, late-night rec centers staffed by mentors, a full-time nurse and mental health clinician in every school, and a Capital Corps Youth Track connecting education to workforce pathways."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Explicitly states: 'Every school will have a full time nurse and a mental health clinician so students receive the care they need to succeed.'"
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "Power DC is a signature platform initiative: expanding solar on public buildings, community solar programs with bill credits, geothermal energy, and sewer heat recovery to lower utility bills and reduce reliance on regional energy markets."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: parks_rec_funding
+      stance: 1
+      explanation: "Calls for 'late night recreation centers staffed by mentors' and expanded after-school and summer programs with tutoring and enrichment. DPR investment is framed as a safety and opportunity initiative rather than a standalone parks platform."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: sanitation_rats
+      stance: 2
+      explanation: "Rat Free DC is a signature platform initiative: shifting rodent control to DPW, requiring rodent-proof trash containers citywide, increasing trash collection frequency, scaling dry ice burrow treatment, improving data tracking, and launching a community Rat Block Captain program."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: fair_elections_participation
+      stance: 2
+      explanation: "Goodweather became the first candidate in the 2026 mayoral race to be certified as a Participating Candidate in the DC Fair Elections Program, raising over $43,000 from 1,075 DC resident donors. The campaign cap is $200 per person and accepts no corporate contributions."
+      sources:
+        - url: https://www.goodweatherfordc.com/press
+          title: "Goodweather Becomes First Certified Fair Elections Mayoral Candidate — Press Release"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: democracy_rcv_support
+      stance: 2
+      explanation: "Goodweather was the only 2026 mayoral candidate actively promoting a ranked-choice voting strategy, encouraging voters to use all their rankings. The 51st identified him as unique in the field for this approach, which implies support for the full implementation of Initiative 83."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+          title: "These four candidates are also running for D.C. mayor — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-28
+
+    - question_id: housing_topa_restore
+      stance: -1
+      explanation: "Goodweather's Affordable DC plan explicitly critiques TOPA, citing a DC Policy Center study showing 95% of TOPA transactions result in the building remaining a rental rather than producing tenant ownership. He also notes TOPA burdens small landlords with delays of up to 420 days. He proposes replacing TOPA with cooperative conversion programs, a DC Homebuilding Act, and tenant-to-owner collaboration partnerships."
+      sources:
+        - url: https://www.goodweatherfordc.com/housing
+          title: "Affordable DC — Housing Strategy — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      explanation: "Goodweather supports maintaining and properly deploying the Housing Production Trust Fund but calls for a forensic audit in the first 100 days to examine how dollars have been allocated and which projects delivered. His 50,000-home / 36,000-affordable-unit target requires substantial ongoing HPTF investment, but he emphasizes accountability over simply increasing the fund."
+      sources:
+        - url: https://www.goodweatherfordc.com/housing
+          title: "Affordable DC — Housing Strategy — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: childcare_universal
+      stance: 1
+      explanation: "Goodweather pledges to defend the Pay Equity Fund for childcare workers and expand Pre-K 3 and Pre-K 4 seats. His Capital Corps includes an Early Childhood Development Corps branch supporting daycare centers and early learning hubs. His approach expands access and workforce capacity rather than framing childcare as a universal entitlement program."
+      sources:
+        - url: https://www.goodweatherfordc.com/5e04fbaf-ad3f-403f-adbc-556b8c19fdfc
+          title: "Educate DC — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Goodweather's Defend DC plan explicitly lists 'Rapid-response economic support when federal workforce disruptions impact D.C.' His RISE Act includes a federal workforce transition pipeline into tech and AI-adjacent careers, and free AI retraining at libraries for displaced federal workers. He pledges to 'advocate fiercely for federal policies that mirror the RISE Act's protections.'"
+      sources:
+        - url: https://www.goodweatherfordc.com/defend-dc
+          title: "Defend DC — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
 
 - id: ernest-johnson
   name: "Ernest E. Johnson"
   election_slug: mayor
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://ernestformayor2026.com/
   endorsements: []
   short_bio: >
-    Lifelong Washingtonian; University of Maryland graduate; completing a master's
-    in Government at Harvard. Community advocate, nonprofit leader, and opponent
-    of public land giveaways to billionaires. Has a prior conviction.
+    Columbia Heights resident; real estate broker, Notary Public, and Harvard
+    Government Analysis master's graduate. Founder, Friends of Frank Reeves Center;
+    eight-year Back-2-School Block Party organizer. DC Apprenticeship Council member.
+    Has a prior conviction.
   long_bio: |
-    Ernest E. Johnson is a lifelong Washingtonian who graduated from the University
-    of Maryland and is currently completing a master's degree in Government at Harvard
-    University. He has led nonprofits, chaired local organizations, and fought for
-    affordable housing, youth programs, and economic opportunity across all eight wards.
+    Ernest E. Johnson is a lifelong Washingtonian and Columbia Heights resident who
+    attended Banneker Junior High (DC public school), earned a B.S. from the
+    University of Maryland, and completed a master's in Government Analysis at
+    Harvard University. He is a licensed real estate broker and Notary Public, and
+    serves on the DC Apprenticeship Council and the 3rd District Advisory Council.
+
+    As founder of the nonprofit Friends of the Frank Reeves Center (501c4), Johnson
+    has organized the Back-2-School Block Party for eight years, providing backpacks,
+    school supplies, and free haircuts to students at Raymond and Tubman Elementary
+    Schools, which his nonprofit adopted in 2013. He has championed using public land
+    for community benefit — including affordable housing and a museum of Black Broadway
+    — rather than luxury development, and opposes public asset giveaways like the RFK
+    Stadium deal. He has called for a 26% "community stake" in the Washington Commanders.
     He has been open about having a prior conviction in his youth, framing his candidacy
     as proof that "redemption is real."
 
-    As founder of the nonprofit Friends of the Frank Reeves Center, he has championed
-    using public land for community benefit — including affordable housing and a museum
-    of Black Broadway — rather than luxury development. He opposes giving away public
-    assets like RFK Stadium to wealthy sports owners without guaranteed community benefits
-    and has called for a 26% "community stake" in the Washington Commanders.
+    His platform focuses on three pillars. On education: a fundamentals-first curriculum
+    (phonics-based reading by 3rd grade, arithmetic mastery, cursive writing) in early
+    grades, transitioning to mandatory STEM, vocational training tracks with industry
+    certifications and employer partnerships, and college readiness programs — with a
+    target of 95% 3rd-grade reading proficiency and 95% graduation rate by 2029. On
+    public safety: community-based policing in every ward, body cameras, de-escalation
+    training, violence interruption programs, drug court expansion, mental health and
+    addiction treatment in corrections, and youth intervention through after-school
+    programs, sports, and mentorship. On revenue: a "Beautify DC" jobs initiative
+    employing seniors and youth, taxing currently exempt high-value properties, and
+    commuter tolls on major arteries into the District.
   advisories: []
   sources:
     - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
       title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+    - url: https://ernestformayor2026.com/
+      title: "Ernest Johnson for Mayor — Campaign Website"
+      publisher: "Ernest E. Johnson Campaign"
+      accessed: 2026-05-28
   positions:
     - question_id: housing_topa_restore
       stance: 1
-      explanation: "Supports tenant protections and has fought for affordable housing through his nonprofit work."
+      explanation: "Supports tenant protections and has fought for affordable housing through his nonprofit work. His campaign platform prioritizes community benefit over developer profit on public land."
       sources:
         - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
           title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
@@ -312,98 +644,382 @@
 
     - question_id: crime_public_health
       stance: 1
-      explanation: "Supports restoring community trust through smart policing, youth violence prevention, and expanded mental health resources."
+      explanation: "Platform includes violence interruption programs in high-risk areas, drug court expansion for non-violent offenders, mental health and addiction treatment services in corrections, and youth intervention through mentorship and job training — alongside community policing reforms and enhanced prosecution of repeat offenders."
       sources:
-        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
-          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
-          publisher: ballotpedia.org
-          accessed: 2026-05-27
+        - url: https://ernestformayor2026.com/
+          title: "Ernest Johnson for Mayor — Campaign Website"
+          publisher: "Ernest E. Johnson Campaign"
+          accessed: 2026-05-28
+
+    - question_id: parks_rec_funding
+      stance: 1
+      explanation: "Youth intervention platform calls for 'after-school programs in high-crime areas, sports and recreational opportunities, conflict resolution and leadership training' — implying support for parks and recreation-type programming, though DPR is not named explicitly."
+      sources:
+        - url: https://ernestformayor2026.com/
+          title: "Ernest Johnson for Mayor — Campaign Website"
+          publisher: "Ernest E. Johnson Campaign"
+          accessed: 2026-05-28
 
 - id: vincent-orange
   name: "Vincent Orange"
   election_slug: mayor
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://orangeformayor.com/
   endorsements: []
   short_bio: >
-    Attorney, CPA, and long-serving DC politician. Former Ward 5 Councilmember
-    (2 terms) and At-Large Councilmember (2 terms); DC Democratic National
-    Committeeman. Championed DC's $15 minimum wage.
+    Attorney, CPA, and long-serving DC politician. BS/BA (University of the
+    Pacific), JD Howard, LLM Taxation Georgetown; Harvard Kennedy School
+    executive certificates. Former CEO of DC Chamber of Commerce; Region VP
+    at PEPCO. Author of 30+ enacted DC laws including the $15 minimum wage.
   long_bio: |
-    Vincent Orange is an attorney and certified public accountant with degrees in
-    taxation, law, communications, and business administration. He has served two
-    terms as Ward 5 Councilmember and two terms as an At-Large Councilmember on
-    DC Council, and as DC Democratic National Committeeman.
+    Vincent Orange is an attorney and certified public accountant whose academic
+    credentials include a B.S. in Business Administration and B.A. in Communications
+    from the University of the Pacific, a J.D. from Howard University School of Law,
+    an LLM in Taxation from Georgetown University Law Center, and executive
+    certificates from Harvard Kennedy School in senior government leadership and
+    crisis management. He was selected at age 14 as an A Better Chance Scholar to
+    attend Fountain Valley College Preparatory in Colorado, graduating ranked 5th
+    in the Class of 1975.
 
-    During his time on Council, he helped spark economic development projects
-    including Home Depot, Costco, Rhode Island Row, and Union Market in NoMa.
-    He secured DC's $15 minimum wage with CPI indexing, passed laws on sick leave
-    and wage theft, and expanded youth employment through MBSYEP. He reopened
-    McKinley Technology High School. He has been a longtime advocate for DC
-    statehood, including speaking at the 20th Anniversary of the Million Man March.
+    In the private sector he served as President and CEO of the DC Chamber of
+    Commerce (2016–2020, elevated the Chamber from #5 to #1 nationally), Region
+    Vice President for Government Affairs and Public Policy at PEPCO, Tax Senior
+    at Arthur Andersen, and Chief Financial Officer at the National Children's Center.
+
+    In elected office he served as Ward 5 Councilmember (8 years) and At-Large
+    Councilmember (2 terms), chairing the Committee on Government Operations
+    (23 agencies) and the Committee on Business, Consumer & Regulatory Affairs
+    (34 agencies). He was DC's Democratic National Committeeman during the Obama
+    administration (2006–2014). He has authored or enacted more than 30 DC laws,
+    including the $15 minimum wage with CPI indexing, MBSYEP youth employment
+    expansion, the CBE statutory enhancements, the Textbooks-on-Time Act, and
+    the Ballpark Omnibus Act. He received Vincent Orange Day (April 13, 2025),
+    a Biden Lifetime Achievement Award (2023), and is a Washington DC Hall of
+    Fame Society inductee (2018).
+
+    His "Orange Plan" is a 10-point governing blueprint focused on execution
+    over ideology: education from pre-K through guaranteed post-secondary
+    pathways; a youth curfew paired with apprenticeship mandates; restoring MPD
+    to ~4,100 officers; fiscal discipline and AAA credit restoration; homeownership
+    expansion with workforce and tiny homes for residents earning $50,000 or less;
+    economic growth without tax increases; working pragmatically with Congress and
+    the White House; and ranked-choice voting as a tool for consensus leadership.
+    He supports DC statehood and Home Rule preservation.
   advisories: []
   sources:
     - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
       title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
       publisher: ballotpedia.org
       accessed: 2026-05-27
-  positions: []
+    - url: https://orangeformayor.com/
+      title: "The Orange Plan — Vincent Orange for Mayor"
+      publisher: "Vincent Orange Campaign"
+      accessed: 2026-05-28
+  positions:
+    - question_id: youth_curfew_support
+      stance: 2
+      explanation: "Orange Plan explicitly mandates: 'Curfew: Individuals under 18 must be off DC streets Sunday–Thursday, 11:00 PM–6:00 AM, with defined exceptions.' This is one of ten named pillars in his governing blueprint."
+      sources:
+        - url: https://orangeformayor.com/
+          title: "The Orange Plan — Vincent Orange for Mayor"
+          publisher: "Vincent Orange Campaign"
+          accessed: 2026-05-28
+
+    - question_id: youth_curfew_programming
+      stance: 1
+      explanation: "Orange pairs his curfew with youth opportunity measures: 'Mandate youth apprenticeship programs across all DC agencies and intergovernmental agencies' and scale apprenticeships to match MBSYEP. The framing is accountability plus workforce opportunity rather than the broader recreation/mental health investment the question describes."
+      sources:
+        - url: https://orangeformayor.com/
+          title: "The Orange Plan — Vincent Orange for Mayor"
+          publisher: "Vincent Orange Campaign"
+          accessed: 2026-05-28
+
+    - question_id: crime_more_police
+      stance: 2
+      explanation: "Orange Plan explicitly calls to 'Restore and maintain a sworn police force of approximately 4,100 officers,' framing it as foundational to residents' quality of life and DC's visitor economy."
+      sources:
+        - url: https://orangeformayor.com/
+          title: "The Orange Plan — Vincent Orange for Mayor"
+          publisher: "Vincent Orange Campaign"
+          accessed: 2026-05-28
+
+    - question_id: democracy_rcv_support
+      stance: 2
+      explanation: "Orange has a dedicated RCV pillar in his Orange Plan: 'RCV rewards collaboration, credibility, and trust. An Orange administration will lead through consensus without sacrificing principles.' He frames RCV positively as a governing tool."
+      sources:
+        - url: https://orangeformayor.com/
+          title: "The Orange Plan — Vincent Orange for Mayor"
+          publisher: "Vincent Orange Campaign"
+          accessed: 2026-05-28
 
 - id: rini-sampath
   name: "Rini Sampath"
   election_slug: mayor
-  in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  in_fair_elections: false
+  campaign_url: https://riniformayor.com/
   endorsements: []
   short_bio: >
-    Cybersecurity director and federal contractor. Born in India, immigrated at
-    age 7; DC resident for 10+ years. Not a career politician.
+    Cybersecurity company director, age 31; U Street resident. Former USC Student
+    Body President (first all-women ticket). Built three civic tech tools: "DC Fix It"
+    311 app, budget transparency dashboard, and small business permitting concierge.
+    "Fix the basics" execution-first platform. Did not qualify for DC Fair Elections.
   long_bio: |
-    Rini Sampath is a cybersecurity director who was born in Theni, India,
-    immigrated to the United States at age seven, and has spent over a decade
-    calling DC home. As a federal contractor, she has spent years improving
-    government programs and citizen services. She has also worked as a field
-    organizer in local communities and managed higher education nonprofit programs.
+    Rini Sampath is a cybersecurity company director who was born in Theni, India,
+    immigrated to the United States at age seven, and has lived in the U Street
+    neighborhood for over a decade. At the University of Southern California she was
+    elected Student Body President as part of the first all-women ticket. She has
+    since worked as a federal contractor improving government programs and citizen
+    services, as a field organizer, and managing higher education nonprofit programs.
 
-    Her campaign focuses on fixing basic city services, lowering the cost of
-    living (particularly childcare and housing), strengthening neighborhoods
-    (including addressing food deserts east of the Anacostia River), and making
-    DC's streets safer for pedestrians and cyclists. She is not a career politician
-    and is not affiliated with any special interest groups.
+    Her campaign launched after the February 2026 snowstorm exposed what she called
+    a failure of basic city services — neighbors stranded, people with disabilities
+    unable to leave their homes, workers losing income. She did not qualify for DC's
+    public financing program and ran without special interest backing.
+
+    To demonstrate her governing philosophy, her team built three civic tech
+    prototypes before election day: "DC Fix It" (a redesigned 311 app with
+    geolocated reporting, neighbor request visibility, and request tracking), a
+    public budget transparency dashboard, and a Small Business Permitting Concierge
+    to help entrepreneurs navigate DC's licensing and permit process.
+
+    Her platform covers five areas. On housing: set a production goal exceeding the
+    prior 36,000-unit benchmark, eliminate parking minimums near transit, crack down
+    on predatory rental fees, protect the Housing Production Trust Fund. On public
+    safety: address MPD's $75M+ overtime problem through staffing stabilization; full
+    operational review of the public safety ecosystem; evidence-based violence
+    interruption programs; expand Late Night Hype and MBSYEP. On education: target
+    the 40% chronic absenteeism rate through interagency coordination (DCPS, OSSE,
+    health providers, family outreach); make early literacy a top priority (only 26%
+    of DC 4th graders read proficiently); expand afterschool seats in Wards 7 and 8;
+    revive the DC Youth Advisory Council as a paid leadership program. On statehood:
+    build DC statehood into a national Democratic priority; no data sharing between
+    MPD and ICE; full audit of DC government contacts with federal enforcement. On
+    transportation: refocus Vision Zero on execution with a public project dashboard;
+    bus priority and protected bike lanes where appropriate; better repair tracking.
   advisories: []
   sources:
     - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
       title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+    - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+      title: "These four candidates are also running for D.C. mayor — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-28
+    - url: https://riniformayor.com/
+      title: "Policy Platform — Rini Sampath for Mayor"
+      publisher: "Rini Sampath Campaign"
+      accessed: 2026-05-28
   positions:
     - question_id: transit_bike_bus_lanes
       stance: 1
-      explanation: "Proposes redesigning streets to prioritize pedestrians, cyclists, and public transit."
+      explanation: "Transportation platform supports bus priority, transit signal priority, protected bike lanes 'where appropriate,' and better bus lanes with enforcement of blocked bus zones. The qualifier 'where appropriate' reflects geographic judgment; overall stance is clearly supportive."
       sources:
-        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
-          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
-          publisher: ballotpedia.org
-          accessed: 2026-05-27
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
+
+    - question_id: childcare_universal
+      stance: -1
+      explanation: "Sampath favors loosening childcare regulations rather than expanding universal subsidy programs — an execution and deregulation approach contrasting with universal affordable childcare proposals."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+          title: "These four candidates are also running for D.C. mayor — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-28
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Statehood platform explicitly states: 'There should be no data sharing between MPD and ICE, and no local resources used to facilitate fear-based enforcement actions that undermine community trust.' She also pledges a full audit of every point of contact between DC government and federal enforcement agencies."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      explanation: "Platform explicitly states: 'I will protect the Housing Production Trust Fund and the Local Rent Supplement Program, while requiring better transparency on lease-up timelines and outcomes so public dollars lead to real housing placements.' Framing is protection and accountability rather than significant expansion."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "Public safety platform pledges to 'audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations.' Combines professional policing, evidence-based prevention, and youth opportunity without a purely enforcement frame."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
+
+    - question_id: parks_rec_funding
+      stance: 1
+      explanation: "Platform pledges to strengthen after-school and evening programming including 'Late Night Hype' so young residents have 'structured, safe spaces during high-risk hours,' and to expand MBSYEP with stronger job matching and long-term outcome tracking. Supports parks/rec-type investment primarily through a youth safety and opportunity lens."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
+
+    - question_id: education_mental_health_schools
+      stance: 1
+      explanation: "Education platform identifies 'untreated mental health needs' as a key driver of the 40% chronic absenteeism rate and calls for connecting at-risk students to health providers through interagency coordination. Supports mental health support as part of wraparound services strategy, though does not specifically mandate a dedicated clinician in every school."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
+
+    - question_id: education_community_schools
+      stance: 1
+      explanation: "Education platform calls for 'bringing together DCPS, charter schools, WMATA, OSSE, health providers, and family outreach teams to identify at-risk students earlier and intervene faster' — a coordinated wraparound approach aligned with the community schools model, though the specific program is not named."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
 
 - id: hope-solomon
   name: "Hope Solomon"
   election_slug: mayor
-  in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  in_fair_elections: false
+  campaign_url: https://hopefordc.com/
   endorsements: []
   short_bio: >
-    Democratic primary candidate for mayor. Campaign website and platform
-    details to be added.
+    Born and raised in DC; DC Public Schools alum. Worked inside the FBI
+    identifying system failures. Family business since 1977; small business
+    owner. "Get the basics right" platform: trash, rats, snow, permits, 911.
+    "DOGE'd" from federal position February 2026. All-volunteer campaign.
   long_bio: |
-    Hope Solomon is a Democratic candidate for mayor of Washington, D.C. in the
-    2026 primary. Additional campaign information, platform details, and
-    biographical background are pending verification from her campaign website
-    or official sources.
+    Hope Solomon was born and raised in Washington, DC and attended DC Public
+    Schools. Her parents' men's formalwear shop has been part of the city since
+    1977 — where she says she learned "what real work looks like, how to treat
+    people with dignity, and how hard it is to keep a small business alive when
+    the city that depends on you doesn't always make it easy."
+
+    She spent years working inside the FBI and alongside federal law enforcement
+    agencies, identifying system failures and fixing them — "not spinning them."
+    She lost her federal position in February 2026 amid the Trump administration's
+    DOGE-era workforce reductions and launched her mayoral campaign shortly after,
+    describing it partly as "her official way to bitch" about both the state of
+    the city and federal overreach.
+
+    Her platform is built around competence over new programs. She frames her
+    candidacy as prioritizing execution over ideology: "I'm not running to invent
+    problems to solve. I'm running to fix the ones we already live with every day —
+    trash, rats, snow removal, public safety, permits, 911 response. Get the basics
+    right first." She only supports adding programs that "actually work, are paid
+    for, and show results," and is explicit about budget limits rather than promising
+    new spending.
+
+    She ran an all-volunteer campaign with minimal fundraising (approximately $3,500
+    as of March 2026) and did not qualify for DC's public financing program. She
+    is explicitly positive about ranked-choice voting, saying it "opens the door to
+    real competition, real ideas, and real accountability" so voters can "vote for
+    who you believe in — not against who you fear."
   advisories: []
   sources:
     - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
       title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-27
-  positions: []
+    - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+      title: "These four candidates are also running for D.C. mayor — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-28
+    - url: https://hopefordc.com/
+      title: "Hope Solomon for Mayor — Campaign Website"
+      publisher: "Hope Solomon Campaign"
+      accessed: 2026-05-28
+  positions:
+    - question_id: democracy_rcv_support
+      stance: 2
+      explanation: "Campaign website frames RCV positively: 'It opens the door to real competition, real ideas, and real accountability. You can vote for who you believe in — not against who you fear. You don't have to settle for least bad.'"
+      sources:
+        - url: https://hopefordc.com/
+          title: "Hope Solomon for Mayor — Campaign Website"
+          publisher: "Hope Solomon Campaign"
+          accessed: 2026-05-28
+
+    - question_id: sanitation_rats
+      stance: 2
+      explanation: "Explicitly names rats as one of the core failures she would fix as mayor: 'You know what it's like to watch rats take over parks and sidewalks while City Hall treats it like background noise.' Listed alongside trash, snow removal, and public safety as the broken basics that must be fixed first."
+      sources:
+        - url: https://hopefordc.com/
+          title: "Hope Solomon for Mayor — Campaign Website"
+          publisher: "Hope Solomon Campaign"
+          accessed: 2026-05-28
+
+# ── WRITE-IN CANDIDATE ────────────────────────────────────────────────────────
+# Yaida Ford did not qualify for the primary ballot and is running as a write-in.
+- id: yaida-ford
+  name: "Yaida Ford"
+  election_slug: mayor
+  in_fair_elections: false
+  campaign_url: https://www.yaida4dc.com/
+  endorsements: []
+  short_bio: >
+    Write-in mayoral candidate and civil rights attorney. Two decades of
+    litigation against the DOJ, MPD, WMATA, and DC Housing Authority on behalf
+    of workers and families. Senior advocate, urban farmer, and food justice
+    activist.
+  long_bio: |
+    Yaida Ford is a write-in candidate for mayor of Washington, D.C. She did
+    not qualify for the June 16, 2026 Democratic primary ballot.
+
+    Ford is a civil rights attorney whose career began in 2005 clerking for
+    Judge Harold Cushenberry at DC Superior Court's Criminal Division. She spent
+    four years at the Legal Aid Society of DC representing disabled workers
+    seeking Social Security benefits, then served as legislative counsel to
+    Council member Jim Graham (Ward 1), focusing on job training for low-income
+    mothers. Since entering private practice in 2012 she has specialized in
+    civil rights litigation, winning verdicts or settlements against the U.S.
+    DOJ, USDA (10 settlements), MPD, WMATA, U.S. Park Police, DC Housing
+    Authority, public charter schools, and private developers.
+
+    Ford is a Marshall-Brennan Fellow who taught constitutional literacy at
+    Dunbar High School and an Abramson Fellow. Her senior advocacy work
+    includes helping elderly couples avoid foreclosure after predatory lending,
+    protecting senior landlords victimized by rental assistance fraud, and
+    challenging corporate landlords who neglect maintenance to force seniors out.
+    She has sued the District over permitting barriers to urban food production,
+    and raises backyard hens, multiple garden beds, and fruit trees at her home
+    in a DC food desert.
+
+    Her father Earl was among the first Black men hired as a soil scientist by
+    the USDA in the early 1970s; her mother Linda taught 16 years in Head Start.
+    Both parents worked Louisiana cotton fields to pay for college — a legacy
+    of resilience that Ford cites as the foundation of her civic values.
+
+    Her campaign platform emphasizes economic empowerment through vocational
+    trades and AI upskilling, DC statehood and local autonomy, government
+    accountability, balanced housing policy protecting tenants and small
+    landlords alike, DPR programming for youth, and transparent community policing.
+  advisories: []
+  sources:
+    - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+      title: "These four candidates are also running for D.C. mayor — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-28
+  positions:
+    - question_id: parks_rec_funding
+      stance: 2
+      explanation: "Campaign platform explicitly calls for DC Parks and Recreation to incorporate programming for teens and 'tweens' and pledges to collaborate with community leaders, faith leaders, coaches, and clubs to connect youth to DPR services."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+          title: "These four candidates are also running for D.C. mayor — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-28
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "Campaign values state that public safety policies 'should address the root cause of crime and incentivize strong community engagement between local police and DC residents,' while also calling for transparency in policing communities of color."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+          title: "These four candidates are also running for D.C. mayor — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-28

@@ -138,10 +138,10 @@
       publisher: dc.gov
       accessed: 2026-05-27
 
-# ── CRIME REDUCTION ──────────────────────────────────────────────────────────
+# ── COMMUNITY SAFETY & VIOLENCE PREVENTION ───────────────────────────────────
 
 - id: crime_public_health
-  issue: crime_reduction
+  issue: community_safety
   prompt: "DC should treat violence as a public health problem, investing heavily in violence interruption programs and community-based solutions — not just policing."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
@@ -154,8 +154,10 @@
       publisher: dc.gov
       accessed: 2026-05-27
 
+# ── POLICING & CRIMINAL JUSTICE ───────────────────────────────────────────────
+
 - id: crime_secure_dc
-  issue: crime_reduction
+  issue: policing
   prompt: "The 2024 Secure DC omnibus legislation — which increased penalties and expanded pre-trial detention — was the right approach to addressing DC's crime surge."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
@@ -170,7 +172,7 @@
       accessed: 2026-05-27
 
 - id: crime_more_police
-  issue: crime_reduction
+  issue: policing
   prompt: "Hiring significantly more MPD officers is a priority for reducing crime in DC."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
@@ -246,10 +248,10 @@
       publisher: dcboe.org
       accessed: 2026-05-27
 
-# ── FAIR ELECTIONS PROGRAM ───────────────────────────────────────────────────
+# ── DEMOCRACY & ELECTIONS ────────────────────────────────────────────────────
 
 - id: fair_elections_participation
-  issue: economic_development
+  issue: democracy
   prompt: "Candidates for DC office should participate in the DC Fair Elections Program, which matches small-dollar donations 5:1 and bans corporate contributions."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds, delegate]
   explanation: |
@@ -261,3 +263,134 @@
       title: "Fair Elections Program 2026 — DC Office of Campaign Finance"
       publisher: dc.gov
       accessed: 2026-05-27
+
+- id: democracy_rcv_support
+  issue: democracy
+  prompt: "DC should preserve and fully implement Initiative 83's ranked choice voting for local primary elections."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds, delegate]
+  explanation: |
+    Voters approved Initiative 83 in November 2024, introducing ranked choice voting
+    for DC's local primaries. Implementation and any potential legislative rollback
+    have been contested. Several 2026 candidates were active in the RCV campaign.
+  sources:
+    - url: https://dcboe.org/Elections/2024-Elections/Initiative-83
+      title: "Initiative 83 — Ranked Choice Voting — DC Board of Elections"
+      publisher: dcboe.org
+      accessed: 2026-05-28
+
+# ── FEDERAL WORKER PROTECTIONS ───────────────────────────────────────────────
+
+- id: federal_workers_advocate
+  issue: federal_workers
+  prompt: "DC should use all available legal tools — including litigation and public advocacy — to protect federal workers from unlawful terminations and defend federal agencies from forced relocation out of the District."
+  applies_to_elections: [mayor, delegate]
+  explanation: |
+    Washington, DC has more than 160,000 federal employees. The Trump administration's
+    DOGE-driven workforce reductions have resulted in mass terminations and proposals
+    to relocate federal agencies. Candidates differ on how aggressively DC should respond.
+  sources:
+    - url: https://ocfo.dc.gov/
+      title: "Office of the Chief Financial Officer — DC"
+      publisher: dc.gov
+      accessed: 2026-05-28
+
+# ── ENVIRONMENT & CLEAN ENERGY ───────────────────────────────────────────────
+
+- id: environment_renewable_energy
+  issue: environment
+  prompt: "DC should aggressively accelerate its transition to 100% renewable energy — installing solar on public buildings and investing in geothermal and other clean sources — to cut utility costs and reduce emissions."
+  applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds, delegate]
+  explanation: |
+    DC has a Renewable Portfolio Standard targeting 100% renewable electricity by
+    2032. Candidates differ on how proactively the District should invest public
+    resources in solar, geothermal, and clean energy infrastructure beyond current
+    mandates.
+  sources:
+    - url: https://doee.dc.gov/service/renewable-energy
+      title: "Renewable Energy — DC Department of Energy and Environment"
+      publisher: dc.gov
+      accessed: 2026-05-28
+
+- id: environment_data_centers
+  issue: environment
+  prompt: "DC should place limits on new data center construction in the District, given the enormous strain they place on the electricity grid and local water supplies."
+  applies_to_elections: [mayor, at_large_mcduffie, delegate]
+  explanation: |
+    Northern Virginia hosts the world's largest concentration of data centers, and
+    DC faces pressure to expand its own. Large data centers require massive amounts
+    of electricity and water for cooling, raising concerns about grid reliability
+    and environmental impact.
+  sources:
+    - url: https://doee.dc.gov/
+      title: "DC Department of Energy and Environment"
+      publisher: dc.gov
+      accessed: 2026-05-28
+
+# ── PARKS & RECREATION ───────────────────────────────────────────────────────
+
+- id: parks_rec_funding
+  issue: parks_recreation
+  prompt: "DC should increase funding for the Department of Parks and Recreation — including extended rec center hours and expanded youth and senior programming — rather than cut or flat-fund DPR."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's Department of Parks and Recreation (DPR) operates 70+ facilities and
+    provides youth jobs, after-school programs, senior services, and community
+    programming. Budget pressures have led to reduced hours and staff at some
+    facilities in recent years.
+  sources:
+    - url: https://dpr.dc.gov/
+      title: "Department of Parks and Recreation"
+      publisher: dc.gov
+      accessed: 2026-05-28
+
+# ── SANITATION & RATS ────────────────────────────────────────────────────────
+
+- id: sanitation_rats
+  issue: sanitation
+  prompt: "DC should implement a comprehensive citywide rodent control program — including replacing standard trash containers with rodent-proof bins — to address the District's chronic rat infestation."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC consistently ranks among the most rat-infested cities in the US. Solutions
+    proposed by candidates include rodent-proof steel trash containers across all
+    wards, better DPW coordination, and systematic extermination programs.
+  sources:
+    - url: https://dpw.dc.gov/service/rodent-control
+      title: "Rodent Control — DC Department of Public Works"
+      publisher: dc.gov
+      accessed: 2026-05-28
+
+# ── HARM REDUCTION & DRUG POLICY ─────────────────────────────────────────────
+
+- id: harm_reduction_safe_injection
+  issue: harm_reduction
+  prompt: "DC should open safe injection sites (overdose prevention centers) where people can use drugs under medical supervision to prevent overdose deaths."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Safe injection sites (also called overdose prevention centers) allow people to
+    use pre-obtained drugs under medical supervision, with staff who can intervene
+    in an overdose. New York City opened the first legally sanctioned sites in the
+    US in 2021. In 2023, Janeese Lewis George requested $15 million in DC's FY2024
+    budget to open two such centers. DC has one of the highest overdose death rates
+    among US jurisdictions.
+  sources:
+    - url: https://app.dccouncil.gov/
+      title: "DC Council — Budget Hearing Records"
+      publisher: dccouncil.gov
+      accessed: 2026-05-28
+
+# ── CHILDCARE & EARLY CHILDHOOD ──────────────────────────────────────────────
+
+- id: childcare_universal
+  issue: childcare
+  prompt: "DC should expand subsidized childcare into a universal program — available to all DC residents regardless of income — building on the Pre-K Enhancement and Expansion Program (PKEEP)."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's Pre-K Enhancement and Expansion Program (PKEEP) currently provides
+    free, high-quality pre-K for three- and four-year-olds. Several candidates
+    support expanding subsidies to cover infant and toddler care, making childcare
+    universally affordable for all DC residents.
+  sources:
+    - url: https://osse.dc.gov/service/pre-k-enhancement-and-expansion-program-pkeep
+      title: "Pre-K Enhancement and Expansion Program (PKEEP) — OSSE"
+      publisher: dc.gov
+      accessed: 2026-05-28

@@ -28,11 +28,19 @@
     Funding for DC public schools (DCPS and charters), community schools, early
     childhood education, and out-of-school programming for youth.
 
-- id: crime_reduction
-  label: "Crime Reduction Approach"
+- id: community_safety
+  label: "Community Safety & Violence Prevention"
   description: >
-    Whether DC should prioritize traditional law enforcement measures, public-health
-    approaches to violence (such as violence interrupters and the NEAR Act), or both.
+    Public-health and community-based approaches to reducing violence — including
+    violence interrupters, the NEAR Act, and trauma-informed services — as distinct
+    from traditional policing strategies.
+
+- id: policing
+  label: "Policing & Criminal Justice"
+  description: >
+    Traditional law-enforcement approaches to public safety: MPD staffing levels,
+    criminal penalties, pre-trial detention, and legislation like the Secure DC
+    Omnibus Act.
 
 - id: youth_curfew
   label: "Youth Curfews"
@@ -49,5 +57,55 @@
 - id: economic_development
   label: "Economic Development"
   description: >
-    Policies to attract businesses, support local workers, and ensure DC's budget
-    remains healthy — especially in the face of federal workforce reductions.
+    Policies to attract businesses, support local workers, and maintain a healthy
+    District budget — including responses to commercial real estate vacancies and
+    downtown recovery.
+
+- id: democracy
+  label: "Democracy & Elections"
+  description: >
+    How DC conducts its elections and whether candidates accept small-dollar public
+    financing — including the DC Fair Elections Program and ranked choice voting
+    (Initiative 83).
+
+- id: federal_workers
+  label: "Federal Worker Protections"
+  description: >
+    How DC should respond to Trump-era mass federal workforce reductions, including
+    whether to use litigation, sanctuary policies, or public advocacy to protect the
+    more than 160,000 federal workers who live or work in the District.
+
+- id: environment
+  label: "Environment & Clean Energy"
+  description: >
+    DC's transition to renewable energy, climate resilience, environmental justice,
+    and the impact of large-scale infrastructure — such as data centers — on the
+    District's electricity grid and environment.
+
+- id: parks_recreation
+  label: "Parks & Recreation"
+  description: >
+    Funding and programming for DC's Department of Parks and Recreation — including
+    rec center hours, youth employment programs, senior services, and public green space.
+
+- id: sanitation
+  label: "Sanitation & Rats"
+  description: >
+    DC's approach to rodent control, trash infrastructure, and public cleanliness —
+    including whether to deploy rodent-proof trash containers citywide and increase
+    DPW coordination on extermination.
+
+- id: harm_reduction
+  label: "Harm Reduction & Drug Policy"
+  description: >
+    Whether DC should adopt harm reduction approaches to the opioid crisis —
+    including safe injection sites (overdose prevention centers) where people can
+    use drugs under medical supervision — rather than relying solely on enforcement
+    and traditional treatment.
+
+- id: childcare
+  label: "Childcare & Early Childhood"
+  description: >
+    Whether DC should expand subsidized childcare — including through universal
+    programs built on the Pre-K Enhancement and Expansion Program (PKEEP) — to
+    make childcare affordable for all District residents.
