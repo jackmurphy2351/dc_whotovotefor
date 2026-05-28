@@ -224,6 +224,29 @@ These are Markdown files in `content/resources/` with YAML front-matter declarin
 
 ---
 
+## Deploying to Render (free tier)
+
+This is a Flask/WSGI app — it **cannot** be deployed on Streamlit. Use [Render](https://render.com), [Fly.io](https://fly.io), or [Railway](https://railway.app) instead.
+
+### Render (recommended — free, no credit card required)
+
+1. Go to [render.com](https://render.com) and sign in with GitHub.
+2. Click **New → Web Service** and connect the `dc_whotovotefor` repository.
+3. Render will auto-detect the `Procfile`. Confirm these settings:
+   - **Environment:** Python
+   - **Build Command:** `pip install -r requirements.txt`
+   - **Start Command:** `gunicorn app:app`
+4. Under **Environment Variables**, add:
+   - `FLASK_ENV` = `production`
+   - `SECRET_KEY` = *(generate a random string, e.g. `python3 -c "import secrets; print(secrets.token_hex(32))"` )*
+5. Click **Deploy**. Render will build and serve the app on a `*.onrender.com` URL.
+
+On every `git push` to `main`/`master`, Render will automatically redeploy.
+
+> **Note:** On Render's free tier the app will spin down after 15 minutes of inactivity and take ~30 seconds to cold-start on the next request. This is fine for a civic-tech app that sees bursty election-season traffic.
+
+---
+
 ## Contributing
 
 Pull requests welcome. The most useful contributions right now are:
