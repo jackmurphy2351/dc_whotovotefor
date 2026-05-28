@@ -1,6 +1,6 @@
 # Help Me Vote DC 2026!
 
-An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across five races using an OKCupid-style weighted questionnaire.
+An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across five races.
 
 > **Why the primary matters:** In DC local politics, the Democratic Primary is effectively the general election. The District has not elected a Republican mayor since 1954. Winning the June 16 primary is, for most races, winning the seat.
 
@@ -63,7 +63,7 @@ python -m pytest
 ```
 
 All 21 tests should pass. The test suite covers:
-- Scoring algorithm edge cases (importance weighting, null stances, coverage warnings)
+- Scoring algorithm edge cases (null stances, skipped questions, agreement calculation)
 - Data loader validation (duplicate IDs, missing sources, unknown question references)
 - Flask route smoke tests (all routes return 200)
 
@@ -109,24 +109,20 @@ dc_whotovotefor/
 
 ## Scoring algorithm
 
-The match percentage is calculated per candidate using a weighted alignment formula inspired by OKCupid:
+For each question you answer, the app computes an agreement score between your stance and the candidate's:
 
 ```
 For each question where:
-  - user importance > 0  (not "doesn't matter to me")
-  - user answered with a stance  (not "no opinion")
+  - user answered with a stance  (not skipped / no opinion)
   - candidate has a known stance  (not null/unknown)
 
   distance  = abs(user_stance - candidate_stance)   # 0..4
   agreement = 1 - (distance / 4.0)                 # 1.0 = perfect, 0.0 = opposite
-  weight    = user_importance                        # 1..3
 
-match_percent = 100 × Σ(agreement × weight) / Σ(weight)
+match_percent = 100 × Σ(agreement) / n
 ```
 
-Stances run from **−2** (strongly opposes) to **+2** (strongly supports). A candidate with no known stances on any of your weighted questions is shown as "Insufficient data" rather than scored at 0%.
-
-A **coverage warning** appears when a candidate is missing stances on questions you rated as high-importance (≥ 2).
+Stances run from **−2** (strongly opposes) to **+2** (strongly supports). A candidate with no known stances on any of your answered questions is shown as "Insufficient data" rather than scored at 0%.
 
 ---
 

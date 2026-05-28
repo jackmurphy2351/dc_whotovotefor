@@ -37,7 +37,7 @@ def quiz(slug: str):
     issue = content.issues.get(question.issue)
 
     saved = session.get(_session_key(slug), {})
-    saved_stance, _ = saved.get(question.id, (None, None))
+    saved_stance = saved.get(question.id)
     if request.args.get("fresh"):
         saved_stance = None
 
@@ -68,7 +68,7 @@ def quiz_post(slug: str):
 
         saved = session.get(_session_key(slug), {})
         stance = int(raw_stance) if raw_stance not in (None, "", "skip") else None
-        saved[qid] = (stance, 1)
+        saved[qid] = stance
         session[_session_key(slug)] = saved
 
     next_step = step + 1
@@ -89,7 +89,7 @@ def results(slug: str):
     issues = content.issues
     saved: dict = session.get(_session_key(slug), {})
 
-    all_zero = all(imp == 0 for (_, imp) in saved.values()) if saved else True
+    all_zero = not saved or all(s is None for s in saved.values())
 
     scored = [
         match_score(saved, c, questions, issues)

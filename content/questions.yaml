@@ -1,6 +1,5 @@
 # Quiz questions for Help Me Vote DC 2026!
-# Each question is a statement users agree/disagree with (-2 to +2)
-# and rate by importance (0–3).
+# Each question is a statement users agree/disagree with (-2 to +2).
 #
 # stance scale:  -2 strongly opposes / -1 opposes / 0 neutral / 1 supports / 2 strongly supports
 # null = no known stance (excluded from scoring)

@@ -5,7 +5,7 @@ sources:
     title: "About the DC Council"
     publisher: dccouncil.gov
     accessed: 2026-05-27
-  - url: https://dccouncil.gov/ward-boundaries/
+  - url: https://dccouncil.gov/wards/
     title: "Ward Boundaries — DC Council"
     publisher: dccouncil.gov
     accessed: 2026-05-27

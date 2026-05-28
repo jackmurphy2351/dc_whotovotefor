@@ -9,7 +9,7 @@
   <p>
     <strong>Help Me Vote DC 2026!</strong> is a free, open-source voter guide for Washington, DC's
     June 16, 2026 Democratic Primary elections. It helps you compare candidates based on the issues
-    you actually care about, using a weighted questionnaire inspired by OKCupid's matching system.
+    you actually care about, using a 5-point Likert scale.
   </p>
 </section>
 
@@ -38,16 +38,15 @@
 <section>
   <h2>Methodology</h2>
   <p>
-    The quiz uses a weighted alignment score: for each question, we compare your answer to
-    the candidate's stance and compute an agreement score (1.0 = perfect match, 0.0 = opposite).
-    That score is multiplied by your importance rating (0–3). Questions you skip or rate as
-    "not important" are excluded. The final percentage reflects the weighted average across
-    all included questions.
+    For each question you answer, we compare your stance to the candidate's and compute an
+    agreement score: 1.0 for a perfect match, 0.0 for the opposite position, with intermediate
+    values for partial agreement. Questions you skip are excluded. The final match percentage
+    is the average agreement score across all questions you answered where the candidate has
+    a known public stance.
   </p>
   <p>
-    A "coverage warning" appears if a candidate lacks a known public stance on issues
-    you rated as very or extremely important — so a high match score based on thin data
-    is flagged.
+    A candidate with no known stances on any of your answered questions is shown as
+    "Insufficient data" rather than scored at 0%.
   </p>
 </section>
 
