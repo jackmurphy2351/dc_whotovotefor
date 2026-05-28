@@ -46,6 +46,15 @@
           publisher: "Robert White Campaign"
           accessed: 2026-05-27
 
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Opposes MPD cooperation with ICE and supports DC's sanctuary values; answered Yes to opposing Congress increasing police presence in DC."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce90fc2559e5d7c6a5bcc/1771890959907/Robert+White+Free+DC+Candidate+Questionnaire.pdf
+          title: "Robert White — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
     - question_id: fair_elections_participation
       stance: 2
       explanation: "Participating in the DC Fair Elections Program."
@@ -78,6 +87,15 @@
     - question_id: statehood_top_priority
       stance: 2
       explanation: "Strong proponent of DC statehood."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
+          title: "Trent Holbrook — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Answered Yes to all sanctuary-related questions in his Free DC questionnaire, including opposing MPD/ICE cooperation and opposing Congress increasing police in DC."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
           title: "Trent Holbrook — Free DC Candidate Questionnaire"
@@ -185,8 +203,26 @@
           accessed: 2026-05-27
 
     - question_id: statehood_top_priority
+      stance: 2
+      explanation: "Strongly supports DC statehood; stated it as a top priority in her Free DC questionnaire response."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
+          title: "Brooke Pinto — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Expressed support for ending MPD/ICE cooperation; stated she wants to 'get rid of ICE' in her Free DC questionnaire response."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
+          title: "Brooke Pinto — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
+    - question_id: crime_more_police
       stance: 1
-      explanation: "Supports DC statehood."
+      explanation: "Supports rebuilding MPD, noting it is at a 50-year staffing low, while opposing federal militarization of DC policing."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
           title: "Brooke Pinto — Free DC Candidate Questionnaire"

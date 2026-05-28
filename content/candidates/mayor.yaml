@@ -185,15 +185,6 @@
           publisher: dccouncil.gov
           accessed: 2026-05-27
 
-    - question_id: crime_more_police
-      stance: 2
-      explanation: "Campaign platform explicitly calls for fully staffing MPD."
-      sources:
-        - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
-          title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
-          publisher: ballotpedia.org
-          accessed: 2026-05-27
-
     - question_id: youth_curfew_support
       stance: 1
       explanation: "Conditionally supports teen curfews as a short-term measure alongside alternative programming, jobs, and mental health access."
