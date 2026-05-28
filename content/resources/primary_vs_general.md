@@ -18,9 +18,9 @@ The District has voted for the Democratic presidential candidate by margins exce
 recent election. The Republican Party runs candidates in DC general elections, but has not won a
 competitive citywide race in decades.
 
-## What this means for the June 2 primary
+## What this means for the June 16 primary
 
-For most DC local races, the Democratic Primary on **June 2, 2026** is the decisive contest.
+For most DC local races, the Democratic Primary on **June 16, 2026** is the decisive contest.
 Whoever wins the primary will almost certainly win the November general election.
 
 This means the real choice — the one that will actually determine who serves as mayor, who sits
