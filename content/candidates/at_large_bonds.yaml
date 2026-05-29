@@ -7,30 +7,56 @@
   name: "Kevin B. Chavous"
   election_slug: at_large_bonds
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://www.chavousfordc.com/
   endorsements:
-    - "Anita Bonds (retiring At-Large Councilmember)"
+    # Named endorsers
+    - "Eric Holder (Former US Attorney General)"
+    - "Anita Bonds (retiring DC At-Large Councilmember)"
+    - "Charlene Drew Jarvis (Former Ward 4 Councilmember)"
+    # Organizations
+    - "AFSCME District Council 20"
+    - "ElectED DC (Empowering DC Wards 7 & 8)"
+    - "Greater Capital Area Association of REALTORS"
+    - "Moms Demand Gun Sense (2026 candidate distinction)"
   short_bio: >
-    Attorney and DC Council staffer (age 41); son of former Ward 7 Councilmember
-    Kevin P. Chavous. Howard BA + JD. Director of council's labor committee
-    under Anita Bonds. Deep TOPA background from tenant organizing work.
+    Attorney (Howard BA + JD); Ward 7 resident and father; son of former Ward 7
+    Councilmember Kevin P. Chavous. Four years as Committee Director under Anita
+    Bonds (Executive Administration and Labor committee). Tenant organizer under
+    TOPA (undergrad); AARP housing law intern (law school); studied at South
+    Africa's largest law firm. DNC National Committeeman; former DC Young Democrats
+    president. Endorsed by former AG Eric Holder and Anita Bonds.
   long_bio: |
     Kevin B. Chavous (age 41) grew up in a household steeped in DC politics: his
     father, Kevin P. Chavous, represented Ward 7 on DC Council from the early 1990s
     through 2005. A formative experience visiting a fire-damaged public housing complex
-    with his father instilled a lifelong interest in fair housing. As an undergraduate
-    at Howard University, he worked at Housing Counseling Services helping tenants
-    organize under TOPA. During Howard Law School, he spent summers at AARP's Legal
-    Housing for the Elderly. After law school he ran his own practice until 2022,
-    when he became director of the DC Council's Committee on Executive Administration
-    and Labor, chaired by Councilmember Anita Bonds. Bonds has endorsed him for her
-    seat. He lives in Ward 7 but sends his kids to school in Ward 3 because of
-    resource inequities — a gap he says he wants to close. Key platform priorities:
-    out-of-school time programming, school counselors and nurses in every school,
-    and raising inclusionary zoning requirements from 8–10% to 15% of residential
-    floor area.
+    with his father instilled a lifelong interest in fair housing. He is a proud
+    graduate of Howard University (BA in political science with honors, then JD);
+    as an undergraduate he worked at Housing Counseling Services helping low-income
+    tenants understand their rights and organize under TOPA. During law school he
+    worked at AARP assisting seniors facing foreclosure tied to property tax issues
+    and reverse mortgages, and studied abroad in South Africa — interning at the
+    country's largest law firm, which broadened his perspective on justice and
+    governance. After bar admission in 2012, he ran a practice focused on housing,
+    landlord-tenant matters, real estate, and personal injury.
+
+    Most recently he spent four years as Committee and Policy Director for
+    At-Large Councilmember Anita Bonds's Committee on Executive Administration
+    and Labor, leading legislative strategy and agency oversight across all eight
+    wards. In civic life he has served as DC's National Committeeman to the DNC,
+    president of the DC Young Democrats, and board member of the United Planning
+    Organization. He is a member of St. Timothy's Episcopal Church and is married
+    to Ashley; they are raising their children Kendall and Cameron in Ward 7,
+    though he sends his kids to school in Ward 3 because of resource inequities —
+    a gap he says he wants to close. His platform centers on safer streets,
+    affordable housing (raising inclusionary zoning to 15% of residential floor
+    area), early education, workforce development, senior supports, and protecting
+    DC Home Rule and immigrant civil rights.
   advisories: []
   sources:
+    - url: https://www.chavousfordc.com/
+      title: "Kevin Chavous for DC Council — Campaign Website"
+      publisher: "Kevin Chavous Campaign"
+      accessed: 2026-05-29
     - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
@@ -38,8 +64,12 @@
   positions:
     - question_id: housing_topa_restore
       stance: 2
-      explanation: "Built his early career organizing tenant associations under TOPA at Howard University. Supports maintaining and restoring tenant purchase rights."
+      explanation: "Built his early career organizing tenant associations under TOPA at Housing Counseling Services; law practice centered on housing and landlord-tenant matters. Platform explicitly supports protecting tenants and enforcing housing laws clearly and consistently."
       sources:
+        - url: https://www.chavousfordc.com/
+          title: "Kevin Chavous for DC Council — Campaign Website"
+          publisher: "Kevin Chavous Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
@@ -47,23 +77,37 @@
 
     - question_id: education_mental_health_schools
       stance: 2
-      explanation: "Wants every school to have a counselor and a nurse regardless of enrollment or funding level, especially in schools in 'areas hardest hit by trauma.'"
+      explanation: "Wants every school to have a counselor and nurse regardless of enrollment, especially in areas hardest hit by trauma. Platform calls for expanding targeted mental health and crisis-response services to prevent violence before it occurs."
       sources:
+        - url: https://www.chavousfordc.com/
+          title: "Kevin Chavous for DC Council — Campaign Website"
+          publisher: "Kevin Chavous Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
 
+    - question_id: mpd_ice_cooperation
+      stance: 1
+      explanation: "Platform commits to protecting civil rights of Latino and immigrant communities, keeping families together, and ensuring access to legal representation. Does not explicitly pledge to stop MPD/ICE cooperation but frames immigrant protection as a civil rights priority."
+      sources:
+        - url: https://www.chavousfordc.com/
+          title: "Kevin Chavous for DC Council — Campaign Website"
+          publisher: "Kevin Chavous Campaign"
+          accessed: 2026-05-29
+
 - id: dwight-davis
   name: "Dwight Davis"
   election_slug: at_large_bonds
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://dwight4dccouncil.com
   endorsements: []
   short_bio: >
-    Lifelong Washingtonian and DCPS educator (age 51). 20 years as a 5th-grade
-    teacher at DCPS; former school principal. BA from Albright College; graduate
-    degrees in divinity and education from Princeton. Father of four.
+    Born and raised in DC; DCPS teacher and elementary/middle school principal;
+    nonprofit leader. BA from Albright College; graduate degrees in divinity and
+    education from Princeton Theological Seminary. Married 25 years to wife Kenya;
+    father of four sons. Explicitly supports DC statehood as a civil right.
   long_bio: |
     Dwight Davis (age 51) was born and raised in DC by his grandparents, whom
     he describes as "old-school Washingtonians." He attended DC public schools
@@ -71,16 +115,29 @@
     basketball at Albright College in Pennsylvania — a passion that took him to
     Colombia for semi-professional play and later to England. He earned graduate
     degrees in divinity and education from Princeton Theological Seminary (2004)
-    before returning to DC as a DCPS fifth-grade teacher for twenty years.
+    before returning to DC as a DCPS educator and later elementary and middle
+    school principal (including at Ron Brown College Preparatory High School).
+    After 20+ years in education he moved into nonprofit and philanthropic work.
+    He and his wife
+    Kenya (married 25 years) are raising their four sons in DC, navigating the
+    same public and charter schools as the families he hopes to represent.
 
     "Education is my jam," says Davis. "It cuts through all of the other issues.
-    If we have an educated populace, our crime rates drop." As a father of four,
-    affordability is also a top priority — particularly workforce housing for
-    teachers, firefighters, nurses, and police. He believes his background running
-    a classroom of 30 constituents with different needs gives him exactly the
-    leadership skills the council needs.
+    If we have an educated populace, our crime rates drop." He draws a direct
+    analogy between running a school and running the council — balancing the
+    urgent needs of individual classrooms (wards) with citywide equity. As a
+    father of four, affordability is a top priority, particularly workforce
+    housing for teachers, firefighters, nurses, and police. He also has an
+    explicit statehood platform, calling DC self-government "a civil right" and
+    calling Congress's interference in local affairs "unacceptable." He supports
+    building national coalitions to advance statehood, defending budget autonomy,
+    and fighting for full voting representation in Congress.
   advisories: []
   sources:
+    - url: https://dwight4dccouncil.com
+      title: "Dwight Davis for DC Council — Campaign Website"
+      publisher: "Dwight Davis Campaign"
+      accessed: 2026-05-29
     - url: https://ballotpedia.org/Dwight_Davis_(Washington,_D.C.)
       title: "Dwight Davis — Ballotpedia"
       publisher: ballotpedia.org
@@ -89,15 +146,36 @@
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
       accessed: 2026-05-27
+    - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+      title: "Youth Engagement, Education Policy — Washington Informer"
+      publisher: "Washington Informer"
+      accessed: 2026-05-29
   positions:
     - question_id: education_community_schools
       stance: 2
-      explanation: "Education is his central platform issue. Wants every DC school — regardless of enrollment or funding — to have adequate resources, counselors, and nurses."
+      explanation: "Education is his central platform issue — career as DCPS teacher, principal at Ron Brown College Preparatory High School, and nonprofit leader. Wants every DC school to have adequate resources regardless of zip code, with strong middle school programming, mental health supports, family partnerships, and career pathways. Advocates a standalone Council education committee for more robust policy conversations, and says DC 'isn't going to be able to legislate its way out of an adaptive problem' — preferring youth dialogue and college/career development over enforcement-only approaches."
       sources:
+        - url: https://dwight4dccouncil.com
+          title: "Dwight Davis for DC Council — Campaign Website"
+          publisher: "Dwight Davis Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+          title: "Youth Engagement, Education Policy — Washington Informer"
+          publisher: "Washington Informer"
+          accessed: 2026-05-29
+
+    - question_id: statehood_top_priority
+      stance: 2
+      explanation: "Explicitly calls DC self-government 'a civil right' and Congress's interference in local affairs 'unacceptable.' Platform calls for protecting Home Rule, defending budget autonomy, supporting an independent Attorney General, fighting for full voting representation, and building national coalitions for DC statehood."
+      sources:
+        - url: https://dwight4dccouncil.com
+          title: "Dwight Davis for DC Council — Campaign Website"
+          publisher: "Dwight Davis Campaign"
+          accessed: 2026-05-29
 
 - id: dyana-forester
   name: "Dyana Forester"
@@ -161,26 +239,39 @@
     for the whole city."
 
     If elected, Hill would propose that any affordable housing project receiving city
-    financing be fast-tracked to prevent bureaucratic delays from killing projects.
+    financing be fast-tracked to prevent bureaucratic delays from killing projects;
+    he also calls for more 3+ bedroom units built for families, and collaboration
+    with Congress to relax the federal Height of Building Act to enable denser
+    development. He advocates AI and entrepreneurial education curricula for DC
+    youth and wants to grow biotech and high-tech sectors to diversify the economy.
     A business-friendly moderate, he argues the council needs a private-sector voice:
     "There are 13 members and almost all of them came from inside the system. I'm
-    coming from the private sector." He supports Kenyan McDuffie for mayor and favors
-    strategic — rather than activist — resistance to federal overreach.
+    coming from the private sector." He supports Kenyan McDuffie for mayor, favors
+    strategic — rather than activist — resistance to federal overreach, and supports
+    police-community advisory commissions to improve collaboration.
   advisories: []
   sources:
     - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
       accessed: 2026-05-27
+    - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+      title: "Youth Engagement, Education Policy — Washington Informer"
+      publisher: "Washington Informer"
+      accessed: 2026-05-29
   positions:
     - question_id: housing_production_trust_fund
       stance: 2
-      explanation: "Would fast-track any affordable housing project that receives city financing to prevent bureaucratic delay. BZA experience showed him how projects die in the permitting process."
+      explanation: "Would fast-track any affordable housing project receiving city financing to prevent bureaucratic delay; BZA experience showed him how projects die in the permitting process. Also supports 3+ bedroom family units and working with Congress to relax the federal Height of Building Act to enable denser DC development."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+          title: "Youth Engagement, Education Policy — Washington Informer"
+          publisher: "Washington Informer"
+          accessed: 2026-05-29
 
 - id: greg-jackson-jr
   name: "Greg Jackson Jr."
@@ -250,17 +341,18 @@
   campaign_url: null  # TODO: add campaign URL
   endorsements: []
   short_bio: >
-    Deanwood ANC alum and small business owner (age 40); arrived in DC as an
-    unpaid Hill intern. Ran Capitol Living (home care agency) 10 years. Ran against
-    Bonds in 2021, then worked in Bonds' office. Running on equity, education,
-    and environmental justice.
+    Deanwood ANC alum, small business owner, and children's book author (age 40);
+    arrived in DC as an unpaid Hill intern. Ran Capitol Living (home care agency)
+    10 years. Ran against Bonds in 2021, then worked in Bonds' office. Running on
+    equity, education, and environmental justice. Opposes youth curfews as punitive.
   long_bio: |
     Leniqua'dominique Jenkins (age 40) arrived in Washington in 2010 as an unpaid
     intern for Rep. Alan Grayson, working a second retail job in the evenings to
     make rent. She earned a certificate in entrepreneurship at Operation Hope and
     used it to launch Capitol Living, a home care agency she ran for ten years —
     training her father and brother (who were re-entering society after incarceration)
-    as care assistants.
+    as care assistants. She is also a children's book author and attended a language
+    immersion school growing up.
 
     She served one term as an ANC commissioner in Deanwood, focused on environmental
     justice. In 2021 she ran for the At-Large seat against Bonds but didn't make the
@@ -270,22 +362,43 @@
     "a macro example of what's happening at a micro level throughout the city."
 
     Her "three E's" platform: equity, education, and environmental justice. Top
-    priorities include third-grade reading proficiency and modernizing senior services.
+    priorities include literacy (noting that 119,000 DC adults read at a third-grade
+    level), phonics instruction, civic engagement, and modernizing senior services.
+    She opposes targeted youth curfews, calling the approach "punitive," and instead
+    emphasizes green jobs, homeownership, tenant protections, police-community
+    relations, and caregiver support through workplace flexibility.
   advisories: []
   sources:
     - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
       accessed: 2026-05-27
+    - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+      title: "Youth Engagement, Education Policy — Washington Informer"
+      publisher: "Washington Informer"
+      accessed: 2026-05-29
   positions:
     - question_id: education_mental_health_schools
       stance: 2
-      explanation: "Prioritizes third-grade reading proficiency as a key indicator of lifelong outcomes. Wants modernized, accessible senior services. Represents under-resourced communities east of the Anacostia River."
+      explanation: "Prioritizes literacy as a youth development engine, noting 119,000 DC adults struggle to read at a third-grade level. Advocates phonics instruction, pen-pal programs, and civic engagement as youth development tools. Also prioritizes modernized, accessible senior services."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+          title: "Youth Engagement, Education Policy — Washington Informer"
+          publisher: "Washington Informer"
+          accessed: 2026-05-29
+
+    - question_id: youth_curfew_support
+      stance: -1
+      explanation: "Opposes targeted youth curfews, calling the approach 'punitive.' Favors literacy, civic engagement, green jobs, and community investment as the path to youth safety — not enforcement restrictions."
+      sources:
+        - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+          title: "Youth Engagement, Education Policy — Washington Informer"
+          publisher: "Washington Informer"
+          accessed: 2026-05-29
 
 - id: candace-nelson
   name: "Candace Tiana Nelson"
@@ -380,13 +493,19 @@
   in_fair_elections: false  # TODO: verify
   campaign_url: null  # TODO: add campaign URL
   endorsements:
-    - "Greater Greater Washington (pro-transit group)"
-    - "DC Yimbys (pro-housing group)"
+    - "Charles Allen (Ward 6 DC Councilmember)"
+    - "Mary Cheh (Former Ward 3 DC Councilmember)"
+    - "Laura Slover (Former DC SBOE President)"
+    - "Sekou Biddle (Former DC SBOE Member)"
+    - "Greater Greater Washington"
+    - "DC YIMBYs"
     - "DC Association of Realtors"
   short_bio: >
-    Education policy veteran and former DC AG chief of staff (age 56). Served on DC
-    State Board of Education (2006); chief of staff to AG Karl Racine (2018–2020).
-    Lives on Capitol Hill. Originally from Connecticut.
+    Education policy veteran and former DC AG chief of staff (age 56). COO at Cesar
+    Chavez Charter; DC State Board of Education 2006 (Wards 5 & 6); senior education
+    advisor under Council Chair Kwame Brown; chief of staff to AG Karl Racine
+    (2018–2020); currently major gifts officer at Covenant House. Capitol Hill
+    resident. Endorsed by Councilmember Charles Allen and former Councilmember Mary Cheh.
   long_bio: |
     Lisa Raymond (age 56) came to DC from Connecticut in the late 1990s and was drawn
     into education policy by helping paint the walls of what would become Cesar Chavez
@@ -394,31 +513,45 @@
     and later chief operating officer, where she saw firsthand how many high schoolers
     arrived years behind grade level. In 2006 she won a seat on the DC State Board of
     Education (representing Wards 5 and 6), only to see its powers transferred to the
-    mayor shortly after.
+    mayor shortly after. She then served as senior education advisor to then-Council
+    Chair Kwame Brown and as chief of staff to DC Attorney General Karl Racine from
+    2018 to 2020. She currently serves as major gifts officer at Covenant House, the
+    organization serving homeless youth.
 
-    She then served as a senior advisor on education for DC Council's Committee of the
-    Whole (from 2011), and as chief of staff to DC Attorney General Karl Racine from
-    2018 to 2020. A Capitol Hill resident and mother of two, her top priorities are
-    childcare, housing, and education. On housing: "We have to take a good look at
-    what we are doing as a city, what we're doing that gets in the way — but it's not
-    an invitation to developers to come in here and do whatever they want." She is
-    endorsed by Greater Greater Washington, DC Yimbys, and the DC Association of
-    Realtors.
+    A Capitol Hill resident and mother of two DCPS alumni, her top priorities are
+    early childhood education (Pre-K3/Pre-K4 expansion with better-paid early
+    childhood educators), career and technical education, full classroom staffing
+    and school modernization (including safe water and functional HVAC systems), and
+    parent advocacy bridge-building. "I don't see another champion for education at
+    the moment," she says. On housing: "We have to take a good look at what we are
+    doing as a city, what we're doing that gets in the way — but it's not an
+    invitation to developers to come in here and do whatever they want." She is
+    endorsed by Councilmember Charles Allen, former Councilmember Mary Cheh, former
+    SBOE President Laura Slover, former SBOE member Sekou Biddle, Greater Greater
+    Washington, DC YIMBYs, and the DC Association of Realtors.
   advisories: []
   sources:
     - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
       accessed: 2026-05-27
+    - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+      title: "Youth Engagement, Education Policy — Washington Informer"
+      publisher: "Washington Informer"
+      accessed: 2026-05-29
   positions:
     - question_id: education_community_schools
       stance: 2
-      explanation: "Has spent her entire career in DC education policy: charter school COO, DC State Board of Education member, senior DC Council education advisor. Would prioritize the council's education oversight function."
+      explanation: "Career entirely in DC education policy: Cesar Chavez Charter COO, DC SBOE member (Wards 5 & 6), senior education advisor to Council Chair Kwame Brown. Priorities include Pre-K3/4 expansion with higher educator pay, CTE investment, full classroom staffing, school modernization (safe water, HVAC), and parent advocacy bridge-building. Says she is 'the most important champion for education' in the race."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
+          title: "Youth Engagement, Education Policy — Washington Informer"
+          publisher: "Washington Informer"
+          accessed: 2026-05-29
 
     - question_id: housing_production_trust_fund
       stance: 1

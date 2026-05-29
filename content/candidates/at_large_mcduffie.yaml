@@ -1,4 +1,4 @@
-# At-Large Council (Special Election — McDuffie seat) — 2026 NON-PARTISAN SPECIAL GENERAL ELECTION
+  # At-Large Council (Special Election — McDuffie seat) — 2026 NON-PARTISAN SPECIAL GENERAL ELECTION
 # All three candidates run as Independents. This is NOT a Democratic primary.
 # ALL registered DC voters may vote regardless of party affiliation.
 # Source: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
@@ -7,27 +7,61 @@
   name: "Doni Crawford"
   election_slug: at_large_mcduffie
   in_fair_elections: false  # TODO: verify Fair Elections status
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://www.donicrawford.com/
   endorsements:
-    - "DC Realtors"
-    - "Restaurant Association of Metropolitan Washington"
     - "Opportunity DC"
+    - "District of Columbia Association of REALTORS"
+    - "Greater Capital Association of REALTORS"
+    - "DC Charter School Action"
+    - "Center for Strong Public Schools Action Fund"
+    - "Washington Parking Association"
   short_bio: >
-    Former senior policy advisor to Kenyan McDuffie; director of DC Council's
-    Committee on Business and Economic Development. Cross-endorsing with Jacque
-    Patterson.
+    At-Large Councilmember (Independent), appointed unanimously January 2026.
+    Former Committee Director of the Council's Committee on Business and Economic
+    Development; formerly at DC Fiscal Policy Institute (secured $41M pandemic
+    relief for excluded workers). Negotiated RFK/Commanders stadium deal ($50M
+    community benefits agreement). U. Pittsburgh (Master of Public and
+    International Affairs). Cross-endorsing with Jacque Patterson.
   long_bio: |
-    Doni Crawford (age 36) served as Kenyan McDuffie's senior policy advisor and
-    as director of DC Council's Committee on Business and Economic Development.
-    During his time on Council staff, he worked on the RFK Stadium deal and helped
-    fund a direct cash assistance program for mothers. He describes himself as a
-    "consensus builder" and has agreed to cross-endorse with Jacque Patterson.
-    He conditionally supports teen curfews as a short-term measure (to be phased
-    out by 2028), paired with youth programming investment. He is endorsed by the
-    city's realtors, the Restaurant Association, and Opportunity DC (a pro-business
-    group).
+    Doni Crawford (age 36) was appointed unanimously to the DC Council as an
+    At-Large Independent on January 20, 2026, filling the seat vacated by Kenyan
+    McDuffie. She holds a Master of Public and International Affairs and a BA in
+    Political Science and Hispanic Languages and Literatures from the University
+    of Pittsburgh.
+
+    She built her career around affordable housing, racial justice, and inclusive
+    economic development. At DC Fiscal Policy Institute she authored influential
+    research and led a coalition that secured $41 million in pandemic relief for
+    workers excluded from federal programs — including informal-economy workers,
+    returning citizens, and undocumented workers. She earlier drove community
+    revitalization strategies at Neighborhood Allies in Pittsburgh, managing
+    multi-million-dollar grant programs. She joined Kenyan McDuffie's Council
+    staff in 2022 as a policy adviser, became his legislative director, and then
+    served as Committee Director for the Committee on Business and Economic
+    Development, where she played a pivotal role negotiating the RFK Stadium /
+    Washington Commanders redevelopment — securing a $50 million community
+    benefits agreement and local hiring requirements. Her work has been featured
+    in Time Magazine, CNN, and The Washington Post.
+
+    Since her appointment she has been active across all eight wards and received
+    the inaugural Wanda Alston Legacy Award from the Wanda Alston Foundation for
+    her support of LGBTQ homeless youth. She has agreed to cross-endorse with
+    Jacque Patterson.
+
+    On public safety she supports a "right-sized, well-trained" MPD and opposes
+    using DC's police department as a tool of federal immigration enforcement. On
+    youth safety, she authored legislation pairing any curfew zone with mandatory
+    youth programming and clear limits on law enforcement discretion. On
+    statehood, one of her first meetings as Councilmember was with DC's Shadow
+    Senator to align on strategy; she has co-introduced legislation to protect DC
+    residents from federal law enforcement overreach and calls for a dedicated
+    federal relations office at the Council level.
   advisories: []
   sources:
+    - url: https://www.donicrawford.com/
+      title: "Doni Crawford for DC Council — Campaign Website"
+      publisher: "Doni Crawford Campaign"
+      accessed: 2026-05-29
     - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
       title: "Meet the candidates running in the D.C. Council At-Large special election — The 51st"
       publisher: "The 51st"
@@ -35,8 +69,12 @@
   positions:
     - question_id: youth_curfew_support
       stance: 1
-      explanation: "Conditionally supports teen curfews as a short-term measure, to be phased out by 2028. States curfews must be paired with alternative programming."
+      explanation: "Conditionally supports teen curfews as a short-term measure, to be phased out by 2028. Her own legislation required curfew zones to be paired with alternative youth programming and placed clear limits on law enforcement discretion — emphasizing that curfews alone are not a public safety strategy."
       sources:
+        - url: https://www.donicrawford.com/
+          title: "Doni Crawford for DC Council — Campaign Website"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
@@ -44,8 +82,12 @@
 
     - question_id: youth_curfew_programming
       stance: 2
-      explanation: "When police institute a curfew, the city must provide alternative programming. Wants to invest in out-of-school programming, behavioral health clinicians in schools, and extended rec center hours."
+      explanation: "Authored legislation requiring that youth programming be provided alongside any curfew zone. Supports investing in out-of-school programming, behavioral health clinicians in schools, and extended rec center hours."
       sources:
+        - url: https://www.donicrawford.com/
+          title: "Doni Crawford for DC Council — Campaign Website"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
@@ -53,35 +95,76 @@
 
     - question_id: education_mental_health_schools
       stance: 2
-      explanation: "Wants to guarantee a behavioral health clinician in all DC schools."
+      explanation: "Pledges to protect the School-Based Behavioral Health Program — which places clinicians in DC public and charter schools — from budget cuts, calling cuts 'not a savings but a cost we will pay in other ways.' Wants to expand out-of-school time funding for safe, structured after-school programming."
       sources:
-        - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
-          title: "Meet the candidates — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://www.donicrawford.com/
+          title: "Doni Crawford for DC Council — Campaign Website"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-05-29
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Explicitly states that DC's police department must never be used as a tool of federal immigration enforcement. Has co-introduced legislation to protect DC residents from federal law enforcement overreach."
+      sources:
+        - url: https://www.donicrawford.com/
+          title: "Doni Crawford for DC Council — Campaign Website"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-05-29
+
+    - question_id: statehood_top_priority
+      stance: 2
+      explanation: "Treats statehood as an urgent priority; one of her first acts as Councilmember was meeting with DC's Shadow Senator to align on strategy. Has co-introduced legislation protecting residents from federal law enforcement overreach. Calls for a dedicated federal relations office at the Council level so DC's voice on the Hill is consistent and strategic."
+      sources:
+        - url: https://www.donicrawford.com/
+          title: "Doni Crawford for DC Council — Campaign Website"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-05-29
 
 - id: jacque-patterson
   name: "Jacque Patterson"
   election_slug: at_large_mcduffie
   in_fair_elections: false  # TODO: verify Fair Elections status
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://www.jacque4dc.com/
   endorsements:
     - "ElectED DC (education equity group)"
   short_bio: >
-    Current DC State Board of Education President; advocate for community schools
-    and underserved DC communities. Cross-endorsing with Doni Crawford.
+    DC State Board of Education President; military veteran; 30-year DC community
+    servant. Born in foster care, raised on social safety net programs. Former
+    Community Affairs coordinator (Mayor Williams), Housing Finance Agency Board
+    (Mayor Fenty), Advisory Board on Veterans Affairs (Mayor Gray). ANC
+    commissioner (5 terms). Cross-endorsing with Doni Crawford.
   long_bio: |
-    Jacque Patterson (age 61) has lived in DC's Ward 8 since the mid-1990s. He
-    served on an ANC for five terms (10 years) and has worked for the DC mayor's
-    office, nonprofits, and charter schools. He is currently President of the DC
-    State Board of Education and is a strong advocate for "community schools" —
-    which provide resources for families beyond education. He has agreed to
-    cross-endorse with Doni Crawford. On housing, he would increase the Housing
-    Production Trust Fund from $100M to $250M per year (Mayor Bowser had proposed
-    cutting it by 50%). He supports teen curfews only temporarily, as youth
-    programming scales up.
+    Jacque Patterson (age 61) was born in foster care and raised in a home that
+    relied on food stamps and social safety net programs. That experience
+    instilled in him a lifelong commitment to preserving people's dignity in
+    government — he often recalls standing in line with his parents for benefits
+    recertification and the judgment that came with it. He served in the military,
+    where he internalized a "service before self" ethos, and has spent 30 years
+    serving DC communities.
+
+    He has held appointments under three DC mayors: Community Affairs coordinator
+    in Mayor Anthony Williams' administration, Housing Finance Agency Board of
+    Directors appointee under Mayor Adrian Fenty, and Advisory Board on Veterans
+    Affairs appointee under Mayor Vincent Gray. He served on an ANC for five terms
+    (ten years) and has worked in education, nonprofits, and charter schools. He
+    is currently President of the DC State Board of Education and lives in Ward 8,
+    where he has been based since the mid-1990s.
+
+    On housing, he supports balanced policies that protect tenants while expanding
+    the supply of affordable housing; in the 51st interview he proposed increasing
+    the Housing Production Trust Fund from $100M to $250M per year, against Mayor
+    Bowser's proposed 50% cut. He is a strong advocate for "community schools"
+    that provide resources for families beyond basic education. On public safety,
+    he believes enforcement and prevention must work together, with investment in
+    education, mentorship, and workforce opportunity for young people. He supports
+    teen curfews only temporarily, while youth programming scales up. He has agreed
+    to cross-endorse with Doni Crawford.
   advisories: []
   sources:
+    - url: https://www.jacque4dc.com/
+      title: "Jacque Patterson for DC Council — Campaign Website"
+      publisher: "Jacque Patterson Campaign"
+      accessed: 2026-05-29
     - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
       title: "Meet the candidates running in the D.C. Council At-Large special election — The 51st"
       publisher: "The 51st"
@@ -89,8 +172,12 @@
   positions:
     - question_id: education_community_schools
       stance: 2
-      explanation: "Has advocated for 'community schools' with additional resources for families beyond basic education throughout his political career."
+      explanation: "Has advocated for 'community schools' — which provide resources for families beyond basic education — throughout his career as DC State Board of Education President and ANC commissioner."
       sources:
+        - url: https://www.jacque4dc.com/
+          title: "Jacque Patterson for DC Council — Campaign Website"
+          publisher: "Jacque Patterson Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
@@ -111,8 +198,12 @@
 
     - question_id: housing_social_model
       stance: 1
-      explanation: "Supports building more dense, mixed-income housing."
+      explanation: "Supports balanced housing policies that protect tenants while increasing the supply of affordable housing, and programs to expand homeownership."
       sources:
+        - url: https://www.jacque4dc.com/
+          title: "Jacque Patterson for DC Council — Campaign Website"
+          publisher: "Jacque Patterson Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
@@ -120,7 +211,7 @@
 
     - question_id: youth_curfew_support
       stance: 1
-      explanation: "Supports teen curfews only temporarily, as youth programming is implemented."
+      explanation: "Supports teen curfews only temporarily, while youth programming is implemented and scales up."
       sources:
         - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
           title: "Meet the candidates — The 51st"
@@ -131,44 +222,106 @@
   name: "Elissa Silverman"
   election_slug: at_large_mcduffie
   in_fair_elections: false  # TODO: verify Fair Elections status
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: https://www.elissafordc.com/
   endorsements:
-    - "Greater Greater Washington (pro-transit group)"
-    - "Bike Walk Bus PAC"
-    - "Sierra Club DC"
+    # Labor
+    - "Metropolitan Washington Council, AFL-CIO"
+    - "Washington Teachers' Union"
+    - "AFSCME District Council 20"
+    - "32BJ SEIU"
+    - "Amalgamated Transit Union (ATU Local 689)"
+    - "Eastern Atlantic States Regional Council of Carpenters"
+    - "Washington DC Firefighters Local 36"
+    - "AFGE Local 2725"
+    - "LIUNA Metropolitan Area Laborers' District Council"
+    - "Committee of Interns and Residents (SEIU Healthcare)"
+    - "Local 25 (hotel, restaurant, casino workers)"
+    # Civic and advocacy
+    - "Greater Greater Washington"
+    - "Ward One Democrats"
+    - "Sierra Club"
+    - "Bike, Walk & Bus PAC"
+    - "DC Women in Politics"
+    - "DC YIMBYs"
   short_bio: >
-    Former At-Large Councilmember (8 years); transit and housing advocate.
-    Lost her At-Large seat to Kenyan McDuffie in 2022.
+    Former At-Large Councilmember 2015–2023; lead champion for DC's paid family
+    leave law. Former Washington Post reporter and DC Fiscal Policy Institute
+    policy analyst. Ward 6 / Capitol Hill homeowner. Endorsed by 17 groups
+    including AFL-CIO, Washington Teachers' Union, AFSCME, ATU, and DC Firefighters.
+    Aligned with Janeese Lewis George.
   long_bio: |
-    Elissa Silverman (age 53) held the At-Large councilmember position for eight
-    years before losing it to Kenyan McDuffie in 2022. She briefly worked for
-    Maryland Governor Wes Moore's Department of Labor in 2024. Her three primary
-    focus areas are: (1) building a coordinated city-wide response to Trump-era
-    federal threats; (2) reforming DC Housing Authority and the Housing Production
-    Trust Fund; and (3) reducing truancy by making schools safer and more welcoming.
-    She is endorsed by Greater Greater Washington, Bike Walk Bus PAC, and Sierra
-    Club DC. She is aligned with Janeese Lewis George.
+    Elissa Silverman (age 53) grew up in Baltimore public schools and earned her
+    BA from Brown University. She began her career as a journalist — authoring the
+    Washington City Paper's "Loose Lips" political column and later reporting for
+    the Washington Post — before moving into public policy at the DC Fiscal Policy
+    Institute, where she analyzed the city's budget and led advocacy campaigns to
+    raise the minimum wage and increase agency transparency.
+
+    She served as an At-Large Councilmember from 2015 to 2023, losing her seat to
+    Kenyan McDuffie in 2022. Her signature legislative achievement was co-authoring
+    DC's paid family and medical leave law — which provides up to 12 weeks of paid
+    leave — that launched in 2020; her persistent oversight led to benefits
+    increases and a cut in the employer tax rate. Other council highlights include:
+    leading the effort to create a maintenance and repair fund for public housing;
+    funding the Cure the Streets violence interruption program (with AG Karl Racine);
+    creating the DC Healthcare Sector Partnership to train DC residents for
+    healthcare careers; expanding the Marion Barry Summer Youth Employment Program;
+    and passing inclusionary zoning measures for affordable units. She briefly
+    worked for Maryland Governor Wes Moore's Department of Labor in 2024. She is
+    currently a board member of Seabury Resources for Aging.
+
+    She is a Ward 6 resident and Capitol Hill homeowner, a longtime bike commuter,
+    and is aligned with DC Councilmember Janeese Lewis George. Her campaign focuses
+    on stopping Council collaboration with ICE, budget accountability, increasing
+    the housing supply, properly training and staffing MPD alongside evidence-based
+    violence prevention, and reducing school truancy.
   advisories: []
   sources:
+    - url: https://www.elissafordc.com/
+      title: "Elissa Silverman for DC Council — Campaign Website"
+      publisher: "Elissa Silverman Campaign"
+      accessed: 2026-05-29
     - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
       title: "Meet the candidates running in the D.C. Council At-Large special election — The 51st"
       publisher: "The 51st"
       accessed: 2026-05-27
   positions:
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach."
+      sources:
+        - url: https://www.elissafordc.com/
+          title: "Elissa Silverman for DC Council — Campaign Website"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-05-29
+
     - question_id: transit_bike_bus_lanes
       stance: 2
-      explanation: "Endorsed by Greater Greater Washington (pro-transit) and Bike Walk Bus PAC, signaling strong support for transit and active-transportation infrastructure."
+      explanation: "Endorsed by Greater Greater Washington (pro-transit), Bike Walk & Bus PAC, and DC YIMBYs, and is a self-described bike commuter; strong record supporting transit and active-transportation infrastructure."
       sources:
-        - url: https://ggwash.org/
-          title: "Greater Greater Washington — Endorsement"
-          publisher: "Greater Greater Washington"
-          accessed: 2026-05-27
+        - url: https://www.elissafordc.com/
+          title: "Elissa Silverman for DC Council — Campaign Website"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-05-29
 
     - question_id: housing_production_trust_fund
       stance: 2
-      explanation: "Would streamline and increase access to DCHA resources, the Housing Production Trust Fund, and private partnerships. Opposes cutting the fund."
+      explanation: "Supports streamlining and increasing DCHA resources and the Housing Production Trust Fund; advocates removing obstacles to building and using public lands and public dollars strategically. Focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms."
       sources:
+        - url: https://www.elissafordc.com/
+          title: "Elissa Silverman for DC Council — Campaign Website"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-05-29
         - url: https://51st.news/dc-council-at-large-special-election-candidates-interview/
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+
+    - question_id: crime_more_police
+      stance: 1
+      explanation: "Supports an MPD that is 'properly trained and staffed and that protects residents and respects their rights.' Also funded the Cure the Streets violence interruption program and champions evidence-based programs to reduce gun violence alongside traditional policing."
+      sources:
+        - url: https://www.elissafordc.com/
+          title: "Elissa Silverman for DC Council — Campaign Website"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-05-29

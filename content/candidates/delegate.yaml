@@ -6,26 +6,67 @@
   in_fair_elections: true
   campaign_url: https://www.joinrobertwhite.com/
   endorsements:
-    - "Free DC (freedcproject.org/news/our-2026-endorsements-guide)"
+    # Organizations & PACs
+    - "Free DC"
     - "Working Families Party"
-    - "Congressional Black Caucus"
-    - "Janeese Lewis George (DC Council)"
-    - "Charles Allen (DC Council)"
-    - "Sen. Elizabeth Warren"
+    - "Congressional Black PAC (CBC PAC)"
+    - "Collective PAC"
+    - "Jews United for Justice"
+    - "DC for Democracy"
+    - "Greater Greater Washington"
+    - "Our Revolution, DC Chapter"
+    - "DC Latino Caucus"
+    - "Ward One Democrats"
+    - "Progressive Caucus PAC"
+    - "GWU College Democrats"
+    # Labor
+    - "Metropolitan Washington Council, AFL-CIO"
+    - "Eastern Atlantic States Regional Council of Carpenters"
+    - "AFSCME District Council 20"
+    - "Amalgamated Transit Union (ATU Local 689)"
+    - "Committee of Interns and Residents (SEIU Healthcare)"
+    - "LIUNA Metropolitan Area Laborers' District Council"
+    - "International Association of Iron Workers"
+    # Elected officials
+    - "Sen. Elizabeth Warren (D-MA)"
+    - "Charles Allen (Ward 6, DC Council)"
+    - "Janeese Lewis George (Ward 4, DC Council)"
+    # Board of Education
+    - "Ben Williams (Ward 1, DC State Board of Education, Vice President)"
+    - "Brandon Best (Ward 6, DC State Board of Education)"
+    # Clergy
+    - "Pastor William Lamar IV (Metropolitan AME Church)"
   short_bio: >
-    Current DC At-Large Councilmember; chairs housing committee. Native Washingtonian;
-    former legislative counsel to Norton (2008–2013). Endorsed by Free DC, WFP,
-    the Congressional Black Caucus, and Sen. Elizabeth Warren.
+    Current DC At-Large Councilmember; chairs housing committee since 2023.
+    5th-generation Washingtonian (Petworth); former legislative counsel to Delegate
+    Norton (2008) and first OAG Director of Community Outreach (2015). Endorsed by
+    Free DC, WFP, AFL-CIO, CBC PAC, and Sen. Elizabeth Warren.
   long_bio: |
-    Robert White (age 44) is a native Washingtonian and the only Black candidate
-    in the delegate race. He worked as legislative counsel to incumbent Delegate
-    Eleanor Holmes Norton from 2008 to 2013. He currently serves as an At-Large
-    Councilmember on DC Council, where he chairs the council's housing committee.
-    If elected Delegate, he says he'd seek a seat on the House Appropriations
-    Committee to bring more funding to DC. He has also proposed removing federal
-    taxes on profits made in DC for businesses that relocate to the District as an
-    economic incentive. He is endorsed by Free DC, the Working Families Party, the
-    Congressional Black Caucus, and Senator Elizabeth Warren.
+    Robert White (age 44) is a 5th-generation Washingtonian who grew up in the
+    Petworth neighborhood. He graduated from Archbishop Carroll High School,
+    earned degrees in Philosophy and Political Science from St. Mary's College of
+    Maryland, completed additional studies at Oxford University and in The Gambia,
+    West Africa, and earned his law degree from American University Washington
+    College of Law.
+
+    In 2008, White went to Congress to serve as Legislative Counsel to Delegate
+    Eleanor Holmes Norton, where he played a lead role in drafting legislation to
+    loosen Congress' grip over DC government and conducted oversight hearings
+    focused on the District. In 2015, he was tapped by Attorney General Karl Racine
+    to serve as the first Director of Community Outreach for the DC Office of the
+    Attorney General, designing a community engagement strategy focused on the
+    city's most vulnerable residents.
+
+    He is the only Black candidate in the delegate race. First elected to DC Council
+    in 2016 — defeating an incumbent with the highest vote total in DC Council
+    history — he was re-elected in 2020 and 2024 and has chaired the Council's
+    Committee on Housing since 2023. He is also an adjunct professor at Georgetown
+    University Law Center, teaching voting rights and felony disenfranchisement. If
+    elected Delegate, he says he'd seek a seat on the House Appropriations Committee
+    to maximize DC's funding leverage. He has also proposed removing federal taxes on
+    profits from businesses that relocate to DC as an economic development incentive.
+    He is endorsed by Free DC, the Working Families Party, the AFL-CIO, the
+    Congressional Black PAC, and Senator Elizabeth Warren.
   advisories: []
   sources:
     - url: https://www.joinrobertwhite.com/
@@ -69,22 +110,51 @@
   election_slug: delegate
   in_fair_elections: true
   campaign_url: https://www.trentholbrook.com
-  endorsements: []
+  endorsements:
+    # Statehood movement advocates
+    - "Noah Wills (Political Director, DC Statehood PAC)"
+    - "Alex Baptiste (statehood advocate and policy expert)"
+    - "Ann Hoffman (statehood advocate)"
+    - "Leon Lowery (statehood advocate)"
+    - "Caroline Petti (statehood advocate)"
+    - "Sandra SS Seegars (statehood advocate and ANC Commissioner)"
+    - "Loretta Neumann (former Congressional staffer and statehood advocate)"
+    # Former Norton staff
+    - "Lily Adelstein (former Norton staff)"
+    - "Michael Fraser (former Norton staff)"
+    - "Abby Korb (former Norton staff)"
+    - "Jessica Laycock (former Norton staff)"
+    - "Alexander Loewi, PhD (former Norton staff)"
+    - "Jack Miller (former Norton staff)"
+    - "Blake Paradis (former Norton staff)"
+    # Current Hill staff
+    - "Jesse Herman (current House staff)"
+    - "Ahmi Thitayan (current House staff)"
   short_bio: >
-    Eight-year staffer to incumbent Delegate Eleanor Holmes Norton; strong
-    proponent of DC statehood and DC self-governance over its courts and police.
+    Norton's Senior Legislative Counsel for eight years; chief strategist who took
+    the DC statehood bill from a 1993 loss to passing the House twice, with a
+    unanimous Democratic vote the second time. Georgetown Law, Austin College,
+    and Oxford alumnus; AmeriCorps veteran.
   long_bio: |
-    Trent Holbrook (age 40) has worked as a staffer to incumbent Delegate Eleanor
-    Holmes Norton for eight years. He is a strong proponent of DC statehood and
-    is participating in the DC Fair Elections Program. His platform emphasizes DC
-    self-governance: he proposes creating a local prosecutor's office answerable
-    only to DC residents, wants DC to appoint its own judges, and opposes using
-    the DC National Guard for local law enforcement. He supports pay raises and
-    backpay for federal workers, protection of their retirement benefits, and
-    opposing relocation of federal agencies out of the National Capital Region. He
-    opposes school vouchers, supports preserving the DC Tuition Assistance Grant
-    Program, and views healthcare as a right — including protecting DC's Medicaid
-    reimbursement rates and abortion access.
+    Trent Holbrook (age 40) served eight years on the staff of Delegate Eleanor
+    Holmes Norton, most recently as Senior Legislative Counsel. As chief strategist
+    on DC statehood, he took the statehood bill from losing in 1993 to passing the
+    House twice — securing record support and a unanimous Democratic vote the second
+    time. Earlier he worked at AmeriCorps, where he helped defend the agency from
+    Congressional attempts to defund it, and served as a legal intern in the Obama
+    White House Counsel's Office. He is an alumnus of Georgetown University Law
+    Center, Austin College, and Oxford University.
+
+    His platform emphasizes DC self-governance: he proposes creating a local
+    prosecutor's office answerable only to DC residents, wants DC to appoint its own
+    judges, and wants the DC National Guard placed under the mayor's control (as
+    governors control state guards), firmly opposing its use to enforce local law.
+    He supports pay raises, backpay, and retirement protection for federal workers,
+    and opposes relocating federal agencies out of the National Capital Region. He
+    opposes school vouchers, supports preserving and expanding the DC Tuition
+    Assistance Grant (DCTAG) program, and views healthcare as a right — including
+    protecting DC's Medicaid reimbursement rates and abortion access. He is
+    participating in the DC Fair Elections Program.
   advisories: []
   sources:
     - url: https://www.trentholbrook.com/issues
@@ -130,28 +200,56 @@
   campaign_url: https://gojaczko4dc.com
   endorsements: []
   short_bio: >
-    Physicist and former NRC chair who ran a federal agency. Supports full
-    statehood; proposes federal tax exemption for DC residents as an interim
-    measure until statehood is won.
+    Physicist; AAAS fellow in Ed Markey's office; senior advisor to Senate
+    Majority Leader Harry Reid; NRC chair under Obama (led Fukushima response);
+    renewable energy developer; Princeton Lecturer. 27-year DC resident, son of
+    an immigrant. Proposes "No Taxation UNTIL Representation" and a public power
+    authority to cut utility costs.
   long_bio: |
-    Greg Jaczko (age 55) is a physicist who runs a renewable energy consultancy
-    and previously chaired the Nuclear Regulatory Commission. He supports full DC
-    statehood ("Statehood Now") while also proposing to exempt DC residents and
-    businesses from federal income taxes until statehood is achieved — framing it
-    as "No Taxation UNTIL Representation." He pledges to fight reckless cuts to
-    the federal workforce and restore jobs and dignity for mistreated federal
-    workers, drawing on his experience running a federal agency. On energy, he
-    supports a public power transition to address utility costs, wants to rein in
-    data-center expansion that strains local infrastructure, and would invest in
-    renewables and energy storage to lower bills. On justice, he wants to get the
-    federal government out of DC's local justice system so that residents can
-    shape policies focused on prevention and rehabilitation.
+    Greg Jaczko (age 55) is a physicist and 27-year DC resident. He earned a
+    PhD in physics and moved to DC where an AAAS science policy fellowship placed
+    him in then-Congressman Ed Markey's office, applying science to policy. He
+    went on to serve as senior advisor to Senate Majority Leader Harry Reid, where
+    he learned the art of coalition building. President Obama appointed him to
+    chair the Nuclear Regulatory Commission (NRC) — a $1 billion agency with
+    nearly 4,000 employees — where he stood up to powerful industries and led the
+    international response to the Fukushima nuclear accident. After the NRC, he
+    has developed offshore wind and solar projects and is a Lecturer at Princeton
+    University. He is the son of an immigrant: his father was a Romanian-born
+    refugee who spent his childhood in displaced persons camps before relocating
+    to Venezuela and later emigrating to the United States.
+
+    Jaczko supports full DC statehood ("Statehood Now") while also proposing to
+    exempt DC residents and businesses from federal income taxes until statehood
+    is achieved — framing it as "No Taxation UNTIL Representation." His Substack
+    newsletter, "Naturally," goes further, calling for DC residents to withhold
+    federal income taxes as an act of civil disobedience until Congress acts.
+
+    On energy, he has detailed proposals to cut DC utility bills: (1) transition
+    to a nonprofit public power authority — which he calculates would eliminate
+    roughly $160M/year in Pepco profit ratepayers currently fund; (2) require
+    data centers to bear the full infrastructure costs they create (data-center
+    demand drove an 833% spike in PJM capacity prices for 2025–2026); (3) fix
+    DC's rooftop solar SREC system, which he argues creates a regressive subsidy
+    — 95% of ratepayers subsidizing the 5% who have solar — and projects a costly
+    SREC undersupply in 2026. He supports progressive electricity rates so
+    lower-income households pay less. On justice, he wants to get the federal
+    government out of DC's local justice system. On immigration, he strongly
+    opposes the Trump administration's detention policies — connecting them
+    personally to his father's refugee experience — and calls for a humane
+    immigration policy. He has also publicly opposed Trump's unilateral military
+    strikes against Iran as unconstitutional, calling on Congress to deny the
+    president war-making authority without a formal declaration.
   advisories: []
   sources:
     - url: https://gojaczko4dc.com/platform
       title: "Platform — Greg Jaczko for Congress"
       publisher: "Greg Jaczko Campaign"
       accessed: 2026-05-28
+    - url: https://gojaczko4dc.com
+      title: "Greg Jaczko for Congress — Campaign Website"
+      publisher: "Greg Jaczko Campaign"
+      accessed: 2026-05-29
     - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
       title: "Meet the candidates running to be D.C.'s delegate to Congress — The 51st"
       publisher: "The 51st"
@@ -159,7 +257,7 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
-      explanation: "Supports full statehood as a top priority ('Statehood Now'); frames tax exemption as an interim 'No Taxation UNTIL Representation' measure, not a replacement for statehood."
+      explanation: "Supports full statehood as top priority ('Statehood Now'); frames tax exemption as an interim 'No Taxation UNTIL Representation' measure, not a replacement for statehood. Frames DC's federal territory status as an ongoing democratic injustice tracing back to the founding."
       sources:
         - url: https://gojaczko4dc.com/platform
           title: "Platform — Greg Jaczko for Congress"
@@ -168,7 +266,7 @@
 
     - question_id: statehood_tax_exemption
       stance: 2
-      explanation: "Explicitly proposes exempting DC residents and businesses from federal income taxes until statehood is achieved."
+      explanation: "Proposes exempting DC residents and businesses from federal income taxes until statehood is achieved, framing it as 'No Taxation UNTIL Representation.' His Substack goes further, calling for civil disobedience — DC businesses and residents withholding federal income tax payments — to force Congress to act."
       sources:
         - url: https://gojaczko4dc.com/platform
           title: "Platform — Greg Jaczko for Congress"
@@ -177,7 +275,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Calls for getting the federal government out of DC's local justice system so residents can shape policies focused on prevention and rehabilitation — implying opposition to federal enforcement intrusions."
+      explanation: "Strongly opposes Trump's immigration detention policies, calling them 'brutal' and 'illegal' — a position he connects personally to his father's history as a Romanian refugee. Supports getting the federal government entirely out of DC's local justice system so residents can set policies focused on prevention and rehabilitation."
       sources:
         - url: https://gojaczko4dc.com/platform
           title: "Platform — Greg Jaczko for Congress"
@@ -191,20 +289,44 @@
   campaign_url: https://brookepintoforcongress.com
   endorsements: []
   short_bio: >
-    Ward 2 Councilmember (Logan Circle). Did not participate in DC Fair Elections
-    Program; raised more than any other delegate candidate, largely from out of town.
+    Ward 2 Councilmember (Logan Circle); chair of Judiciary and Public Safety
+    committee. Cornell and Georgetown Law graduate; former DC OAG attorney. Led
+    Secure DC and Peace DC bills (50% violent crime drop); authored RECOVERY Act
+    (Downtown commercial-to-residential conversions). Detailed housing plan
+    ("Breaking Ground DC"). Did not participate in DC Fair Elections Program;
+    raised more than any other delegate candidate.
   long_bio: |
-    Brooke Pinto (age 33) is the Ward 2 Councilmember representing Logan Circle.
-    She had never lived in DC before 2020, the year she was elected to the Council.
-    She chose not to participate in the DC Fair Elections Program, enabling her to
-    accept large contributions from out-of-district donors; she raised more money
-    than any other delegate candidate. As a councilmember, she co-authored the
-    Secure DC and Peace DC legislation, which she credits with a 50% reduction in
-    violent crime. She also increased penalties for gun crimes, expanded pre-trial
-    detention, and introduced teen curfews. In the delegate race, she emphasizes
-    fighting the Trump administration's encroachment on DC autonomy and supports DC
-    statehood. She opposes federal military deployment in DC while supporting
-    adequate resources for MPD, firefighters, and EMS. Free DC has advised voters
+    Brooke Pinto (age 33) graduated from Cornell University's School of Hotel
+    Administration and Georgetown University Law Center. She worked at the DC
+    Office of the Attorney General as Assistant AG for Policy and Legislative
+    Affairs and in the Tax and Finance Section before running for DC Council.
+    She had never lived in DC before 2020, the year she was elected as the Ward
+    2 Councilmember representing Logan Circle. She chairs the Committee on
+    Judiciary and Public Safety.
+
+    Her council record spans public safety, Downtown recovery, and education. She
+    co-authored Secure DC and Peace DC, which she credits with a 50% reduction in
+    violent crime (the bills also increased penalties for gun crimes, expanded
+    pre-trial detention, and introduced teen curfews). She authored the RECOVERY
+    Act to incentivize commercial-to-residential conversions Downtown following
+    COVID, sparking thousands of new units. She passed legislation training
+    teachers in literacy instruction and a cellphone ban in DC schools.
+
+    She chose not to participate in the DC Fair Elections Program, enabling her
+    to accept large contributions from out-of-district donors; she raised more
+    money than any other delegate candidate.
+
+    In the delegate race she emphasizes statehood and DC self-governance, opposing
+    the Trump administration's encroachment, and supports adequate resources for
+    MPD, firefighters, and EMS while opposing federal or National Guard deployment
+    to enforce local law. Her housing plan, "Breaking Ground DC," calls for
+    repealing the federal Height Act and replacing it with a local DC Height Act;
+    upzoning near Metro stations and bus corridors; legalizing rowhouses and ADUs
+    citywide; streamlining permitting; reforming DCHA; first-time homebuyer
+    property-tax abatements for long-term DC residents; and at the federal level,
+    making rent (up to $15,000/year) tax-deductible, expanding Opportunity Zones,
+    frontloading tax deductions on rental construction, and shifting homelessness
+    housing to a non-congregate model like the Aston. Free DC has advised voters
     not to rank her.
   advisories:
     - organization: "Free DC"
@@ -220,6 +342,10 @@
       title: "Issues — Brooke Pinto for Congress"
       publisher: "Brooke Pinto Campaign"
       accessed: 2026-05-28
+    - url: https://brookepintoforcongress.com/about
+      title: "About Brooke — Brooke Pinto for Congress"
+      publisher: "Brooke Pinto Campaign"
+      accessed: 2026-05-29
     - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
       title: "Brooke Pinto — Free DC Candidate Questionnaire"
       publisher: "Free DC Project"
@@ -227,7 +353,7 @@
   positions:
     - question_id: fair_elections_participation
       stance: -2
-      explanation: "Chose not to participate in the DC Fair Elections Program, enabling her to accept large out-of-district contributions."
+      explanation: "Chose not to participate in the DC Fair Elections Program, enabling her to accept large out-of-district contributions; raised more than any other delegate candidate."
       sources:
         - url: https://ocf.dc.gov/release/fair-elections-program-2026
           title: "Fair Elections Program 2026 — DC Office of Campaign Finance"
@@ -236,7 +362,7 @@
 
     - question_id: youth_curfew_support
       stance: 1
-      explanation: "Introduced teen curfew legislation as Ward 2 Councilmember."
+      explanation: "Introduced teen curfew legislation as part of Secure DC as Ward 2 Councilmember."
       sources:
         - url: https://lims.dccouncil.gov/
           title: "DC Council Legislative Information Management System"
@@ -245,8 +371,12 @@
 
     - question_id: statehood_top_priority
       stance: 2
-      explanation: "Strongly supports DC statehood; stated it as a top priority in her Free DC questionnaire response."
+      explanation: "Strongly supports DC statehood and self-governance. Calls for repealing the federal Height Act and replacing it with a local DC Height Act as a concrete statehood-adjacent step. Emphasizes fighting the Trump administration's day-to-day encroachment on DC autonomy."
       sources:
+        - url: https://brookepintoforcongress.com/issues/
+          title: "Issues — Brooke Pinto for Congress"
+          publisher: "Brooke Pinto Campaign"
+          accessed: 2026-05-28
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
           title: "Brooke Pinto — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
@@ -254,7 +384,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Expressed support for ending MPD/ICE cooperation; stated she wants to 'get rid of ICE' in her Free DC questionnaire response."
+      explanation: "Expressed support for ending MPD/ICE cooperation; stated she wants to 'get rid of ICE' in her Free DC questionnaire. On the campaign trail, pledges to defend DC families regardless of immigration status. Opposes federal and National Guard deployment for local law enforcement."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
           title: "Brooke Pinto — Free DC Candidate Questionnaire"
@@ -263,8 +393,12 @@
 
     - question_id: crime_more_police
       stance: 1
-      explanation: "Supports rebuilding MPD, noting it is at a 50-year staffing low, while opposing federal militarization of DC policing."
+      explanation: "Co-authored Secure DC and Peace DC, credited with a 50% reduction in violent crime; supports adequate resources for MPD, firefighters, and EMS. Opposes federal or National Guard deployment to enforce local law, drawing a sharp distinction between supporting local police and accepting federal militarization."
       sources:
+        - url: https://brookepintoforcongress.com/issues/
+          title: "Issues — Brooke Pinto for Congress"
+          publisher: "Brooke Pinto Campaign"
+          accessed: 2026-05-28
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
           title: "Brooke Pinto — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
@@ -275,23 +409,74 @@
   election_slug: delegate
   in_fair_elections: false  # TODO: verify
   campaign_url: https://www.kinneyfordc.com/about
-  endorsements: []
+  endorsements:
+    # Former federal officials
+    - "Eric Holder (Former US Attorney General)"
+    - "Carlos Del Toro (78th Secretary of the Navy)"
+    - "Richard Danzig (Former Secretary of the Navy)"
+    - "Jaime Harrison (Former DNC Chair)"
+    # Members of Congress
+    - "Rep. Teresa Leger Fernandez (D-NM)"
+    - "Rep. Suhas Subramanyam (D-VA)"
+    - "Rep. Josh Gottheimer (D-NJ)"
+    # DC organizations and officials
+    - "DC Women in Politics (preference poll winner)"
+    - "Tricia Duncan (Ward 3 ANC Commissioner)"
+    - "Jeff Denny (Former ANC Member, Ward 3)"
+    # Nonprofit / education / civic
+    - "J.B. Schramm (Co-Founder, Peer Forward)"
+    - "Naomi Reem (Former Head of School, Milton Gottesman Jewish Day School)"
+    - "Theresa Atta Ifogah (Former Director of Program, Peer Forward)"
+    - "A'shanti Gholar (President & CEO, Emerge)"
+    - "Chris Moore (Retired Police Chief, San Jose)"
+    # Middle East peacebuilding
+    - "Riman Barakat (co-CEO, Feel Beit, Jerusalem)"
+    - "Karen Brunwasser (co-CEO, Feel Beit, Jerusalem)"
   short_bio: >
-    President of Peer Forward (formerly College Summit); former legal counsel to
-    Janet Reno. Proposes a "grand bargain" approach to statehood and a Capital
-    Caucus with neighboring jurisdictions.
+    30-year DC resident; came to DC in 1995 as a White House Fellow (VP Gore).
+    Former ADA (Philadelphia), DOJ Counsel to AG Janet Reno, Microsoft executive
+    (GM Corporate Strategy; GM Responsible Growth), president of College Summit
+    / Peer Forward, DNC Deputy National Finance Chair, National Co-Chair of
+    Women for Harris. Bestselling co-author of "Microtrends." Endorsed by
+    former AG Eric Holder, former Sec. Navy Carlos Del Toro, and three Members
+    of Congress. Proposes a strategic "grand bargain" on statehood and a
+    regional Capital Caucus.
   long_bio: |
-    Kinney Zalesne (age 59) is President of Peer Forward (formerly College Summit),
-    a nonprofit that helps DC students access higher education. In the 1990s she
-    served as legal counsel to Attorney General Janet Reno and worked with Vice
-    President Al Gore. She has also worked for Microsoft and has done fundraising
-    for the DNC. A 30-year DC resident, she calls DC's lack of voting representation
-    "a national disgrace and part of the legacy of racism." Rather than relying on
-    outrage, she proposes pursuing a strategic "grand bargain" on Capitol Hill using
-    her coalition-building background. She also proposes creating a Capital Caucus
-    in Congress to leverage DC, Maryland, Virginia, and neighboring jurisdictions as
-    an economic and policy unit — coordinating on healthcare, transportation,
-    housing, and infrastructure.
+    Kinney Zalesne (age 59) came to DC in 1995 for what was supposed to be a
+    short stint in the Clinton White House. She fell in love with the city and
+    has raised four children here with her husband Scott, serving in leadership
+    roles in DC's schools, pools, parks, and nonprofits for 30 years.
+
+    Her career spans government, business, and the nonprofit sector. She served
+    as Assistant District Attorney in Philadelphia before becoming a White House
+    Fellow with Vice President Gore. She then served as Counsel to Attorney
+    General Janet Reno at the Department of Justice — a tenure she credits with
+    the largest drop in crime in recorded US history through prevention,
+    community engagement, and rehabilitation alongside tough enforcement. She
+    later joined Microsoft as GM of Corporate Strategy and GM of Responsible
+    Growth, and co-authored the bestselling book "Microtrends." She also served
+    as Deputy National Finance Chair of the DNC and National Co-Chair of Women
+    for Harris.
+
+    Of all those roles, she calls her work at College Summit (now Peer Forward)
+    her favorite. She left DOJ to help Co-Founder J.B. Schramm scale the
+    program — originally started in an Adams Morgan basement to help low-income
+    students reach college — growing its budget 20-fold and expanding it from a
+    local effort to a national operation. Under her leadership the organization
+    also helped change federal law to require high schools be measured on college
+    enrollment and persistence, not just graduation. She also served as Board
+    Chair of a Ward 4 school that doubled in enrollment during her tenure.
+
+    On statehood, she calls DC's lack of voting representation "a national
+    disgrace and part of the legacy of racism," but argues that fixing it
+    requires a strategic "grand bargain" on Capitol Hill rather than outrage —
+    coalition-building across sectors and the aisle being her signature skill.
+    She proposes creating a Capital Caucus in Congress to build economic power
+    regionally with MD, VA, and neighboring jurisdictions. On public safety she
+    draws on her Reno experience: robust funding for evidence-based practices,
+    gun reform, prevention, and rehabilitation. On technology, she draws on her
+    Microsoft and Harvard democracy-and-technology work to advocate for AI
+    policy that supports innovation while ensuring technology works for people.
   advisories: []
   sources:
     - url: https://www.kinneyfordc.com/issues-1
@@ -301,7 +486,7 @@
     - url: https://www.kinneyfordc.com/about
       title: "About Kinney — Kinney Zalesne for DC Delegate"
       publisher: "Kinney Zalesne Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-29
     - url: https://51st.news/dc-delegate-race-white-pinto-zalesne-holbrook-jaczko/
       title: "Meet the candidates running to be D.C.'s delegate to Congress — The 51st"
       publisher: "The 51st"
@@ -309,7 +494,7 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
-      explanation: "Calls DC's lack of voting representation 'a national disgrace and part of the legacy of racism.' Proposes pursuing a strategic 'grand bargain' on Capitol Hill rather than relying on outrage; emphasizes coalition-building to advance full representation."
+      explanation: "Calls DC's lack of voting representation 'a national disgrace and part of the legacy of racism,' but argues that fixing it requires a strategic 'grand bargain' on Capitol Hill — not outrage. Distinguishes herself from other candidates by emphasizing coalition-building across sectors and the aisle as the path to full representation. Proposes a Capital Caucus to build regional economic leverage with DC, MD, VA, and neighboring jurisdictions."
       sources:
         - url: https://www.kinneyfordc.com/issues-1
           title: "Issues — Kinney Zalesne for DC Delegate"
