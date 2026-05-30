@@ -9,33 +9,72 @@
   in_fair_elections: true
   campaign_url: https://rashidaforward1.com/
   endorsements:
-    - "Brianne Nadeau (retiring Ward 1 Councilmember)"
+    - "Brianne Nadeau, retiring Ward 1 Councilmember"
+    - "DC Working Families Party (Ranking Recommendation)"
+    - "Greater Greater Washington (Ranking Recommendation)"
+    - "Jews United for Justice"
+    - "Sierra Club"
+    - "DC YIMBYs"
+    - "DC Voters for Animals"
+    - "GLAA DC (10/10 Rating)"
+    - "32BJ SEIU"
+    - "LiUNA! – Baltimore/Washington District Council"
+    - "IUPAT – District Council 51"
+    - "Committee of Interns and Residents – SEIU Healthcare"
   short_bio: >
-    Former social worker, Howard grad, and ANC rep of 10 years. Endorsed by
-    retiring Councilmember Brianne Nadeau.
+    Social worker, Howard grad, and ANC rep of 10 years who delivered 456 housing
+    units (60% affordable) through Park Morton and Bruce Monroe. Policy director
+    at DC's OSSE who built My Child Care DC and Thrive by Five; 25 years in early
+    childhood policy. Co-founded Georgia Avenue Thrive. GLAA DC 10/10 rating.
+    Endorsed by retiring Councilmember Brianne Nadeau.
   long_bio: |
-    Rashida Brown (age 47) has lived in DC since 2000 and served as an ANC
-    (Advisory Neighborhood Commissioner) representative for ten years. A former
-    social worker and Howard University graduate, she is endorsed by outgoing
-    Ward 1 Councilmember Brianne Nadeau. She has called out Mayor Bowser for
-    silence during Trump's federal takeover of DC. Her housing platform centers
-    on restoring TOPA, advancing Housing First policies with wraparound services
-    for unhoused residents, and restoring Emergency Rental Assistance Program
-    funding. As an ANC commissioner she helped drive the Park Morton development
-    (450+ units, 60% affordable) and the Bruce Monroe development. On transit she
-    would fund free buses, expand bus frequency, and implement safer streets for
-    cyclists and pedestrians. On public safety she prioritizes community-based
-    prevention over expanded criminalization and wants to end MPD collaboration
-    with ICE while strengthening the Sanctuary Values Act. She received a 10/10
-    rating from GLAA DC. She joined all four other Ward 1 candidates at a May 2026
-    community cleanup in Columbia Heights, praising residents who "stand up, fight
-    back, and take control of things that are happening in our city."
+    Rashida Brown (age 47) grew up in a working-class New York City family: her
+    father was a subway conductor on the A train through Harlem, a proud Transport
+    Workers Union Local 100 member, and later ran a family roofing business. When
+    he was diagnosed with cancer, her mother worked three jobs to cover the mortgage,
+    his healthcare costs, and Rashida's after-school programs. Those experiences
+    shaped her conviction that the struggles she faced were far from unique. She
+    attended Howard University on a scholarship made possible by her parents' hard
+    work, graduating with a degree in social work. She has lived in DC since 2000
+    and in Park View for 15 years.
+
+    She has spent 25 years in child and family policy. As policy director at DC's
+    Office of the Superintendent of Secondary Education (OSSE) she advanced the
+    Pre-K Enhancement program, helped develop and launch My Child Care DC, and
+    launched Thrive by Five. She helped bring the Pay Equity Fund model to Colorado
+    and secured a $2 million partnership with that state's Department for Early
+    Childhood Development. As a registered federal lobbyist she helped pass the
+    reauthorization of the Child Care and Development Block Grant Act. She has
+    advised municipalities across the country on implementing similar programs.
+
+    During her 10 years as an ANC Commissioner for ANC 1E, she co-founded Georgia
+    Avenue Thrive — a community-led initiative using arts, economic development, and
+    community activation (not policing) to make the Lower Georgia Ave corridor safer
+    — and led the fight for Park Morton and Bruce Monroe, delivering 456 housing
+    units, 60 percent of them affordable. She is a Home Purchase Assistance Program
+    (HPAP) recipient herself and knows firsthand how these programs matter. She
+    championed bus priority projects on Georgia Avenue and the Columbia Heights
+    Crosstown, secured protected bike lanes on Kenyon, Warder, and Park Place, and
+    graduated from DC's Community Engagement Academy, walking the beat with MPD to
+    understand community policing firsthand.
+
+    GLAA DC gave her a 10/10 rating — one of only four candidates across all DC
+    primary races to receive a perfect score. She is endorsed by retiring
+    Councilmember Brianne Nadeau, Working Families Party, Greater Greater Washington,
+    Sierra Club, DC YIMBYs, 32BJ SEIU, and LIUNA, among others.
+
+    Her platform: expand rent stabilization to pre-1985 buildings (closing the
+    voluntary-agreement loophole), restore TOPA for all buildings, protect the HPTF
+    with mandatory set-asides for deeply affordable units, implement Birth-to-Three's
+    10% childcare cost cap with dedicated revenue, dramatically expand violence
+    interruption funding (citing 30–60% gun violence reductions at scale), oppose
+    youth curfews, and oppose pretrial detention expansion.
   advisories: []
   sources:
     - url: https://rashidaforward1.com/on-the-issues
       title: "On the Issues — Rashida Brown for DC"
       publisher: "Rashida Brown Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-30
     - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
       title: "Meet the candidates running to represent Ward 1 — The 51st"
       publisher: "The 51st"
@@ -45,41 +84,113 @@
       publisher: "El Tiempo Latino"
       accessed: 2026-05-28
   positions:
+    - question_id: housing_rent_stabilization
+      stance: 2
+      explanation: "Will expand rent stabilization coverage to buildings built before 1985 (current law only covers pre-1975), close the voluntary agreement loophole that lets landlords circumvent protections, and eliminate the substantial rehabilitation exemption abused to remove units from rent control. Notes 75,000 families depend on rent control as DC's largest affordable housing tool."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
     - question_id: housing_topa_restore
       stance: 2
-      explanation: "Would prioritize restoring TOPA as a key housing platform plank."
+      explanation: "Opposes any weakening of tenant purchase rights and will fight every attempt to roll them back. Will reinstate TOPA for 2–4 unit buildings, reverse single-family home exemptions, and eliminate downtown exemptions. Supported the Kenyon Street Co-op as a demonstration of TOPA's power when tenants have resources and support."
       sources:
-        - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
-          title: "Meet the candidates running to represent Ward 1 — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Will protect the HPTF from being raided for budget gaps, with mandatory set-asides for deeply affordable units (0–30% AMI). Also supports Councilmember Nadeau's 2026 legislation to replace and reform the HPTF with a more modern, robust financing mechanism."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
 
     - question_id: transit_bike_bus_lanes
       stance: 2
-      explanation: "Would fund free buses and expand bus network with increased frequency; as ANC commissioner secured crosswalks, bike lanes, and traffic calming measures."
+      explanation: "Championed the Georgia Avenue and Columbia Heights Crosstown bus priority projects as ANC Commissioner; extended protected bike lanes along Kenyon, Warder, and Park Place streets; would champion a dedicated transit mall through central Columbia Heights and a center-running transitway on Georgia Avenue. Wants 5–8 minute headways on Ward 1's busiest routes and fare-free buses."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
 
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Would end MPD collaboration with ICE for deportations and family separations; strengthen the Sanctuary Values Act; fund legal clinics protecting immigrant rights."
+      explanation: "Will support emergency legislation explicitly prohibiting any DC government employee — especially MPD — from cooperating with ICE. Will push for penalties including termination for officers who violate sanctuary protections, eliminate any MPD budget used for federal cooperation, and hold emergency oversight hearings to document every ICE interaction."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Will expand school-based mental health services, peer support programs, and healing-centered approaches; supports expanding mental health crisis response teams to respond to psychiatric emergencies instead of armed police; calls for evaluating progress on school-based mental health since its passage."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
 
     - question_id: crime_public_health
       stance: 2
-      explanation: "Invests in community-based prevention over expanded criminalization; strengthens evidence-based violence prevention; co-founded Georgia Avenue Thrive for community activation and crime prevention."
+      explanation: "Will dramatically expand funding for ONSE violence interruption programs (citing 30–60% gun violence reduction when properly implemented at scale); fund non-police mental health crisis responders; and expand human services outreach on business corridors for people struggling with substance use disorder — all rooted in her decade co-leading Georgia Avenue Thrive's community-activation public safety model."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
+
+    - question_id: crime_secure_dc
+      stance: -2
+      explanation: "Will oppose expansion of pretrial detention and vote 'no' on creating new crimes with harsher sentences. Calls the 2024 congressional override of the Revised Criminal Code 'strictly political theater, not about public safety,' and will vote to pass the RCCA again when Democrats retake Congress."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_support
+      stance: -2
+      explanation: "Explicitly opposes youth curfews: 'Criminalizing young people for existing in public spaces doesn't create safety — it creates criminal records that destroy futures.' As a social worker she counseled youth navigating downstream systems and saw how criminalizing normal teenage behavior pushes young people deeper into systems. Notes curfews disproportionately harm over-policed Black and brown youth."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Will expand summer youth employment to year-round opportunities with living wages and career pathways; fund rec centers, libraries, and community spaces with extended hours; and invest in credible-messenger violence interrupters as youth mentors. Through Georgia Avenue Thrive, activated spaces with movie nights, block parties, and youth-led events."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: parks_rec_funding
+      stance: 2
+      explanation: "Will fund recreation centers, libraries, and community spaces with extended hours for structured activities and mentorship. Personally activated community spaces through Georgia Avenue Thrive with youth programming, and sees investment in 'safe spaces open late' as a core public safety strategy."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "Will implement Birth-to-Three's 10% income cap on childcare costs with dedicated revenue streams — not vulnerable annual appropriations — and eliminate the childcare subsidy waitlist. Has 25 years in early childhood policy including building My Child Care DC, Thrive by Five, and helping bring the Early Childhood Educator Pay Equity Fund model to Colorado."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
 
     - question_id: fair_elections_participation
       stance: 2
@@ -95,30 +206,61 @@
   election_slug: ward1
   in_fair_elections: true
   campaign_url: https://terrylynchfordc.com/
-  endorsements: []
+  endorsements:
+    - "Bill Lightfoot, former DC Councilmember and chair of Bowser/Fenty mayoral campaigns"
+    - "Carol Fennelly, homeless and prison reform activist"
+    - "Fr. Ray Kemp, former DC School Board member and longtime pastor of St. Augustine's"
+    - "Sandra Seegars, Ward 8 ANC Commissioner"
+    - "Frank Agbro, Mt. Pleasant community leader and former ANC Commissioner"
+    - "Pat Patrick, former Adams Morgan Business Association President"
   short_bio: >
-    Longtime civic activist and Georgetown alumnus who has lived in DC since 1977.
-    Known for submitting up to 25,000 311 requests a year.
+    40-year Mt. Pleasant resident (age 66), Georgetown alumnus, and living kidney
+    donor (2020). Began career at CCNV shelters with Mitch Snyder; founded Calvary
+    Women's Services and co-founded Washington Area Community Investment Fund.
+    Quality-of-life focused campaign: small businesses, parking enforcement,
+    community policing reform, parks, and senior services.
   long_bio: |
-    Terry Lynch (age 66) has lived in DC since 1977. A longtime civic activist and
-    Georgetown University alumnus, he is focused on fixing "urban blight." Proud to 
-    be crowned "The most annoying man in DC" by Washingtonian, Lynch reportedly 
-    submits 20,000–25,000 311 requests per year through daily walks across all eight wards.
-    His housing platform focuses on aggressively targeting vacant and blighted properties 
-    with a "use it or lose it" policy to reclaim properties not restored within 3 years,
-    rather than building new housing stock. His campaign website emphasizes neighborhood
-    quality-of-life improvements — cleaner streets, better city services, support for small
-    businesses, expanded parks, and senior services — over detailed legislative
-    proposals. He has founded shelters and served on PTAs and city task forces during
-    his decades in Ward 1. He frames neighbor-to-neighbor community building as his
-    core philosophy: "This has been the key to success time and again for making
-    neighborhoods safer, cleaner, and better for our children to be raised in."
+    Terry Lynch (age 66) has lived in DC since 1977 and in Mt. Pleasant for 40
+    years. A Georgetown University alumnus, he began his career running homeless
+    shelters alongside Mitch Snyder and Carol Fennelly at CCNV, then went on to
+    found Calvary Women's Services — a shelter specifically for homeless women.
+    He co-founded the Washington Area Community Investment Fund, which provides
+    financing for affordable housing, small business development, and community
+    services. In the 1990s he was an early advocate for zoning reform that brought
+    housing, retail, and arts to downtown DC — work he undertook alongside future
+    endorser Bill Lightfoot. He served on Mayor Williams' Library Task Force, as
+    a PTA officer introducing sports and activities to DC schools, and as DC State
+    Sports Commissioner, enhancing youth athletics citywide. In 2020 he donated
+    a kidney at the Mayo Clinic.
+
+    Lynch runs what he describes as a "person by person" campaign — not one of
+    endorsements by special interest groups but by residents and the small,
+    minority, and women-owned businesses of Ward 1 he says he's spent decades
+    serving. Endorsers include Miss Pixie's, Fleet Feet, The Raven, Bukom Cafe,
+    Dos Gringos, and Tamashaa. His civic activism has earned him the title "most
+    annoying man in DC" from Washingtonian; he reportedly submits 20,000–25,000
+    311 requests per year through daily walks across all eight wards.
+
+    His campaign was originally triggered by outgoing Councilmember Brianne
+    Nadeau's opposition to the RFK stadium deal, which Lynch called "the absolute
+    last straw" given the construction and permanent jobs it would create. His
+    platform focuses on quality-of-life: cleaner streets, keeping small businesses
+    open, parking enforcement (he wants Zone 1 restrictions extended to 24/7 and
+    immediate towing authority for violators), better city services, expanded parks
+    and rec spaces, senior services, and more youth programming. He has publicly
+    called on the Attorney General to conduct a top-to-bottom overhaul of MPD,
+    citing concerns about use-of-force with youth and DC police cooperating with
+    federal agents to detain residents.
   advisories: []
   sources:
     - url: https://terrylynchfordc.com/the-issues
       title: "The Issues — Terry Lynch for DC"
       publisher: "Terry Lynch Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-30
+    - url: https://terrylynchfordc.com/
+      title: "Terry Lynch for DC Council — Campaign Website"
+      publisher: "Terry Lynch Campaign"
+      accessed: 2026-05-30
     - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
       title: "Meet the candidates running to represent Ward 1 — The 51st"
       publisher: "The 51st"
@@ -130,12 +272,21 @@
   positions:
     - question_id: housing_social_model
       stance: -1
-      explanation: "Prefers targeting vacant/blighted properties over building new social housing stock. Wants a 'use it or lose it' policy to reclaim properties not restored within 3 years."
+      explanation: "Prefers targeting vacant and blighted properties over building new social housing stock. Wants a 'use it or lose it' policy to reclaim properties not restored within 3 years."
       sources:
         - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
           title: "Meet the candidates running to represent Ward 1 — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+
+    - question_id: parks_rec_funding
+      stance: 1
+      explanation: "Campaign platform explicitly includes 'Protect and Expand Parks and Recreational Spaces' and 'Seek More After-School and Weekend Activities For Youth' as priorities, but provides no specific funding commitments or program proposals."
+      sources:
+        - url: https://terrylynchfordc.com/the-issues
+          title: "The Issues — Terry Lynch for DC"
+          publisher: "Terry Lynch Campaign"
+          accessed: 2026-05-30
 
     - question_id: fair_elections_participation
       stance: 2
@@ -153,40 +304,95 @@
   campaign_url: https://aparnafordc.com/
   endorsements:
     - "Working Families Party"
+    - "Washington Teachers' Union"
+    - "Greater Greater Washington (Rank #1)"
+    - "Metro DC DSA"
+    - "Sierra Club"
+    - "Jews United for Justice"
+    - "Bike, Walk & Bus PAC"
+    - "DC Women in Politics"
+    - "DC for Democracy"
+    - "DC Voters for Animals (#2 Ranking)"
+    - "Our Revolution DC"
+    - "Run for Something"
+    - "Lead Locally"
+    - "Rachel's Action Network"
+    - "The Woodner Tenants' Union"
+    - "Tivoli Gardens Tenants Association – Asociación de Inquilinos"
+    - "Local 25 – UNITE HERE (hotel, restaurant, casino workers)"
+    - "Unite Here! Local 23"
+    - "Amalgamated Transit Union – ATU Local 689"
+    - "Metropolitan Washington Council – AFL-CIO"
+    - "32BJ SEIU"
+    - "SEIU Local 500"
+    - "Committee of Interns and Residents – SEIU Healthcare"
+    - "AFSCME – District Council 20"
+    - "AFGE Local 2978"
+    - "AFGE Local 2725"
+    - "AFGE – District 14"
+    - "UFCW Local 400"
+    - "CWA – Maryland-DC State Council"
+    - "Teamsters Local 639"
+    - "Nonprofit Professional Employees Union"
+    - "International Association of Fire Fighters – Local 36"
   short_bio: >
-    Tenant organizer and nonprofit policy analyst; highest fundraising of any
-    Ward 1 candidate. Endorsed by Working Families Party and two dozen unions.
+    Tenant organizer, union member, and queer daughter of immigrants who has
+    called Columbia Heights home for a decade. DSA volunteer; served on ANC 1A
+    Housing Justice and Zoning Committee. Works for a progressive policy nonprofit.
+    Highest fundraiser in the Ward 1 race. Comprehensive platform: free childcare,
+    rent cap expansion, $125M/year for affordable housing, public utility ownership,
+    and ending MPD-ICE cooperation.
   long_bio: |
-    Aparna Raj (age 32) is a tenant organizer who began as a DSA volunteer and
-    now works for Local Progress, a progressive policy nonprofit. She has raised
-    more money than any other Ward 1 candidate, hitting the Fair Elections Program
-    funding ceiling. Her housing platform is the most detailed in the race: she
-    would expand rent stabilization to all buildings built after 1975 (with a goal
-    of universal coverage by the 2030 reauthorization), restore TOPA for all DC
-    residents, and allocate $125 million annually to the Housing Production Trust
-    Fund. She would pilot social housing modeled on Montgomery County and Seattle.
-    On childcare, she would guarantee free publicly funded care for ages 3 months
-    to 3 years — paid for by taxes on large corporations. She supports ending MPD
-    cooperation with ICE, strengthening the Sanctuary Values Act, and funding free
-    public immigration legal services. On transit, she would build dedicated bus
-    lanes (citing 15% commuting time savings), increase bus frequency to 12-minute
-    minimum intervals, and extend existing lane hours. On public safety she
-    emphasizes violence interruption ("Cure the Streets"), non-police crisis
-    response, and youth programming over traditional policing. She is endorsed by
-    the Working Families Party and approximately two dozen unions and progressive
-    groups. Ward 1 is majority-Spanish-speaking in many blocks; Raj is actively
-    learning Spanish and has committed to providing fully translated constituent
-    communications so she can engage directly with Spanish-speaking residents.
+    Aparna Raj (age 32) is a tenant organizer, union member, and queer woman of
+    color who has lived in Columbia Heights for a decade with her husband Stuart
+    and their dog Frank. She describes her motivation in personal terms: her mother
+    came to the US as an immigrant and worked minimum-wage retail without the ability
+    to take sick time; her father lost his job in 2009 and the family scrambled to
+    make ends meet; and as her parents age, the prospect of a medical emergency
+    bankrupting them looms. Those experiences led her to volunteer with Metro DC DSA,
+    through which she organized for tenants' rights (including alongside the tenants
+    of Marbury Plaza), worked to defend and expand tenant protections against the
+    real estate lobby, and organized against Trump. She previously worked at a
+    nonprofit addressing food insecurity in DC and now works for Local Progress, a
+    progressive policy nonprofit. She served on ANC 1A's Housing Justice and Zoning
+    Committee and fought for housing that meets people's needs rather than developer
+    profits. As a union member she served on her unit's bargaining committee and
+    picketed alongside restaurant workers, bus drivers, and mechanics.
+
+    She has raised more money than any other Ward 1 candidate, hitting the Fair
+    Elections Program funding ceiling. Her housing platform is the most detailed in
+    the race: she would expand rent stabilization to all buildings built after 1975
+    (with a goal of universal coverage at the 2030 reauthorization), restore TOPA
+    for all DC residents, allocate $125 million annually to the Housing Production
+    Trust Fund, and pilot social housing modeled on Montgomery County and Seattle.
+    On childcare, she would guarantee free publicly funded care from age 3 months to
+    3 years — no means testing, paid for by taxes on large corporations — by fully
+    funding the existing Birth to Three infrastructure. Her energy platform calls for
+    PSC reform (reducing Pepco's guaranteed return to ~6%), fully funding Solar for
+    All and home electrification programs, and ultimately transitioning to public
+    ownership of DC's utilities. She has a detailed rat-control platform including
+    smart rodent-proof bins, a DC Rat Czar to coordinate DPW and DC Health, and a
+    composting expansion. On workers' rights she would extend the right to strike to
+    public sector workers, introduce fair scheduling legislation, and introduce a DC
+    Right to Organize Act. On transit she would build dedicated bus lanes (citing
+    15% commuting time savings), increase bus frequency to 12-minute minimums, and
+    close bicycle network connectivity gaps. On public safety she emphasizes violence
+    interruption ("Cure the Streets"), non-police crisis response, and youth
+    programming. She supports ending MPD cooperation with ICE, strengthening the
+    Sanctuary Values Act, and funding free public immigration legal services.
+
+    Ward 1 is majority-Spanish-speaking in many blocks; Raj is actively learning
+    Spanish and has committed to fully translated constituent communications.
   advisories: []
   sources:
     - url: https://aparnafordc.com/platform
       title: "Platform — Aparna Raj for DC Council"
       publisher: "Aparna Raj Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-30
     - url: https://aparnafordc.com/
       title: "Aparna Raj for DC Council — Campaign Website"
       publisher: "Aparna Raj Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-30
     - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
       title: "Meet the candidates running to represent Ward 1 — The 51st"
       publisher: "The 51st"
@@ -198,66 +404,129 @@
   positions:
     - question_id: housing_rent_stabilization
       stance: 2
-      explanation: "Would expand rent stabilization to properties built after 1975 and push for universal coverage of all multifamily buildings at the 2030 reauthorization."
+      explanation: "Would expand rent stabilization to properties built after 1975 and push for universal coverage of all multifamily buildings at the 2030 reauthorization. Wants to reverse harmful provisions of the RENTAL Act and fund tenant attorneys through the Access to Justice program."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
 
     - question_id: housing_topa_restore
       stance: 2
-      explanation: "Explicitly calls for restoring TOPA to all District residents and strengthening the First Right Purchase Program for limited equity cooperatives."
+      explanation: "Explicitly calls for restoring TOPA to all District residents — including single-family homes, 2–4 unit buildings, and new downtown construction stripped in recent rollbacks — and strengthening the First Right Purchase Program for limited equity cooperatives."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Explicitly calls for $125 million allocated to the HPTF annually, with five-year production targets and rigorous oversight of DHCD. Would require HPTF to prioritize TOPA projects and reform the opaque Qualified Allocation Plan."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
 
     - question_id: housing_social_model
       stance: 2
-      explanation: "Would pilot social housing modeled on Montgomery County and Seattle; also supports fully funding the Housing Production Trust Fund at $125 million annually."
+      explanation: "Would pilot District-owned, tenant-controlled social housing modeled on Montgomery County's HOC and Seattle, built with union labor and to high environmental standards, open to residents from all income levels."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
 
     - question_id: transit_bike_bus_lanes
       stance: 2
-      explanation: "Would build dedicated bus lanes (citing 15% commuting time savings), increase bus frequency to 12-minute minimums, extend lane hours, and expand cycling infrastructure and bike-share access."
+      explanation: "Would build dedicated bus lanes (citing 15% commuting time savings), increase bus frequency to 12-minute minimums, extend existing lane hours, and close remaining bicycle network connectivity gaps to make it possible to ride safely east-to-west across Ward 1."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
 
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Would end MPD collaboration with ICE including joint patrols and intelligence sharing; strengthen the Sanctuary Values Act with enforceable consequences; fund free public immigration legal services."
+      explanation: "Would end MPD collaboration with ICE including joint patrols, surveillance, and intelligence sharing; strengthen the Sanctuary Values Act with enforceable consequences for officials who break it; ban law enforcement from wearing masks; fund free public immigration legal services."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
+
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Explicitly calls for expanding the community schools model in DC, citing Baltimore's expansion from 50 to 130 community schools (2018–2022) and its documented reduction in school violence. Would work with DCPS to provide wraparound support services to students and families."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
 
     - question_id: education_mental_health_schools
       stance: 2
-      explanation: "Would expand behavioral health services in schools and fully fund school counselors, social workers, and support staff; supports Certified Community Behavioral Health Clinic programs."
+      explanation: "Would increase funding for school-based behavioral health services, opposing the FY26 budget's $2.3 million cut to school behavioral health. Supports expanding school counselors, social workers, and nurses; funds mobile health crisis units; and expands the Certified Community Behavioral Health Clinic program."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
 
     - question_id: crime_public_health
       stance: 2
-      explanation: "Would expand 'Cure the Streets' and Community Violence Intervention programs; consolidate non-police crisis responders into a single program for mental health, substance use, and homelessness calls."
+      explanation: "Would expand 'Cure the Streets' violence interruption and community violence intervention programs; consolidate DC's patchwork of non-police crisis responders into a single coordinated program for mental health, substance use, and homelessness calls; and invest in 911 paramedic call takers to route mental health emergencies to appropriate responders."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Would fully fund after-school and weekend programs, revitalize the Marion Barry Summer Youth Employment Program, and expand rec center hours with programming that kids want. Frames youth programming investment as crime prevention: 'early childhood education is proven to reduce adolescent crime.'"
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: parks_rec_funding
+      stance: 2
+      explanation: "Would resist cuts to rec centers and public spaces and fight to invest in longer hours and improved physical infrastructure. Specifically proposes expanding rec center hours with programming for youth, and advocates for bringing Ward 1's federally maintained parks under DPR control."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "Would guarantee free, publicly funded childcare for every DC child from age 3 months to 3 years — no means testing, no fees, no benefits cliff — by fully funding the existing Birth to Three program infrastructure. Would pay for it with taxes on large corporations and the ultrawealthy, and protect and expand the Early Childhood Educator Pay Equity Fund."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: sanitation_rats
+      stance: 2
+      explanation: "Has a detailed, multi-pronged rat platform: replace open-top public litter cans with smart rodent-proof bins with compaction sensors; pest-proof household trash bins with locked tops; appoint a DC Rat Czar to coordinate DPW and DC Health; expand composting to restaurants; explore rat birth control pilots; and strengthen landlord accountability for chronic infestations. Notes Ward 1 reports the most rats in the District year after year."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "Would fully fund Solar for All (lowering bills for 100,000 families), fully fund the Affordable Home Electrification Program, reform solar interconnection fees, reduce Pepco's guaranteed investor return from 9.5% to ~6%, and defend DC's Building Efficiency Performance Standards. Ultimately wants to transition DC's utilities to public ownership, citing lower bills and better reliability at the 2,000+ municipal utilities nationally."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
 
     - question_id: fair_elections_participation
       stance: 2
@@ -273,32 +542,66 @@
   election_slug: ward1
   in_fair_elections: true
   campaign_url: https://jackieforward1.com/
-  endorsements: []
+  endorsements:
+    - "Anita Bonds, DC At-Large Councilmember"
+    - "Greater Capital Area Association of REALTORS (GCAAR)"
+    - "Sharon Snead, Hubbard Place Tenant Association President"
+    - "Casilda Luna, Latino community leader"
+    - "Yasmin Romero, former ANC 1 Commissioner"
   short_bio: >
-    Former Bowser staffer and Latinx community advocate. Would be the first Latina
-    Ward 1 representative.
+    Born in El Salvador; came to DC in 1990 as a teenage mother who experienced
+    homelessness. Rose to become Executive Director of the Mayor's Office on Latino
+    Affairs (2015) and Director of the Mayor's Office of Community Affairs (2021,
+    first Latina). Secured $10M for immigrant legal defense. If elected, would be
+    the first Latina elected to DC Council. Platform: small business grants, childcare,
+    HPAP expansion, and community safety.
   long_bio: |
-    Jackie Reyes Yanes (age 48) has lived in DC since 1990 and spent the past decade
-    as a staffer for Mayor Bowser, where she focused on services for Latinx immigrants
-    (including securing a 2020 fund for immigrants' legal services). She is the more
-    moderate candidate in the Ward 1 race, cautioning against overpromising, and
-    would be the first Latina representative for Ward 1. Her five-point platform
-    calls for small business revival ($5,000–$50,000 grants and a one-stop business
-    hub); a community ambassador program staffed by 20 paid seniors and youth with a
-    72-hour constituent response guarantee; expanded affordable housing (HPAP at
-    $30 million with a $150,000 income limit, 20% affordable units required in new
-    developments above 10 units at 60% AMI, and strengthened rent control); universal
-    affordable childcare for birth to 36 months with educator wages raised to a
-    $22/hour minimum; and community safety improvements through a full street
-    lighting audit and guaranteed youth employment. She has made the case for Latino
-    representation in blunt terms: "We're now nearly 120,000 Latinos in DC. We should
-    already have a Latino councilmember, but we're going to change that on June 16th."
+    Jackie Reyes Yanes (age 48) was born in El Salvador and came to Washington, DC
+    in 1990 at age 13. As a teenage mother who experienced homelessness, she gained
+    firsthand understanding of the barriers facing low-income and newcomer families.
+    Her father later bought their home in the 1990s working as a dishwasher, an
+    experience she invokes often: "That door must stay open for the next generation."
+
+    Her career began at the Latin American Youth Center, where she built expertise in
+    data, outreach, and program coordination for youth and families. She later served
+    in Mayor Fenty's Office of Community Relations and Services and then as Director
+    of Latino Affairs and Community Outreach for the late Ward 1 Councilmember Jim
+    Graham. In 2015, Mayor Bowser appointed her Executive Director of the Mayor's
+    Office on Latino Affairs (MOLA), where she expanded the agency's budget, launched
+    the Immigration Justice Legal Services Grant Program (securing $10 million for
+    immigrant legal defense), and played a central role in expanding STAY DC to help
+    thousands of families remain housed during crises. During COVID-19 she led
+    multilingual vaccine education and mobile vaccination clinics in hard-to-reach
+    neighborhoods. In October 2021 she was appointed Director of the Mayor's Office
+    of Community Affairs — the first Latina to hold the position — overseeing multiple
+    community affairs offices and serving as a bridge between residents and the Mayor.
+
+    Notable milestones: featured in the 2017 book "Sí Puede: 26 Successful Salvadorans
+    in the Diaspora"; led the 2018 delegation that resulted in the Sister City Agreement
+    between Washington, DC and San Salvador; and in 2024 helped lead the team that set
+    a Guinness World Record for the world's largest pupusa. Named to El Tiempo Latino's
+    "100 Powermeter." Endorsed by At-Large Councilmember Anita Bonds and GCAAR.
+
+    If elected, she would be the first Latina ever elected to the DC Council. She
+    frames her campaign explicitly around that historic significance alongside a
+    five-point platform: small business grants ($5K–$50K, multilingual, fast decisions);
+    a Neighborhood Solution Center with 20 paid Community Ambassadors (10 seniors,
+    10 youth) and a 72-hour response guarantee; HPAP expansion to $30 million with a
+    $150K income limit; affordable childcare from birth to 36 months with educator
+    pay raised to $22/hour minimum; and community safety through full street-lighting
+    audits, activated public spaces, and guaranteed youth employment. She explicitly
+    supports a youth curfew as a temporary protective measure while investing in
+    programming as the long-term solution.
   advisories: []
   sources:
     - url: https://jackieforward1.com/#platform
       title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
       publisher: "Jackie Reyes Yanes Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-30
+    - url: https://jackieforward1.com/
+      title: "Jackie Reyes Yanes for Ward 1 — Campaign Website"
+      publisher: "Jackie Reyes Yanes Campaign"
+      accessed: 2026-05-30
     - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
       title: "Meet the candidates running to represent Ward 1 — The 51st"
       publisher: "The 51st"
@@ -310,21 +613,48 @@
   positions:
     - question_id: housing_rent_stabilization
       stance: 1
-      explanation: "Would strengthen rent control; requires 20% affordable units in new developments above 10 units at 60% AMI or below. More moderate than expanding to all post-1975 buildings."
+      explanation: "Pledges to close loopholes landlords use to circumvent rent stabilization — no renovictions, no bad-faith vacancy filings. Does not specifically call for expanding coverage to buildings built after 1975; her focus is strengthening enforcement of existing protections."
       sources:
         - url: https://jackieforward1.com/#platform
           title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
           publisher: "Jackie Reyes Yanes Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
 
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Outspoken against MPD collaboration with ICE and federal immigration agents."
+      explanation: "Her entire career has centered on protecting immigrant communities: she secured $10 million for DC's Immigration Justice Legal Services Grant Program, expanded STAY DC housing stability for immigrant families, and led multilingual vaccine outreach in hard-to-reach neighborhoods. Per The 51st, she is outspoken against MPD collaboration with ICE and federal immigration agents."
       sources:
         - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
           title: "Meet the candidates running to represent Ward 1 — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "Calls for 'affordable, high-quality child care for every Ward 1 child, regardless of family income — no waitlists, no exceptions' from birth to 36 months. Includes educator salary supplements to at least $22/hour. Would expand subsidy eligibility to 150% AMI and build new childcare facilities in underutilized District-owned and private properties."
+      sources:
+        - url: https://jackieforward1.com/#platform
+          title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
+          publisher: "Jackie Reyes Yanes Campaign"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_support
+      stance: 1
+      explanation: "Explicitly states: 'Unfortunately, at this moment, a curfew for youth under 18 is necessary to protect our communities and keep the District safe.' Frames it as a temporary protective measure paired with youth employment and programming investment."
+      sources:
+        - url: https://jackieforward1.com/#platform
+          title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
+          publisher: "Jackie Reyes Yanes Campaign"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Pairs her curfew support with guaranteed summer and after-school jobs for every Ward 1 young person who wants one, year-round programming in parks and plazas (movies, markets, sports leagues), and the paid Community Ambassador Corps that pairs seniors with youth ages 18–24. Says 'a teen with a job, a paycheck, and a mentor is the most effective crime prevention strategy we have.'"
+      sources:
+        - url: https://jackieforward1.com/#platform
+          title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
+          publisher: "Jackie Reyes Yanes Campaign"
+          accessed: 2026-05-30
 
     - question_id: fair_elections_participation
       stance: 2
@@ -342,34 +672,66 @@
   campaign_url: https://miguelward1.com/
   endorsements: []
   short_bio: >
-    Current ANC 1B Chair, former DHS analyst, and key organizer for ranked choice
-    voting in DC. Touts a "hyper-local" block-by-block approach.
+    Current ANC 1B Chair (age 39), child of an immigrant family, and former
+    immigration professional / DHS analyst who has lived in Ward 1 since 2023.
+    Lead organizer for Initiative 83 (RCV, 73% of the vote) and co-founder of
+    Grow Democracy DC. Founded the ANC Home Rule Caucus (75+ commissioners).
+    Car-free household. Comprehensive policy platform from housing to transit to
+    school accountability.
   long_bio: |
-    Miguel Trindade Deramo (age 39) has lived in Ward 1 since 2023. He is the current
-    Chair of ANC 1B and was the lead organizer for DC's successful ranked choice voting
-    initiative (Initiative 83, passed with 73% of the vote). A former Department of
-    Homeland Security analyst, he has been doing public service full-time for four
-    years. His housing platform follows Montgomery County's social housing model and
-    would use DOPA to preserve affordable housing. On transit, he supports bus lanes
-    on U Street and expanding existing lanes on Georgia Ave and 14th St, and he
-    secured Capital Bikeshare stations at 15th/Chapin and 14th/Belmont. He is active
-    on DC autonomy issues: opposed ICE agents wearing deceptive police uniforms, ran
-    weekly Know Your Rights outreach, and lobbied Capitol Hill to restore $1 billion
-    cut from DC's budget. He founded the ANC Home Rule Caucus. He is known for his
-    "hyper-local" approach: going block-by-block on uncollected trash, shuttered
-    businesses, and organized regular Malcolm X Park cleanups. He has described the
-    hyper-local approach as essential: "There's no other way to be a candidate. You
-    only learn about so many hyper-local issues by doing this."
+    Miguel Trindade Deramo (age 39) has lived in Ward 1 since 2023. He is the
+    current Chair of ANC 1B, representing the U Street corridor, and describes
+    himself as a child of an immigrant family and a former immigration professional.
+    His father spent his career as a CWA member; his uncles were IBEW electricians;
+    his mother was a schoolteacher in a non-unionized private school who bought
+    supplies out of her own pocket. He saw firsthand how union membership shaped
+    his father's career relative to his mother's. He previously worked as a federal
+    analyst (Department of Homeland Security). He and his partner Luis are a
+    car-free household in Ward 1; Luis lost his job when USAID was shuttered.
+
+    He was the lead organizer and steering committee member for Initiative 83,
+    DC's ranked-choice voting initiative, which passed with 73% of the vote —
+    including a supermajority in every ward and a majority in every precinct.
+    He then co-founded and served as first executive director of Grow Democracy DC,
+    a nonprofit preparing voters to participate in DC's first RCV elections. He also
+    led the successful citywide campaign to defeat the Initiative Amendment Act, a
+    bill that would have gutted voters' ability to propose ballot measures.
+
+    As ANC Chair, he founded the Home Rule Caucus (75+ commissioners from across
+    DC) to coordinate autonomy actions, and led the effort to get 36 commissions to
+    pass concurrent resolutions condemning the federal takeover. He personally
+    lobbied on Capitol Hill with Free DC to restore $1 billion cut from DC's budget,
+    ran weekly Know Your Rights outreach in English and Spanish, and rallied other
+    ANCs to demand ICE stop wearing deceptive "POLICE" uniforms. He also organized
+    Shakespeare in the Park at Malcolm X Park, hosted the Celebration of International
+    Service for displaced USAID workers, got a composting bin installed at 14th & U,
+    and conducted rigorous oversight of DC's response to a fatal V Street building
+    collapse — pushing DOB and OSHA accountability well beyond what ANCs typically do.
+
+    His housing platform calls for more supply through zoning reform and streamlined
+    permitting, restoring TOPA for 2–4 unit buildings, using DOPA more aggressively,
+    a new Housing Preservation Fund alongside the HPTF, exploring social housing
+    modeled on Montgomery County, and a "housing first" approach to homelessness with
+    no preconditions. On transit he would champion a seamless 14th St protected bike
+    lane, all Ward 1 bus priority corridors (U St, Florida, Georgia, 14th, Crosstown),
+    25 new or expanded Capital Bikeshare stations, and ultimately fare-free buses
+    funded by a land value tax. His education platform emphasizes school-based
+    behavioral health (specifically concerned about the DBH transition), chronic
+    absenteeism (37% in Ward 1), and annual walkthrough inspections of every Ward 1
+    school. He has a detailed rat-control platform including rodent-proof bins,
+    composting expansion, and rodent birth control trials. He explicitly opposes
+    permanent or repeatedly extended youth curfews, preferring programming,
+    rec centers, and violence interruption instead.
   advisories: []
   sources:
     - url: https://miguelward1.com/priorities
       title: "Priorities — Miguel for Ward 1"
       publisher: "Miguel Trindade Deramo Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-30
     - url: https://miguelward1.com/record
       title: "Record — Miguel for Ward 1"
       publisher: "Miguel Trindade Deramo Campaign"
-      accessed: 2026-05-27
+      accessed: 2026-05-30
     - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
       title: "Meet the candidates running to represent Ward 1 — The 51st"
       publisher: "The 51st"
@@ -379,50 +741,149 @@
       publisher: "El Tiempo Latino"
       accessed: 2026-05-28
   positions:
+    - question_id: housing_topa_restore
+      stance: 2
+      explanation: "Will reverse the RENTAL Act amendment exempting 2–4 unit properties from TOPA (which he says 'denies thousands of renters the opportunity to potentially become homeowners') and will work to shorten the 15-year TOPA exemption for new buildings."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: housing_rent_stabilization
+      stance: 1
+      explanation: "Supports exploring expansion of rent stabilization to more existing multifamily properties, but with care to ensure rent caps don't hurt the financial feasibility of operating those properties amid rising costs. Raises the possibility of a rolling (rather than fixed) timeframe for applicability."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Will fight for more resources for the HPTF focused on households earning up to 50% AMI, paired with rigorous oversight. Also proposes a new Housing Preservation Fund alongside the HPTF to protect existing affordable housing from being converted to market rate."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
     - question_id: housing_social_model
       stance: 2
-      explanation: "Wants to follow Montgomery County's social housing model."
+      explanation: "Will support DC taking a more active role in financing and developing permanently affordable, mixed-income, publicly and/or nonprofit-owned social housing, with Montgomery County's approach as a potential model. Would create a fund to test such investments with a growth plan toward a dedicated office or independent agency."
       sources:
-        - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
-          title: "Meet the candidates running to represent Ward 1 — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
 
     - question_id: housing_dopa
       stance: 2
-      explanation: "Would use DOPA (District Opportunity to Purchase Act) to buy buildings and preserve affordable housing."
+      explanation: "Will make more frequent use of DOPA by creating a financing tool for DOPA acquisitions, conducting oversight to ensure DHCD has the capacity to take on more properties, and exploring partnerships with values-aligned affordable housing organizations to acquire and manage DOPA properties."
       sources:
-        - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
-          title: "Meet the candidates running to represent Ward 1 — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
 
     - question_id: transit_bike_bus_lanes
       stance: 2
-      explanation: "Supports bus lanes on U Street and expanding existing bus lanes on Georgia Ave and 14th St; secured Capital Bikeshare stations at 15th/Chapin and 14th/Belmont as ANC chair."
+      explanation: "Will champion bus priority lanes on U Street, Florida, Georgia, 14th, and Columbia Heights Crosstown corridors; a seamless protected bike lane on 14th St from Columbia Heights to downtown; 25 new or expanded Capital Bikeshare stations; and bus frequencies of every 10 minutes or better on Ward 1's major corridors. Already secured two bikeshare station expansions as ANC chair."
       sources:
-        - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
-          title: "Meet the candidates running to represent Ward 1 — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
 
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Opposed ICE agents wearing deceptive police uniforms; organized weekly Know Your Rights outreach; lobbied to restore $1 billion to DC budget cut by Congress."
+      explanation: "Will introduce legislation to amend the Sanctuary Values Amendment Act to expand information-sharing prohibitions to people detained (not just in custody), add quarterly MPD reporting requirements, create protections at sensitive locations (schools, hospitals, clinics), and ban face coverings by law enforcement. Led 36 ANCs to pass resolutions demanding ICE remove masks and stop wearing 'POLICE' uniforms; ran weekly KYR outreach with Free DC; testified at Council's human rights hearing asking 'what is the value of the Sanctuary Values Act if not enforced?'"
       sources:
-        - url: https://miguelward1.com/record
-          title: "Record — Miguel for Ward 1"
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
+
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Supports 'shoring up and expanding the DCPS Connected Schools Model, which enables participating schools to function as resource hubs for students and their families, by offering access to resources related to employment, housing, legal aid, health, and more.'"
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Will champion fully funding and expanding the School-Based Behavioral Health program, which integrates licensed clinicians into schools; ensure schools are sufficiently staffed with nurses, counselors, and social workers; and ensure any transition from CBOs to DBH is meticulously planned so services are not disrupted. Notes that Ward 1's trusted local providers like Mary's Center would be discontinued under the current transition proposal."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
 
     - question_id: crime_public_health
       stance: 2
-      explanation: "Advocated to preserve violence-interruption funding on the U Street corridor."
+      explanation: "Sponsored two ANC resolutions to maintain or increase DC's violence interruption investment; will bolster VI programs at all levels including CBT-based peacebuilding in schools, linking school programs to neighborhood-based VI programs; and supports Pathways 2 Peace for youth most at risk of gun violence. Emphasizes that investments must be based on rigorous research and data."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_support
+      stance: -1
+      explanation: "States: 'Fundamentally, Miguel is not in favor of youth curfews; he does not support a permanent curfew or repeatedly extending the curfew as the only solutions.' Wants to prevent unnecessary interactions between youth and policing or the criminal justice system. As ANC Chair of U Street (where large youth gatherings have occurred), he prefers rec centers, night markets, and programming over enforcement."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Will pressure the Mayor to reactivate the defunct Youth Advisory Council; support expanding Out-of-School Time seat capacity; champion the Mayor Barry Summer Youth Employment Program and High School Internship Program; and broaden city partnerships to create all-ages events, safe spaces at rec centers, and youth-led programming. Explicitly frames programming as the alternative to curfews."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: parks_rec_funding
+      stance: 2
+      explanation: "Frames recreation centers as essential youth safety infrastructure (safe spaces for youth gatherings as an alternative to curfews) and supports expanding Out-of-School Time seat capacity. Organized monthly Malcolm X Park cleanups, brought Shakespeare in the Park to Malcolm X, and built partnerships with Washington Parks & People and the National Park Service to attract resources for the park."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "Will fill the funding gap in the Birth-to-Three for ALL DC Act (currently severely underfunded) so families pay no more than 10% of income on childcare for ages 0–3, which would benefit 12,000+ infants and toddlers. Will protect the Pay Equity Fund and the childcare subsidy program; also interested in zoning reforms to allow childcare on upper floors of commercial buildings."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: sanitation_rats
+      stance: 2
+      explanation: "Has a four-plank rat platform: (1) replace open-air trash cans with rodent-proof closed bins; (2) expand composting from pilot to permanent program including apartments; (3) stronger enforcement against illegal trash dumping in alleys by restaurants and landlords; (4) innovate with rodent birth control trials. Got Ward 1's first composting bin installed at 14th & U. Supports the RAT Amendment Act and RATSS Act. Explicitly avoids rodenticides due to harm to wildlife."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: democracy_rcv_support
+      stance: 2
+      explanation: "Was the lead organizer and steering committee member for Initiative 83 (RCV), which passed with 73% of the vote including a supermajority in every ward. Co-founded Grow Democracy DC to prepare voters for DC's first RCV elections. Also led the successful campaign to defeat the Initiative Amendment Act, which would have gutted ballot initiative rights."
       sources:
         - url: https://miguelward1.com/record
           title: "Record — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
-          accessed: 2026-05-27
+          accessed: 2026-05-30
 
     - question_id: fair_elections_participation
       stance: 2
