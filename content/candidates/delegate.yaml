@@ -105,6 +105,24 @@
           publisher: dc.gov
           accessed: 2026-05-27
 
+    - question_id: delegate_budget_autonomy
+      stance: 2
+      explanation: "As Norton's legislative counsel he 'played a lead role in drafting legislation to loosen Congress' grip over DC government in favor of greater autonomy and independence.' If elected he says he'd seek a seat on the House Appropriations Committee to maximize DC's funding leverage and protect the District's budget from congressional interference."
+      sources:
+        - url: https://www.joinrobertwhite.com/
+          title: "Robert White for DC Delegate — Campaign Website"
+          publisher: "Robert White Campaign"
+          accessed: 2026-05-30
+
+    - question_id: delegate_oppose_federal_mpd
+      stance: 2
+      explanation: "In his Free DC questionnaire he answered Yes to opposing Congress increasing police presence in DC, consistent with opposing federal takeover of the Metropolitan Police Department and federal deployments in the city."
+      sources:
+        - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce90fc2559e5d7c6a5bcc/1771890959907/Robert+White+Free+DC+Candidate+Questionnaire.pdf
+          title: "Robert White — Free DC Candidate Questionnaire"
+          publisher: "Free DC Project"
+          accessed: 2026-05-27
+
 - id: trent-holbrook
   name: "Trent Holbrook"
   election_slug: delegate
@@ -192,6 +210,33 @@
           title: "DC Fair Elections Program Candidate Search"
           publisher: dc.gov
           accessed: 2026-05-27
+
+    - question_id: statehood_strategy_bipartisan
+      stance: 2
+      explanation: "The legislative-strategist candidate: as Norton's Senior Legislative Counsel he 'took the DC statehood bill from losing in 1993 to passing in the House of Representatives twice,' and frames his path as working the legislative process — uniting the Washington, DC Admission Act with the Freedom to Vote Act and the John R. Lewis Voting Rights Advancement Act — rather than confrontation or protest."
+      sources:
+        - url: https://www.trentholbrook.com/issues
+          title: "Issues — Trent Holbrook for DC Delegate"
+          publisher: "Trent Holbrook Campaign"
+          accessed: 2026-05-30
+
+    - question_id: delegate_budget_autonomy
+      stance: 2
+      explanation: "Calls Congress's roughly $1 billion (he cites over $2 billion) cut to DC's local budget a harm to teachers, police, and local business owners, and pledges to 'work to ensure that never happens again.' Would legislate to treat DC at least as well as states, cities, and counties for federal funding, and spent eight years drafting legislation to loosen Congress's grip on DC."
+      sources:
+        - url: https://www.trentholbrook.com/issues
+          title: "Issues — Trent Holbrook for DC Delegate"
+          publisher: "Trent Holbrook Campaign"
+          accessed: 2026-05-30
+
+    - question_id: delegate_oppose_federal_mpd
+      stance: 2
+      explanation: "States in the strongest terms: 'I vehemently oppose the federalization of the Metropolitan Police Department.' Helped advance Norton's District of Columbia Police Home Rule Act to strip that authority from the President, and the DC National Guard Home Rule Act to give the mayor (not the President) control of the Guard — calling its enactment a top priority."
+      sources:
+        - url: https://www.trentholbrook.com/issues
+          title: "Issues — Trent Holbrook for DC Delegate"
+          publisher: "Trent Holbrook Campaign"
+          accessed: 2026-05-30
 
 - id: greg-jaczko
   name: "Greg Jaczko"
@@ -281,6 +326,42 @@
           title: "Platform — Greg Jaczko for Congress"
           publisher: "Greg Jaczko Campaign"
           accessed: 2026-05-28
+
+    - question_id: environment_public_power
+      stance: 2
+      explanation: "His signature cost-of-living proposal: 'Washington is the perfect place for a public power authority.' As a physicist and former NRC chair, he argues a nonprofit public power authority would eliminate roughly $160M/year in Pepco profit that ratepayers fund (about $25 of an average $190 bill), citing studies that public power customers pay ~13% less. Would introduce legislation requiring the buyout to complete within 18 months at residual value."
+      sources:
+        - url: https://gojaczko4dc.com/platform
+          title: "Platform — Greg Jaczko for Congress"
+          publisher: "Greg Jaczko Campaign"
+          accessed: 2026-05-30
+
+    - question_id: statehood_strategy_bipartisan
+      stance: -1
+      explanation: "Rejects the patient legislative-coalition approach as having failed for over 200 years. His mantra is 'No Taxation UNTIL Representation,' and his Substack explicitly calls for civil disobedience — DC residents and businesses withholding federal income tax payments — to force Congress's hand. Favors confrontation and leverage over bipartisan dealmaking."
+      sources:
+        - url: https://gojaczko4dc.com/platform
+          title: "Platform — Greg Jaczko for Congress"
+          publisher: "Greg Jaczko Campaign"
+          accessed: 2026-05-30
+
+    - question_id: delegate_budget_autonomy
+      stance: 2
+      explanation: "Frames DC's lack of control over its own revenue and budget as central to the injustice of its status: 'Congress constantly seeks to undermine and oversee our local budget,' and he will be 'a relentless voice against congressional — and presidential — interference, demanding that DC residents control their own revenue and their own destiny.'"
+      sources:
+        - url: https://gojaczko4dc.com/platform
+          title: "Platform — Greg Jaczko for Congress"
+          publisher: "Greg Jaczko Campaign"
+          accessed: 2026-05-30
+
+    - question_id: delegate_oppose_federal_mpd
+      stance: 2
+      explanation: "Cites National Guard troops 'deployed throughout the city' and federal incarceration as 'peculiarities' of DC's status, and pledges to 'fight to get the federal government out of D.C.'s local justice system' so District residents can shape policies accountable to their own communities."
+      sources:
+        - url: https://gojaczko4dc.com/platform
+          title: "Platform — Greg Jaczko for Congress"
+          publisher: "Greg Jaczko Campaign"
+          accessed: 2026-05-30
 
 - id: brooke-pinto
   name: "Brooke Pinto"
@@ -404,6 +485,33 @@
           publisher: "Free DC Project"
           accessed: 2026-05-27
 
+    - question_id: delegate_oppose_federal_mpd
+      stance: 2
+      explanation: "'Washingtonians know that we don't need Trump to keep us safe… our local police department and local communities make our city safe — not a deployment of National Guard from across the country.' Opposes federal and National Guard deployment to enforce local law while supporting adequate resources for MPD, firefighters, and EMS."
+      sources:
+        - url: https://brookepintoforcongress.com/issues/
+          title: "Issues — Brooke Pinto for Congress"
+          publisher: "Brooke Pinto Campaign"
+          accessed: 2026-05-30
+
+    - question_id: delegate_budget_autonomy
+      stance: 2
+      explanation: "Centers her campaign on DC self-governance: 'the Trump Administration is… trying to strip power from our local leadership,' and DC 'needs a champion in Congress to defend our values' and autonomy. Notes DC is 'the only jurisdiction in the country where the federal government tells us how and where we can build,' and would fight congressional interference in local decisions."
+      sources:
+        - url: https://brookepintoforcongress.com/issues/
+          title: "Issues — Brooke Pinto for Congress"
+          publisher: "Brooke Pinto Campaign"
+          accessed: 2026-05-30
+
+    - question_id: statehood_strategy_bipartisan
+      stance: 1
+      explanation: "Says the path to statehood 'starts with sending someone to Congress with a track record of working across divides to deliver tangible results' — a legislative, coalition-oriented approach — while also stressing willingness 'to take on the tough fights with the Trump Administration and Republicans in Congress.'"
+      sources:
+        - url: https://brookepintoforcongress.com/issues/
+          title: "Issues — Brooke Pinto for Congress"
+          publisher: "Brooke Pinto Campaign"
+          accessed: 2026-05-30
+
 - id: kinney-zalesne
   name: "Kinney Zalesne"
   election_slug: delegate
@@ -500,3 +608,12 @@
           title: "Issues — Kinney Zalesne for DC Delegate"
           publisher: "Kinney Zalesne Campaign"
           accessed: 2026-05-28
+
+    - question_id: statehood_strategy_bipartisan
+      stance: 2
+      explanation: "Explicitly the 'grand bargain' candidate: 'fixing this will take more than indignance and outrage. It will require a strategic approach to a grand bargain on Capitol Hill… Throughout my career I've built coalitions across sectors and across the aisle.' Frames bipartisan coalition-building as her signature path to statehood."
+      sources:
+        - url: https://www.kinneyfordc.com/issues-1
+          title: "Issues — Kinney Zalesne for DC Delegate"
+          publisher: "Kinney Zalesne Campaign"
+          accessed: 2026-05-30

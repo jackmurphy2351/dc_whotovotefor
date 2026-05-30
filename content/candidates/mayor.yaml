@@ -219,6 +219,51 @@
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
 
+    - question_id: housing_upzoning
+      stance: 2
+      explanation: "Platform pledges to build more homes by 'Allowing for more housing citywide by removing outdated zoning restrictions so more homes and more types of homes can be built across DC, particularly near transit corridors,' alongside streamlined permitting to accelerate production."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-30
+
+    - question_id: transit_fare_free_buses
+      stance: 1
+      explanation: "Supports targeted free transit rather than universal fare-free service: 'Buses will be free for DC residents enrolled in the SNAP food assistance program,' and she will 'explore other ways to expand financial support for transit.'"
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-30
+
+    - question_id: transit_congestion_pricing
+      stance: 1
+      explanation: "Pushed for the DDOT Congestion Pricing study to be released (pledging to do so within 48 hours of taking office, which prompted Mayor Bowser to release it). As mayor she will 'carefully review and if necessary update the study and work with community members, District officials, and officials from surrounding jurisdictions to consider implementation' — open to it but committed to study and community process first."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_birth_to_three
+      stance: 1
+      explanation: "Her 'Childcare For All' plan expands subsidy to every family (capped at 7% of income) and co-locates infant and toddler programs in schools and District facilities — strongly expanding infant/toddler care, but through an income-based affordability cap rather than a free, universal birth-to-three guarantee."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-30
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Supports targeted small-business relief — expanding DC's small business property tax credit, lease guarantees, a 15% price break for certified social-benefit businesses, and a 'Buy Local' campaign — while also raising property taxes on long-term vacant commercial space. Net supportive of small-business tax relief, paired with other tools."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-30
+
 - id: kenyan-mcduffie
   name: "Kenyan McDuffie"
   election_slug: mayor
@@ -398,6 +443,15 @@
           title: "Fair Elections Registration Disclosure — DC Office of Campaign Finance"
           publisher: dc.gov
           accessed: 2026-05-28
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Has a record of investing in small business — he directed $100 million in pandemic relief grants to DC small businesses on the Council — and his platform pairs economic-justice tools with an expanded Local Child Tax Credit and employer incentives. Supportive of relief for small and local businesses, through targeted investment more than broad tax cuts."
+      sources:
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-05-30
 
 - id: gary-goodweather
   name: "Gary Goodweather"
@@ -592,6 +646,15 @@
           publisher: "Gary Goodweather Campaign"
           accessed: 2026-05-28
 
+    - question_id: transit_fare_free_buses
+      stance: 2
+      explanation: "'Fare-Free DC' is one of his four signature initiatives: eliminating Metrobus and Metrorail fares for DC residents, which he says would save regular riders roughly $1,000 per year."
+      sources:
+        - url: https://www.goodweatherfordc.com/issues
+          title: "Issues — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-05-28
+
 - id: ernest-johnson
   name: "Ernest E. Johnson"
   election_slug: mayor
@@ -663,6 +726,15 @@
     - question_id: parks_rec_funding
       stance: 1
       explanation: "Youth intervention platform calls for 'after-school programs in high-crime areas, sports and recreational opportunities, conflict resolution and leadership training' — implying support for parks and recreation-type programming, though DPR is not named explicitly."
+      sources:
+        - url: https://ernestformayor2026.com/
+          title: "Ernest Johnson for Mayor — Campaign Website"
+          publisher: "Ernest E. Johnson Campaign"
+          accessed: 2026-05-28
+
+    - question_id: transit_congestion_pricing
+      stance: 1
+      explanation: "His 'Growing Revenue Without Raising Taxes' plan proposes to 'Install tolls on major commuter arteries into the District' — a road-pricing approach aimed at out-of-District commuters, in the same family as congestion pricing."
       sources:
         - url: https://ernestformayor2026.com/
           title: "Ernest Johnson for Mayor — Campaign Website"
@@ -755,6 +827,15 @@
     - question_id: democracy_rcv_support
       stance: 2
       explanation: "Orange has a dedicated RCV pillar in his Orange Plan: 'RCV rewards collaboration, credibility, and trust. An Orange administration will lead through consensus without sacrificing principles.' He frames RCV positively as a governing tool."
+      sources:
+        - url: https://orangeformayor.com/
+          title: "The Orange Plan — Vincent Orange for Mayor"
+          publisher: "Vincent Orange Campaign"
+          accessed: 2026-05-28
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "His Orange Plan pillar 'Economic Growth Without Raising Taxes' pledges to 'stimulate economic activity to grow revenue rather than raising taxes,' circulate DC dollars locally by strengthening Certified Business Enterprises and local businesses, and support small business investment — a pro-small-business, no-tax-increase posture."
       sources:
         - url: https://orangeformayor.com/
           title: "The Orange Plan — Vincent Orange for Mayor"
@@ -892,6 +973,33 @@
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
 
+    - question_id: housing_upzoning
+      stance: 1
+      explanation: "Housing platform supports 'modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit' to reduce construction costs and create walkable, family-sized housing — supportive of density reform, with 'where appropriate' qualifiers."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_birth_to_three
+      stance: -1
+      explanation: "Favors loosening childcare regulations to lower costs rather than a free, universal birth-to-three guarantee — an execution-and-deregulation approach that contrasts with candidates proposing publicly funded universal infant-toddler care."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
+          title: "These four candidates are also running for D.C. mayor — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-28
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Built a Small Business Permitting Concierge prototype and pledges to make DC 'the easiest city in America to start a business and keep it open,' cutting the bureaucracy, fees, and delays behind DC's nation-leading first-year business failure rate — focused on reducing red tape and fees more than cutting business taxes specifically."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-30
+
 - id: hope-solomon
   name: "Hope Solomon"
   election_slug: mayor
@@ -963,6 +1071,15 @@
           publisher: "Hope Solomon Campaign"
           accessed: 2026-05-28
 
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Grew up in a family small business and laments that neighborhood restaurants and bars are 'squeezed by crime, high rents, Initiative 82, and a bureaucracy that never seems to say yes,' with 'small business owners buried in paperwork while big developers skip the line' — supportive of easing the burden on small businesses, framed around fees and red tape."
+      sources:
+        - url: https://hopefordc.com/
+          title: "Hope Solomon for Mayor — Campaign Website"
+          publisher: "Hope Solomon Campaign"
+          accessed: 2026-05-30
+
 # ── WRITE-IN CANDIDATE ────────────────────────────────────────────────────────
 # Yaida Ford did not qualify for the primary ballot and is running as a write-in.
 - id: yaida-ford
@@ -1032,3 +1149,12 @@
           title: "These four candidates are also running for D.C. mayor — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-28
+
+    - question_id: education_mayoral_control
+      stance: 2
+      explanation: "Her Educational Excellence platform states: 'For as long as our schools have been under mayoral control, far too many of our students, including those with special needs, remain left behind. Yaida wants to explore eliminating Mayoral control of our school system and giving power back to elected state board representatives where it belongs.'"
+      sources:
+        - url: https://www.yaida4dc.com/
+          title: "Values — Yaida Ford for Mayor"
+          publisher: "Yaida Ford Campaign"
+          accessed: 2026-05-30

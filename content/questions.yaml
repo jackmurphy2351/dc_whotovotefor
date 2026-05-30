@@ -394,3 +394,189 @@
       title: "Pre-K Enhancement and Expansion Program (PKEEP) — OSSE"
       publisher: dc.gov
       accessed: 2026-05-28
+
+- id: childcare_birth_to_three
+  issue: childcare
+  prompt: "DC should guarantee free, high-quality child care from birth through age three — with no waitlists — for District families."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    The Birth-to-Three for All DC Act of 2018 set a goal of affordable infant and
+    toddler care, but funding has lagged. Some candidates would guarantee free
+    care from birth and eliminate the child care subsidy waitlist; others favor an
+    income-based affordability cap (e.g., no family paying more than 7-10% of
+    income) or targeted measures rather than a universal free guarantee.
+  sources:
+    - url: https://lims.dccouncil.gov/Legislation/B22-0203
+      title: "Birth-to-Three for All DC Act of 2018 — DC Council LIMS"
+      publisher: dccouncil.gov
+      accessed: 2026-05-30
+
+# ── TRANSIT (additional) ─────────────────────────────────────────────────────
+
+- id: transit_fare_free_buses
+  issue: transit
+  prompt: "DC buses should be fare-free for all riders."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's "Metro for D.C." law funds fare-free Metrobus service within the District,
+    though WMATA has resisted full implementation. Candidates differ on whether
+    buses should be free for everyone, free only for low-income or SNAP-enrolled
+    residents, or remain fare-based with other affordability measures.
+  sources:
+    - url: https://lims.dccouncil.gov/Legislation/B24-0429
+      title: "Metro for D.C. Amendment Act of 2022 — DC Council LIMS"
+      publisher: dccouncil.gov
+      accessed: 2026-05-30
+
+- id: transit_congestion_pricing
+  issue: transit
+  prompt: "DC should implement congestion pricing — charging drivers to enter the busiest parts of downtown — to reduce traffic and fund transit."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DDOT has studied congestion pricing as a tool to reduce gridlock, cut emissions,
+    and raise revenue for transit. Related road-pricing ideas include commuter
+    tolls and higher residential parking permit fees. Candidates range from active
+    supporters to those who would only study it cautiously.
+  sources:
+    - url: https://ddot.dc.gov/page/congestion-management
+      title: "Congestion Management — DC Department of Transportation"
+      publisher: dc.gov
+      accessed: 2026-05-30
+
+# ── HOUSING (additional) ─────────────────────────────────────────────────────
+
+- id: housing_upzoning
+  issue: housing
+  prompt: "DC should legalize apartments and 'missing-middle' housing (duplexes, triplexes, and small multifamily buildings) citywide by removing single-family-only zoning restrictions."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's next Comprehensive Plan and Future Land Use Map (the dc2050 process) will
+    decide how much new housing different neighborhoods must accommodate. Some
+    candidates want to end exclusionary single-family zoning and allow density near
+    transit corridors; others emphasize tenant protection or neighborhood character
+    over upzoning.
+  sources:
+    - url: https://dc2050.dc.gov/
+      title: "DC Comprehensive Plan (dc2050) — DC Office of Planning"
+      publisher: dc.gov
+      accessed: 2026-05-30
+
+# ── POLICING (additional) ────────────────────────────────────────────────────
+
+- id: crime_police_in_schools
+  issue: policing
+  prompt: "DC should keep police officers out of public schools and instead invest in counselors, social workers, and mental-health staff."
+  applies_to_elections: [ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's 2020 policing reform law moved to phase School Resource Officers out of
+    DCPS, a change that has been debated and partly reversed amid crime concerns.
+    Candidates differ on whether to invest in non-police supports — counselors and
+    behavioral-health staff — or to maintain a police presence in and around schools.
+  sources:
+    - url: https://dccouncil.gov/police-reform-commission/
+      title: "Police Reform Commission — DC Council"
+      publisher: dccouncil.gov
+      accessed: 2026-05-30
+
+# ── ECONOMIC DEVELOPMENT ─────────────────────────────────────────────────────
+
+- id: econ_small_business_tax_relief
+  issue: economic_development
+  prompt: "DC should cut taxes and fees on small and local businesses — and offer relief such as the small retailer property tax credit — to help them open, survive, and grow."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Small businesses face high commercial rents, fees, and one of the nation's
+    highest first-year failure rates. Some candidates propose cutting business taxes
+    and fees and expanding credits like the Small Retailer Property Tax Credit;
+    others emphasize raising revenue from large corporations or reducing red tape
+    rather than tax cuts.
+  sources:
+    - url: https://dslbd.dc.gov/
+      title: "Department of Small and Local Business Development"
+      publisher: dc.gov
+      accessed: 2026-05-30
+
+# ── EDUCATION GOVERNANCE ─────────────────────────────────────────────────────
+
+- id: education_mayoral_control
+  issue: education
+  prompt: "DC should end mayoral control of DC Public Schools and return authority to an elected State Board of Education."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    The Public Education Reform Amendment Act of 2007 placed DCPS under direct
+    mayoral control, reducing the elected State Board of Education to a largely
+    advisory role. Some candidates would return governance authority to the elected
+    board; others support keeping accountability with the mayor.
+  sources:
+    - url: https://sboe.dc.gov/page/about-sboe
+      title: "About the DC State Board of Education"
+      publisher: dc.gov
+      accessed: 2026-05-30
+
+# ── ENVIRONMENT / PUBLIC POWER ───────────────────────────────────────────────
+
+- id: environment_public_power
+  issue: environment
+  prompt: "DC should create a publicly owned electric utility to replace Pepco, lowering bills and giving the city control over its energy future."
+  applies_to_elections: [ward1, at_large_bonds, delegate]
+  explanation: |
+    Pepco, an investor-owned monopoly, is guaranteed a fixed rate of return and has
+    raised rates repeatedly. Some candidates argue DC should move toward public
+    power — a municipal utility like those serving Nebraska or many US cities, which
+    tend to charge lower rates — while others favor stronger regulation of Pepco
+    through the Public Service Commission rather than public ownership.
+  sources:
+    - url: https://opc-dc.gov/
+      title: "DC Office of the People's Counsel"
+      publisher: dc.gov
+      accessed: 2026-05-30
+
+# ── DC STATEHOOD (additional) ────────────────────────────────────────────────
+
+- id: statehood_strategy_bipartisan
+  issue: dc_statehood
+  prompt: "DC's Delegate should pursue statehood primarily by building bipartisan coalitions and legislative deals in Congress, rather than through confrontation and protest."
+  applies_to_elections: [delegate]
+  explanation: |
+    Candidates differ on tactics for advancing statehood. Some favor patient
+    coalition-building and a "grand bargain" approach across the aisle; others argue
+    that decades of that strategy have failed and call for more confrontational
+    tactics — up to and including tax resistance — to force the issue.
+  sources:
+    - url: https://www.congress.gov/bill/118th-congress/house-bill/51
+      title: "Washington, D.C. Admission Act (H.R. 51) — Congress.gov"
+      publisher: congress.gov
+      accessed: 2026-05-30
+
+# ── HOME RULE & FEDERAL INTERFERENCE ─────────────────────────────────────────
+
+- id: delegate_budget_autonomy
+  issue: home_rule
+  prompt: "Defending DC's budget and legislative autonomy from congressional interference should be a top priority for the District's Delegate."
+  applies_to_elections: [delegate]
+  explanation: |
+    Under the Home Rule Act, Congress can review and overturn DC laws and interfere
+    with the District's locally raised budget — as it did in cutting roughly $1
+    billion from DC's budget in 2025. Candidates differ on how aggressively the
+    Delegate should prioritize protecting DC's autonomy and budget from federal
+    interference.
+  sources:
+    - url: https://dccouncil.gov/dc-home-rule/
+      title: "DC Home Rule — DC Council"
+      publisher: dccouncil.gov
+      accessed: 2026-05-30
+
+- id: delegate_oppose_federal_mpd
+  issue: home_rule
+  prompt: "The Delegate should fight federal attempts to take over DC's police department or to deploy the National Guard and federal agents in the city."
+  applies_to_elections: [delegate]
+  explanation: |
+    In 2025 the federal government invoked Section 740 of the Home Rule Act to assert
+    control over the Metropolitan Police Department and deployed the National Guard
+    and federal agents in DC. Candidates differ on how forcefully to resist federal
+    takeover of local public-safety institutions.
+  sources:
+    - url: https://code.dccouncil.gov/us/dc/council/code/sections/1-207.40
+      title: "DC Home Rule Act § 1-207.40 (Section 740) — DC Code"
+      publisher: dccouncil.gov
+      accessed: 2026-05-30

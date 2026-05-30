@@ -192,6 +192,60 @@
           publisher: "Rashida Brown Campaign"
           accessed: 2026-05-30
 
+    - question_id: childcare_birth_to_three
+      stance: 2
+      explanation: "Will implement Birth-to-Three's '10% promise' so no family pays more than 10% of income for child care — establishing dedicated revenue streams, expanding subsidy eligibility, ensuring reimbursement rates reflect actual costs, creating facility grants for infant-toddler slots in underserved neighborhoods, and eliminating the child care subsidy waitlist."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: transit_fare_free_buses
+      stance: 2
+      explanation: "Explicitly pledges to 'Fund fare-free buses,' noting the Council funded fare-free buses once before but WMATA refused to implement them in the District. Would work to change the dynamic on the WMATA board to give DC more authority to pursue bold transit policy."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: transit_congestion_pricing
+      stance: 2
+      explanation: "Explicitly supports road-pricing so car usage is not subsidized by residents who don't drive: would increase the price of Residential Parking Permits, remove minimum parking requirements near transit, implement road diets on arterials, make some streets car-free, and pursue regional reciprocity for automated traffic enforcement."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: housing_upzoning
+      stance: 2
+      explanation: "Calls to 'legalize apartments District-wide' and advocates a far stronger Comprehensive Plan / Future Land Use Map than the draft, so every ward — not just a few — accommodates more housing. Promotes zoning and other adjustments that make it easier to build more units to bring down prices."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      explanation: "Emphasizes non-police supports in and around schools: would expand school-based mental health services, peer support, and healing-centered approaches, and ensure mental health crisis response teams — not armed police — respond to psychiatric emergencies. Frames durable safety as coming from investing in people, not policing."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: econ_small_business_tax_relief
+      stance: 2
+      explanation: "Would prioritize the Small Retailer Property Tax Credit Expansion Amendment Act to support small retailers and restaurants (many immigrant-owned), support commercial rent stabilization and community ownership models, and 'increase taxes and close loopholes for major corporations… while providing some relief to smaller businesses to succeed and thrive.'"
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
     - question_id: fair_elections_participation
       stance: 2
       explanation: "Participating in the DC Fair Elections Program."
@@ -282,6 +336,15 @@
     - question_id: parks_rec_funding
       stance: 1
       explanation: "Campaign platform explicitly includes 'Protect and Expand Parks and Recreational Spaces' and 'Seek More After-School and Weekend Activities For Youth' as priorities, but provides no specific funding commitments or program proposals."
+      sources:
+        - url: https://terrylynchfordc.com/the-issues
+          title: "The Issues — Terry Lynch for DC"
+          publisher: "Terry Lynch Campaign"
+          accessed: 2026-05-30
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Runs as the candidate of Ward 1's small, minority, and women-owned businesses, dozens of which have endorsed him. Pledges to 'help them stay open and thrive' and to stop the loss of small businesses, citing 'over-regulation, loss of parking, rising costs' as the key challenges — emphasizing reduced regulatory burden more than tax cuts specifically."
       sources:
         - url: https://terrylynchfordc.com/the-issues
           title: "The Issues — Terry Lynch for DC"
@@ -528,6 +591,42 @@
           publisher: "Aparna Raj Campaign"
           accessed: 2026-05-30
 
+    - question_id: environment_public_power
+      stance: 2
+      explanation: "Explicitly: 'Aparna believes that DC should transition to public ownership of its utilities.' Argues that regulation through the PSC has failed to check investor-owned monopolies, and points to the 2,000+ municipal utilities nationwide (including the whole state of Nebraska) whose customers pay about 13% less. Sees public power as the way to lower bills, meet climate goals, and create union jobs."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: housing_upzoning
+      stance: 2
+      explanation: "Will 'make it legal to build apartments everywhere in DC,' citing Portland and Cambridge, and specifically upzone transit corridors such as Georgia Ave and 14th St. Would amend the Future Land Use Map to end exclusionary zoning, allow 'light-touch density' (duplexes, triplexes, sixplexes) by reducing minimum lot sizes and setbacks, ease alley-home rules, and reduce or eliminate parking minimums near transit."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_birth_to_three
+      stance: 2
+      explanation: "Would guarantee free, publicly funded childcare for every DC child from age 3 months to 3 years — no means testing, no fees, no benefits cliff — by fully funding the existing Birth to Three infrastructure, paid for by taxes on large corporations and the ultrawealthy."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      explanation: "Would invest in 'good schools for all,' including counselors, social workers, nurses, and other support staff so students have trusted adults — and supports shifting mental-health, substance-use, and wellness-check responses away from police toward trained civilian responders. Emphasizes non-police supports rather than a police presence in schools."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
     - question_id: fair_elections_participation
       stance: 2
       explanation: "Participating in the DC Fair Elections Program; hit the program's funding ceiling — highest fundraiser in the Ward 1 race."
@@ -632,6 +731,24 @@
     - question_id: childcare_universal
       stance: 2
       explanation: "Calls for 'affordable, high-quality child care for every Ward 1 child, regardless of family income — no waitlists, no exceptions' from birth to 36 months. Includes educator salary supplements to at least $22/hour. Would expand subsidy eligibility to 150% AMI and build new childcare facilities in underutilized District-owned and private properties."
+      sources:
+        - url: https://jackieforward1.com/#platform
+          title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
+          publisher: "Jackie Reyes Yanes Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_birth_to_three
+      stance: 2
+      explanation: "Platform headline pledge: 'Affordable, high-quality child care from birth to 36 months… for every Ward 1 child, regardless of family income. No waitlists. No exceptions.' Pairs it with educator pay supplements to at least $22/hour and new infant-toddler facilities in District-owned and private spaces."
+      sources:
+        - url: https://jackieforward1.com/#platform
+          title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
+          publisher: "Jackie Reyes Yanes Campaign"
+          accessed: 2026-05-30
+
+    - question_id: econ_small_business_tax_relief
+      stance: 2
+      explanation: "Headlines her platform 'NO MORE TAXES FOR OUR LOCAL BUSINESSES' and calls herself 'the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs.' Proposes a dedicated Ward 1 Small Business Activation grant fund ($5,000–$50,000), a one-stop business solutions hub, and a Small Business First Right of Purchase for vacant storefronts."
       sources:
         - url: https://jackieforward1.com/#platform
           title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
@@ -861,6 +978,42 @@
     - question_id: childcare_universal
       stance: 2
       explanation: "Will fill the funding gap in the Birth-to-Three for ALL DC Act (currently severely underfunded) so families pay no more than 10% of income on childcare for ages 0–3, which would benefit 12,000+ infants and toddlers. Will protect the Pay Equity Fund and the childcare subsidy program; also interested in zoning reforms to allow childcare on upper floors of commercial buildings."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: childcare_birth_to_three
+      stance: 2
+      explanation: "Will work to extend the city's early-childhood support to 'fill the gap by providing childcare for ages 0 to 3,' fully funding the underfunded Birth-to-Three for ALL DC Act so families pay no more than 10% of income — which he says would benefit 12,000+ infants and toddlers."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: housing_upzoning
+      stance: 2
+      explanation: "Will champion zoning reform to allow more housing, citing Minneapolis and Austin: ease parking and setback requirements, raise restrictive height caps, build over existing low-rise retail on commercial corridors, and amend the Comprehensive Plan to facilitate 'missing middle' / 'gentle density' housing. Expects Zoning Commission nominees to prioritize changes that spur housing construction."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: transit_fare_free_buses
+      stance: 2
+      explanation: "Supports moving to fare-free buses in the District, which he proposes funding through a land value tax — part of a transit platform that also includes bus priority corridors, a seamless 14th St protected bike lane, and expanded Capital Bikeshare."
+      sources:
+        - url: https://miguelward1.com/priorities
+          title: "Priorities — Miguel for Ward 1"
+          publisher: "Miguel Trindade Deramo Campaign"
+          accessed: 2026-05-30
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Takes a broad view of affordability and wants to 'align incentives to preserve and grow the missing middle' — locally owned restaurants, corner stores, and services most at risk of being priced out — and to protect DC's Earned Income Tax Credit and Child Tax Credit. Emphasizes preserving small/local businesses and reviving programs like streateries and the commercial trash compactor grant more than across-the-board business tax cuts."
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"

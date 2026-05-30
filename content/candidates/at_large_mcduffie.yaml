@@ -120,6 +120,24 @@
           publisher: "Doni Crawford Campaign"
           accessed: 2026-05-29
 
+    - question_id: housing_upzoning
+      stance: 2
+      explanation: "Supports 'building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live,' and fixing the Inclusionary Zoning process so affordable units stop sitting empty."
+      sources:
+        - url: https://www.donicrawford.com/
+          title: "Doni Crawford for DC Council — Campaign Website"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-05-30
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Wants to 'make DC genuinely easier to do business in, especially for minority and women-owned businesses,' create a one-stop place for new business owners, and reduce unnecessary licensing barriers. Introduced legislation to examine whether DC's tax incentive programs actually benefit the District — emphasizing accountable incentives and lower barriers more than across-the-board tax cuts."
+      sources:
+        - url: https://www.donicrawford.com/
+          title: "Doni Crawford for DC Council — Campaign Website"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-05-30
+
 - id: jacque-patterson
   name: "Jacque Patterson"
   election_slug: at_large_mcduffie
@@ -217,6 +235,15 @@
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+
+    - question_id: econ_small_business_tax_relief
+      stance: 2
+      explanation: "Has a detailed Small Business Action Plan: expand access to capital (CDFIs, grants and loans, especially for minority- and women-owned businesses), preserve and expand affordable commercial space, and 'smart and streamlined regulations' that simplify licensing and reduce delays so small businesses 'can launch, grow, and succeed without being buried in bureaucracy.'"
+      sources:
+        - url: https://www.jacque4dc.com/
+          title: "Jacque Patterson for DC Council — Campaign Website"
+          publisher: "Jacque Patterson Campaign"
+          accessed: 2026-05-30
 
 - id: elissa-silverman
   name: "Elissa Silverman"
@@ -325,3 +352,21 @@
           title: "Elissa Silverman for DC Council — Campaign Website"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-05-29
+
+    - question_id: housing_upzoning
+      stance: 1
+      explanation: "Advocates increasing the housing supply 'by removing unnecessary obstacles to building and by strategically using public lands and public dollars,' and worked to increase affordable units citywide through inclusionary zoning. Endorsed by DC YIMBYs; frames supply growth as primarily benefiting working families rather than developers."
+      sources:
+        - url: https://www.elissafordc.com/
+          title: "Elissa Silverman for DC Council — Campaign Website"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-05-30
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "Describes herself as 'an ally to local business owners, helping reduce red tape and appropriating millions in aid during the COVID-19 pandemic.' Her paid family leave oversight cut the employer tax rate while increasing benefits — a record of easing burdens on local businesses, oriented to red tape and targeted aid more than broad tax cuts."
+      sources:
+        - url: https://www.elissafordc.com/
+          title: "Elissa Silverman for DC Council — Campaign Website"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-05-30

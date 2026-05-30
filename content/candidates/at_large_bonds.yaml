@@ -219,6 +219,15 @@
           publisher: "The 51st"
           accessed: 2026-05-27
 
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "A labor leader and former AFL-CIO Metropolitan Washington Council president whose campaign pillars include 'support for small businesses and job growth.' Emphasizes streamlining permitting and licensing scaled to small businesses, reducing administrative burdens, and commercial rent-stability incentives to keep local operators in their neighborhoods."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
 - id: fred-hill
   name: "Fred Hill"
   election_slug: at_large_bonds
@@ -272,6 +281,24 @@
           title: "Youth Engagement, Education Policy — Washington Informer"
           publisher: "Washington Informer"
           accessed: 2026-05-29
+
+    - question_id: housing_upzoning
+      stance: 1
+      explanation: "Former 10-year chair of the DC Board of Zoning Adjustment who supports denser development: he calls for more 3+ bedroom family units and for working with Congress to relax the federal Height of Building Act to enable taller, denser construction in DC."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "A business-friendly moderate who ran a federal contracting firm for nearly three decades and argues the Council needs a private-sector voice. Wants to grow biotech and high-tech sectors to diversify DC's economy and reduce bureaucratic barriers for businesses."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
 
 - id: greg-jackson-jr
   name: "Greg Jackson Jr."
@@ -396,6 +423,15 @@
     - question_id: youth_curfew_programming
       stance: 2
       explanation: "Proposes a 'Safe Nights DC Initiative' to expand late-night youth recreation and restorative activities in high-traffic areas, a Youth Safety Fund directed by youth, expanded out-of-school programs, and a Youth Network for Safety — all centered on programming investment as the primary tool for reducing youth violence."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: childcare_birth_to_three
+      stance: 1
+      explanation: "Pledges to protect Paid Family Leave, the Early Childhood Educator Pay Equity Fund, and Universal Pre-K, expand childcare facility grants, and push toward a goal where childcare costs families no more than 7% of income — strong support for early-childhood affordability, framed around a percentage-of-income cap rather than a free birth-to-three guarantee."
       sources:
         - url: https://www.jacksonfordc.com/
           title: "Greg Jackson for DC Council — Campaign Website"
@@ -840,6 +876,42 @@
           publisher: "vote4oye.com"
           accessed: 2026-05-29
 
+    - question_id: environment_public_power
+      stance: 2
+      explanation: "Supports a public power transition that 'puts affordability, reliability, and consumer protection first' as an alternative to investor-owned Pepco. Endorsed by We Power DC, the District's public-power advocacy coalition, and frames lowering utility costs through public ownership as part of his climate and affordability agenda."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-30
+
+    - question_id: transit_fare_free_buses
+      stance: 2
+      explanation: "Supports reducing and eliminating bus fares as part of a transit-first agenda that also expands bus priority corridors and invests in safer stations, stops, sidewalks, and accessibility. Endorsed by the Bike, Walk & Bus PAC and the Amalgamated Transit Union (ATU Local 689)."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-30
+
+    - question_id: childcare_birth_to_three
+      stance: 2
+      explanation: "Will 'fund early care and learning from birth through pre-K with stable, predictable public investment,' raise child care reimbursement rates, fully fund the Birth-to-Three Act so families spend no more than 10% of income on care, and permanently protect the Early Childhood Educator Pay Equity Fund."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-30
+
+    - question_id: crime_police_in_schools
+      stance: 2
+      explanation: "Will 'remove police from DCPS schools and invest instead in counselors, nurses, and social workers who support the whole child,' and opposes 'youth curfews, school policing, and expanded surveillance that criminalize young people.'"
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-30
+
 - id: lisa-raymond
   name: "Lisa Raymond"
   election_slug: at_large_bonds
@@ -988,6 +1060,15 @@
     - question_id: environment_renewable_energy
       stance: 2
       explanation: "Supports 'robust implementation of the Carbon Free DC plan' and the Healthy Homes Act. Wants gas-free, energy-efficient affordable housing construction and tough Public Service Commission oversight to control utility costs."
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: housing_upzoning
+      stance: 1
+      explanation: "Supports increasing housing supply across all eight wards through streamlined permitting and strategic use of public land. Endorsed by DC YIMBYs, signaling a pro-supply, pro-density orientation, though her platform emphasizes process reform over an explicit end to single-family zoning."
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Lisa Raymond for DC Council — Campaign Website"
