@@ -96,15 +96,6 @@
           publisher: "Free DC Project"
           accessed: 2026-05-27
 
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Participating in the DC Fair Elections Program."
-      sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "DC Fair Elections Program Candidate Search"
-          publisher: dc.gov
-          accessed: 2026-05-27
-
     - question_id: delegate_budget_autonomy
       stance: 2
       explanation: "As Norton's legislative counsel he 'played a lead role in drafting legislation to loosen Congress' grip over DC government in favor of greater autonomy and independence.' If elected he says he'd seek a seat on the House Appropriations Committee to maximize DC's funding leverage and protect the District's budget from congressional interference."
@@ -200,15 +191,6 @@
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
           title: "Trent Holbrook — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
-          accessed: 2026-05-27
-
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Participating in the DC Fair Elections Program."
-      sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "DC Fair Elections Program Candidate Search"
-          publisher: dc.gov
           accessed: 2026-05-27
 
     - question_id: statehood_strategy_bipartisan
@@ -432,15 +414,6 @@
       publisher: "Free DC Project"
       accessed: 2026-05-27
   positions:
-    - question_id: fair_elections_participation
-      stance: -2
-      explanation: "Chose not to participate in the DC Fair Elections Program, enabling her to accept large out-of-district contributions; raised more than any other delegate candidate."
-      sources:
-        - url: https://ocf.dc.gov/release/fair-elections-program-2026
-          title: "Fair Elections Program 2026 — DC Office of Campaign Finance"
-          publisher: dc.gov
-          accessed: 2026-05-27
-
     - question_id: youth_curfew_support
       stance: 1
       explanation: "Introduced teen curfew legislation as part of Secure DC as Ward 2 Councilmember."

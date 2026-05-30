@@ -112,14 +112,23 @@
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
 
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Certified as a Participating Candidate in the DC Fair Elections Program. As of May 28, 2026, total Fair Elections payouts to her campaign were $2,094,499.05."
+    - question_id: fiscal_progressive_taxation
+      stance: 1
+      explanation: "Proposes progressive revenue measures including property taxes on long-term vacant commercial properties and a 15% price break for certified social-benefit businesses. Her platform prioritizes protecting housing, childcare, and education programs rather than cutting them, though she does not frame major new corporate tax hikes as her primary budget-gap tool."
       sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "Fair Elections Registration Disclosure — DC Office of Campaign Finance"
-          publisher: dc.gov
-          accessed: 2026-05-28
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-30
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "Has been sharply critical of the Bowser administration for not doing enough to resist federal encroachment, and frames aggressive use of legal tools and public advocacy to defend DC's budget autonomy as a defining contrast with the current mayor."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-05-30
 
     - question_id: federal_workers_advocate
       stance: 2
@@ -435,13 +444,13 @@
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-28
 
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Certified as a Participating Candidate in the DC Fair Elections Program. As of May 28, 2026, the program has paid out $2,407,775.55 to his campaign — the highest of any mayoral candidate."
+    - question_id: home_rule_dc_resist
+      stance: 1
+      explanation: "Platform's Accountability pillar is titled 'Defend Home Rule and DC Autonomy' — pledges a Day-One directive ending MPD cooperation with ICE, bolstering the Mayor's Office of Legal Counsel for constitutional challenges, and fighting for legislative and budget autonomy. His approach is assertive and uses legal tools, but frames resistance through institutional channels rather than explicit political confrontation."
       sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "Fair Elections Registration Disclosure — DC Office of Campaign Finance"
-          publisher: dc.gov
+        - url: https://kenyanmcduffie.com/platform
+          title: "Platform — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-28
 
     - question_id: econ_small_business_tax_relief
@@ -592,22 +601,13 @@
           publisher: "Gary Goodweather Campaign"
           accessed: 2026-05-28
 
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Goodweather became the first candidate in the 2026 mayoral race to be certified as a Participating Candidate in the DC Fair Elections Program, raising over $43,000 from 1,075 DC resident donors. As of May 28, 2026, total Fair Elections payouts to his campaign were $517,425.10."
+    - question_id: home_rule_dc_resist
+      stance: 1
+      explanation: "Defend DC is a signature initiative — pledges to prohibit DC agencies from cooperating with immigration enforcement without a judicial warrant and designate schools, hospitals, and houses of worship as protected spaces. His platform is firm on protecting DC residents from federal overreach but frames it as defensive measures and fierce advocacy rather than explicitly confrontational political resistance."
       sources:
-        - url: https://www.goodweatherfordc.com/press
-          title: "Goodweather Becomes First Certified Fair Elections Mayoral Candidate — Press Release"
+        - url: https://www.goodweatherfordc.com/defend-dc
+          title: "Defend DC — Gary Goodweather for Mayor"
           publisher: "Gary Goodweather Campaign"
-          accessed: 2026-05-28
-
-    - question_id: democracy_rcv_support
-      stance: 2
-      explanation: "Goodweather was the only 2026 mayoral candidate actively promoting a ranked-choice voting strategy, encouraging voters to use all their rankings. The 51st identified him as unique in the field for this approach, which implies support for the full implementation of Initiative 83."
-      sources:
-        - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
-          title: "These four candidates are also running for D.C. mayor — The 51st"
-          publisher: "The 51st"
           accessed: 2026-05-28
 
     - question_id: housing_topa_restore
@@ -741,6 +741,15 @@
           publisher: "Ernest E. Johnson Campaign"
           accessed: 2026-05-28
 
+    - question_id: fiscal_progressive_taxation
+      stance: 1
+      explanation: "His revenue plan proposes to 'tax currently exempt high-value properties' to fund city services and his Beautify DC jobs initiative, preferring targeted expansion of the tax base over broad new corporate tax hikes. Frames this as growing revenue rather than raising taxes on businesses or workers."
+      sources:
+        - url: https://ernestformayor2026.com/
+          title: "Ernest Johnson for Mayor — Campaign Website"
+          publisher: "Ernest E. Johnson Campaign"
+          accessed: 2026-05-28
+
 - id: vincent-orange
   name: "Vincent Orange"
   election_slug: mayor
@@ -824,9 +833,18 @@
           publisher: "Vincent Orange Campaign"
           accessed: 2026-05-28
 
-    - question_id: democracy_rcv_support
-      stance: 2
-      explanation: "Orange has a dedicated RCV pillar in his Orange Plan: 'RCV rewards collaboration, credibility, and trust. An Orange administration will lead through consensus without sacrificing principles.' He frames RCV positively as a governing tool."
+    - question_id: fiscal_progressive_taxation
+      stance: -2
+      explanation: "'Economic Growth Without Raising Taxes' is an explicit platform pillar — pledges to stimulate economic activity to grow revenue rather than raising taxes, circulate DC dollars locally through Certified Business Enterprises, and achieve fiscal discipline and AAA credit restoration. He explicitly rejects the premise that DC should raise taxes to fund services."
+      sources:
+        - url: https://orangeformayor.com/
+          title: "The Orange Plan — Vincent Orange for Mayor"
+          publisher: "Vincent Orange Campaign"
+          accessed: 2026-05-28
+
+    - question_id: home_rule_dc_resist
+      stance: -1
+      explanation: "'Working pragmatically with Congress and the White House' is one of his ten platform pillars. He frames pragmatic engagement as the realistic path to advancing DC's interests given federal constitutional authority over the District — prioritizing deal-making over confrontation, even while supporting DC statehood and Home Rule preservation."
       sources:
         - url: https://orangeformayor.com/
           title: "The Orange Plan — Vincent Orange for Mayor"
@@ -1000,6 +1018,15 @@
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-30
 
+    - question_id: home_rule_dc_resist
+      stance: 1
+      explanation: "Pledges no data sharing between MPD and ICE and a full audit of every contact between DC government and federal enforcement agencies. Her stance on protecting DC residents is firm, but her execution-first philosophy emphasizes targeted defensive measures rather than a broadly confrontational political posture."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Policy Platform — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-05-28
+
 - id: hope-solomon
   name: "Hope Solomon"
   election_slug: mayor
@@ -1053,9 +1080,9 @@
       publisher: "Hope Solomon Campaign"
       accessed: 2026-05-28
   positions:
-    - question_id: democracy_rcv_support
-      stance: 2
-      explanation: "Campaign website frames RCV positively: 'It opens the door to real competition, real ideas, and real accountability. You can vote for who you believe in — not against who you fear. You don't have to settle for least bad.'"
+    - question_id: fiscal_progressive_taxation
+      stance: -1
+      explanation: "Is explicit about 'budget limits rather than promising new spending' and frames her platform around fixing existing city services rather than expanding programs that require new revenue. Her candidacy is built on the premise that DC should 'get the basics right first' rather than adding new tax-funded programs."
       sources:
         - url: https://hopefordc.com/
           title: "Hope Solomon for Mayor — Campaign Website"

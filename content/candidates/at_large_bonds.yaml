@@ -300,6 +300,15 @@
           publisher: "The 51st"
           accessed: 2026-05-27
 
+    - question_id: home_rule_dc_resist
+      stance: 1
+      explanation: "Supports 'strategic — rather than activist — resistance to federal overreach,' favoring a measured, pragmatic approach to defending DC's autonomy rather than an explicitly confrontational political posture."
+      sources:
+        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
+          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-27
+
 - id: greg-jackson-jr
   name: "Greg Jackson Jr."
   election_slug: at_large_bonds
@@ -632,6 +641,15 @@
     - question_id: education_community_schools
       stance: 1
       explanation: "Supports coordination and expanded funding to meet needs of children in poverty, with disabilities, or in foster care, and proposes a standalone DC Council Education Committee. Does not specifically endorse the community schools model by name, but her 'cradle to retirement' education framework aligns with its wraparound-services philosophy."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Candace Tiana Nelson for DC Council — Campaign Website"
+          publisher: "candacefordc.com"
+          accessed: 2026-05-29
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "Home rule is her first platform priority — explicitly opposes any preemptive compliance with Trump administration overreach and pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values.'"
       sources:
         - url: https://www.candacefordc.com/
           title: "Candace Tiana Nelson for DC Council — Campaign Website"

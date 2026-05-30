@@ -248,36 +248,6 @@
       publisher: dcboe.org
       accessed: 2026-05-27
 
-# ── DEMOCRACY & ELECTIONS ────────────────────────────────────────────────────
-
-- id: fair_elections_participation
-  issue: democracy
-  prompt: "Candidates for DC office should participate in the DC Fair Elections Program, which matches small-dollar donations 5:1 and bans corporate contributions."
-  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds, delegate]
-  explanation: |
-    The DC Fair Elections Program matches small-dollar donations from DC residents
-    at a 5:1 ratio for candidates who agree to accept only small contributions and
-    no corporate or PAC money. Participation is voluntary.
-  sources:
-    - url: https://ocf.dc.gov/release/fair-elections-program-2026
-      title: "Fair Elections Program 2026 — DC Office of Campaign Finance"
-      publisher: dc.gov
-      accessed: 2026-05-27
-
-- id: democracy_rcv_support
-  issue: democracy
-  prompt: "DC should preserve and fully implement Initiative 83's ranked choice voting for local primary elections."
-  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds, delegate]
-  explanation: |
-    Voters approved Initiative 83 in November 2024, introducing ranked choice voting
-    for DC's local primaries. Implementation and any potential legislative rollback
-    have been contested. Several 2026 candidates were active in the RCV campaign.
-  sources:
-    - url: https://dcboe.org/Elections/2024-Elections/Initiative-83
-      title: "Initiative 83 — Ranked Choice Voting — DC Board of Elections"
-      publisher: dcboe.org
-      accessed: 2026-05-28
-
 # ── FEDERAL WORKER PROTECTIONS ───────────────────────────────────────────────
 
 - id: federal_workers_advocate
@@ -480,6 +450,22 @@
 
 # ── ECONOMIC DEVELOPMENT ─────────────────────────────────────────────────────
 
+- id: fiscal_progressive_taxation
+  issue: economic_development
+  prompt: "DC should raise taxes on large corporations and the wealthiest residents — rather than cut housing, childcare, and education programs — to close the District's budget gap."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's FY2026 budget proposed deep cuts to the Housing Production Trust Fund,
+    parks, and childcare programs amid a major budget shortfall. Candidates differ
+    on whether to protect those programs by raising revenue from large corporations
+    and high-income residents, or to hold the line on taxes and balance the budget
+    through spending restraint and economic growth instead.
+  sources:
+    - url: https://ocfo.dc.gov/
+      title: "Office of the Chief Financial Officer — DC"
+      publisher: dc.gov
+      accessed: 2026-05-30
+
 - id: econ_small_business_tax_relief
   issue: economic_development
   prompt: "DC should cut taxes and fees on small and local businesses — and offer relief such as the small retailer property tax credit — to help them open, survive, and grow."
@@ -560,6 +546,23 @@
     billion from DC's budget in 2025. Candidates differ on how aggressively the
     Delegate should prioritize protecting DC's autonomy and budget from federal
     interference.
+  sources:
+    - url: https://dccouncil.gov/dc-home-rule/
+      title: "DC Home Rule — DC Council"
+      publisher: dccouncil.gov
+      accessed: 2026-05-30
+
+- id: home_rule_dc_resist
+  issue: home_rule
+  prompt: "DC should respond to Trump administration interference in city governance with an assertive, public stance — filing lawsuits, passing protective legislation, and refusing to comply with unlawful federal directives — rather than quiet diplomacy or pragmatic deal-making."
+  applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Beyond MPD and immigration enforcement, the Trump administration has cut DC's
+    locally raised budget, proposed takeovers of city agencies, and interfered with
+    city laws. Candidates range from those who want an aggressive, confrontational
+    posture — through litigation, legislation, and public advocacy — to those who
+    prefer pragmatic engagement with Congress and the White House to protect DC's
+    interests.
   sources:
     - url: https://dccouncil.gov/dc-home-rule/
       title: "DC Home Rule — DC Council"

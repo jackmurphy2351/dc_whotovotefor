@@ -370,3 +370,12 @@
           title: "Elissa Silverman for DC Council — Campaign Website"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-05-30
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. Called for a dedicated federal relations office at the Council level to keep DC's voice on the Hill consistent and strategic."
+      sources:
+        - url: https://www.elissafordc.com/
+          title: "Elissa Silverman for DC Council — Campaign Website"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-05-29

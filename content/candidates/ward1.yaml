@@ -246,14 +246,23 @@
           publisher: "Rashida Brown Campaign"
           accessed: 2026-05-30
 
-    - question_id: fair_elections_participation
+    - question_id: fiscal_progressive_taxation
       stance: 2
-      explanation: "Participating in the DC Fair Elections Program."
+      explanation: "Explicitly calls for 'increase taxes and close loopholes for major corporations while providing some relief to smaller businesses to succeed and thrive,' framing progressive corporate taxation as a key revenue source for housing, childcare, and public safety investments."
       sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "DC Fair Elections Program Candidate Search"
-          publisher: dc.gov
-          accessed: 2026-05-27
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "Will introduce emergency legislation explicitly prohibiting any DC government employee from cooperating with federal immigration enforcement, hold emergency oversight hearings to document every ICE interaction, and eliminate any MPD budget used for federal cooperation — an assertive, proactive legislative response to federal interference."
+      sources:
+        - url: https://rashidaforward1.com/on-the-issues
+          title: "On the Issues — Rashida Brown for DC"
+          publisher: "Rashida Brown Campaign"
+          accessed: 2026-05-30
 
 - id: terry-lynch
   name: "Terry Lynch"
@@ -351,14 +360,14 @@
           publisher: "Terry Lynch Campaign"
           accessed: 2026-05-30
 
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Participating in the DC Fair Elections Program."
+    - question_id: home_rule_dc_resist
+      stance: 1
+      explanation: "Has publicly called on the Attorney General to conduct a top-to-bottom overhaul of MPD, citing concerns about DC police cooperating with federal agents to detain residents. Opposes MPD/federal cooperation on accountability grounds, though his platform focuses on community policing reform rather than broader political resistance to the Trump administration."
       sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "DC Fair Elections Program Candidate Search"
-          publisher: dc.gov
-          accessed: 2026-05-27
+        - url: https://terrylynchfordc.com/the-issues
+          title: "The Issues — Terry Lynch for DC"
+          publisher: "Terry Lynch Campaign"
+          accessed: 2026-05-30
 
 - id: aparna-raj
   name: "Aparna Raj"
@@ -627,14 +636,23 @@
           publisher: "Aparna Raj Campaign"
           accessed: 2026-05-30
 
-    - question_id: fair_elections_participation
+    - question_id: fiscal_progressive_taxation
       stance: 2
-      explanation: "Participating in the DC Fair Elections Program; hit the program's funding ceiling — highest fundraiser in the Ward 1 race."
+      explanation: "Explicitly funds her universal childcare and affordable housing platforms with 'taxes on large corporations and the ultrawealthy,' framing progressive corporate taxation as the alternative to service cuts or income-tested subsidies."
       sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "DC Fair Elections Program Candidate Search"
-          publisher: dc.gov
-          accessed: 2026-05-27
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "Would strengthen the Sanctuary Values Act with enforceable consequences for officials who break it, ban law enforcement from wearing masks, and fund free public immigration legal services — an assertive legislative posture against federal overreach targeting DC's immigrant communities."
+      sources:
+        - url: https://aparnafordc.com/platform
+          title: "Platform — Aparna Raj for DC Council"
+          publisher: "Aparna Raj Campaign"
+          accessed: 2026-05-30
 
 - id: jackie-reyes-yanes
   name: "Jackie Reyes Yanes"
@@ -773,13 +791,22 @@
           publisher: "Jackie Reyes Yanes Campaign"
           accessed: 2026-05-30
 
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Participating in the DC Fair Elections Program."
+    - question_id: fiscal_progressive_taxation
+      stance: -1
+      explanation: "Headlines her platform 'NO MORE TAXES FOR OUR LOCAL BUSINESSES' and frames herself as 'the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs.' Prefers grant programs and economic activation over tax hikes, though her anti-tax focus is primarily directed at local businesses."
       sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "DC Fair Elections Program Candidate Search"
-          publisher: dc.gov
+        - url: https://jackieforward1.com/#platform
+          title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
+          publisher: "Jackie Reyes Yanes Campaign"
+          accessed: 2026-05-30
+
+    - question_id: home_rule_dc_resist
+      stance: 1
+      explanation: "Her career has centered on protecting DC's immigrant communities from federal harm — securing $10 million for the Immigration Justice Legal Services Grant Program and opposing MPD collaboration with federal immigration agents. She is protective of immigrant residents, but her platform focuses on service delivery and legal defense rather than a broader confrontational posture toward the White House."
+      sources:
+        - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
+          title: "Meet the candidates running to represent Ward 1 — The 51st"
+          publisher: "The 51st"
           accessed: 2026-05-27
 
 - id: miguel-trindade-deramo
@@ -1029,20 +1056,11 @@
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
 
-    - question_id: democracy_rcv_support
+    - question_id: home_rule_dc_resist
       stance: 2
-      explanation: "Was the lead organizer and steering committee member for Initiative 83 (RCV), which passed with 73% of the vote including a supermajority in every ward. Co-founded Grow Democracy DC to prepare voters for DC's first RCV elections. Also led the successful campaign to defeat the Initiative Amendment Act, which would have gutted ballot initiative rights."
+      explanation: "Founded the ANC Home Rule Caucus (75+ commissioners), led 36 commissions to pass concurrent resolutions condemning the federal takeover, personally lobbied Capitol Hill with Free DC to restore $1 billion cut from DC's budget, ran weekly Know Your Rights outreach in English and Spanish, and rallied ANCs to demand ICE stop wearing deceptive 'POLICE' uniforms — a record of aggressive, public-facing resistance to federal interference."
       sources:
         - url: https://miguelward1.com/record
           title: "Record — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
-
-    - question_id: fair_elections_participation
-      stance: 2
-      explanation: "Participating in the DC Fair Elections Program."
-      sources:
-        - url: https://fairelections.ocf.dc.gov/
-          title: "DC Fair Elections Program Candidate Search"
-          publisher: dc.gov
-          accessed: 2026-05-27
