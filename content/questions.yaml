@@ -57,7 +57,7 @@
     of affordable housing. Mayor Bowser proposed cutting the fund by 50% in her most
     recent budget. Candidates differ on whether to increase, maintain, or cut it.
   sources:
-    - url: https://dhcd.dc.gov/service/housing-production-trust-fund
+    - url: https://dhcd.dc.gov/page/housing-production-trust-fund
       title: "Housing Production Trust Fund"
       publisher: dc.gov
       accessed: 2026-05-27
@@ -71,7 +71,7 @@
     uses public land and financing to build permanently affordable, mixed-income
     communities. DC currently relies primarily on subsidies to private developers.
   sources:
-    - url: https://dhcd.dc.gov/service/housing-production-trust-fund
+    - url: https://dhcd.dc.gov/page/housing-production-trust-fund
       title: "Housing Production Trust Fund — DC DHCD"
       publisher: dc.gov
       accessed: 2026-05-27
@@ -87,7 +87,7 @@
     has been uneven. Bus lanes on corridors like Georgia Ave and 14th St could
     significantly cut commute times for thousands of riders.
   sources:
-    - url: https://ddot.dc.gov/page/bicycle-lanes
+    - url: https://bikelanes.ddot.dc.gov/
       title: "Bicycle Lanes — DC Department of Transportation"
       publisher: dc.gov
       accessed: 2026-05-27
@@ -103,10 +103,14 @@
     enforcement. Under the Trump administration, pressure has grown on local police
     to assist ICE. Candidates differ sharply on this issue.
   sources:
-    - url: https://mpdc.dc.gov/page/immigration-and-metropolitan-police-department
-      title: "Immigration and the Metropolitan Police Department"
+    - url: https://mpdc.dc.gov/page/cooperative-agreements
+      title: "MPD: Cooperative Agreements"
       publisher: dc.gov
       accessed: 2026-05-27
+    - url: https://51st.news/mpd-dc-police-ice-immigration-enforcement/
+      title: "Questions remain about MPD’s work with ICE. Activists want lawmakers to step in"
+      publisher: "The 51st"
+      accessed: 2026-05-30
 
 # ── EDUCATION ────────────────────────────────────────────────────────────────
 
@@ -133,7 +137,7 @@
     reduce behavioral incidents, improve attendance, and provide early intervention
     before crises develop.
   sources:
-    - url: https://dbh.dc.gov/page/school-based-behavioral-health-program
+    - url: https://dbh.dc.gov/service/school-behavioral-health-program
       title: "School-Based Behavioral Health Program — DBH"
       publisher: dc.gov
       accessed: 2026-05-27
@@ -149,8 +153,8 @@
     in 2016, established a public-health framework for violence reduction including
     violence interrupters, trauma-informed care, and community health workers.
   sources:
-    - url: https://ovsjg.dc.gov/page/near-act-implementation
-      title: "NEAR Act Implementation — OVSJG"
+    - url: https://nearact.dc.gov/page/about-near
+      title: "NEAR Act Implementation"
       publisher: dc.gov
       accessed: 2026-05-27
 
@@ -212,7 +216,7 @@
     measure and must be accompanied by expanded out-of-school programming, extended
     rec center hours, and youth employment opportunities.
   sources:
-    - url: https://dpr.dc.gov/page/youth-programs
+    - url: https://dpr.dc.gov/page/teens-programs
       title: "Youth Programs — DC Department of Parks and Recreation"
       publisher: dc.gov
       accessed: 2026-05-27
@@ -276,7 +280,7 @@
     resources in solar, geothermal, and clean energy infrastructure beyond current
     mandates.
   sources:
-    - url: https://doee.dc.gov/service/renewable-energy
+    - url: https://doee.dc.gov/cleanenergydc
       title: "Renewable Energy — DC Department of Energy and Environment"
       publisher: dc.gov
       accessed: 2026-05-28
@@ -324,8 +328,8 @@
     proposed by candidates include rodent-proof steel trash containers across all
     wards, better DPW coordination, and systematic extermination programs.
   sources:
-    - url: https://dpw.dc.gov/service/rodent-control
-      title: "Rodent Control — DC Department of Public Works"
+    - url: https://dchealth.dc.gov/service/rodent-and-vector-control-division
+      title: "Rodent Control — DC Department of Health"
       publisher: dc.gov
       accessed: 2026-05-28
 
@@ -360,7 +364,7 @@
     support expanding subsidies to cover infant and toddler care, making childcare
     universally affordable for all DC residents.
   sources:
-    - url: https://osse.dc.gov/service/pre-k-enhancement-and-expansion-program-pkeep
+    - url: https://osse.dc.gov/pkeep
       title: "Pre-K Enhancement and Expansion Program (PKEEP) — OSSE"
       publisher: dc.gov
       accessed: 2026-05-28
@@ -408,7 +412,7 @@
     tolls and higher residential parking permit fees. Candidates range from active
     supporters to those who would only study it cautiously.
   sources:
-    - url: https://ddot.dc.gov/page/congestion-management
+    - url: https://ddot.dc.gov/release/dc-decongestion-pricing-study-letter-and-study
       title: "Congestion Management — DC Department of Transportation"
       publisher: dc.gov
       accessed: 2026-05-30
