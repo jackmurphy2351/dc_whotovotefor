@@ -277,7 +277,7 @@
   name: "Greg Jackson Jr."
   election_slug: at_large_bonds
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: "https://www.jacksonfordc.com/"
   endorsements:
     - "Rep. Maxwell Alejandro Frost (D-FL)"
     - "Fmr. Gov. Kathleen Sebelius (D-KS)"
@@ -285,28 +285,51 @@
     - "The Collective PAC"
   short_bio: >
     Former Biden White House deputy director of gun violence prevention (age 41);
-    UVA grad. Survived a Shaw shooting in 2013 (6 surgeries). Former director of
-    Bowser's Office of Community Relations. Lives in Congress Heights.
+    UVA grad (first Black freshman class president). Survived a 2013 Shaw shooting.
+    Former Bowser Cabinet director. Pursuing Executive MPH at Yale. Lives in
+    Congress Heights.
   long_bio: |
-    Greg Jackson Jr. (age 41) was shot in the crossfire of a Shaw neighborhood
-    shooting in 2013. He nearly died and required six surgeries over six months to
-    recover. "My tragedy shined a light on interpersonal violence in inner cities,"
-    he says. That experience redirected a career that had begun at a consulting firm
-    and the DCCC, steering him toward DC's violence reduction infrastructure.
+    Greg Jackson Jr. (age 41) was shot in a Shaw neighborhood shooting in 2013 and
+    nearly died. "My tragedy shined a light on interpersonal violence in inner
+    cities," he says. That experience redirected a career that had begun in
+    campaign organizing — he co-founded DC for Obama in 2007, led over 380 DNC
+    field staff in North Carolina for Obama's 2012 re-election, and served as
+    national field director at the DCCC, leading what he calls the largest midterm
+    voter registration effort in U.S. history.
 
-    He went on to serve as director of Mayor Muriel Bowser's Office of Community
-    Relations and Services, then director of DC's Office of Neighborhood Safety and
-    Engagement, and ultimately as deputy director of the White House Office of Gun
-    Violence Prevention under President Biden. He graduated from the University of
-    Virginia in 2007 and now lives in Congress Heights, where he says shootings
-    remain a regular occurrence.
+    After the shooting, he entered DC government as the first director of Mayor
+    Muriel Bowser's Cabinet Office of Community Relations and Services, where he
+    oversaw resolution of more than 2,000 resident concerns. He later joined the
+    Department of Parks and Recreation as communications and community relations
+    director, coining DPR's "Where Fun Happens" motto and launching the FitDC
+    campaign. In 2019, after losing a family friend to gun violence, he became
+    national advocacy director and then executive director of Community Justice
+    Action Fund, the nation's only Black survivor-led gun violence prevention
+    organization.
 
-    His platform centers on evidence-based public safety strategies (pointing to
-    Baltimore and Miami as models), investment in pathways to home ownership, and
-    protecting DC home rule. He is endorsed by Rep. Maxwell Frost, former Gov.
-    Kathleen Sebelius, Opportunity DC, and The Collective PAC.
+    At Community Justice, he helped secure $42 billion in federal gun violence
+    prevention funding and co-led passage of the Bipartisan Safer Communities Act
+    — the first federal gun violence law in 30 years. He was then appointed Special
+    Assistant to President Biden and Deputy Director of the White House Office of
+    Gun Violence Prevention, where he developed 54 executive actions and oversaw
+    implementation of the new law. He credits these efforts with a 49% reduction
+    in homicides nationwide over three years. During this time his Congress Heights
+    home was struck 13 times in a nearby shooting.
+
+    He is a proud UVA graduate (Class of 2007), where he was the first Black
+    freshman class president, a member of Alpha Phi Alpha, and student council vice
+    president. He currently serves as president of the Rocket Foundation alongside
+    rapper Quavo and is pursuing an Executive Master of Public Health at Yale.
+
+    His platform priorities are gun violence prevention, youth safety, job creation,
+    housing affordability, and education. He is endorsed by Rep. Maxwell Frost,
+    former Gov. Kathleen Sebelius, Opportunity DC, and The Collective PAC.
   advisories: []
   sources:
+    - url: https://www.jacksonfordc.com/
+      title: "Greg Jackson for DC Council — Campaign Website"
+      publisher: "jacksonfordc.com"
+      accessed: 2026-05-29
     - url: https://ballotpedia.org/Greg_Jackson_Jr._(Washington,_D.C.,_City_Council_At-large_candidate)
       title: "Greg Jackson Jr. — Ballotpedia"
       publisher: ballotpedia.org
@@ -318,57 +341,113 @@
   positions:
     - question_id: crime_public_health
       stance: 2
-      explanation: "Survived a 2013 Shaw shooting; built his post-consulting career around gun violence prevention (DC, White House). Advocates evidence-based approaches modeled on Baltimore and Miami's violence reduction successes."
+      explanation: "Survived a 2013 Shaw shooting; spent over 12 years in gun violence prevention, including leading 54 Biden executive actions and overseeing the Bipartisan Safer Communities Act's implementation, which he credits with a 49% nationwide homicide reduction. His public safety platform leads with community violence intervention, cognitive behavioral therapy, wrap-around services, and a Group Violence Reduction Strategy — with law enforcement as one tool among many."
       sources:
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
 
     - question_id: crime_more_police
-      stance: 1
-      explanation: "Public safety is his top priority but he frames it as 'more than crime prevention' — also jobs, schools, mental health. Favors a mix of law enforcement and investment."
+      stance: 0
+      explanation: "Does not call for simply hiring more MPD officers. His gun violence platform emphasizes Crime Gun Intelligence, a Regional Gun Trafficking Initiative with VA and MD, and investigative tools — explicitly stating 'not just patrol or surveillance.' He favors targeted law enforcement strategies over across-the-board hiring."
       sources:
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Explicitly proposes to 'Strengthen Community Schools Model' by investing in place-based partnerships connecting students and families to health, academic, and social supports, and expanding collaboration with trusted community organizations."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Proposes to 'Expand Cognitive Behavior and School Based Mental Health Programs,' citing their impact in DC and similar cities; also proposes to strengthen school climate through restorative practice investments and direct resources to schools where indicators show students need the most support."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "Pledges to protect Paid Family Leave, the Early Childhood Educator Pay Equity Fund, and Universal Pre-K; wants to expand childcare facility grants and push toward a goal where childcare costs families no more than 7% of income."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: parks_rec_funding
+      stance: 2
+      explanation: "Served as DPR's communications and community relations director, coining the 'Where Fun Happens' motto and launching the FitDC campaign. His youth safety platform proposes a 'Safe Nights DC Initiative' expanding late-night youth-targeted recreation in high youth-traffic areas and strengthening out-of-school programs."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Proposes a 'Safe Nights DC Initiative' to expand late-night youth recreation and restorative activities in high-traffic areas, a Youth Safety Fund directed by youth, expanded out-of-school programs, and a Youth Network for Safety — all centered on programming investment as the primary tool for reducing youth violence."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Greg Jackson for DC Council — Campaign Website"
+          publisher: "jacksonfordc.com"
+          accessed: 2026-05-29
 
 - id: leniquadominique-jenkins
   name: "Leniqua'dominique Jenkins"
   election_slug: at_large_bonds
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: "https://www.votejenkinsfordc.com/"
   endorsements: []
   short_bio: >
-    Deanwood ANC alum, small business owner, and children's book author (age 40);
-    arrived in DC as an unpaid Hill intern. Ran Capitol Living (home care agency)
-    10 years. Ran against Bonds in 2021, then worked in Bonds' office. Running on
-    equity, education, and environmental justice. Opposes youth curfews as punitive.
+    East-of-the-River advocate, former Deanwood ANC commissioner, and Amazon
+    best-selling children's book author (age 40); has worked in the Wilson
+    Building for two councilmembers, drafting legislation and advising on policy.
+    Ran businesses from DC to East Africa. Currently grad student government
+    president. Platform: literacy, environmental justice, safe communities,
+    housing, and caregiver support.
   long_bio: |
     Leniqua'dominique Jenkins (age 40) arrived in Washington in 2010 as an unpaid
     intern for Rep. Alan Grayson, working a second retail job in the evenings to
     make rent. She earned a certificate in entrepreneurship at Operation Hope and
     used it to launch Capitol Living, a home care agency she ran for ten years —
     training her father and brother (who were re-entering society after incarceration)
-    as care assistants. She is also a children's book author and attended a language
-    immersion school growing up.
+    as care assistants. She subsequently built businesses that extended as far as
+    East Africa, and has lived and worked in Africa, India, and Spain, a global
+    background she says gives her a model for creative, people-centered policy.
 
     She served one term as an ANC commissioner in Deanwood, focused on environmental
-    justice. In 2021 she ran for the At-Large seat against Bonds but didn't make the
-    ballot; she subsequently worked as a staffer in Bonds' office for a year, then
-    became program director of East River Family Strengthening Collaborative's senior
-    services hub. She lives east of the Anacostia River and says those communities are
-    "a macro example of what's happening at a micro level throughout the city."
+    justice — leading educational walking tours, conducting clean-air studies, and
+    organizing Anacostia River cleanups. In 2021 she ran for the At-Large seat against
+    Bonds; she subsequently worked inside the Wilson Building for both a former and a
+    current councilmember, helping draft legislation and advise on policy. She is an
+    Amazon top-selling children's book author, a public policy columnist, and has
+    written legislative material on Capitol Hill. She currently serves as president of
+    her university's Graduate Student Government. On a personal level, she provides
+    daily care for her mother and helps raise her young niece, which she says grounds
+    her caregiver platform in lived experience.
 
-    Her "three E's" platform: equity, education, and environmental justice. Top
-    priorities include literacy (noting that 119,000 DC adults read at a third-grade
-    level), phonics instruction, civic engagement, and modernizing senior services.
-    She opposes targeted youth curfews, calling the approach "punitive," and instead
-    emphasizes green jobs, homeownership, tenant protections, police-community
-    relations, and caregiver support through workplace flexibility.
+    She lives east of the Anacostia River (Ward 7) and says those communities have been
+    "left out of citywide decision-making for too long." Her platform priorities are
+    literacy (noting that approximately 119,000 DC adults and nearly half of Wards 7
+    and 8 adults face low-literacy challenges), environmental justice centered on a
+    Bottle Bill, community safety through prevention rather than punishment, housing
+    affordability and homeownership pathways, and a caregiver support agenda.
   advisories: []
   sources:
+    - url: https://www.votejenkinsfordc.com/
+      title: "Leniqua'dominique Jenkins for DC Council — Campaign Website"
+      publisher: "votejenkinsfordc.com"
+      accessed: 2026-05-29
     - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
@@ -378,97 +457,227 @@
       publisher: "Washington Informer"
       accessed: 2026-05-29
   positions:
-    - question_id: education_mental_health_schools
+    - question_id: crime_public_health
       stance: 2
-      explanation: "Prioritizes literacy as a youth development engine, noting 119,000 DC adults struggle to read at a third-grade level. Advocates phonics instruction, pen-pal programs, and civic engagement as youth development tools. Also prioritizes modernized, accessible senior services."
+      explanation: "Frames public safety explicitly around prevention: 'Safety isn't achieved by punishment alone — it is created when people have access to housing, education, opportunity, and mental-health care.' Proposes expanding youth programs, mental health care access, community-based violence prevention, and crisis-response models pairing police with service providers."
       sources:
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://www.votejenkinsfordc.com/
+          title: "Leniqua'dominique Jenkins for DC Council — Campaign Website"
+          publisher: "votejenkinsfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: education_mental_health_schools
+      stance: 1
+      explanation: "Supports expanding mental health care access for youth as part of her community safety platform, and links literacy deficits to the school-to-prison pipeline. Does not specifically call for a dedicated behavioral health clinician in every school, framing mental health support as community-based rather than school-specific."
+      sources:
+        - url: https://www.votejenkinsfordc.com/
+          title: "Leniqua'dominique Jenkins for DC Council — Campaign Website"
+          publisher: "votejenkinsfordc.com"
+          accessed: 2026-05-29
+
+    - question_id: youth_curfew_support
+      stance: -1
+      explanation: "Opposes targeted youth curfews, calling the approach 'punitive.' Favors literacy, civic engagement, community investment, and mental health care as the path to youth safety — not enforcement restrictions."
+      sources:
         - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
           title: "Youth Engagement, Education Policy — Washington Informer"
           publisher: "Washington Informer"
           accessed: 2026-05-29
 
-    - question_id: youth_curfew_support
-      stance: -1
-      explanation: "Opposes targeted youth curfews, calling the approach 'punitive.' Favors literacy, civic engagement, green jobs, and community investment as the path to youth safety — not enforcement restrictions."
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Strongly favors investment in youth programming alternatives: expands youth programs and mental health care access as the primary tools for community safety, explicitly rejecting a punishment-first approach. Her literacy platform also proposes integrating educational supports within juvenile justice programs and a citywide 'DC Pen Pal Project' to strengthen youth writing skills and civic awareness."
       sources:
-        - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
-          title: "Youth Engagement, Education Policy — Washington Informer"
-          publisher: "Washington Informer"
+        - url: https://www.votejenkinsfordc.com/
+          title: "Leniqua'dominique Jenkins for DC Council — Campaign Website"
+          publisher: "votejenkinsfordc.com"
           accessed: 2026-05-29
 
 - id: candace-nelson
   name: "Candace Tiana Nelson"
   election_slug: at_large_bonds
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
-  endorsements: []
+  campaign_url: "https://www.candacefordc.com/"
+  endorsements:
+    - "Jews United for Justice"
+    - "Bike, Walk & Bus PAC"
+    - "AFGE Local 2725 – AFL-CIO"
   short_bio: >
-    Government oversight specialist (age 50); former chief of staff to Ward 4
-    Councilmember Janeese Lewis George. Nearly 20 years across 5 DC agencies;
-    led AG Brian Schwalb's transition. Lives in Brightwood.
+    Two-decade DC government veteran (age 50) and current President of the DC
+    Black Democratic Caucus; former chief of staff to Ward 4 Councilmember Janeese
+    Lewis George and AG transition director. Union family background ("Legacy of
+    Labor"). Lives in Brightwood. Platform: education, housing, home rule, workers'
+    rights, and transit.
   long_bio: |
-    Candace Tiana Nelson (age 50) has nearly two decades of experience inside DC's
-    government, working across five city agencies under multiple mayors. Most recently
-    she served as chief of staff to Ward 4 Councilmember Janeese Lewis George, and
-    before that led the transition team for DC Attorney General Brian Schwalb after
-    his 2022 election. She lives in the Brightwood neighborhood.
+    Candace Tiana Nelson (age 50) was born and raised in Winchester, Virginia, often
+    the only Black student in her class or grade. She credits her parents — her father
+    on 12-hour shifts at Rubbermaid, her mother working 12-hour hospital shifts while
+    earning a Master's in Nursing and testifying before Congress with her union — for
+    her sense of dignity, perseverance, and commitment to organized labor. She calls
+    herself "a Legacy of Labor" and is a former member of AFGE Local 1000. She lives
+    in the Brightwood neighborhood.
 
-    Nelson says the issue that pushed her to run was DC's inadequate response to
-    Republican attacks on home rule: she says there wasn't enough communication
-    among the city's top leaders or within the council itself. She wants the council
-    to create its own dedicated federal affairs office, a stand-alone education
-    committee, and a committee focused exclusively on finance and revenue. Above all,
-    she runs on oversight and accountability: "I will understand oversight," she says,
-    because she has worked inside five agencies and seen how government can fail
-    without rigorous scrutiny.
+    Her two decades across DC government span the executive, legislative, and judicial
+    branches. Roles include: Special Projects Officer at the Department of Healthcare
+    Finance, managing a $110 million contract that created District Direct, which
+    transformed resident access to Medicaid, SNAP, and TANF during COVID-19; policy
+    analyst authoring a key recommendation that led to the creation of DC's Office of
+    African American Affairs; and work at the Office of Women's Policy and Initiatives,
+    where she established DC's partnership with Work Smart, a wage-negotiation program
+    for women, especially returning citizens. She served on two Mayoral Transition
+    Teams, and as an ANC Commissioner in Ward 4, before becoming transition director
+    and then chief of staff for Attorney General Brian Schwalb following his 2022
+    election. Most recently she was chief of staff to Ward 4 Councilmember Janeese
+    Lewis George. She currently serves as President of the DC Black Democratic Caucus.
+
+    Nelson's platform priorities are home rule (she opposes any preemptive compliance
+    with Trump administration overreach), education (she wants a reinstated standalone
+    DC Council Education Committee), housing affordability (expanding rent stabilization,
+    strengthening TOPA, fully funding the Housing Production Trust Fund), workers'
+    rights (creating a DC Department of Labor and Workers' Rights, a Workers' Bill of
+    Rights), and transit equity (BRT for Wards 7 and 8, protected bike lanes). She is
+    endorsed by Jews United for Justice, Bike Walk & Bus PAC, and AFGE Local 2725.
   advisories: []
   sources:
+    - url: https://www.candacefordc.com/
+      title: "Candace Tiana Nelson for DC Council — Campaign Website"
+      publisher: "candacefordc.com"
+      accessed: 2026-05-29
     - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
       accessed: 2026-05-27
   positions:
-    - question_id: education_community_schools
+    - question_id: housing_topa_restore
       stance: 2
-      explanation: "Wants a stand-alone DC Council education committee, which does not currently exist. Believes DC already spends significant money on education and housing but needs better oversight to ensure quality."
+      explanation: "Explicitly pledges to 'Strengthen Tenants Opportunity to Purchase Act (TOPA) and give tenants a fair chance to stay in their homes,' framing it as a core housing-justice commitment."
       sources:
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://www.candacefordc.com/
+          title: "Candace Tiana Nelson for DC Council — Campaign Website"
+          publisher: "candacefordc.com"
+          accessed: 2026-05-29
+
+    - question_id: housing_rent_stabilization
+      stance: 2
+      explanation: "Explicitly pledges to 'Expand rent stabilization to support affordable and stable rents for working families as more buildings are constructed.' Frames stable, affordable housing as a human right."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Candace Tiana Nelson for DC Council — Campaign Website"
+          publisher: "candacefordc.com"
+          accessed: 2026-05-29
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Explicitly names 'fully funding the Housing Production Trust Fund' as part of her homeownership-pathway agenda, alongside the First Right to Purchase Program."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Candace Tiana Nelson for DC Council — Campaign Website"
+          publisher: "candacefordc.com"
+          accessed: 2026-05-29
+
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      explanation: "Explicitly proposes to 'Improve protected bike lanes and pedestrianized corridors particularly in high-traffic neighborhoods' and 'Advocate for a more robust Bus Rapid Transit network, especially in underserved communities in Wards 7 and 8.' Endorsed by Bike, Walk & Bus PAC."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Candace Tiana Nelson for DC Council — Campaign Website"
+          publisher: "candacefordc.com"
+          accessed: 2026-05-29
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "Pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values,' ensuring DC remains a safe place for immigrant communities. Will refuse to preemptively comply with Trump administration overreach."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Candace Tiana Nelson for DC Council — Campaign Website"
+          publisher: "candacefordc.com"
+          accessed: 2026-05-29
+
+    - question_id: education_community_schools
+      stance: 1
+      explanation: "Supports coordination and expanded funding to meet needs of children in poverty, with disabilities, or in foster care, and proposes a standalone DC Council Education Committee. Does not specifically endorse the community schools model by name, but her 'cradle to retirement' education framework aligns with its wraparound-services philosophy."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Candace Tiana Nelson for DC Council — Campaign Website"
+          publisher: "candacefordc.com"
+          accessed: 2026-05-29
 
 - id: oye-owolewa
   name: "Oye Owolewa"
   election_slug: at_large_bonds
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: "https://www.vote4oye.com/"
   endorsements:
+    - "Sierra Club"
+    - "Washington Teachers' Union"
     - "Working Families Party"
-    - "Washington Area Bicyclist Association (WABA)"
+    - "LIUNA – Metropolitan Area of Philadelphia, Baltimore, Washington Laborers' District Council"
+    - "DC Voters for Animals"
+    - "DC for Democracy"
+    - "Pro Animal Washington DC"
+    - "UNITE HERE! Local 25"
+    - "Jews United for Justice"
+    - "314 Action"
+    - "Bike, Walk & Bus PAC"
+    - "Unite Here! Local 23"
+    - "Ghana Diaspora Public Affairs Collective"
+    - "Nigerian-American Public Affairs Committee"
+    - "AFGE Local 2725"
+    - "We Power DC"
+    - "Teachers Unify Action Team"
+    - "DC National Organization for Women"
+    - "Capital Stonewall Democrats"
+    - "Committee of Interns and Residents – SEIU Healthcare"
+    - "American Postal Workers Union – AFL-CIO"
+    - "Ward 1 Democrats"
+    - "Amalgamated Transit Union – ATU Local 689"
+    - "International Association of Fire Fighters – Local 36"
+    - "Eastern Atlantic States Regional Council of Carpenters"
+    - "District of Columbia Latino Caucus"
+    - "SEIU Local 500"
+    - "DC Young Democrats"
   short_bio: >
     Current DC Shadow Representative (2021–present, age 36); PharmD from
-    Northeastern. Led protests against ICE HQ construction at St. Elizabeth's.
-    Wants UDC tuition-free. Endorsed by WFP and WABA.
+    Northeastern. Born in Boston to Nigerian immigrants; grew up to volunteer in DC
+    classrooms before winning a Ward 8 ANC seat by one vote in 2018. Led protests
+    against an ICE headquarters on the St. Elizabeth's campus. Signature issues:
+    UDC tuition-free, sanctuary city enforcement, and a broadly progressive platform
+    spanning housing, healthcare, climate, and workers' rights.
   long_bio: |
-    Oye Owolewa (age 36) was born in Boston and earned a doctorate in pharmacy from
-    Northeastern University in 2014. He worked as a pharmacy manager at Safeway and
-    pharmacist at Rite Aid before winning his first ANC race in 2018 — by a single
-    vote. Since January 2021 he has served as DC's U.S. Shadow Representative, one
-    of the city's unpaid statehood advocates with standing in the House.
+    Oye Owolewa (age 36) was born in Boston to Nigerian immigrant parents from
+    Kwara and Osun states. He was bullied as a child, started fights, and was
+    suspended from school before his parents pushed him toward education. He earned
+    a doctorate in pharmacy from Northeastern University in 2014 as the only Black
+    man in his doctoral program. After moving to DC he volunteered in classrooms,
+    teaching science experiments; he worked as a pharmacy manager at Safeway and
+    pharmacist at Rite Aid before winning his first ANC race in Ward 8 in 2018 —
+    by a single vote. Since January 2021 he has served as DC's U.S. Shadow
+    Representative, one of the city's unpaid statehood advocates with standing in
+    the House. In that role he has worked to intercept drugs off the streets, helped
+    returning citizens obtain union jobs, and secured Covid vaccine access for
+    thousands of Washingtonians — vaccinating some patients himself.
 
-    He recently led protests against the construction of an ICE headquarters on the
-    St. Elizabeth's campus in Ward 8, alongside the DHS headquarters. He is outspoken
-    about what he sees as insufficient pushback from DC's leadership against Republican
-    interference: "Last year was very difficult for D.C. People were wondering why our
-    council wasn't being more forceful." His signature proposal is making the University
-    of the District of Columbia tuition-free — both to help struggling residents and to
-    serve as a retraining hub for laid-off federal workers.
+    He led protests against construction of a new ICE headquarters on the St.
+    Elizabeth's campus in Ward 8. He describes DC's lack of statehood as making
+    residents "uniquely exposed" to federal abuses and says the fight for home rule
+    is about "survival, dignity, and real democracy." His signature legislative
+    proposal is making UDC tuition-free for all DC residents.
+
+    His platform is among the most detailed in the race, covering housing
+    (restoring TOPA, expanding rent stabilization, social housing), healthcare
+    (restoring Medicaid/DC Healthcare Alliance, Medicare for All vision, harm
+    reduction for overdoses), community safety (community-first approach, removing
+    police from schools), climate (full clean energy, Healthy Homes Act, bottle
+    bill), workers' rights (Workers' Bill of Rights, DC Department of Labor), and
+    senior services. He is endorsed by the Washington Teachers' Union, Sierra Club,
+    Working Families Party, several SEIU and AFGE locals, Amalgamated Transit Union,
+    and dozens of other labor and civic organizations.
   advisories: []
   sources:
+    - url: https://www.vote4oye.com/
+      title: "Oye Owolewa for DC Council — Campaign Website"
+      publisher: "vote4oye.com"
+      accessed: 2026-05-29
     - url: https://ballotpedia.org/Oye_Owolewa
       title: "Oye Owolewa — Ballotpedia"
       publisher: ballotpedia.org
@@ -478,59 +687,232 @@
       publisher: "The 51st"
       accessed: 2026-05-27
   positions:
+    - question_id: housing_topa_restore
+      stance: 2
+      explanation: "Pledges to 'defend and restore TOPA, including reversing recent rollbacks that stripped protections from small buildings, fully funding the First Right Purchase Program,' adding transparency requirements and penalties for bad actors."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: housing_rent_stabilization
+      stance: 2
+      explanation: "Will 'strengthen rent stabilization by reducing the maximum annual increase to the Consumer Price Index, expanding rent control to newer buildings, and funding proactive inspections.' Frames strong rent stabilization as essential to stopping displacement of long-time Black and brown residents."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "Supports 'dedicating a significant share of the Housing Production Trust Fund to preservation, including TOPA transactions, nonprofit acquisitions, and limited-equity cooperatives that keep housing affordable long term.'"
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: housing_social_model
+      stance: 2
+      explanation: "Explicitly supports expanding 'social housing, community land trusts, and pathways to ownership so long-time renters can build stability and generational wealth,' and a 'Green New Deal for Social Housing' so climate investments deliver direct community benefits."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      explanation: "Will 'expand bus priority corridors' and 'invest in safer stations, bus stops, sidewalks, lighting, and accessibility improvements.' Endorsed by Bike, Walk & Bus PAC. Focuses on a transit-first District that centers residents over car throughput."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Led public protests against construction of a new ICE headquarters on the St. Elizabeth's campus in Ward 8. Supports DC's sanctuary values against federal immigration enforcement."
+      explanation: "Will 'end all cooperation between MPD and ICE, enforce the Sanctuary Values Act, and ensure District agencies do not assist in deportations or federal immigration enforcement.' Expand sanctuary protections across schools, clinics, and shelters. Led protests against a new ICE headquarters on the St. Elizabeth's campus."
       sources:
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "Will 'strengthen neighborhood schools by expanding afterschool and summer programs and investing in community schools that provide tutoring, nutrition, health care, and mental health support,' with equity-based resource distribution especially East of the River."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Will 'remove police from DCPS schools and invest instead in counselors, nurses, and social workers who support the whole child.' Asserts students 'deserve strong neighborhood schools with enough teachers, counselors, nurses, and mental health staff to meet their needs.'"
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: crime_public_health
+      stance: 2
+      explanation: "As a pharmacist and elected official, frames violence as 'closely tied to trauma, untreated mental illness, housing instability, and lack of opportunity.' Will expand violence interruption programs, youth employment, and community-based prevention; ensure mental health emergencies are handled by trained responders rather than armed officers."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: crime_secure_dc
+      stance: -2
+      explanation: "Will 'oppose expansions of pretrial detention, reject efforts to create new crimes or longer sentences that do not improve safety.' Frames DC's public safety crisis as the result of over-reliance on punishment — the core approach of Secure DC — rather than addressing root causes."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: crime_more_police
+      stance: -1
+      explanation: "Says DC 'relies on public safety strategies that have failed for decades' and that 'residents fund the largest police budget in District history while the root causes of violence... go unaddressed.' Favors oversight and accountability for MPD, not expansion."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: youth_curfew_support
+      stance: -2
+      explanation: "Will 'oppose youth curfews, school policing, and expanded surveillance that criminalize young people.' Calls curfews without programming investment a 'punitive approach that contributes to the school-to-prison pipeline.'"
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Will 'fight to expand afterschool and late night youth spaces, invest in violence interruption rooted in community trust, and fully fund youth development programs that offer paid work, career exploration, and pathways into union jobs.' Treats programming investment as the primary tool for youth safety."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: harm_reduction_safe_injection
+      stance: 2
+      explanation: "Explicitly calls for DC to 'confront overdoses with a true public health approach centered on harm reduction, treatment access, housing stability, and continuity of care.' As a pharmacist and public health professional, his use of 'harm reduction' as a core framing encompasses overdose prevention center models."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "Will 'fund early care and learning from birth through pre-K with stable, predictable public investment,' raise child care reimbursement rates, and 'ensure families do not spend more than ten percent of their income on child care when the Birth-to-Three Act is fully implemented.' Will fully fund and permanently protect the Early Childhood Educator Pay Equity Fund."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: sanitation_rats
+      stance: 2
+      explanation: "Has a dedicated platform plank on rodent control. Will 'shift the District away from poison-first rodent control and toward sanitation-first prevention,' phase out second-generation anticoagulant rodenticides, 'strengthen containerization and compost infrastructure,' and require public reporting on 311 response times and enforcement."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "Will 'accelerate decarbonization, strengthen the Carbon Free DC strategy, and move the District toward full clean energy through expanded community solar, weatherization, and building retrofits.' Supports the Healthy Homes Act, protecting the Sustainable Energy Trust Fund, and transitioning low-income households to electric appliances at no cost."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Oye Owolewa for DC Council — Campaign Website"
+          publisher: "vote4oye.com"
+          accessed: 2026-05-29
 
 - id: lisa-raymond
   name: "Lisa Raymond"
   election_slug: at_large_bonds
   in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  campaign_url: "https://lisaraymondfordc.com/"
   endorsements:
-    - "Charles Allen (Ward 6 DC Councilmember)"
-    - "Mary Cheh (Former Ward 3 DC Councilmember)"
-    - "Laura Slover (Former DC SBOE President)"
-    - "Sekou Biddle (Former DC SBOE Member)"
+    - "Charles Allen, Ward 6 Councilmember"
+    - "Mary Cheh, Former Ward 3 Councilmember"
+    - "Sekou Biddle, Former At-Large Councilmember and Former DC SBOE Member"
+    - "Laura Slover, Former DC State Board of Education President"
+    - "James Pittman, Former Deputy Attorney General"
+    - "Amber Gove, ANC 6A Chair"
+    - "Andrew DeFrank, ANC Commissioner 2B01"
+    - "VJ Kapur, ANC 5C07"
+    - "Zach Israel, Former ANC 4D Commissioner"
+    - "Salim Adofo"
     - "Greater Greater Washington"
+    - "IAFF Local 36"
     - "DC YIMBYs"
+    - "DC Women in Politics"
+    - "ElectED DC"
+    - "DC Charter School Action"
+    - "Center for Strong Public Schools Action Fund"
     - "DC Association of Realtors"
+    - "Greater Capital Area Association of REALTORS (GCAAR)"
+    - "Opportunity DC"
   short_bio: >
-    Education policy veteran and former DC AG chief of staff (age 56). COO at Cesar
-    Chavez Charter; DC State Board of Education 2006 (Wards 5 & 6); senior education
-    advisor under Council Chair Kwame Brown; chief of staff to AG Karl Racine
-    (2018–2020); currently major gifts officer at Covenant House. Capitol Hill
-    resident. Endorsed by Councilmember Charles Allen and former Councilmember Mary Cheh.
+    Education policy veteran (age 56); began career supporting formerly incarcerated
+    women at a Dupont Circle halfway house. Helped co-found Cesar Chavez Charter;
+    DC State Board of Education President (Wards 5 & 6, 2006); ran DC Council
+    education policy under Council Chair Kwame Brown; chief of staff to AG Karl
+    Racine (2018–2020). Planned Parenthood Metro Washington board trustee. Lives
+    near Lincoln Park.
   long_bio: |
-    Lisa Raymond (age 56) came to DC from Connecticut in the late 1990s and was drawn
-    into education policy by helping paint the walls of what would become Cesar Chavez
-    Public Charter School in Southwest. She joined the school as chief of operations
-    and later chief operating officer, where she saw firsthand how many high schoolers
-    arrived years behind grade level. In 2006 she won a seat on the DC State Board of
-    Education (representing Wards 5 and 6), only to see its powers transferred to the
-    mayor shortly after. She then served as senior education advisor to then-Council
-    Chair Kwame Brown and as chief of staff to DC Attorney General Karl Racine from
-    2018 to 2020. She currently serves as major gifts officer at Covenant House, the
-    organization serving homeless youth.
+    Lisa Raymond (age 56) began her DC career at a halfway house off Dupont Circle
+    supporting formerly incarcerated women seeking dignity and a path forward. That
+    experience, she says, grounded her belief that "public service is human, urgent,
+    and personal." She then helped start Cesar Chavez Public Charter School, serving
+    as chief of operations and later chief operating officer and witnessing firsthand
+    how many high schoolers arrived years behind grade level.
 
-    A Capitol Hill resident and mother of two DCPS alumni, her top priorities are
-    early childhood education (Pre-K3/Pre-K4 expansion with better-paid early
-    childhood educators), career and technical education, full classroom staffing
-    and school modernization (including safe water and functional HVAC systems), and
-    parent advocacy bridge-building. "I don't see another champion for education at
-    the moment," she says. On housing: "We have to take a good look at what we are
-    doing as a city, what we're doing that gets in the way — but it's not an
-    invitation to developers to come in here and do whatever they want." She is
-    endorsed by Councilmember Charles Allen, former Councilmember Mary Cheh, former
-    SBOE President Laura Slover, former SBOE member Sekou Biddle, Greater Greater
-    Washington, DC YIMBYs, and the DC Association of Realtors.
+    In 2006 she won a seat on the DC State Board of Education (representing Wards 5
+    and 6), where she served as Board President and helped expand quality PreK and
+    strengthen graduation standards — only to see the board's powers transferred to
+    the mayor shortly after. She went on to run education policy for the DC Council
+    under then-Chair Kwame Brown, managing DCPS budgets and helping shape key
+    reforms: she drafted legislation ensuring every student could take the SAT and
+    apply to college or technical programs, expanded career and technical education
+    funding, and strengthened enforcement against residency fraud.
+
+    From 2018 to 2020 she served as Chief of Staff to Attorney General Karl Racine —
+    the District's first elected AG — supporting an independent agency fighting wage
+    theft and keeping young people out of the criminal justice system. She has also
+    served as a trustee of Planned Parenthood of Metro Washington and as volunteer
+    chair of the board of a DC charter school.
+
+    She lives near Lincoln Park with her husband Josh and rescue dog Jojo; she has
+    two children in college and is an active member of the Hill Havurah community.
+    She currently works as a major gifts officer for a Ward 7 and 8 nonprofit serving
+    homeless youth.
+
+    Her platform priorities are education (Pre-K expansion, educator pay, CTE and
+    apprenticeships, school modernization), housing supply (streamlined permitting,
+    Housing Production Trust Fund, tenant protection), and home rule. She explicitly
+    supports targeted, temporary curfews as one public safety tool alongside youth
+    programming. She is endorsed by Councilmember Charles Allen, former Councilmember
+    Mary Cheh, IAFF Local 36, DC YIMBYs, Greater Greater Washington, and Opportunity DC.
   advisories: []
   sources:
+    - url: https://lisaraymondfordc.com/
+      title: "Lisa Raymond for DC Council — Campaign Website"
+      publisher: "lisaraymondfordc.com"
+      accessed: 2026-05-30
     - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
       title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
       publisher: "The 51st"
@@ -540,24 +922,74 @@
       publisher: "Washington Informer"
       accessed: 2026-05-29
   positions:
-    - question_id: education_community_schools
-      stance: 2
-      explanation: "Career entirely in DC education policy: Cesar Chavez Charter COO, DC SBOE member (Wards 5 & 6), senior education advisor to Council Chair Kwame Brown. Priorities include Pre-K3/4 expansion with higher educator pay, CTE investment, full classroom staffing, school modernization (safe water, HVAC), and parent advocacy bridge-building. Says she is 'the most important champion for education' in the race."
-      sources:
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
-        - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
-          title: "Youth Engagement, Education Policy — Washington Informer"
-          publisher: "Washington Informer"
-          accessed: 2026-05-29
-
     - question_id: housing_production_trust_fund
-      stance: 1
-      explanation: "Endorsed by DC Yimbys and Greater GW (pro-housing groups) and DC Association of Realtors. Supports building more housing but cautions it 'is not an invitation to developers to do whatever they want.'"
+      stance: 2
+      explanation: "Explicitly pledges to 'Invest in the Housing Production Trust Fund with strong oversight.' Also supports streamlined permitting and use of public land to increase supply across all eight wards."
       sources:
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: education_community_schools
+      stance: 1
+      explanation: "Supports wraparound youth services — mental health care, career pathways, safe afterschool spaces, and employer partnerships — but does not specifically endorse the community schools model by name. Her education platform focuses on teaching quality, CTE, and school infrastructure."
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      explanation: "Explicitly calls for the District to 'expand school-based mental health care, support community providers, and continue the DBH-MPD co-responder model so youth in crisis receive care and support — not criminalization.'"
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: crime_more_police
+      stance: 1
+      explanation: "Explicitly supports 'a well-trained, adequately staffed police force' alongside transparency and oversight. Also calls for holding federal partners accountable for prosecutions and judicial appointments."
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_support
+      stance: 1
+      explanation: "Explicitly states she 'supports targeted, temporary public safety measures, including curfews, when necessary to keep residents safe. But enforcement alone cannot be the foundation of youth policy.' One of the few At-Large candidates to explicitly endorse curfews as a tool."
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "Pairs her curfew support with a comprehensive youth investment agenda: evidence-based conflict management programs, career pathways, paid apprenticeships (champions DC Young Adult Corps Act), expanded safe afterschool and late-night spaces, and school-based mental health care. 'The long-term solution is opportunity, connection, and hope.'"
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: transit_bike_bus_lanes
+      stance: 1
+      explanation: "Supports 'pedestrian safety and a low-stress network for biking' and 'multi-modal transportation options that reduce costs and serve residents in all eight wards.' Supports 'electrified transit options.' Does not specifically call for protected bike lanes or dedicated bus lanes."
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "Supports 'robust implementation of the Carbon Free DC plan' and the Healthy Homes Act. Wants gas-free, energy-efficient affordable housing construction and tough Public Service Commission oversight to control utility costs."
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Lisa Raymond for DC Council — Campaign Website"
+          publisher: "lisaraymondfordc.com"
+          accessed: 2026-05-30
