@@ -62,8 +62,9 @@ The app will be available at **http://127.0.0.1:5000**.
 python -m pytest
 ```
 
-All 21 tests should pass. The test suite covers:
+All 31 tests should pass. The test suite covers:
 - Scoring algorithm edge cases (null stances, skipped questions, agreement calculation)
+- Coverage tracking and the limited-data ranking tier (thresholds, tiered sort order)
 - Data loader validation (duplicate IDs, missing sources, unknown question references)
 - Flask route smoke tests (all routes return 200)
 
@@ -123,6 +124,18 @@ match_percent = 100 × Σ(agreement) / n
 ```
 
 Stances run from **−2** (strongly opposes) to **+2** (strongly supports). A candidate with no known stances on any of your answered questions is shown as "Insufficient data" rather than scored at 0%.
+
+### Coverage and the limited-data tier
+
+A percentage built from only a handful of questions can be misleading, so every result also reports its **coverage** — `compared_count` of `answered_count`, shown on the card as *"based on N of M questions."*
+
+A candidate counts as well-documented only when it clears **both** thresholds (`MIN_COMPARED` / `MIN_COVERAGE` at the top of `scoring.py`):
+
+```
+sufficient_data = compared_count >= 8  AND  compared_count / answered_count >= 0.40
+```
+
+`rank_candidates` ranks well-documented candidates first (by match % desc), then the rest (by match % desc), with "Insufficient data" candidates last. Candidates that fall short are grouped under a **"Limited information available"** heading and flagged with a "Limited data" badge — but their real percentage is shown unchanged. **Missing positions are never guessed or imputed**; a thinly-sourced candidate is simply ranked with less confidence until more sourced positions are added.
 
 ---
 

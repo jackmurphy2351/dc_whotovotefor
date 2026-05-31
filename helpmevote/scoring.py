@@ -2,6 +2,15 @@ from dataclasses import dataclass, field
 
 from .models import Candidate, Question, Source
 
+# A candidate's score is only as trustworthy as the number of questions it rests
+# on. To stay in the "confident" ranking tier, a candidate must have a known
+# stance on at least MIN_COMPARED of the user's answered questions AND cover at
+# least MIN_COVERAGE of them. Below either bar the candidate is flagged
+# "limited data" and sorted beneath every well-documented candidate — its real
+# percentage is kept, never fabricated or imputed.
+MIN_COMPARED = 8
+MIN_COVERAGE = 0.40
+
 
 @dataclass
 class IssueScore:
@@ -32,10 +41,26 @@ class ScoredCandidate:
     match_percent: float | None
     issue_scores: list[IssueScore]
     details: list[AnswerDetail] = field(default_factory=list)
+    # Questions the user answered with a real opinion (the scope for this user).
+    answered_count: int = 0
+    # Subset of answered_count where the candidate also has a known stance.
+    compared_count: int = 0
 
     @property
     def insufficient_data(self) -> bool:
         return self.match_percent is None
+
+    @property
+    def coverage(self) -> float:
+        """Fraction of the user's answered questions the candidate has a stance on."""
+        if self.answered_count == 0:
+            return 0.0
+        return self.compared_count / self.answered_count
+
+    @property
+    def sufficient_data(self) -> bool:
+        """True when the score rests on enough of the user's questions to trust the ranking."""
+        return self.compared_count >= MIN_COMPARED and self.coverage >= MIN_COVERAGE
 
 
 def match_score(
@@ -54,6 +79,7 @@ def match_score(
 
     numerator = 0.0
     denominator = 0.0
+    answered_count = 0  # user questions with a real opinion
 
     issue_data: dict[str, dict] = {}
     details: list[AnswerDetail] = []
@@ -71,6 +97,7 @@ def match_score(
         if user_stance is None:
             continue
 
+        answered_count += 1
         issue_label = issues[issue_id].label if issue_id in issues else issue_id
         position = positions_by_qid.get(qid)
 
@@ -134,13 +161,20 @@ def match_score(
         match_percent=match_percent,
         issue_scores=issue_scores,
         details=details,
+        answered_count=answered_count,
+        compared_count=int(denominator),
     )
 
 
 def rank_candidates(scored: list[ScoredCandidate]) -> list[ScoredCandidate]:
-    """Sort by match_percent desc (None last), then name asc."""
+    """Sort into two tiers: well-documented candidates first (by match% desc),
+    then limited-data candidates (by match% desc). None last, name asc tiebreak.
+
+    A low-coverage candidate keeps its real percentage; it simply sorts below
+    every candidate whose score rests on enough of the user's questions.
+    """
     def sort_key(sc: ScoredCandidate):
         pct = sc.match_percent if sc.match_percent is not None else -1.0
-        return (-pct, sc.candidate.name)
+        return (not sc.sufficient_data, -pct, sc.candidate.name)
 
     return sorted(scored, key=sort_key)

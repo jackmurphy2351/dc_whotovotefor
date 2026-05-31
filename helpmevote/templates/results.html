@@ -29,7 +29,18 @@
 
   {% for sc in ranked %}
   {% set cand = sc.candidate %}
-  <div class="result-card {% if loop.first %}result-card-top{% endif %}">
+  {% if not sc.sufficient_data and (loop.first or ranked[loop.index0 - 1].sufficient_data) %}
+  <div class="results-tier-divider">
+    <h2>Limited information available</h2>
+    <p>
+      We have a documented stance for these candidates on too few of your
+      answered questions to rank them confidently. Their match shown below is
+      based only on those few questions — it is not comparable to the candidates
+      above.
+    </p>
+  </div>
+  {% endif %}
+  <div class="result-card {% if loop.first %}result-card-top{% endif %}{% if not sc.sufficient_data %} result-card-limited{% endif %}">
     <div class="result-card-header">
       <div class="result-rank">{{ loop.index }}</div>
       <div class="result-name-block">
@@ -38,6 +49,9 @@
             {{ cand.name }}
           </a>
         </h2>
+        {% if not sc.sufficient_data %}
+        <span class="badge badge-limited">Limited data</span>
+        {% endif %}
         {% if cand.in_fair_elections %}
         <span class="badge badge-fair-elections">Fair Elections ✓</span>
         {% endif %}
@@ -46,9 +60,11 @@
         {% if sc.match_percent is not none %}
         <div class="match-percent">{{ sc.match_percent | round | int }}%</div>
         <div class="match-label">match</div>
+        <div class="match-coverage">based on {{ sc.compared_count }} of {{ sc.answered_count }} questions</div>
         {% else %}
         <div class="match-percent match-unknown">—</div>
         <div class="match-label">no data</div>
+        <div class="match-coverage">no known stance on your {{ sc.answered_count }} answered question{{ "s" if sc.answered_count != 1 }}</div>
         {% endif %}
       </div>
     </div>

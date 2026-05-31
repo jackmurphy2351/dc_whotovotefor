@@ -433,6 +433,24 @@ button.btn     { font-family: inherit; }
 .match-percent { font-size: 2rem; font-weight: 800; color: var(--dc-navy); line-height: 1; }
 .match-unknown { color: var(--text-light); }
 .match-label   { font-size: .75rem; color: var(--text-light); }
+.match-coverage {
+  font-size: .72rem;
+  color: var(--text-light);
+  margin-top: .25rem;
+  max-width: 11rem;
+  margin-left: auto;
+}
+
+.badge-limited { background: #fde6e0; color: #9a4a1f; }
+.result-card-limited { opacity: .9; }
+
+.results-tier-divider {
+  margin: 2rem 0 1rem;
+  padding-top: 1.25rem;
+  border-top: 2px solid var(--border);
+}
+.results-tier-divider h2 { font-size: 1.1rem; color: var(--text-light); margin: 0 0 .4rem; }
+.results-tier-divider p  { font-size: .9rem; color: var(--text-light); margin: 0; }
 
 .match-bar-container {
   height: 10px;

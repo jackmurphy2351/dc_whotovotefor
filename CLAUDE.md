@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 # Run dev server (http://127.0.0.1:5000)
 FLASK_ENV=development .venv/bin/python app.py
 
-# Run all tests (21 tests; data_loader + scoring)
+# Run all tests (31 tests; data_loader + scoring)
 .venv/bin/python -m pytest
 
 # Run a single test
@@ -42,6 +42,8 @@ When editing YAML, run the dev server or `pytest` to catch violations immediatel
 **Domain model is frozen dataclasses.** `helpmevote/models.py` — `Election`, `Candidate`, `Position`, `Question`, `Issue`, `Source`, `Advisory` are all `@dataclass(frozen=True)`. Treat them as immutable: build new instances, never mutate. The mutable assembly container is `AppContent`.
 
 **Scoring is a pure function.** `helpmevote/scoring.py` (`match_score`) takes user answers + a candidate + questions + issues and returns a `ScoredCandidate`. No Flask, no globals. Stances are integers `-2..+2` or `None` (unknown). User-skipped questions and unknown candidate stances are both excluded from the denominator; a candidate with zero overlap returns `match_percent=None` ("insufficient data") rather than 0%.
+
+`ScoredCandidate` also reports **coverage**: `answered_count` (questions the user answered with an opinion) and `compared_count` (the subset where the candidate also had a known stance), plus a `coverage` ratio and a `sufficient_data` flag. A candidate is "sufficient" only with `compared_count >= MIN_COMPARED` (8) **and** `coverage >= MIN_COVERAGE` (0.40) — both module-level constants in `scoring.py`. `rank_candidates` sorts well-documented candidates first (by match% desc), then limited-data candidates (by match% desc), then `None` last. Low coverage never alters a candidate's percentage or imputes missing positions — it only demotes them into the limited tier, which `results.html` renders under a "Limited information available" heading with per-card "based on N of M questions" labels.
 
 **Routes are split into four blueprints** under `helpmevote/routes/`:
 - `main.py` — `/`, `/about`

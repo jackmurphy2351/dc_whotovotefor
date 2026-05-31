@@ -189,8 +189,79 @@ class TestAnswerDetails:
         assert result.details[0].explanation == "exp"
 
 
+class TestCoverage:
+    def test_counts_track_answered_and_compared(self):
+        candidate = make_candidate([(f"q{i}", 2) for i in range(10)])
+        questions = make_questions([f"q{i}" for i in range(10)])
+        issues = make_issues("housing")
+        user_answers = {f"q{i}": 2 for i in range(10)}
+
+        result = match_score(user_answers, candidate, questions, issues)
+        assert result.answered_count == 10
+        assert result.compared_count == 10
+        assert result.coverage == pytest.approx(1.0)
+
+    def test_skipped_user_questions_excluded_from_answered(self):
+        candidate = make_candidate([("q0", 2), ("q1", 2)])
+        questions = make_questions(["q0", "q1"])
+        issues = make_issues("housing")
+        result = match_score({"q0": 2, "q1": None}, candidate, questions, issues)
+        assert result.answered_count == 1
+        assert result.compared_count == 1
+
+    def test_unknown_candidate_stance_counts_toward_answered_not_compared(self):
+        candidate = make_candidate([("q0", 2), ("q1", None), ("q2", None)])
+        questions = make_questions(["q0", "q1", "q2"])
+        issues = make_issues("housing")
+        result = match_score({"q0": 2, "q1": 2, "q2": 2}, candidate, questions, issues)
+        assert result.answered_count == 3
+        assert result.compared_count == 1
+        assert result.coverage == pytest.approx(1 / 3)
+
+    def test_sufficient_data_true_when_above_thresholds(self):
+        candidate = make_candidate([(f"q{i}", 2) for i in range(10)])
+        questions = make_questions([f"q{i}" for i in range(10)])
+        issues = make_issues("housing")
+        result = match_score({f"q{i}": 2 for i in range(10)}, candidate, questions, issues)
+        assert result.sufficient_data is True
+
+    def test_sufficient_data_false_below_absolute_floor(self):
+        # 5 compared questions < MIN_COMPARED=8, even at 100% coverage.
+        candidate = make_candidate([(f"q{i}", 2) for i in range(5)])
+        questions = make_questions([f"q{i}" for i in range(5)])
+        issues = make_issues("housing")
+        result = match_score({f"q{i}": 2 for i in range(5)}, candidate, questions, issues)
+        assert result.compared_count == 5
+        assert result.sufficient_data is False
+
+    def test_sufficient_data_false_below_coverage(self):
+        # 10 compared meets the floor, but user answered 30 → coverage 0.33 < 0.40.
+        candidate = make_candidate([(f"q{i}", 2) for i in range(10)])
+        questions = make_questions([f"q{i}" for i in range(30)])
+        issues = make_issues("housing")
+        user_answers = {f"q{i}": 2 for i in range(30)}
+        result = match_score(user_answers, candidate, questions, issues)
+        assert result.compared_count == 10
+        assert result.answered_count == 30
+        assert result.sufficient_data is False
+
+    def test_coverage_zero_when_no_answers(self):
+        candidate = make_candidate([("q0", 2)])
+        questions = make_questions(["q0"])
+        issues = make_issues("housing")
+        result = match_score({"q0": None}, candidate, questions, issues)
+        assert result.coverage == 0.0
+        assert result.sufficient_data is False
+
+
 class TestRankCandidates:
-    def _sc(self, name: str, pct: float | None) -> ScoredCandidate:
+    def _sc(
+        self,
+        name: str,
+        pct: float | None,
+        answered: int = 20,
+        compared: int = 20,
+    ) -> ScoredCandidate:
         from helpmevote.models import Candidate
         c = Candidate(
             id=name.lower().replace(" ", "-"),
@@ -209,6 +280,8 @@ class TestRankCandidates:
             candidate=c,
             match_percent=pct,
             issue_scores=[],
+            answered_count=answered,
+            compared_count=compared,
         )
 
     def test_higher_pct_first(self):
@@ -229,3 +302,19 @@ class TestRankCandidates:
         b = self._sc("Alice", 80.0)
         ranked = rank_candidates([a, b])
         assert ranked[0].candidate.name == "Alice"
+
+    def test_limited_data_sorts_below_well_documented(self):
+        thin = self._sc("Johnson", 100.0, answered=29, compared=5)
+        solid = self._sc("Bowser", 70.0, answered=29, compared=27)
+        ranked = rank_candidates([thin, solid])
+        assert ranked[0].candidate.name == "Bowser"
+        assert ranked[1].candidate.name == "Johnson"
+        assert ranked[0].sufficient_data is True
+        assert ranked[1].sufficient_data is False
+
+    def test_limited_tier_ordered_by_pct(self):
+        a = self._sc("Aaa", 90.0, answered=29, compared=3)
+        b = self._sc("Bbb", 100.0, answered=29, compared=4)
+        ranked = rank_candidates([a, b])
+        assert ranked[0].candidate.name == "Bbb"
+        assert ranked[1].candidate.name == "Aaa"
