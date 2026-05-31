@@ -9,8 +9,8 @@ An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Dem
 ## What it does
 
 1. You pick a race (Mayor, Non-Voting Delegate, two At-Large Council seats, or Ward 1 Council).
-2. You answer a series of issue questions — stance *and* how much you care about each issue.
-3. The app scores every candidate against your answers using a weighted alignment algorithm and ranks them from most to least aligned.
+2. You answer a series of issue questions on a 5-point scale (strongly oppose → strongly support), or skip any you don't care about.
+3. The app scores every candidate by averaging your agreement on the questions where both you and the candidate have a stated position, then ranks them from most to least aligned — surfacing how much data backs each score so well-documented candidates aren't outranked by thinly-sourced ones (see [Scoring algorithm](#scoring-algorithm)).
 4. Each result shows per-issue breakdowns and links every claim to a primary source.
 
 ### The five races

@@ -16,8 +16,8 @@ def create_app(config_name: str | None = None) -> Flask:
     content = load_all_content(app.config["CONTENT_DIR"])
     app.config["CONTENT"] = content
 
-    from .routes.main import bp as main_bp
     from .routes.elections import bp as elections_bp
+    from .routes.main import bp as main_bp
     from .routes.quiz import bp as quiz_bp
     from .routes.resources import bp as resources_bp
 

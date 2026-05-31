@@ -1,12 +1,9 @@
-from datetime import date
 from pathlib import Path
-import textwrap
 
 import pytest
 import yaml
 
-from helpmevote.data_loader import load_all_content, validate_content
-from helpmevote.models import AppContent, Candidate, Election, Issue, Position, Question, Source
+from helpmevote.data_loader import load_all_content
 
 
 def write_yaml(path: Path, data) -> None:
