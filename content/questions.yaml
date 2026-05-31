@@ -22,7 +22,7 @@
 
 - id: housing_rent_stabilization
   issue: housing
-  prompt: "DC should expand rent stabilization to cover more housing — including buildings constructed after 1975 — to protect more renters from steep rent increases."
+  prompt: "DC should expand rent stabilization to cover more housing, including buildings constructed after 1975."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's rent stabilization law currently covers most units in buildings built
@@ -50,7 +50,7 @@
 
 - id: housing_production_trust_fund
   issue: housing
-  prompt: "DC should significantly increase the Housing Production Trust Fund — the city's primary tool for financing affordable housing — rather than cut it."
+  prompt: "DC should significantly increase the Housing Production Trust Fund — the city's primary tool for financing affordable housing."
   applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds]
   explanation: |
     The Housing Production Trust Fund (HPTF) finances construction and preservation
@@ -64,7 +64,7 @@
 
 - id: housing_social_model
   issue: housing
-  prompt: "DC should adopt a social housing model — publicly owned, mixed-income housing — as a long-term solution to affordability."
+  prompt: "DC should adopt a social housing model — publicly owned, mixed-income housing."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     Social housing (as implemented in Vienna, Singapore, and Montgomery County, MD)
@@ -80,7 +80,7 @@
 
 - id: transit_bike_bus_lanes
   issue: transit
-  prompt: "DC should build more protected bike lanes and dedicated bus lanes to make transit faster and safer."
+  prompt: "DC should build more protected bike lanes and dedicated bus lanes."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC has expanded its protected bike lane network in recent years, but progress
@@ -146,7 +146,7 @@
 
 - id: crime_public_health
   issue: community_safety
-  prompt: "DC should treat violence as a public health problem, investing heavily in violence interruption programs and community-based solutions — not just policing."
+  prompt: "DC should treat violence as a public health problem, investing heavily in violence interruption programs and community-based solutions."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     The Neighborhood Engagement Achieves Results (NEAR) Act, passed by DC Council
@@ -239,7 +239,7 @@
 
 - id: statehood_tax_exemption
   issue: dc_statehood
-  prompt: "DC residents should be exempted from federal income taxes (like residents of Puerto Rico) as an alternative to full statehood."
+  prompt: "DC residents should be exempted from federal income taxes, like residents of Puerto Rico."
   applies_to_elections: [delegate]
   explanation: |
     One candidate (Greg Jaczko) proposes that, since DC residents have no voting
@@ -256,7 +256,7 @@
 
 - id: federal_workers_advocate
   issue: federal_workers
-  prompt: "DC should use all available legal tools — including litigation and public advocacy — to protect federal workers from unlawful terminations and defend federal agencies from forced relocation out of the District."
+  prompt: "DC should use all available legal tools — including litigation and public advocacy — to protect federal workers from mass terminations and defend federal agencies from relocation out of the District."
   applies_to_elections: [mayor, delegate]
   explanation: |
     Washington, DC has more than 160,000 federal employees. The Trump administration's
@@ -272,7 +272,7 @@
 
 - id: environment_renewable_energy
   issue: environment
-  prompt: "DC should aggressively accelerate its transition to 100% renewable energy — installing solar on public buildings and investing in geothermal and other clean sources — to cut utility costs and reduce emissions."
+  prompt: "DC should aggressively accelerate its transition to 100% renewable energy, installing solar on public buildings and investing in geothermal and other clean sources."
   applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds, delegate]
   explanation: |
     DC has a Renewable Portfolio Standard targeting 100% renewable electricity by
@@ -287,7 +287,7 @@
 
 - id: environment_data_centers
   issue: environment
-  prompt: "DC should place limits on new data center construction in the District, given the enormous strain they place on the electricity grid and local water supplies."
+  prompt: "DC should place limits on new data center construction in the District."
   applies_to_elections: [mayor, at_large_mcduffie, delegate]
   explanation: |
     Northern Virginia hosts the world's largest concentration of data centers, and
@@ -304,7 +304,7 @@
 
 - id: parks_rec_funding
   issue: parks_recreation
-  prompt: "DC should increase funding for the Department of Parks and Recreation — including extended rec center hours and expanded youth and senior programming — rather than cut or flat-fund DPR."
+  prompt: "DC should increase funding for the Department of Parks and Recreation, including extended rec center hours and expanded youth and senior programming."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's Department of Parks and Recreation (DPR) operates 70+ facilities and
@@ -337,7 +337,7 @@
 
 - id: harm_reduction_safe_injection
   issue: harm_reduction
-  prompt: "DC should open safe injection sites (overdose prevention centers) where people can use drugs under medical supervision to prevent overdose deaths."
+  prompt: "DC should open safe injection sites (overdose prevention centers) where people can use drugs under medical supervision."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     Safe injection sites (also called overdose prevention centers) allow people to
@@ -404,7 +404,7 @@
 
 - id: transit_congestion_pricing
   issue: transit
-  prompt: "DC should implement congestion pricing — charging drivers to enter the busiest parts of downtown — to reduce traffic and fund transit."
+  prompt: "DC should implement congestion pricing — charging drivers to enter the busiest parts of downtown."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     DDOT has studied congestion pricing as a tool to reduce gridlock, cut emissions,
@@ -456,7 +456,7 @@
 
 - id: fiscal_progressive_taxation
   issue: economic_development
-  prompt: "DC should raise taxes on large corporations and the wealthiest residents — rather than cut housing, childcare, and education programs — to close the District's budget gap."
+  prompt: "DC should raise taxes on large corporations and the wealthiest residents to close the District's budget gap."
   applies_to_elections: [mayor, ward1, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's FY2026 budget proposed deep cuts to the Housing Production Trust Fund,
@@ -507,7 +507,7 @@
 
 - id: environment_public_power
   issue: environment
-  prompt: "DC should create a publicly owned electric utility to replace Pepco, lowering bills and giving the city control over its energy future."
+  prompt: "DC should create a publicly owned electric utility to replace Pepco."
   applies_to_elections: [ward1, at_large_bonds, delegate]
   explanation: |
     Pepco, an investor-owned monopoly, is guaranteed a fixed rate of return and has
