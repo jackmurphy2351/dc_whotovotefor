@@ -17,6 +17,8 @@ class Position:
     stance: int | None
     explanation: str
     sources: tuple[Source, ...]
+    # Verbatim excerpt from the candidate's campaign material; optional.
+    quote: str = ""
 
 
 @dataclass(frozen=True)

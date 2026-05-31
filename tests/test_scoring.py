@@ -121,6 +121,74 @@ class TestMatchScore:
         assert result.match_percent == pytest.approx(75.0)
 
 
+class TestAnswerDetails:
+    def test_detail_per_answered_question(self):
+        candidate = make_candidate([("q1", 2), ("q2", -2)])
+        questions = make_questions(["q1", "q2"])
+        issues = make_issues("housing")
+        user_answers = {"q1": 2, "q2": 2}
+
+        result = match_score(user_answers, candidate, questions, issues)
+        assert [d.question_id for d in result.details] == ["q1", "q2"]
+        # q1: perfect agreement; q2: opposite
+        assert result.details[0].agreement == pytest.approx(1.0)
+        assert result.details[0].candidate_stance == 2
+        assert result.details[0].user_stance == 2
+        assert result.details[1].agreement == pytest.approx(0.0)
+
+    def test_skipped_question_has_no_detail(self):
+        candidate = make_candidate([("q1", 2), ("q2", -2)])
+        questions = make_questions(["q1", "q2"])
+        issues = make_issues("housing")
+        user_answers = {"q1": None, "q2": 2}
+
+        result = match_score(user_answers, candidate, questions, issues)
+        assert [d.question_id for d in result.details] == ["q2"]
+
+    def test_unknown_candidate_stance_still_detailed(self):
+        candidate = make_candidate([("q1", None)])
+        questions = make_questions(["q1"])
+        issues = make_issues("housing")
+        user_answers = {"q1": 2}
+
+        result = match_score(user_answers, candidate, questions, issues)
+        # Candidate has no known position, but the answered question still appears.
+        assert len(result.details) == 1
+        assert result.details[0].candidate_stance is None
+        assert result.details[0].agreement is None
+        assert result.details[0].user_stance == 2
+
+    def test_quote_carried_through(self):
+        from helpmevote.models import Candidate, Position
+        candidate = Candidate(
+            id="quoter",
+            name="Quoter",
+            election_slug="test",
+            short_bio="",
+            long_bio="",
+            campaign_url=None,
+            endorsements=(),
+            in_fair_elections=False,
+            positions=(
+                Position(
+                    question_id="q1",
+                    stance=2,
+                    explanation="exp",
+                    sources=(make_source(),),
+                    quote="I strongly support this.",
+                ),
+            ),
+            advisories=(),
+            sources=(),
+        )
+        questions = make_questions(["q1"])
+        issues = make_issues("housing")
+
+        result = match_score({"q1": 2}, candidate, questions, issues)
+        assert result.details[0].quote == "I strongly support this."
+        assert result.details[0].explanation == "exp"
+
+
 class TestRankCandidates:
     def _sc(self, name: str, pct: float | None) -> ScoredCandidate:
         from helpmevote.models import Candidate

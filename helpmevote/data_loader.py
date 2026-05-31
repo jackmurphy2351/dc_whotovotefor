@@ -49,6 +49,7 @@ def _parse_position(raw: dict) -> Position:
         stance=stance,
         explanation=raw.get("explanation", ""),
         sources=sources,
+        quote=raw.get("quote", ""),
     )
 
 

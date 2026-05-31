@@ -71,21 +71,46 @@
     </div>
     {% endif %}
 
-    {% if sc.issue_scores %}
-    <details class="issue-breakdown">
-      <summary>Issue breakdown</summary>
-      <div class="issue-breakdown-grid">
-        {% for is in sc.issue_scores %}
-        <div class="issue-score-row">
-          <span class="issue-score-label">{{ is.issue_label }}</span>
-          {% if is.match_percent is not none %}
-          <span class="issue-score-bar-wrap">
-            <span class="issue-score-bar" style="width: {{ is.match_percent | round | int }}%"></span>
-          </span>
-          <span class="issue-score-pct">{{ is.match_percent | round | int }}%</span>
-          {% else %}
-          <span class="issue-score-bar-wrap"></span>
-          <span class="issue-score-pct">—</span>
+    {% if sc.details %}
+    <details class="answer-breakdown">
+      <summary>How you compare, question by question</summary>
+      <div class="answer-detail-list">
+        {% for d in sc.details %}
+        <div class="answer-detail">
+          <p class="answer-detail-prompt">{{ d.prompt }}</p>
+          <div class="answer-detail-compare">
+            <div class="answer-col answer-col-you">
+              <span class="answer-col-label">Your answer</span>
+              <span class="answer-stance">{{ stance_labels[d.user_stance] }}</span>
+            </div>
+            <div class="answer-col answer-col-cand">
+              <span class="answer-col-label">{{ cand.name }}</span>
+              {% if d.candidate_stance is not none %}
+              <span class="answer-stance">{{ stance_labels[d.candidate_stance] }}</span>
+              {% else %}
+              <span class="answer-stance answer-stance-unknown">No known position</span>
+              {% endif %}
+            </div>
+            {% if d.agreement is not none %}
+              {% if d.agreement >= 0.75 %}
+              <span class="agree-pill agree-yes">Agree</span>
+              {% elif d.agreement >= 0.5 %}
+              <span class="agree-pill agree-partial">Partial</span>
+              {% else %}
+              <span class="agree-pill agree-no">Disagree</span>
+              {% endif %}
+            {% endif %}
+          </div>
+          {% set excerpt = d.quote or d.explanation %}
+          {% if excerpt %}
+          <blockquote class="answer-detail-quote">
+            {{ excerpt }}
+            {% if d.sources %}
+            {% for src in d.sources %}
+            <a href="{{ src.url }}" rel="noopener" class="source-link">[source]</a>
+            {% endfor %}
+            {% endif %}
+          </blockquote>
           {% endif %}
         </div>
         {% endfor %}

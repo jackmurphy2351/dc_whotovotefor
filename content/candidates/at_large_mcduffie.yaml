@@ -69,6 +69,7 @@
   positions:
     - question_id: youth_curfew_support
       stance: 1
+      quote: "If we are telling young people where they cannot be, we have a responsibility to create spaces where they can be."
       explanation: "Conditionally supports teen curfews as a short-term measure, to be phased out by 2028. Her own legislation required curfew zones to be paired with alternative youth programming and placed clear limits on law enforcement discretion — emphasizing that curfews alone are not a public safety strategy."
       sources:
         - url: https://www.donicrawford.com/
@@ -82,6 +83,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "I also support expanding out-of-school time funding so that more students have safe, structured places to be after school and on weekends."
       explanation: "Authored legislation requiring that youth programming be provided alongside any curfew zone. Supports investing in out-of-school programming, behavioral health clinicians in schools, and extended rec center hours."
       sources:
         - url: https://www.donicrawford.com/
@@ -95,6 +97,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "I will protect the School-Based Behavioral Health Program, which places clinicians in DC public and charter schools, from budget cuts."
       explanation: "Pledges to protect the School-Based Behavioral Health Program — which places clinicians in DC public and charter schools — from budget cuts, calling cuts 'not a savings but a cost we will pay in other ways.' Wants to expand out-of-school time funding for safe, structured after-school programming."
       sources:
         - url: https://www.donicrawford.com/
@@ -104,6 +107,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "I support consolidating our community violence intervention programs for greater efficiency, improving transparency between MPD and the communities it serves, and ensuring that DC’s police department is never used as a tool of federal immigration enforcement."
       explanation: "Explicitly states that DC's police department must never be used as a tool of federal immigration enforcement. Has co-introduced legislation to protect DC residents from federal law enforcement overreach."
       sources:
         - url: https://www.donicrawford.com/
@@ -113,6 +117,7 @@
 
     - question_id: statehood_top_priority
       stance: 2
+      quote: "One of my first meetings as a Councilmember was with DC’s Shadow Senator to align on strategy and make clear that the Council has a real role to play in the statehood movement."
       explanation: "Treats statehood as an urgent priority; one of her first acts as Councilmember was meeting with DC's Shadow Senator to align on strategy. Has co-introduced legislation protecting residents from federal law enforcement overreach. Calls for a dedicated federal relations office at the Council level so DC's voice on the Hill is consistent and strategic."
       sources:
         - url: https://www.donicrawford.com/
@@ -122,6 +127,7 @@
 
     - question_id: housing_upzoning
       stance: 2
+      quote: "I support building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live."
       explanation: "Supports 'building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live,' and fixing the Inclusionary Zoning process so affordable units stop sitting empty."
       sources:
         - url: https://www.donicrawford.com/
@@ -131,6 +137,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "I recently introduced legislation to examine whether DC’s tax incentive programs are actually benefiting the District, because incentives without accountability leave us with nothing to show for it."
       explanation: "Wants to 'make DC genuinely easier to do business in, especially for minority and women-owned businesses,' create a one-stop place for new business owners, and reduce unnecessary licensing barriers. Introduced legislation to examine whether DC's tax incentive programs actually benefit the District — emphasizing accountable incentives and lower barriers more than across-the-board tax cuts."
       sources:
         - url: https://www.donicrawford.com/
@@ -190,6 +197,7 @@
   positions:
     - question_id: education_community_schools
       stance: 2
+      quote: "On the Council, I will continue advocating for strong public schools, workforce pathways for young people, and programs that prepare students for college, careers, and leadership in our city."
       explanation: "Has advocated for 'community schools' — which provide resources for families beyond basic education — throughout his career as DC State Board of Education President and ANC commissioner."
       sources:
         - url: https://www.jacque4dc.com/
@@ -216,6 +224,7 @@
 
     - question_id: housing_social_model
       stance: 1
+      quote: "I will fight for balanced housing policies that protect tenants while increasing the supply of affordable housing, expand programs that help residents become homeowners, and support responsible fiscal policies that keep the District financially strong while protecting working families."
       explanation: "Supports balanced housing policies that protect tenants while increasing the supply of affordable housing, and programs to expand homeownership."
       sources:
         - url: https://www.jacque4dc.com/
@@ -238,6 +247,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 2
+      quote: "The goal is to make DC a city where small businesses can launch, grow, and succeed without being buried in bureaucracy."
       explanation: "Has a detailed Small Business Action Plan: expand access to capital (CDFIs, grants and loans, especially for minority- and women-owned businesses), preserve and expand affordable commercial space, and 'smart and streamlined regulations' that simplify licensing and reduce delays so small businesses 'can launch, grow, and succeed without being buried in bureaucracy.'"
       sources:
         - url: https://www.jacque4dc.com/
@@ -315,6 +325,7 @@
   positions:
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "She will stop collaboration with ICE and ensure the Council proactively defends our right to self-determination."
       explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach."
       sources:
         - url: https://www.elissafordc.com/
@@ -333,6 +344,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "She focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms."
       explanation: "Supports streamlining and increasing DCHA resources and the Housing Production Trust Fund; advocates removing obstacles to building and using public lands and public dollars strategically. Focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms."
       sources:
         - url: https://www.elissafordc.com/
@@ -346,6 +358,7 @@
 
     - question_id: crime_more_police
       stance: 1
+      quote: "She supports an MPD that is properly trained and staffed and that protects residents and respects their rights."
       explanation: "Supports an MPD that is 'properly trained and staffed and that protects residents and respects their rights.' Also funded the Cure the Streets violence interruption program and champions evidence-based programs to reduce gun violence alongside traditional policing."
       sources:
         - url: https://www.elissafordc.com/
@@ -355,6 +368,7 @@
 
     - question_id: housing_upzoning
       stance: 1
+      quote: "She advocates for increasing the housing supply by removing unnecessary obstacles to building and by strategically using public lands and public dollars."
       explanation: "Advocates increasing the housing supply 'by removing unnecessary obstacles to building and by strategically using public lands and public dollars,' and worked to increase affordable units citywide through inclusionary zoning. Endorsed by DC YIMBYs; frames supply growth as primarily benefiting working families rather than developers."
       sources:
         - url: https://www.elissafordc.com/
@@ -364,6 +378,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "She was an ally to local business owners, helping reduce red tape and appropriating millions in aid during the COVID-19 pandemic."
       explanation: "Describes herself as 'an ally to local business owners, helping reduce red tape and appropriating millions in aid during the COVID-19 pandemic.' Her paid family leave oversight cut the employer tax rate while increasing benefits — a record of easing burdens on local businesses, oriented to red tape and targeted aid more than broad tax cuts."
       sources:
         - url: https://www.elissafordc.com/
@@ -373,6 +388,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
+      quote: "District government needs to protect our neighbors and our city from President Trump and his administration, not collaborate in their terror and lawlessness."
       explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. Called for a dedicated federal relations office at the Council level to keep DC's voice on the Hill consistent and strategic."
       sources:
         - url: https://www.elissafordc.com/

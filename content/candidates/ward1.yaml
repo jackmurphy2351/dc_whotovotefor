@@ -86,6 +86,7 @@
   positions:
     - question_id: housing_rent_stabilization
       stance: 2
+      quote: "Rashida will close the voluntary agreement loophole that lets landlords circumvent protections, eliminate the substantial rehabilitation exemption that’s abused to remove units from rent control, and expand coverage to buildings built before 1985."
       explanation: "Will expand rent stabilization coverage to buildings built before 1985 (current law only covers pre-1975), close the voluntary agreement loophole that lets landlords circumvent protections, and eliminate the substantial rehabilitation exemption abused to remove units from rent control. Notes 75,000 families depend on rent control as DC's largest affordable housing tool."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -95,6 +96,7 @@
 
     - question_id: housing_topa_restore
       stance: 2
+      quote: "As Ward 1 Councilmember, Rashida will fight every attempt to weaken tenant rights and work to expand protections that keep long-term residents in their homes."
       explanation: "Opposes any weakening of tenant purchase rights and will fight every attempt to roll them back. Will reinstate TOPA for 2–4 unit buildings, reverse single-family home exemptions, and eliminate downtown exemptions. Supported the Kenyon Street Co-op as a demonstration of TOPA's power when tenants have resources and support."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -104,6 +106,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "Rashida will fight to protect these funds exclusively for affordable housing production and preservation, with mandatory set-asides for deeply affordable units (0-30% AMI)."
       explanation: "Will protect the HPTF from being raided for budget gaps, with mandatory set-asides for deeply affordable units (0–30% AMI). Also supports Councilmember Nadeau's 2026 legislation to replace and reform the HPTF with a more modern, robust financing mechanism."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -113,6 +116,7 @@
 
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "She’ll champion ambitious bus priority projects - bold solutions like a dedicated transit mall through central Columbia Heights and a center-running transitway on Georgia Avenue."
       explanation: "Championed the Georgia Avenue and Columbia Heights Crosstown bus priority projects as ANC Commissioner; extended protected bike lanes along Kenyon, Warder, and Park Place streets; would champion a dedicated transit mall through central Columbia Heights and a center-running transitway on Georgia Avenue. Wants 5–8 minute headways on Ward 1's busiest routes and fare-free buses."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -122,6 +126,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "Rashida will support emergency legislation explicitly prohibiting any D.C. government employee—especially MPD—from cooperating with ICE except where mandated by federal law."
       explanation: "Will support emergency legislation explicitly prohibiting any DC government employee — especially MPD — from cooperating with ICE. Will push for penalties including termination for officers who violate sanctuary protections, eliminate any MPD budget used for federal cooperation, and hold emergency oversight hearings to document every ICE interaction."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -131,6 +136,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "Rashida will expand school-based mental health services, peer support programs, and healing-centered approaches that address root causes rather than symptoms."
       explanation: "Will expand school-based mental health services, peer support programs, and healing-centered approaches; supports expanding mental health crisis response teams to respond to psychiatric emergencies instead of armed police; calls for evaluating progress on school-based mental health since its passage."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -140,6 +146,7 @@
 
     - question_id: crime_public_health
       stance: 2
+      quote: "Rashida will work to dramatically expand funding for the Office of Neighborhood Safety and Engagement violence interruption programs that treat violence as a public health crisis. These programs reduce gun violence by 30-60% when properly implemented at scale."
       explanation: "Will dramatically expand funding for ONSE violence interruption programs (citing 30–60% gun violence reduction when properly implemented at scale); fund non-police mental health crisis responders; and expand human services outreach on business corridors for people struggling with substance use disorder — all rooted in her decade co-leading Georgia Avenue Thrive's community-activation public safety model."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -149,6 +156,7 @@
 
     - question_id: crime_secure_dc
       stance: -2
+      quote: "Overturning the code was strictly political theater, not about public safety."
       explanation: "Will oppose expansion of pretrial detention and vote 'no' on creating new crimes with harsher sentences. Calls the 2024 congressional override of the Revised Criminal Code 'strictly political theater, not about public safety,' and will vote to pass the RCCA again when Democrats retake Congress."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -158,6 +166,7 @@
 
     - question_id: youth_curfew_support
       stance: -2
+      quote: "Criminalizing young people for existing in public spaces doesn’t create safety—it creates criminal records that destroy futures."
       explanation: "Explicitly opposes youth curfews: 'Criminalizing young people for existing in public spaces doesn't create safety — it creates criminal records that destroy futures.' As a social worker she counseled youth navigating downstream systems and saw how criminalizing normal teenage behavior pushes young people deeper into systems. Notes curfews disproportionately harm over-policed Black and brown youth."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -167,6 +176,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "Rashida will work to expand summer youth employment to year-round opportunities with living wages and career pathways."
       explanation: "Will expand summer youth employment to year-round opportunities with living wages and career pathways; fund rec centers, libraries, and community spaces with extended hours; and invest in credible-messenger violence interrupters as youth mentors. Through Georgia Avenue Thrive, activated spaces with movie nights, block parties, and youth-led events."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -176,6 +186,7 @@
 
     - question_id: parks_rec_funding
       stance: 2
+      quote: "Rashida will fund recreation centers, libraries, and community spaces with extended hours, providing structured activities, mentorship, and positive adult relationships."
       explanation: "Will fund recreation centers, libraries, and community spaces with extended hours for structured activities and mentorship. Personally activated community spaces through Georgia Avenue Thrive with youth programming, and sees investment in 'safe spaces open late' as a core public safety strategy."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -185,6 +196,7 @@
 
     - question_id: childcare_universal
       stance: 2
+      quote: "No family should pay more than 10% of its income for child care. Rashida will establish dedicated revenue streams—not vulnerable annual appropriations—to make this real."
       explanation: "Will implement Birth-to-Three's 10% income cap on childcare costs with dedicated revenue streams — not vulnerable annual appropriations — and eliminate the childcare subsidy waitlist. Has 25 years in early childhood policy including building My Child Care DC, Thrive by Five, and helping bring the Early Childhood Educator Pay Equity Fund model to Colorado."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -194,6 +206,7 @@
 
     - question_id: childcare_birth_to_three
       stance: 2
+      quote: "This means expanding subsidy eligibility, ensuring reimbursement rates reflect actual costs, and creating facility grants to increase infant-toddler slots in underserved neighborhoods."
       explanation: "Will implement Birth-to-Three's '10% promise' so no family pays more than 10% of income for child care — establishing dedicated revenue streams, expanding subsidy eligibility, ensuring reimbursement rates reflect actual costs, creating facility grants for infant-toddler slots in underserved neighborhoods, and eliminating the child care subsidy waitlist."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -203,6 +216,7 @@
 
     - question_id: transit_fare_free_buses
       stance: 2
+      quote: "Fund fare-free buses."
       explanation: "Explicitly pledges to 'Fund fare-free buses,' noting the Council funded fare-free buses once before but WMATA refused to implement them in the District. Would work to change the dynamic on the WMATA board to give DC more authority to pursue bold transit policy."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -212,6 +226,7 @@
 
     - question_id: transit_congestion_pricing
       stance: 2
+      quote: "Rashida will work to make sure that car usage is not subsidized by residents who don’t use cars."
       explanation: "Explicitly supports road-pricing so car usage is not subsidized by residents who don't drive: would increase the price of Residential Parking Permits, remove minimum parking requirements near transit, implement road diets on arterials, make some streets car-free, and pursue regional reciprocity for automated traffic enforcement."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -221,6 +236,7 @@
 
     - question_id: housing_upzoning
       stance: 2
+      quote: "Ward 1 can accommodate more homes for more people—and so can other wards."
       explanation: "Calls to 'legalize apartments District-wide' and advocates a far stronger Comprehensive Plan / Future Land Use Map than the draft, so every ward — not just a few — accommodates more housing. Promotes zoning and other adjustments that make it easier to build more units to bring down prices."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -239,6 +255,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 2
+      quote: "She’ll prioritize the Small Retailer Property Tax Credit Expansion Amendment Act of 2025 to support small retailers and restaurants, many of them immigrant-owned and family-operated."
       explanation: "Would prioritize the Small Retailer Property Tax Credit Expansion Amendment Act to support small retailers and restaurants (many immigrant-owned), support commercial rent stabilization and community ownership models, and 'increase taxes and close loopholes for major corporations… while providing some relief to smaller businesses to succeed and thrive.'"
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -248,6 +265,7 @@
 
     - question_id: fiscal_progressive_taxation
       stance: 2
+      quote: "Increase taxes and close loopholes for major corporations so that they pay their fair share, while providing some relief to smaller businesses to succeed and thrive."
       explanation: "Explicitly calls for 'increase taxes and close loopholes for major corporations while providing some relief to smaller businesses to succeed and thrive,' framing progressive corporate taxation as a key revenue source for housing, childcare, and public safety investments."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -257,6 +275,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
+      quote: "As Councilmember, she will continue to stand and speak out against federal interference at every opportunity. Rashida knows that acquiescence is always a failed approach."
       explanation: "Will introduce emergency legislation explicitly prohibiting any DC government employee from cooperating with federal immigration enforcement, hold emergency oversight hearings to document every ICE interaction, and eliminate any MPD budget used for federal cooperation — an assertive, proactive legislative response to federal interference."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
@@ -344,6 +363,7 @@
 
     - question_id: parks_rec_funding
       stance: 1
+      quote: "Protect And Expand Parks And Recreational Spaces"
       explanation: "Campaign platform explicitly includes 'Protect and Expand Parks and Recreational Spaces' and 'Seek More After-School and Weekend Activities For Youth' as priorities, but provides no specific funding commitments or program proposals."
       sources:
         - url: https://terrylynchfordc.com/the-issues
@@ -353,6 +373,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "They know I will fight for them, I won’t give up, and will help them stay open and thrive."
       explanation: "Runs as the candidate of Ward 1's small, minority, and women-owned businesses, dozens of which have endorsed him. Pledges to 'help them stay open and thrive' and to stop the loss of small businesses, citing 'over-regulation, loss of parking, rising costs' as the key challenges — emphasizing reduced regulatory burden more than tax cuts specifically."
       sources:
         - url: https://terrylynchfordc.com/the-issues
@@ -362,6 +383,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 1
+      quote: "I am often hearing of DC police cooperating with federal officers in detaining residents."
       explanation: "Has publicly called on the Attorney General to conduct a top-to-bottom overhaul of MPD, citing concerns about DC police cooperating with federal agents to detain residents. Opposes MPD/federal cooperation on accountability grounds, though his platform focuses on community policing reform rather than broader political resistance to the Trump administration."
       sources:
         - url: https://terrylynchfordc.com/the-issues
@@ -476,6 +498,7 @@
   positions:
     - question_id: housing_rent_stabilization
       stance: 2
+      quote: "Aparna will push for rent stabilization for all renters in multifamily buildings when the DC Council reauthorizes rent stabilization in 2030."
       explanation: "Would expand rent stabilization to properties built after 1975 and push for universal coverage of all multifamily buildings at the 2030 reauthorization. Wants to reverse harmful provisions of the RENTAL Act and fund tenant attorneys through the Access to Justice program."
       sources:
         - url: https://aparnafordc.com/platform
@@ -485,6 +508,7 @@
 
     - question_id: housing_topa_restore
       stance: 2
+      quote: "As Councilmember, Aparna will fight to restore TOPA to every District resident and ensure that the programs that have made TOPA successful are adequately funded and properly administered, so residents can effectively exercise their TOPA rights."
       explanation: "Explicitly calls for restoring TOPA to all District residents — including single-family homes, 2–4 unit buildings, and new downtown construction stripped in recent rollbacks — and strengthening the First Right Purchase Program for limited equity cooperatives."
       sources:
         - url: https://aparnafordc.com/platform
@@ -494,6 +518,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "She will push for $125 million to be allocated to the Housing Production Trust Fund annually, and will advocate for setting production targets every five years to ensure that DC stays on track to produce affordable housing at the rate we need."
       explanation: "Explicitly calls for $125 million allocated to the HPTF annually, with five-year production targets and rigorous oversight of DHCD. Would require HPTF to prioritize TOPA projects and reform the opaque Qualified Allocation Plan."
       sources:
         - url: https://aparnafordc.com/platform
@@ -503,6 +528,7 @@
 
     - question_id: housing_social_model
       stance: 2
+      quote: "Aparna will also work to pilot social housing in the District, a mixed-income model of public housing that will be District-owned and tenant-controlled."
       explanation: "Would pilot District-owned, tenant-controlled social housing modeled on Montgomery County's HOC and Seattle, built with union labor and to high environmental standards, open to residents from all income levels."
       sources:
         - url: https://aparnafordc.com/platform
@@ -512,6 +538,7 @@
 
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "Aparna will push DDOT to rapidly build more bus lanes, so our buses run faster and hit fewer traffic delays. Bus lanes can save DC workers 15% of their commuting time."
       explanation: "Would build dedicated bus lanes (citing 15% commuting time savings), increase bus frequency to 12-minute minimums, extend existing lane hours, and close remaining bicycle network connectivity gaps to make it possible to ride safely east-to-west across Ward 1."
       sources:
         - url: https://aparnafordc.com/platform
@@ -521,6 +548,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "Aparna will fight to strengthen the Sanctuary Values Act, starting by barring MPD from participating in immigration enforcement in any way, including through joint patrols, surveillance and intelligence, and operational support."
       explanation: "Would end MPD collaboration with ICE including joint patrols, surveillance, and intelligence sharing; strengthen the Sanctuary Values Act with enforceable consequences for officials who break it; ban law enforcement from wearing masks; fund free public immigration legal services."
       sources:
         - url: https://aparnafordc.com/platform
@@ -530,6 +558,7 @@
 
     - question_id: education_community_schools
       stance: 2
+      quote: "Aparna will work with DC Public Schools to expand the number of community schools in the District to provide safe spaces for all students to thrive."
       explanation: "Explicitly calls for expanding the community schools model in DC, citing Baltimore's expansion from 50 to 130 community schools (2018–2022) and its documented reduction in school violence. Would work with DCPS to provide wraparound support services to students and families."
       sources:
         - url: https://aparnafordc.com/platform
@@ -539,6 +568,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "Instead, funding for school-based behavioral health should increase to meet the needs of students today."
       explanation: "Would increase funding for school-based behavioral health services, opposing the FY26 budget's $2.3 million cut to school behavioral health. Supports expanding school counselors, social workers, and nurses; funds mobile health crisis units; and expands the Certified Community Behavioral Health Clinic program."
       sources:
         - url: https://aparnafordc.com/platform
@@ -548,6 +578,7 @@
 
     - question_id: crime_public_health
       stance: 2
+      quote: "Aparna will fight to invest in and strengthen gun violence prevention in DC, including the ‘Cure the Streets’ pilot program and the city’s hospital-based violence interruption program."
       explanation: "Would expand 'Cure the Streets' violence interruption and community violence intervention programs; consolidate DC's patchwork of non-police crisis responders into a single coordinated program for mental health, substance use, and homelessness calls; and invest in 911 paramedic call takers to route mental health emergencies to appropriate responders."
       sources:
         - url: https://aparnafordc.com/platform
@@ -557,6 +588,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "Aparna will also fight to fully fund after-school and weekend programs, and revitalize the Marion Barry Summer Youth Employment Program, which sets kids up for long-term success."
       explanation: "Would fully fund after-school and weekend programs, revitalize the Marion Barry Summer Youth Employment Program, and expand rec center hours with programming that kids want. Frames youth programming investment as crime prevention: 'early childhood education is proven to reduce adolescent crime.'"
       sources:
         - url: https://aparnafordc.com/platform
@@ -566,6 +598,7 @@
 
     - question_id: parks_rec_funding
       stance: 2
+      quote: "Aparna will resist cuts to libraries, rec centers, and public spaces, and she’ll fight to invest in longer hours and to improve facilities’ physical infrastructure and improve accessibility."
       explanation: "Would resist cuts to rec centers and public spaces and fight to invest in longer hours and improved physical infrastructure. Specifically proposes expanding rec center hours with programming for youth, and advocates for bringing Ward 1's federally maintained parks under DPR control."
       sources:
         - url: https://aparnafordc.com/platform
@@ -575,6 +608,7 @@
 
     - question_id: childcare_universal
       stance: 2
+      quote: "Aparna will fight to win free, publicly funded, and high-quality early childhood education for every family in DC, from three months to three years."
       explanation: "Would guarantee free, publicly funded childcare for every DC child from age 3 months to 3 years — no means testing, no fees, no benefits cliff — by fully funding the existing Birth to Three program infrastructure. Would pay for it with taxes on large corporations and the ultrawealthy, and protect and expand the Early Childhood Educator Pay Equity Fund."
       sources:
         - url: https://aparnafordc.com/platform
@@ -584,6 +618,7 @@
 
     - question_id: sanitation_rats
       stance: 2
+      quote: "On the Council, Aparna will push for the creation of a DC Rat Czar who will be tasked with leading a multi-agency rat response and coordinating the work of DPW, DC Health, and other agencies to control the rat population."
       explanation: "Has a detailed, multi-pronged rat platform: replace open-top public litter cans with smart rodent-proof bins with compaction sensors; pest-proof household trash bins with locked tops; appoint a DC Rat Czar to coordinate DPW and DC Health; expand composting to restaurants; explore rat birth control pilots; and strengthen landlord accountability for chronic infestations. Notes Ward 1 reports the most rats in the District year after year."
       sources:
         - url: https://aparnafordc.com/platform
@@ -593,6 +628,7 @@
 
     - question_id: environment_renewable_energy
       stance: 2
+      quote: "Aparna supports fully funding the program, which would lower bills for 100,000 DC families."
       explanation: "Would fully fund Solar for All (lowering bills for 100,000 families), fully fund the Affordable Home Electrification Program, reform solar interconnection fees, reduce Pepco's guaranteed investor return from 9.5% to ~6%, and defend DC's Building Efficiency Performance Standards. Ultimately wants to transition DC's utilities to public ownership, citing lower bills and better reliability at the 2,000+ municipal utilities nationally."
       sources:
         - url: https://aparnafordc.com/platform
@@ -602,6 +638,7 @@
 
     - question_id: environment_public_power
       stance: 2
+      quote: "Aparna believes that DC should transition to public ownership of its utilities."
       explanation: "Explicitly: 'Aparna believes that DC should transition to public ownership of its utilities.' Argues that regulation through the PSC has failed to check investor-owned monopolies, and points to the 2,000+ municipal utilities nationwide (including the whole state of Nebraska) whose customers pay about 13% less. Sees public power as the way to lower bills, meet climate goals, and create union jobs."
       sources:
         - url: https://aparnafordc.com/platform
@@ -611,6 +648,7 @@
 
     - question_id: housing_upzoning
       stance: 2
+      quote: "As Councilmember, Aparna will fight to make it legal to build apartments everywhere in DC."
       explanation: "Will 'make it legal to build apartments everywhere in DC,' citing Portland and Cambridge, and specifically upzone transit corridors such as Georgia Ave and 14th St. Would amend the Future Land Use Map to end exclusionary zoning, allow 'light-touch density' (duplexes, triplexes, sixplexes) by reducing minimum lot sizes and setbacks, ease alley-home rules, and reduce or eliminate parking minimums near transit."
       sources:
         - url: https://aparnafordc.com/platform
@@ -620,6 +658,7 @@
 
     - question_id: childcare_birth_to_three
       stance: 2
+      quote: "Under Aparna’s plan, all DC families would be eligible—with no means testing, no benefits cliffs, and no fees."
       explanation: "Would guarantee free, publicly funded childcare for every DC child from age 3 months to 3 years — no means testing, no fees, no benefits cliff — by fully funding the existing Birth to Three infrastructure, paid for by taxes on large corporations and the ultrawealthy."
       sources:
         - url: https://aparnafordc.com/platform
@@ -629,6 +668,7 @@
 
     - question_id: crime_police_in_schools
       stance: 1
+      quote: "That starts by investing in good schools for all, including counselors, social workers, nurses, and other support staff."
       explanation: "Would invest in 'good schools for all,' including counselors, social workers, nurses, and other support staff so students have trusted adults — and supports shifting mental-health, substance-use, and wellness-check responses away from police toward trained civilian responders. Emphasizes non-police supports rather than a police presence in schools."
       sources:
         - url: https://aparnafordc.com/platform
@@ -638,6 +678,7 @@
 
     - question_id: fiscal_progressive_taxation
       stance: 2
+      quote: "She’ll pay for free child care with taxes on big business and the ultrawealthy."
       explanation: "Explicitly funds her universal childcare and affordable housing platforms with 'taxes on large corporations and the ultrawealthy,' framing progressive corporate taxation as the alternative to service cuts or income-tested subsidies."
       sources:
         - url: https://aparnafordc.com/platform
@@ -647,6 +688,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
+      quote: "Aparna will fight to ban secret policing in DC by banning all law enforcement officials in the District from wearing masks, as well as requiring them to display names and badge numbers."
       explanation: "Would strengthen the Sanctuary Values Act with enforceable consequences for officials who break it, ban law enforcement from wearing masks, and fund free public immigration legal services — an assertive legislative posture against federal overreach targeting DC's immigrant communities."
       sources:
         - url: https://aparnafordc.com/platform
@@ -730,6 +772,7 @@
   positions:
     - question_id: housing_rent_stabilization
       stance: 1
+      quote: "Close the loopholes landlords use to skip DC’s rent stabilization rules. No more renovictions. No more bad-faith vacancy filings. Your rent is your rent."
       explanation: "Pledges to close loopholes landlords use to circumvent rent stabilization — no renovictions, no bad-faith vacancy filings. Does not specifically call for expanding coverage to buildings built after 1975; her focus is strengthening enforcement of existing protections."
       sources:
         - url: https://jackieforward1.com/#platform
@@ -748,6 +791,7 @@
 
     - question_id: childcare_universal
       stance: 2
+      quote: "Affordable, high-quality child care for every Ward 1 child, regardless of family income. No waitlists. No exceptions."
       explanation: "Calls for 'affordable, high-quality child care for every Ward 1 child, regardless of family income — no waitlists, no exceptions' from birth to 36 months. Includes educator salary supplements to at least $22/hour. Would expand subsidy eligibility to 150% AMI and build new childcare facilities in underutilized District-owned and private properties."
       sources:
         - url: https://jackieforward1.com/#platform
@@ -757,6 +801,7 @@
 
     - question_id: childcare_birth_to_three
       stance: 2
+      quote: "Childcare shouldn’t cost $2,500 a month. You’re working hard for your family. This District should work just as hard for you."
       explanation: "Platform headline pledge: 'Affordable, high-quality child care from birth to 36 months… for every Ward 1 child, regardless of family income. No waitlists. No exceptions.' Pairs it with educator pay supplements to at least $22/hour and new infant-toddler facilities in District-owned and private spaces."
       sources:
         - url: https://jackieforward1.com/#platform
@@ -766,6 +811,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 2
+      quote: "Jackie’s Small Business Activation Program puts real money, up to $50,000 in direct grants, behind every Ward 1 business that needs it."
       explanation: "Headlines her platform 'NO MORE TAXES FOR OUR LOCAL BUSINESSES' and calls herself 'the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs.' Proposes a dedicated Ward 1 Small Business Activation grant fund ($5,000–$50,000), a one-stop business solutions hub, and a Small Business First Right of Purchase for vacant storefronts."
       sources:
         - url: https://jackieforward1.com/#platform
@@ -775,6 +821,7 @@
 
     - question_id: youth_curfew_support
       stance: 1
+      quote: "Unfortunately, at this moment, a curfew for youth under 18 is necessary to protect our communities and keep the District safe."
       explanation: "Explicitly states: 'Unfortunately, at this moment, a curfew for youth under 18 is necessary to protect our communities and keep the District safe.' Frames it as a temporary protective measure paired with youth employment and programming investment."
       sources:
         - url: https://jackieforward1.com/#platform
@@ -784,6 +831,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "A teen with a job, a paycheck, and a mentor is the most effective crime prevention strategy we have."
       explanation: "Pairs her curfew support with guaranteed summer and after-school jobs for every Ward 1 young person who wants one, year-round programming in parks and plazas (movies, markets, sports leagues), and the paid Community Ambassador Corps that pairs seniors with youth ages 18–24. Says 'a teen with a job, a paycheck, and a mentor is the most effective crime prevention strategy we have.'"
       sources:
         - url: https://jackieforward1.com/#platform
@@ -793,6 +841,7 @@
 
     - question_id: fiscal_progressive_taxation
       stance: -1
+      quote: "I am the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs."
       explanation: "Headlines her platform 'NO MORE TAXES FOR OUR LOCAL BUSINESSES' and frames herself as 'the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs.' Prefers grant programs and economic activation over tax hikes, though her anti-tax focus is primarily directed at local businesses."
       sources:
         - url: https://jackieforward1.com/#platform
@@ -887,6 +936,7 @@
   positions:
     - question_id: housing_topa_restore
       stance: 2
+      quote: "Miguel will work to reverse the last-minute amendment exempting two- to four-unit properties from TOPA, which denies thousands of renters the opportunity to potentially become homeowners by purchasing their homes or ensuring that their properties continue to serve as unsubsidized affordable housing."
       explanation: "Will reverse the RENTAL Act amendment exempting 2–4 unit properties from TOPA (which he says 'denies thousands of renters the opportunity to potentially become homeowners') and will work to shorten the 15-year TOPA exemption for new buildings."
       sources:
         - url: https://miguelward1.com/priorities
@@ -896,6 +946,7 @@
 
     - question_id: housing_rent_stabilization
       stance: 1
+      quote: "Exploring reforms to rent stabilization under the Rental Housing Act of 1985, including expanding the stock of existing multifamily properties that are subject to that law, while ensuring that rent caps do not hurt the financial feasibility of operating those properties amid rising costs like insurance, utilities, and maintenance."
       explanation: "Supports exploring expansion of rent stabilization to more existing multifamily properties, but with care to ensure rent caps don't hurt the financial feasibility of operating those properties amid rising costs. Raises the possibility of a rolling (rather than fixed) timeframe for applicability."
       sources:
         - url: https://miguelward1.com/priorities
@@ -905,6 +956,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "As a Councilmember, Miguel will fight for more resources for the Housing Production Trust Fund (HPTF), while ensuring through rigorous oversight that our investment is effectively used, and paired with other resources, to create new affordable homes for households earning up to 50% of the Area Median Income."
       explanation: "Will fight for more resources for the HPTF focused on households earning up to 50% AMI, paired with rigorous oversight. Also proposes a new Housing Preservation Fund alongside the HPTF to protect existing affordable housing from being converted to market rate."
       sources:
         - url: https://miguelward1.com/priorities
@@ -914,6 +966,7 @@
 
     - question_id: housing_social_model
       stance: 2
+      quote: "Taking a more active role in financing and developing various forms of social housing, which may include permanently affordable, mixed-income, publicly, and/or nonprofit-owned housing."
       explanation: "Will support DC taking a more active role in financing and developing permanently affordable, mixed-income, publicly and/or nonprofit-owned social housing, with Montgomery County's approach as a potential model. Would create a fund to test such investments with a growth plan toward a dedicated office or independent agency."
       sources:
         - url: https://miguelward1.com/priorities
@@ -923,6 +976,7 @@
 
     - question_id: housing_dopa
       stance: 2
+      quote: "Making more frequent use of the District Opportunity to Purchase Act (DOPA). As a Councilmember, Miguel will work to create a financing tool for DOPA acquisitions."
       explanation: "Will make more frequent use of DOPA by creating a financing tool for DOPA acquisitions, conducting oversight to ensure DHCD has the capacity to take on more properties, and exploring partnerships with values-aligned affordable housing organizations to acquire and manage DOPA properties."
       sources:
         - url: https://miguelward1.com/priorities
@@ -932,6 +986,7 @@
 
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "Since his first ANC campaign, Miguel has advocated for a seamless protected bike lane on 14th Street from Columbia Heights all the way downtown."
       explanation: "Will champion bus priority lanes on U Street, Florida, Georgia, 14th, and Columbia Heights Crosstown corridors; a seamless protected bike lane on 14th St from Columbia Heights to downtown; 25 new or expanded Capital Bikeshare stations; and bus frequencies of every 10 minutes or better on Ward 1's major corridors. Already secured two bikeshare station expansions as ANC chair."
       sources:
         - url: https://miguelward1.com/priorities
@@ -941,6 +996,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "Miguel does not support MPD cooperation with ICE."
       explanation: "Will introduce legislation to amend the Sanctuary Values Amendment Act to expand information-sharing prohibitions to people detained (not just in custody), add quarterly MPD reporting requirements, create protections at sensitive locations (schools, hospitals, clinics), and ban face coverings by law enforcement. Led 36 ANCs to pass resolutions demanding ICE remove masks and stop wearing 'POLICE' uniforms; ran weekly KYR outreach with Free DC; testified at Council's human rights hearing asking 'what is the value of the Sanctuary Values Act if not enforced?'"
       sources:
         - url: https://miguelward1.com/priorities
@@ -950,6 +1006,7 @@
 
     - question_id: education_community_schools
       stance: 2
+      quote: "Miguel supports shoring up and expanding the DCPS Connected Schools Model, which enables participating schools to function as resource hubs for students and their families, by offering access to resources related to employment, housing, legal aid, health, and more."
       explanation: "Supports 'shoring up and expanding the DCPS Connected Schools Model, which enables participating schools to function as resource hubs for students and their families, by offering access to resources related to employment, housing, legal aid, health, and more.'"
       sources:
         - url: https://miguelward1.com/priorities
@@ -959,6 +1016,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "He will champion fully funding and expanding the School-Based Behavioral Health program, which integrates licensed clinicians from community-based organizations (CBOs) into schools to provide early interventions intended to avoid crises."
       explanation: "Will champion fully funding and expanding the School-Based Behavioral Health program, which integrates licensed clinicians into schools; ensure schools are sufficiently staffed with nurses, counselors, and social workers; and ensure any transition from CBOs to DBH is meticulously planned so services are not disrupted. Notes that Ward 1's trusted local providers like Mary's Center would be discontinued under the current transition proposal."
       sources:
         - url: https://miguelward1.com/priorities
@@ -968,6 +1026,7 @@
 
     - question_id: crime_public_health
       stance: 2
+      quote: "Miguel will bolster VI programs, while insisting that investments be based on rigorous research and data analysis."
       explanation: "Sponsored two ANC resolutions to maintain or increase DC's violence interruption investment; will bolster VI programs at all levels including CBT-based peacebuilding in schools, linking school programs to neighborhood-based VI programs; and supports Pathways 2 Peace for youth most at risk of gun violence. Emphasizes that investments must be based on rigorous research and data."
       sources:
         - url: https://miguelward1.com/priorities
@@ -977,6 +1036,7 @@
 
     - question_id: youth_curfew_support
       stance: -1
+      quote: "Fundamentally, Miguel is not in favor of youth curfews; he does not support a permanent curfew or repeatedly extending the curfew as the only solutions."
       explanation: "States: 'Fundamentally, Miguel is not in favor of youth curfews; he does not support a permanent curfew or repeatedly extending the curfew as the only solutions.' Wants to prevent unnecessary interactions between youth and policing or the criminal justice system. As ANC Chair of U Street (where large youth gatherings have occurred), he prefers rec centers, night markets, and programming over enforcement."
       sources:
         - url: https://miguelward1.com/priorities
@@ -986,6 +1046,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "Miguel will shape law and oversight to pressure the Mayor to reactivate the Youth Advisory Council and advance programming co-led by youth, including with schools, recreation centers, DC agencies, and entertainment businesses."
       explanation: "Will pressure the Mayor to reactivate the defunct Youth Advisory Council; support expanding Out-of-School Time seat capacity; champion the Mayor Barry Summer Youth Employment Program and High School Internship Program; and broaden city partnerships to create all-ages events, safe spaces at rec centers, and youth-led programming. Explicitly frames programming as the alternative to curfews."
       sources:
         - url: https://miguelward1.com/priorities
@@ -995,6 +1056,7 @@
 
     - question_id: parks_rec_funding
       stance: 2
+      quote: "Count on Miguel to be a champion for public spaces, no matter how small."
       explanation: "Frames recreation centers as essential youth safety infrastructure (safe spaces for youth gatherings as an alternative to curfews) and supports expanding Out-of-School Time seat capacity. Organized monthly Malcolm X Park cleanups, brought Shakespeare in the Park to Malcolm X, and built partnerships with Washington Parks & People and the National Park Service to attract resources for the park."
       sources:
         - url: https://miguelward1.com/priorities
@@ -1004,6 +1066,7 @@
 
     - question_id: childcare_universal
       stance: 2
+      quote: "As a Councilmember, Miguel will ensure that our suite of early-childhood programs, including universal pre-K, the Childcare Subsidy Program, and the Pay Equity Fund, is on a sound financial footing to support families in accessing affordable childcare services."
       explanation: "Will fill the funding gap in the Birth-to-Three for ALL DC Act (currently severely underfunded) so families pay no more than 10% of income on childcare for ages 0–3, which would benefit 12,000+ infants and toddlers. Will protect the Pay Equity Fund and the childcare subsidy program; also interested in zoning reforms to allow childcare on upper floors of commercial buildings."
       sources:
         - url: https://miguelward1.com/priorities
@@ -1013,6 +1076,7 @@
 
     - question_id: childcare_birth_to_three
       stance: 2
+      quote: "Miguel will also work to fill the gap by providing financial support for affordable childcare for ages 0 to 3."
       explanation: "Will work to extend the city's early-childhood support to 'fill the gap by providing childcare for ages 0 to 3,' fully funding the underfunded Birth-to-Three for ALL DC Act so families pay no more than 10% of income — which he says would benefit 12,000+ infants and toddlers."
       sources:
         - url: https://miguelward1.com/priorities
@@ -1022,6 +1086,7 @@
 
     - question_id: housing_upzoning
       stance: 2
+      quote: "We also need to make changes to the Comprehensive Plan to facilitate additional density, such as “missing middle” or “gentle density” housing."
       explanation: "Will champion zoning reform to allow more housing, citing Minneapolis and Austin: ease parking and setback requirements, raise restrictive height caps, build over existing low-rise retail on commercial corridors, and amend the Comprehensive Plan to facilitate 'missing middle' / 'gentle density' housing. Expects Zoning Commission nominees to prioritize changes that spur housing construction."
       sources:
         - url: https://miguelward1.com/priorities
@@ -1031,6 +1096,7 @@
 
     - question_id: transit_fare_free_buses
       stance: 2
+      quote: "Our transit vision should be ambitious and include efforts to make bus service in DC fare‑free."
       explanation: "Supports moving to fare-free buses in the District, which he proposes funding through a land value tax — part of a transit platform that also includes bus priority corridors, a seamless 14th St protected bike lane, and expanded Capital Bikeshare."
       sources:
         - url: https://miguelward1.com/priorities
@@ -1040,6 +1106,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "He will work to align incentives to preserve and grow the “missing middle,” the kinds of businesses that weave neighborhoods together: locally owned restaurants, corner stores, and services."
       explanation: "Takes a broad view of affordability and wants to 'align incentives to preserve and grow the missing middle' — locally owned restaurants, corner stores, and services most at risk of being priced out — and to protect DC's Earned Income Tax Credit and Child Tax Credit. Emphasizes preserving small/local businesses and reviving programs like streateries and the commercial trash compactor grant more than across-the-board business tax cuts."
       sources:
         - url: https://miguelward1.com/priorities
@@ -1049,6 +1116,7 @@
 
     - question_id: sanitation_rats
       stance: 2
+      quote: "District’s open-air rat buffets, formally known as litter bins — the black metal ones you see on many street corners — must be replaced by a rodent-proof model for effective waste management."
       explanation: "Has a four-plank rat platform: (1) replace open-air trash cans with rodent-proof closed bins; (2) expand composting from pilot to permanent program including apartments; (3) stronger enforcement against illegal trash dumping in alleys by restaurants and landlords; (4) innovate with rodent birth control trials. Got Ward 1's first composting bin installed at 14th & U. Supports the RAT Amendment Act and RATSS Act. Explicitly avoids rodenticides due to harm to wildlife."
       sources:
         - url: https://miguelward1.com/priorities
@@ -1058,6 +1126,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
+      quote: "Miguel led the call for ICE and other federal agents to stop concealing their identities and wearing deceptive uniforms that say “POLICE.” ICE agents are not our police."
       explanation: "Founded the ANC Home Rule Caucus (75+ commissioners), led 36 commissions to pass concurrent resolutions condemning the federal takeover, personally lobbied Capitol Hill with Free DC to restore $1 billion cut from DC's budget, ran weekly Know Your Rights outreach in English and Spanish, and rallied ANCs to demand ICE stop wearing deceptive 'POLICE' uniforms — a record of aggressive, public-facing resistance to federal interference."
       sources:
         - url: https://miguelward1.com/record

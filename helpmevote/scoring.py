@@ -1,6 +1,6 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
-from .models import Candidate, Question
+from .models import Candidate, Question, Source
 
 
 @dataclass
@@ -13,10 +13,25 @@ class IssueScore:
 
 
 @dataclass
+class AnswerDetail:
+    """One answered question, comparing the user's answer to the candidate's stance."""
+    question_id: str
+    prompt: str
+    issue_label: str
+    user_stance: int  # user always has a stance in the answered set
+    candidate_stance: int | None  # None = candidate has no known position
+    agreement: float | None  # 0..1; None when candidate stance is unknown
+    explanation: str
+    quote: str
+    sources: tuple[Source, ...]
+
+
+@dataclass
 class ScoredCandidate:
     candidate: Candidate
     match_percent: float | None
     issue_scores: list[IssueScore]
+    details: list[AnswerDetail] = field(default_factory=list)
 
     @property
     def insufficient_data(self) -> bool:
@@ -41,6 +56,7 @@ def match_score(
     denominator = 0.0
 
     issue_data: dict[str, dict] = {}
+    details: list[AnswerDetail] = []
 
     for question in questions:
         qid = question.id
@@ -55,12 +71,38 @@ def match_score(
         if user_stance is None:
             continue
 
+        issue_label = issues[issue_id].label if issue_id in issues else issue_id
         position = positions_by_qid.get(qid)
+
         if position is None or position.stance is None:
+            # User answered, but the candidate has no known stance.
+            details.append(AnswerDetail(
+                question_id=qid,
+                prompt=question.prompt,
+                issue_label=issue_label,
+                user_stance=user_stance,
+                candidate_stance=None,
+                agreement=None,
+                explanation=position.explanation if position else "",
+                quote=position.quote if position else "",
+                sources=position.sources if position else (),
+            ))
             continue
 
         distance = abs(user_stance - position.stance)
         agreement = 1.0 - (distance / 4.0)
+
+        details.append(AnswerDetail(
+            question_id=qid,
+            prompt=question.prompt,
+            issue_label=issue_label,
+            user_stance=user_stance,
+            candidate_stance=position.stance,
+            agreement=agreement,
+            explanation=position.explanation,
+            quote=position.quote,
+            sources=position.sources,
+        ))
 
         numerator += agreement
         denominator += 1.0
@@ -91,6 +133,7 @@ def match_score(
         candidate=candidate,
         match_percent=match_percent,
         issue_scores=issue_scores,
+        details=details,
     )
 
 

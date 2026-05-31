@@ -302,6 +302,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 1
+      quote: "strategic — rather than activist — resistance to federal overreach."
       explanation: "Supports 'strategic — rather than activist — resistance to federal overreach,' favoring a measured, pragmatic approach to defending DC's autonomy rather than an explicitly confrontational political posture."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
@@ -404,6 +405,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "Expand Cognitive Behavior and School Based Mental Health Programs."
       explanation: "Proposes to 'Expand Cognitive Behavior and School Based Mental Health Programs,' citing their impact in DC and similar cities; also proposes to strengthen school climate through restorative practice investments and direct resources to schools where indicators show students need the most support."
       sources:
         - url: https://www.jacksonfordc.com/
@@ -504,6 +506,7 @@
   positions:
     - question_id: crime_public_health
       stance: 2
+      quote: "Safety isn't achieved by punishment alone — it is created when people have access to housing, education, opportunity, and mental-health care."
       explanation: "Frames public safety explicitly around prevention: 'Safety isn't achieved by punishment alone — it is created when people have access to housing, education, opportunity, and mental-health care.' Proposes expanding youth programs, mental health care access, community-based violence prevention, and crisis-response models pairing police with service providers."
       sources:
         - url: https://www.votejenkinsfordc.com/
@@ -595,6 +598,7 @@
   positions:
     - question_id: housing_topa_restore
       stance: 2
+      quote: "Strengthen Tenants Opportunity to Purchase Act (TOPA) and give tenants a fair chance to stay in their homes."
       explanation: "Explicitly pledges to 'Strengthen Tenants Opportunity to Purchase Act (TOPA) and give tenants a fair chance to stay in their homes,' framing it as a core housing-justice commitment."
       sources:
         - url: https://www.candacefordc.com/
@@ -604,6 +608,7 @@
 
     - question_id: housing_rent_stabilization
       stance: 2
+      quote: "Expand rent stabilization to support affordable and stable rents for working families as more buildings are constructed."
       explanation: "Explicitly pledges to 'Expand rent stabilization to support affordable and stable rents for working families as more buildings are constructed.' Frames stable, affordable housing as a human right."
       sources:
         - url: https://www.candacefordc.com/
@@ -622,6 +627,7 @@
 
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "Improve protected bike lanes and pedestrianized corridors particularly in high-traffic neighborhoods."
       explanation: "Explicitly proposes to 'Improve protected bike lanes and pedestrianized corridors particularly in high-traffic neighborhoods' and 'Advocate for a more robust Bus Rapid Transit network, especially in underserved communities in Wards 7 and 8.' Endorsed by Bike, Walk & Bus PAC."
       sources:
         - url: https://www.candacefordc.com/
@@ -631,6 +637,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values."
       explanation: "Pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values,' ensuring DC remains a safe place for immigrant communities. Will refuse to preemptively comply with Trump administration overreach."
       sources:
         - url: https://www.candacefordc.com/
@@ -743,6 +750,7 @@
   positions:
     - question_id: housing_topa_restore
       stance: 2
+      quote: "defend and restore TOPA, including reversing recent rollbacks that stripped protections from small buildings, fully funding the First Right Purchase Program."
       explanation: "Pledges to 'defend and restore TOPA, including reversing recent rollbacks that stripped protections from small buildings, fully funding the First Right Purchase Program,' adding transparency requirements and penalties for bad actors."
       sources:
         - url: https://www.vote4oye.com/
@@ -752,6 +760,7 @@
 
     - question_id: housing_rent_stabilization
       stance: 2
+      quote: "strengthen rent stabilization by reducing the maximum annual increase to the Consumer Price Index, expanding rent control to newer buildings, and funding proactive inspections."
       explanation: "Will 'strengthen rent stabilization by reducing the maximum annual increase to the Consumer Price Index, expanding rent control to newer buildings, and funding proactive inspections.' Frames strong rent stabilization as essential to stopping displacement of long-time Black and brown residents."
       sources:
         - url: https://www.vote4oye.com/
@@ -761,6 +770,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "dedicating a significant share of the Housing Production Trust Fund to preservation, including TOPA transactions, nonprofit acquisitions, and limited-equity cooperatives that keep housing affordable long term."
       explanation: "Supports 'dedicating a significant share of the Housing Production Trust Fund to preservation, including TOPA transactions, nonprofit acquisitions, and limited-equity cooperatives that keep housing affordable long term.'"
       sources:
         - url: https://www.vote4oye.com/
@@ -770,6 +780,7 @@
 
     - question_id: housing_social_model
       stance: 2
+      quote: "social housing, community land trusts, and pathways to ownership so long-time renters can build stability and generational wealth."
       explanation: "Explicitly supports expanding 'social housing, community land trusts, and pathways to ownership so long-time renters can build stability and generational wealth,' and a 'Green New Deal for Social Housing' so climate investments deliver direct community benefits."
       sources:
         - url: https://www.vote4oye.com/
@@ -779,6 +790,7 @@
 
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "invest in safer stations, bus stops, sidewalks, lighting, and accessibility improvements."
       explanation: "Will 'expand bus priority corridors' and 'invest in safer stations, bus stops, sidewalks, lighting, and accessibility improvements.' Endorsed by Bike, Walk & Bus PAC. Focuses on a transit-first District that centers residents over car throughput."
       sources:
         - url: https://www.vote4oye.com/
@@ -788,6 +800,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "end all cooperation between MPD and ICE, enforce the Sanctuary Values Act, and ensure District agencies do not assist in deportations or federal immigration enforcement."
       explanation: "Will 'end all cooperation between MPD and ICE, enforce the Sanctuary Values Act, and ensure District agencies do not assist in deportations or federal immigration enforcement.' Expand sanctuary protections across schools, clinics, and shelters. Led protests against a new ICE headquarters on the St. Elizabeth's campus."
       sources:
         - url: https://www.vote4oye.com/
@@ -797,6 +810,7 @@
 
     - question_id: education_community_schools
       stance: 2
+      quote: "strengthen neighborhood schools by expanding afterschool and summer programs and investing in community schools that provide tutoring, nutrition, health care, and mental health support."
       explanation: "Will 'strengthen neighborhood schools by expanding afterschool and summer programs and investing in community schools that provide tutoring, nutrition, health care, and mental health support,' with equity-based resource distribution especially East of the River."
       sources:
         - url: https://www.vote4oye.com/
@@ -806,6 +820,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "remove police from DCPS schools and invest instead in counselors, nurses, and social workers who support the whole child."
       explanation: "Will 'remove police from DCPS schools and invest instead in counselors, nurses, and social workers who support the whole child.' Asserts students 'deserve strong neighborhood schools with enough teachers, counselors, nurses, and mental health staff to meet their needs.'"
       sources:
         - url: https://www.vote4oye.com/
@@ -824,6 +839,7 @@
 
     - question_id: crime_secure_dc
       stance: -2
+      quote: "oppose expansions of pretrial detention, reject efforts to create new crimes or longer sentences that do not improve safety."
       explanation: "Will 'oppose expansions of pretrial detention, reject efforts to create new crimes or longer sentences that do not improve safety.' Frames DC's public safety crisis as the result of over-reliance on punishment — the core approach of Secure DC — rather than addressing root causes."
       sources:
         - url: https://www.vote4oye.com/
@@ -842,6 +858,7 @@
 
     - question_id: youth_curfew_support
       stance: -2
+      quote: "oppose youth curfews, school policing, and expanded surveillance that criminalize young people."
       explanation: "Will 'oppose youth curfews, school policing, and expanded surveillance that criminalize young people.' Calls curfews without programming investment a 'punitive approach that contributes to the school-to-prison pipeline.'"
       sources:
         - url: https://www.vote4oye.com/
@@ -851,6 +868,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "fight to expand afterschool and late night youth spaces, invest in violence interruption rooted in community trust, and fully fund youth development programs that offer paid work, career exploration, and pathways into union jobs."
       explanation: "Will 'fight to expand afterschool and late night youth spaces, invest in violence interruption rooted in community trust, and fully fund youth development programs that offer paid work, career exploration, and pathways into union jobs.' Treats programming investment as the primary tool for youth safety."
       sources:
         - url: https://www.vote4oye.com/
@@ -860,6 +878,7 @@
 
     - question_id: harm_reduction_safe_injection
       stance: 2
+      quote: "confront overdoses with a true public health approach centered on harm reduction, treatment access, housing stability, and continuity of care."
       explanation: "Explicitly calls for DC to 'confront overdoses with a true public health approach centered on harm reduction, treatment access, housing stability, and continuity of care.' As a pharmacist and public health professional, his use of 'harm reduction' as a core framing encompasses overdose prevention center models."
       sources:
         - url: https://www.vote4oye.com/
@@ -869,6 +888,7 @@
 
     - question_id: childcare_universal
       stance: 2
+      quote: "ensure families do not spend more than ten percent of their income on child care when the Birth-to-Three Act is fully implemented."
       explanation: "Will 'fund early care and learning from birth through pre-K with stable, predictable public investment,' raise child care reimbursement rates, and 'ensure families do not spend more than ten percent of their income on child care when the Birth-to-Three Act is fully implemented.' Will fully fund and permanently protect the Early Childhood Educator Pay Equity Fund."
       sources:
         - url: https://www.vote4oye.com/
@@ -878,6 +898,7 @@
 
     - question_id: sanitation_rats
       stance: 2
+      quote: "shift the District away from poison-first rodent control and toward sanitation-first prevention."
       explanation: "Has a dedicated platform plank on rodent control. Will 'shift the District away from poison-first rodent control and toward sanitation-first prevention,' phase out second-generation anticoagulant rodenticides, 'strengthen containerization and compost infrastructure,' and require public reporting on 311 response times and enforcement."
       sources:
         - url: https://www.vote4oye.com/
@@ -887,6 +908,7 @@
 
     - question_id: environment_renewable_energy
       stance: 2
+      quote: "accelerate decarbonization, strengthen the Carbon Free DC strategy, and move the District toward full clean energy through expanded community solar, weatherization, and building retrofits."
       explanation: "Will 'accelerate decarbonization, strengthen the Carbon Free DC strategy, and move the District toward full clean energy through expanded community solar, weatherization, and building retrofits.' Supports the Healthy Homes Act, protecting the Sustainable Energy Trust Fund, and transitioning low-income households to electric appliances at no cost."
       sources:
         - url: https://www.vote4oye.com/
@@ -914,6 +936,7 @@
 
     - question_id: childcare_birth_to_three
       stance: 2
+      quote: "fund early care and learning from birth through pre-K with stable, predictable public investment."
       explanation: "Will 'fund early care and learning from birth through pre-K with stable, predictable public investment,' raise child care reimbursement rates, fully fund the Birth-to-Three Act so families spend no more than 10% of income on care, and permanently protect the Early Childhood Educator Pay Equity Fund."
       sources:
         - url: https://www.vote4oye.com/
@@ -1014,6 +1037,7 @@
   positions:
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "Invest in the Housing Production Trust Fund with strong oversight."
       explanation: "Explicitly pledges to 'Invest in the Housing Production Trust Fund with strong oversight.' Also supports streamlined permitting and use of public land to increase supply across all eight wards."
       sources:
         - url: https://lisaraymondfordc.com/
@@ -1032,6 +1056,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "expand school-based mental health care, support community providers, and continue the DBH-MPD co-responder model so youth in crisis receive care and support — not criminalization."
       explanation: "Explicitly calls for the District to 'expand school-based mental health care, support community providers, and continue the DBH-MPD co-responder model so youth in crisis receive care and support — not criminalization.'"
       sources:
         - url: https://lisaraymondfordc.com/
@@ -1041,6 +1066,7 @@
 
     - question_id: crime_more_police
       stance: 1
+      quote: "a well-trained, adequately staffed police force."
       explanation: "Explicitly supports 'a well-trained, adequately staffed police force' alongside transparency and oversight. Also calls for holding federal partners accountable for prosecutions and judicial appointments."
       sources:
         - url: https://lisaraymondfordc.com/
@@ -1050,6 +1076,7 @@
 
     - question_id: youth_curfew_support
       stance: 1
+      quote: "supports targeted, temporary public safety measures, including curfews, when necessary to keep residents safe. But enforcement alone cannot be the foundation of youth policy."
       explanation: "Explicitly states she 'supports targeted, temporary public safety measures, including curfews, when necessary to keep residents safe. But enforcement alone cannot be the foundation of youth policy.' One of the few At-Large candidates to explicitly endorse curfews as a tool."
       sources:
         - url: https://lisaraymondfordc.com/
@@ -1059,6 +1086,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "The long-term solution is opportunity, connection, and hope."
       explanation: "Pairs her curfew support with a comprehensive youth investment agenda: evidence-based conflict management programs, career pathways, paid apprenticeships (champions DC Young Adult Corps Act), expanded safe afterschool and late-night spaces, and school-based mental health care. 'The long-term solution is opportunity, connection, and hope.'"
       sources:
         - url: https://lisaraymondfordc.com/

@@ -453,31 +453,73 @@ button.btn     { font-family: inherit; }
   margin-bottom: .6rem;
 }
 
-.issue-breakdown {
+.answer-breakdown {
   margin-top: .75rem;
-  font-size: .88rem;
+  font-size: .9rem;
 }
-.issue-breakdown summary {
+.answer-breakdown summary {
   cursor: pointer;
   color: var(--dc-navy);
   font-weight: 600;
 }
-.issue-breakdown-grid { margin-top: .5rem; display: flex; flex-direction: column; gap: .35rem; }
-.issue-score-row {
-  display: grid;
-  grid-template-columns: 160px 1fr 45px;
+.answer-detail-list {
+  margin-top: .75rem;
+  display: flex;
+  flex-direction: column;
+  gap: .9rem;
+}
+.answer-detail {
+  padding: .75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: #fff;
+}
+.answer-detail-prompt { font-weight: 600; margin-bottom: .6rem; }
+.answer-detail-compare {
+  display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: .5rem;
+  gap: .75rem;
 }
-.issue-score-label { color: var(--text-light); }
-.issue-score-bar-wrap {
-  height: 8px;
-  background: var(--border);
-  border-radius: 4px;
-  overflow: hidden;
+.answer-col {
+  flex: 1 1 140px;
+  display: flex;
+  flex-direction: column;
+  gap: .15rem;
+  padding: .4rem .55rem;
+  border-radius: var(--radius);
+  background: var(--bg);
 }
-.issue-score-bar { display: block; height: 100%; background: var(--dc-navy); border-radius: 4px; }
-.issue-score-pct { text-align: right; font-weight: 600; }
+.answer-col-you { border-left: 3px solid var(--dc-red); }
+.answer-col-cand { border-left: 3px solid var(--dc-navy); }
+.answer-col-label {
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  color: var(--text-light);
+}
+.answer-stance { font-weight: 700; }
+.answer-stance-unknown { font-weight: 500; color: var(--text-light); font-style: italic; }
+.agree-pill {
+  font-size: .72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  padding: .25rem .55rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.agree-yes     { background: #d8f0dd; color: #1c6b34; }
+.agree-partial { background: #fdf0d5; color: #8a6400; }
+.agree-no      { background: #f6dada; color: #9c1f1f; }
+.answer-detail-quote {
+  margin: .65rem 0 0;
+  padding: .4rem .75rem;
+  border-left: 3px solid var(--border);
+  color: var(--text-light);
+  font-style: italic;
+}
+.answer-detail-quote .source-link { font-style: normal; }
 
 .result-card-footer { margin-top: .75rem; }
 .results-actions { display: flex; gap: .75rem; flex-wrap: wrap; }

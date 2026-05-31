@@ -98,6 +98,7 @@
 
     - question_id: delegate_budget_autonomy
       stance: 2
+      quote: "He worked as a lead staff member on congressional oversight hearings focused on the District and played a key role in drafting legislation to loosen Congress’ grip over D.C. government in favor of greater autonomy and independence for DC residents."
       explanation: "As Norton's legislative counsel he 'played a lead role in drafting legislation to loosen Congress' grip over DC government in favor of greater autonomy and independence.' If elected he says he'd seek a seat on the House Appropriations Committee to maximize DC's funding leverage and protect the District's budget from congressional interference."
       sources:
         - url: https://www.joinrobertwhite.com/
@@ -177,6 +178,7 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
+      quote: "My top priority in Congress will be D.C. statehood."
       explanation: "Strong proponent of DC statehood; highlights over 200 years of disenfranchisement and commits to continuing work on full voting representation."
       sources:
         - url: https://www.trentholbrook.com/issues
@@ -195,6 +197,7 @@
 
     - question_id: statehood_strategy_bipartisan
       stance: 2
+      quote: "we must work to continue to unite the D.C. statehood bill with these other two bills that Democrats champion and will eventually pass when we have the majority."
       explanation: "The legislative-strategist candidate: as Norton's Senior Legislative Counsel he 'took the DC statehood bill from losing in 1993 to passing in the House of Representatives twice,' and frames his path as working the legislative process — uniting the Washington, DC Admission Act with the Freedom to Vote Act and the John R. Lewis Voting Rights Advancement Act — rather than confrontation or protest."
       sources:
         - url: https://www.trentholbrook.com/issues
@@ -204,6 +207,7 @@
 
     - question_id: delegate_budget_autonomy
       stance: 2
+      quote: "I will work to ensure that never happens again and make the case that this is yet another reason we need D.C. statehood."
       explanation: "Calls Congress's roughly $1 billion (he cites over $2 billion) cut to DC's local budget a harm to teachers, police, and local business owners, and pledges to 'work to ensure that never happens again.' Would legislate to treat DC at least as well as states, cities, and counties for federal funding, and spent eight years drafting legislation to loosen Congress's grip on DC."
       sources:
         - url: https://www.trentholbrook.com/issues
@@ -213,6 +217,7 @@
 
     - question_id: delegate_oppose_federal_mpd
       stance: 2
+      quote: "I vehemently oppose the federalization of the Metropolitan Police Department."
       explanation: "States in the strongest terms: 'I vehemently oppose the federalization of the Metropolitan Police Department.' Helped advance Norton's District of Columbia Police Home Rule Act to strip that authority from the President, and the DC National Guard Home Rule Act to give the mayor (not the President) control of the Guard — calling its enactment a top priority."
       sources:
         - url: https://www.trentholbrook.com/issues
@@ -284,6 +289,7 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
+      quote: "D.C. Statehood is no longer just a goal—it is necessary for the survival of our self-government."
       explanation: "Supports full statehood as top priority ('Statehood Now'); frames tax exemption as an interim 'No Taxation UNTIL Representation' measure, not a replacement for statehood. Frames DC's federal territory status as an ongoing democratic injustice tracing back to the founding."
       sources:
         - url: https://gojaczko4dc.com/platform
@@ -293,6 +299,7 @@
 
     - question_id: statehood_tax_exemption
       stance: 2
+      quote: "Greg will fight to exempt DC residents and business from paying federal income taxes."
       explanation: "Proposes exempting DC residents and businesses from federal income taxes until statehood is achieved, framing it as 'No Taxation UNTIL Representation.' His Substack goes further, calling for civil disobedience — DC businesses and residents withholding federal income tax payments — to force Congress to act."
       sources:
         - url: https://gojaczko4dc.com/platform
@@ -302,6 +309,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "The best way I can honor his legacy is to fight for a humane immigration policy that respects the diversity and hard work that immigrants bring to our society."
       explanation: "Strongly opposes Trump's immigration detention policies, calling them 'brutal' and 'illegal' — a position he connects personally to his father's history as a Romanian refugee. Supports getting the federal government entirely out of DC's local justice system so residents can set policies focused on prevention and rehabilitation."
       sources:
         - url: https://gojaczko4dc.com/platform
@@ -311,6 +319,7 @@
 
     - question_id: environment_public_power
       stance: 2
+      quote: "Washington is the perfect place for a public power authority."
       explanation: "His signature cost-of-living proposal: 'Washington is the perfect place for a public power authority.' As a physicist and former NRC chair, he argues a nonprofit public power authority would eliminate roughly $160M/year in Pepco profit that ratepayers fund (about $25 of an average $190 bill), citing studies that public power customers pay ~13% less. Would introduce legislation requiring the buyout to complete within 18 months at residual value."
       sources:
         - url: https://gojaczko4dc.com/platform
@@ -320,6 +329,7 @@
 
     - question_id: statehood_strategy_bipartisan
       stance: -1
+      quote: "Civil disobedience is always civil, but it is never obedient. We’ve been civil long enough; it is time to stop being obedient."
       explanation: "Rejects the patient legislative-coalition approach as having failed for over 200 years. His mantra is 'No Taxation UNTIL Representation,' and his Substack explicitly calls for civil disobedience — DC residents and businesses withholding federal income tax payments — to force Congress's hand. Favors confrontation and leverage over bipartisan dealmaking."
       sources:
         - url: https://gojaczko4dc.com/platform
@@ -329,6 +339,7 @@
 
     - question_id: delegate_budget_autonomy
       stance: 2
+      quote: "Greg will be a relentless voice against congressional—and presidential—interference, demanding that D.C. residents control their own revenue and their own destiny."
       explanation: "Frames DC's lack of control over its own revenue and budget as central to the injustice of its status: 'Congress constantly seeks to undermine and oversee our local budget,' and he will be 'a relentless voice against congressional — and presidential — interference, demanding that DC residents control their own revenue and their own destiny.'"
       sources:
         - url: https://gojaczko4dc.com/platform
@@ -338,6 +349,7 @@
 
     - question_id: delegate_oppose_federal_mpd
       stance: 2
+      quote: "Greg will also fight to get the federal government out of D.C.'s local justice system so District residents can shape policies that are accountable to their communities and focused on prevention, rehabilitation, and real public safety."
       explanation: "Cites National Guard troops 'deployed throughout the city' and federal incarceration as 'peculiarities' of DC's status, and pledges to 'fight to get the federal government out of D.C.'s local justice system' so District residents can shape policies accountable to their own communities."
       sources:
         - url: https://gojaczko4dc.com/platform
@@ -425,6 +437,7 @@
 
     - question_id: statehood_top_priority
       stance: 2
+      quote: "Brooke knows that our city needs a champion in Congress to defend our values in the District as we continue to fight for DC statehood."
       explanation: "Strongly supports DC statehood and self-governance. Calls for repealing the federal Height Act and replacing it with a local DC Height Act as a concrete statehood-adjacent step. Emphasizes fighting the Trump administration's day-to-day encroachment on DC autonomy."
       sources:
         - url: https://brookepintoforcongress.com/issues/
@@ -438,6 +451,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "She will defend our DC families – in all the beautiful forms they come in."
       explanation: "Expressed support for ending MPD/ICE cooperation; stated she wants to 'get rid of ICE' in her Free DC questionnaire. On the campaign trail, pledges to defend DC families regardless of immigration status. Opposes federal and National Guard deployment for local law enforcement."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
@@ -447,6 +461,7 @@
 
     - question_id: crime_more_police
       stance: 1
+      quote: "As Chairwoman of the Council’s Committee on Judiciary and Public Safety, Brooke knows how critical it is to support our first responders, firefighters, EMS, and police department."
       explanation: "Co-authored Secure DC and Peace DC, credited with a 50% reduction in violent crime; supports adequate resources for MPD, firefighters, and EMS. Opposes federal or National Guard deployment to enforce local law, drawing a sharp distinction between supporting local police and accepting federal militarization."
       sources:
         - url: https://brookepintoforcongress.com/issues/
@@ -460,6 +475,7 @@
 
     - question_id: delegate_oppose_federal_mpd
       stance: 2
+      quote: "Washingtonians know that we don’t need Trump to keep us safe. DC residents elected local leaders who know that our local police department and local communities make our city safe – not a deployment of National Guard from across the country."
       explanation: "'Washingtonians know that we don't need Trump to keep us safe… our local police department and local communities make our city safe — not a deployment of National Guard from across the country.' Opposes federal and National Guard deployment to enforce local law while supporting adequate resources for MPD, firefighters, and EMS."
       sources:
         - url: https://brookepintoforcongress.com/issues/
@@ -469,6 +485,7 @@
 
     - question_id: delegate_budget_autonomy
       stance: 2
+      quote: "Every single day, the Trump Administration is trampling on our rights as Washingtonians and trying to strip power from our local leadership."
       explanation: "Centers her campaign on DC self-governance: 'the Trump Administration is… trying to strip power from our local leadership,' and DC 'needs a champion in Congress to defend our values' and autonomy. Notes DC is 'the only jurisdiction in the country where the federal government tells us how and where we can build,' and would fight congressional interference in local decisions."
       sources:
         - url: https://brookepintoforcongress.com/issues/
@@ -478,6 +495,7 @@
 
     - question_id: statehood_strategy_bipartisan
       stance: 1
+      quote: "We need to continue on the path to self-determination and statehood, and that starts with sending someone to Congress with a track record of working across divides to deliver tangible results."
       explanation: "Says the path to statehood 'starts with sending someone to Congress with a track record of working across divides to deliver tangible results' — a legislative, coalition-oriented approach — while also stressing willingness 'to take on the tough fights with the Trump Administration and Republicans in Congress.'"
       sources:
         - url: https://brookepintoforcongress.com/issues/
@@ -575,6 +593,7 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
+      quote: "America is the only democracy on earth that denies the residents of its capital city the right to vote. It's a national disgrace, and part of the legacy of racism."
       explanation: "Calls DC's lack of voting representation 'a national disgrace and part of the legacy of racism,' but argues that fixing it requires a strategic 'grand bargain' on Capitol Hill — not outrage. Distinguishes herself from other candidates by emphasizing coalition-building across sectors and the aisle as the path to full representation. Proposes a Capital Caucus to build regional economic leverage with DC, MD, VA, and neighboring jurisdictions."
       sources:
         - url: https://www.kinneyfordc.com/issues-1
@@ -584,6 +603,7 @@
 
     - question_id: statehood_strategy_bipartisan
       stance: 2
+      quote: "fixing this will take more than indignance and outrage."
       explanation: "Explicitly the 'grand bargain' candidate: 'fixing this will take more than indignance and outrage. It will require a strategic approach to a grand bargain on Capitol Hill… Throughout my career I've built coalitions across sectors and across the aisle.' Frames bipartisan coalition-building as her signature path to statehood."
       sources:
         - url: https://www.kinneyfordc.com/issues-1

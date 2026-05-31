@@ -60,6 +60,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "Invest in afterschool and late-night weekend safe spaces where youth can socialize and have fun."
       explanation: "Supports investment in out-of-school programming, jobs, and mental health services for youth."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
@@ -69,6 +70,7 @@
 
     - question_id: crime_public_health
       stance: 2
+      quote: "Addressing gun violence through a public health approach and strengthening violence prevention programs."
       explanation: "Supports treating violence as a public health problem; backs the NEAR Act approach."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
@@ -87,6 +89,7 @@
 
     - question_id: crime_more_police
       stance: 1
+      quote: "Addressing MPD’s vacancy and retention crisis by expanding the police cadet program, reducing forced overtime, renovating aging facilities, and providing child care benefits that make the District competitive with other local and federal police departments."
       explanation: "Supports hiring more MPD officers to restore staffing levels. In 2019 she tweeted about divestment but has since voted to fund MPD budgets for six years on council. 2019 statements are frequently used against her in attack ads."
       sources:
         - url: https://51st.news/dc-mayoral-race-fact-check/
@@ -96,6 +99,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "Ending all cooperation with ICE to restore trust between communities and District government and ensure law enforcement can focus on deterring crime."
       explanation: "Supports DC's sanctuary values and opposes MPD cooperation with ICE and federal immigration enforcement."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
@@ -105,6 +109,7 @@
 
     - question_id: housing_topa_restore
       stance: 2
+      quote: "Enhancing pathways from renting to owning to help tenants become owners through cooperatives, tenant purchases, and structured negotiations."
       explanation: "Platform supports tenant purchase rights: 'Enhancing pathways from renting to owning to help tenants become owners through cooperatives, tenant purchases, and structured negotiations.' Her broader housing platform is strongly pro-tenant, including ending the 'slumlord business model' and funding cooperative conversions."
       sources:
         - url: https://www.janeese4dc.com/
@@ -114,6 +119,7 @@
 
     - question_id: fiscal_progressive_taxation
       stance: 1
+      quote: "Increase property taxes on long-term vacant commercial spaces to encourage leasing and create affordable space."
       explanation: "Proposes progressive revenue measures including property taxes on long-term vacant commercial properties and a 15% price break for certified social-benefit businesses. Her platform prioritizes protecting housing, childcare, and education programs rather than cutting them, though she does not frame major new corporate tax hikes as her primary budget-gap tool."
       sources:
         - url: https://www.janeese4dc.com/
@@ -123,6 +129,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
+      quote: "Work hand in hand with the DC Office of the Attorney General to execute a comprehensive legal strategy to defend DC."
       explanation: "Has been sharply critical of the Bowser administration for not doing enough to resist federal encroachment, and frames aggressive use of legal tools and public advocacy to defend DC's budget autonomy as a defining contrast with the current mayor."
       sources:
         - url: https://www.janeese4dc.com/
@@ -132,6 +139,7 @@
 
     - question_id: federal_workers_advocate
       stance: 2
+      quote: "Establishing a rapid response Federal Workforce Transition Center for displaced federal employees and contractors, including partnering with universities to reskill and support transitions into DC teaching jobs and other in-demand jobs."
       explanation: "Lewis George pledges to 'establish a rapid response Federal Workforce Transition Center for displaced federal employees and contractors, including partnering with universities to reskill and support transitions into DC teaching jobs and other in-demand jobs.' She has also been sharply critical of the Bowser administration for not sufficiently resisting federal intrusion."
       sources:
         - url: https://www.nbcwashington.com/news/politics/dc-mayoral-candidate-lewis-george/4045936/
@@ -154,6 +162,7 @@
 
     - question_id: childcare_universal
       stance: 2
+      quote: "Every family will be eligible for childcare assistance and families will spend no more than 7% of their household income on childcare, with many families paying less and some paying nothing."
       explanation: "Lewis George's 'Childcare For All' platform calls for universal affordable childcare: every family eligible for assistance, capped at 7% of household income (under $600/month for families earning under $100K). Three-part plan: expand subsidy to all families, increase supply through co-location in schools and microgrants, and guarantee wages comparable to DCPS teachers through the Pay Equity Fund."
       sources:
         - url: https://www.nbcwashington.com/news/politics/dc-mayoral-candidate-lewis-george/4045936/
@@ -167,6 +176,7 @@
 
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "Janeese will make the buses on DC’s busiest routes faster and more reliable by adding dedicated bus lanes and optimizing bus stops."
       explanation: "Platform pledges to add dedicated bus lanes on DC's busiest routes and implement community-supported protected bike lanes citywide, including the Shepherd Branch Trail in Wards 7 and 8 and a northeast-northwest protected bike lane. Also pledges to make buses free for SNAP recipients and explore broader transit fare support."
       sources:
         - url: https://www.janeese4dc.com/
@@ -176,6 +186,7 @@
 
     - question_id: environment_renewable_energy
       stance: 2
+      quote: "Janeese will substantially expand community solar on all available government buildings, school parking lots, playgrounds, and on vacant government land to generate solar energy credits."
       explanation: "Lewis George's 10-point utility affordability plan includes substantially expanding community solar on all available government buildings, school parking lots, playgrounds, and vacant government land; incentivizing balcony solar for renters; implementing energy savings performance contracts (ESPCs) in schools and government buildings; and expanding the Solar Shade Expansion Amendment Act."
       sources:
         - url: https://www.janeese4dc.com/
@@ -185,6 +196,7 @@
 
     - question_id: education_community_schools
       stance: 2
+      quote: "Invest in and expand Community Schools grants and expand successful home visiting services to connect with families."
       explanation: "Platform explicitly states: 'Invest in and expand Community Schools grants and expand successful home visiting services to connect with families.' Her 'Support the whole child' pillar mirrors the community schools model, adding caregiver navigation support and streamlined anti-truancy efforts."
       sources:
         - url: https://www.janeese4dc.com/
@@ -194,6 +206,7 @@
 
     - question_id: housing_social_model
       stance: 2
+      quote: "Launching Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit."
       explanation: "Platform pledges to 'Launch Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit.' This is an explicit social housing model with public ownership and mixed-income design."
       sources:
         - url: https://www.janeese4dc.com/
@@ -203,6 +216,7 @@
 
     - question_id: housing_rent_stabilization
       stance: 1
+      quote: "Stabilizing rent by modernizing rent stabilization so tenants have predictable housing costs and housing providers have clear guidelines."
       explanation: "Platform calls for 'Stabilizing rent by modernizing rent stabilization so tenants have predictable housing costs and housing providers have clear guidelines.' Her framing is 'modernizing' rather than explicitly expanding to post-1975 buildings, but she is firmly pro-rent stabilization as a tool for tenant protection."
       sources:
         - url: https://www.janeese4dc.com/
@@ -212,6 +226,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need."
       explanation: "Platform calls for 'Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need,' plus launching Dignified Homes DC as a new publicly-funded housing initiative. Her full audit of housing systems in the first 100 days and strong affordable housing investment priorities imply maintaining and expanding the HPTF rather than cutting it."
       sources:
         - url: https://www.janeese4dc.com/
@@ -221,6 +236,7 @@
 
     - question_id: parks_rec_funding
       stance: 1
+      quote: "Expand afterschool and summer programming in every ward."
       explanation: "Platform pledges to 'Invest in afterschool and late-night weekend safe spaces where youth can socialize and have fun,' 'Expand afterschool and summer programming in every ward,' and create community hubs in all 8 wards. Implies support for DPR-style programming but doesn't explicitly name DPR or call for a budget increase."
       sources:
         - url: https://www.janeese4dc.com/
@@ -230,6 +246,7 @@
 
     - question_id: housing_upzoning
       stance: 2
+      quote: "Allowing for more housing citywide by removing outdated zoning restrictions so more homes and more types of homes can be built across DC, particularly near transit corridors."
       explanation: "Platform pledges to build more homes by 'Allowing for more housing citywide by removing outdated zoning restrictions so more homes and more types of homes can be built across DC, particularly near transit corridors,' alongside streamlined permitting to accelerate production."
       sources:
         - url: https://www.janeese4dc.com/
@@ -239,6 +256,7 @@
 
     - question_id: transit_fare_free_buses
       stance: 1
+      quote: "Buses will be free for DC residents enrolled in the SNAP food assistance program and she’ll explore other ways to expand financial support for transit."
       explanation: "Supports targeted free transit rather than universal fare-free service: 'Buses will be free for DC residents enrolled in the SNAP food assistance program,' and she will 'explore other ways to expand financial support for transit.'"
       sources:
         - url: https://www.janeese4dc.com/
@@ -248,6 +266,7 @@
 
     - question_id: transit_congestion_pricing
       stance: 1
+      quote: "As mayor, Janeese will carefully review and if necessary update the study and work with community members, District officials, and officials from surrounding jurisdictions to consider implementation."
       explanation: "Pushed for the DDOT Congestion Pricing study to be released (pledging to do so within 48 hours of taking office, which prompted Mayor Bowser to release it). As mayor she will 'carefully review and if necessary update the study and work with community members, District officials, and officials from surrounding jurisdictions to consider implementation' — open to it but committed to study and community process first."
       sources:
         - url: https://www.janeese4dc.com/
@@ -257,6 +276,7 @@
 
     - question_id: childcare_birth_to_three
       stance: 1
+      quote: "Janeese will co-locate infant and toddler programs in DC Public Schools (DCPS) and public charter school buildings with excess capacity, as well as in underutilized District-owned facilities."
       explanation: "Her 'Childcare For All' plan expands subsidy to every family (capped at 7% of income) and co-locates infant and toddler programs in schools and District facilities — strongly expanding infant/toddler care, but through an income-based affordability cap rather than a free, universal birth-to-three guarantee."
       sources:
         - url: https://www.janeese4dc.com/
@@ -266,6 +286,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "Expand DC’s small business property tax credit."
       explanation: "Supports targeted small-business relief — expanding DC's small business property tax credit, lease guarantees, a 15% price break for certified social-benefit businesses, and a 'Buy Local' campaign — while also raising property taxes on long-term vacant commercial space. Net supportive of small-business tax relief, paired with other tools."
       sources:
         - url: https://www.janeese4dc.com/
@@ -330,6 +351,7 @@
   positions:
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "Prohibit DC police from acting as federal immigration agents or sharing residents' immigration status with ICE."
       explanation: "McDuffie's Ballotpedia candidate survey response explicitly states he will 'end MPD cooperation with ICE' and expand legal protections for immigrant families."
       sources:
         - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
@@ -339,6 +361,7 @@
 
     - question_id: crime_public_health
       stance: 2
+      quote: "Stand up the Office of Violence Prevention and Health Equity within DC Health and connect residents at highest risk of violence with trauma-informed care, hospital-based intervention, mental health services, family stabilization, and wraparound support before harm escalates."
       explanation: "McDuffie authored the NEAR Act in 2016 and pledges to fully fund it as mayor."
       sources:
         - url: https://nearact.dc.gov/page/about-near
@@ -361,6 +384,7 @@
 
     - question_id: youth_curfew_support
       stance: 1
+      quote: "curfew authority, used responsibly, is a temporary and targeted public safety tool. It is not a punishment."
       explanation: "Conditionally supports teen curfews as a short-term measure alongside alternative programming, jobs, and mental health access."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce7c140f0bb123dfe27f6/1771890625096/Kenyon+McDuffie+Free+DC+Candidate+Questionnaire.pdf
@@ -370,6 +394,7 @@
 
     - question_id: youth_curfew_programming
       stance: 2
+      quote: "Maintain narrowly tailored, temporary curfews where needed to address violence or disorder, while investing in permanent solutions: safe spaces, mentorship, jobs, recreation, and family stabilization."
       explanation: "Frames curfews as a short-term measure that must be accompanied by programming, jobs, and mental health access."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce7c140f0bb123dfe27f6/1771890625096/Kenyon+McDuffie+Free+DC+Candidate+Questionnaire.pdf
@@ -379,6 +404,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 2
+      quote: "Ensuring HPTF dollars are deployed efficiently to maximize the number of affordable homes produced by administering stronger scoring for projects that produce more units per dollar, incorporating minimum private or tax-credit equity share requirements, improving coordination with federal tax credits and incentives and standardizing and accelerating underwriting and approvals."
       explanation: "Pledges to build 12,000 new housing units by 2030 and preserve 20,000 affordable homes."
       sources:
         - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
@@ -388,6 +414,7 @@
 
     - question_id: crime_more_police
       stance: 2
+      quote: "Implement a credible pipeline strategy to add 1,000 officers over four years by cutting annual attrition from roughly 300 to 150 and expanding hiring capacity to 400 officers per year, while pairing growth with stronger community policing, real accountability, and investments in officer morale."
       explanation: "Has pledged to hire 1,000 new MPD officers and double the hiring bonus to $50,000. His platform calls for a 'right-sized MPD through smart recruitment, home purchase assistance, and reinvestment in community safety programs' alongside an expanded cadet program."
       sources:
         - url: https://51st.news/dc-mayoral-race-fact-check/
@@ -401,6 +428,7 @@
 
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "Investing in rapid bus lines and high-capacity transit connections in areas of underdeveloped land, including New York Avenue, that make new housing growth areas easier for residents to reach jobs, schools, and services."
       explanation: "Platform calls for accelerating bus lane infrastructure and signal improvements on corridors where buses are delayed, investing in protected bike lanes and safer intersections, and fully funding Metro for the long term."
       sources:
         - url: https://kenyanmcduffie.com/platform
@@ -410,6 +438,7 @@
 
     - question_id: education_mental_health_schools
       stance: 1
+      quote: "This includes responsive special education services, reliable school-based mental health access, and dependable school health coverage so support show up when students need them."
       explanation: "Platform pledges 'timely special education, mental health, and school health services' in DC public schools and frames school-based behavioral health as part of his education agenda."
       sources:
         - url: https://kenyanmcduffie.com/platform
@@ -428,6 +457,7 @@
 
     - question_id: environment_renewable_energy
       stance: 2
+      quote: "Advancing Clean Energy & Climate Equity. Passed bold clean energy laws to cut emissions and lower costs."
       explanation: "McDuffie led passage of one of the nation's strongest clean energy standards on DC Council. His platform's Environmental Justice section pledges investments in community solar, expanded weatherization and energy-efficiency upgrades for low-income families, and a 'Climate and Environmental Justice Workforce Initiative' tied to clean energy investments."
       sources:
         - url: https://kenyanmcduffie.com/platform
@@ -437,6 +467,7 @@
 
     - question_id: childcare_universal
       stance: 1
+      quote: "Expand access to affordable childcare by enhancing the Local Child Tax Credit, incentivizing employer-provided childcare benefits, repurposing District-owned space to lower provider costs, streamlining licensing to help centers open and expand faster, encouraging mixed-use developments with childcare facilities, modernizing zoning to support home-based providers."
       explanation: "Platform has a dedicated 'Expand Access to Childcare & Early Learning' section. McDuffie pledges an expanded Local Child Tax Credit, employer incentives, repurposed District-owned space for subsidized care in underserved areas, and updated zoning for home-based childcare. His approach expands access and reduces costs but through targeted measures rather than a universal program."
       sources:
         - url: https://kenyanmcduffie.com/platform
@@ -446,6 +477,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 1
+      quote: "Local residents and elected officials know DC best and do not need federal intervention to keep our city safe and invest in our youth."
       explanation: "Platform's Accountability pillar is titled 'Defend Home Rule and DC Autonomy' — pledges a Day-One directive ending MPD cooperation with ICE, bolstering the Mayor's Office of Legal Counsel for constitutional challenges, and fighting for legislative and budget autonomy. His approach is assertive and uses legal tools, but frames resistance through institutional channels rather than explicit political confrontation."
       sources:
         - url: https://kenyanmcduffie.com/platform
@@ -455,6 +487,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "Commercial Acquisition Fund: $750K grant to help socially disadvantaged entrepreneurs buy their storefront and keep local businesses in DC."
       explanation: "Has a record of investing in small business — he directed $100 million in pandemic relief grants to DC small businesses on the Council — and his platform pairs economic-justice tools with an expanded Local Child Tax Credit and employer incentives. Supportive of relief for small and local businesses, through targeted investment more than broad tax cuts."
       sources:
         - url: https://kenyanmcduffie.com/platform
@@ -513,6 +546,7 @@
   positions:
     - question_id: transit_bike_bus_lanes
       stance: 2
+      quote: "My administration will expand access to reliable public transit, strengthen infrastructure for biking and walking, and accelerate the transition to electric vehicles and cleaner transportation systems."
       explanation: "Proposes Fare-Free DC (eliminating Metrobus and Metrorail fares for DC residents) and calls for expanded transit access, biking and walking infrastructure, and EV transition as part of his Sustainability platform."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -522,6 +556,7 @@
 
     - question_id: crime_public_health
       stance: 1
+      quote: "My administration will expand community-based healthcare and mental health services to address the root causes of trauma and violence."
       explanation: "Supports 'community-based violence prevention and intervention programs that stop crime before it starts' and expanding mental health services to address root causes of trauma and violence alongside law enforcement investment."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -531,7 +566,8 @@
 
     - question_id: crime_more_police
       stance: 2
-      explanation: "Calls for rebuilding MPD 'to the lowest levels in decades' by offering competitive compensation, comprehensive training including mental health crisis intervention, housing incentives, and property tax abatements to help officers live in the communities they serve."
+      quote: "Through my administration, we will rebuild the Metropolitan Police Department (MPD) by offering competitive compensation and comprehensive training, including specialized mental health crisis intervention."
+      explanation: "Calls for rebuilding MPD by offering competitive compensation, comprehensive training including mental health crisis intervention, housing incentives, and property tax abatements to help officers live in the communities they serve."
       sources:
         - url: https://www.goodweatherfordc.com/issues
           title: "Issues — Gary Goodweather for Mayor"
@@ -540,6 +576,7 @@
 
     - question_id: housing_social_model
       stance: 2
+      quote: "support permanently affordable housing through tools like community land trusts and social housing."
       explanation: "Explicitly pledges to 'support permanently affordable housing through tools like community land trusts and social housing' as part of his housing platform."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -549,6 +586,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "Ensure no resident is afraid to call the police, send their child to school, visit a hospital, or access city services because of their immigration status."
       explanation: "Democracy platform explicitly pledges to 'strengthen sanctuary protections by prohibiting DC agencies from cooperating with immigration enforcement without a judicial warrant and preventing the use of local resources for federal immigration activities.' Schools, hospitals, and houses of worship designated as protected spaces."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -558,6 +596,7 @@
 
     - question_id: education_community_schools
       stance: 1
+      quote: "A Goodweather administration will expand after school and summer programs with tutoring, enrichment, and safe spaces for young people."
       explanation: "Supports schools functioning as community hubs: after-school and summer programs, late-night rec centers staffed by mentors, a full-time nurse and mental health clinician in every school, and a Capital Corps Youth Track connecting education to workforce pathways."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -567,6 +606,7 @@
 
     - question_id: education_mental_health_schools
       stance: 2
+      quote: "Every school will have a full time nurse and a mental health clinician so students receive the care they need to succeed."
       explanation: "Explicitly states: 'Every school will have a full time nurse and a mental health clinician so students receive the care they need to succeed.'"
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -576,6 +616,7 @@
 
     - question_id: environment_renewable_energy
       stance: 2
+      quote: "This includes expanding solar installations on public buildings, partnering with federal agencies to create community solar programs that provide bill credits to residents, and scaling innovative systems like geothermal energy and sewer heat recovery that dramatically reduce heating and cooling costs."
       explanation: "Power DC is a signature platform initiative: expanding solar on public buildings, community solar programs with bill credits, geothermal energy, and sewer heat recovery to lower utility bills and reduce reliance on regional energy markets."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -585,6 +626,7 @@
 
     - question_id: parks_rec_funding
       stance: 1
+      quote: "Late night recreation centers will provide supervised spaces staffed by mentors."
       explanation: "Calls for 'late night recreation centers staffed by mentors' and expanded after-school and summer programs with tutoring and enrichment. DPR investment is framed as a safety and opportunity initiative rather than a standalone parks platform."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -594,6 +636,7 @@
 
     - question_id: sanitation_rats
       stance: 2
+      quote: "We will require rat proof trash containers, increase trash collection frequency, expand proven mitigation methods such as dry ice treatment of burrows, and improve data tracking to target problem areas."
       explanation: "Rat Free DC is a signature platform initiative: shifting rodent control to DPW, requiring rodent-proof trash containers citywide, increasing trash collection frequency, scaling dry ice burrow treatment, improving data tracking, and launching a community Rat Block Captain program."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -603,6 +646,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 1
+      quote: "We will litigate when necessary, build coalitions to raise the political cost of interference, and prepare legal and media strategies before threats materialize."
       explanation: "Defend DC is a signature initiative — pledges to prohibit DC agencies from cooperating with immigration enforcement without a judicial warrant and designate schools, hospitals, and houses of worship as protected spaces. His platform is firm on protecting DC residents from federal overreach but frames it as defensive measures and fierce advocacy rather than explicitly confrontational political resistance."
       sources:
         - url: https://www.goodweatherfordc.com/defend-dc
@@ -612,6 +656,7 @@
 
     - question_id: housing_topa_restore
       stance: -1
+      quote: "TOPA also disproportionately burdens small landlords with delays of up to 420 days on building sales."
       explanation: "Goodweather's Affordable DC plan explicitly critiques TOPA, citing a DC Policy Center study showing 95% of TOPA transactions result in the building remaining a rental rather than producing tenant ownership. He also notes TOPA burdens small landlords with delays of up to 420 days. He proposes replacing TOPA with cooperative conversion programs, a DC Homebuilding Act, and tenant-to-owner collaboration partnerships."
       sources:
         - url: https://www.goodweatherfordc.com/housing
@@ -621,6 +666,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 1
+      quote: "Audit of DC's Housing Agency within the first 100 days — examining how Housing Production Trust Fund dollars have been allocated, which projects delivered, and which did not."
       explanation: "Goodweather supports maintaining and properly deploying the Housing Production Trust Fund but calls for a forensic audit in the first 100 days to examine how dollars have been allocated and which projects delivered. His 50,000-home / 36,000-affordable-unit target requires substantial ongoing HPTF investment, but he emphasizes accountability over simply increasing the fund."
       sources:
         - url: https://www.goodweatherfordc.com/housing
@@ -630,6 +676,7 @@
 
     - question_id: childcare_universal
       stance: 1
+      quote: "Early Childhood Development Corps: Supports daycare centers, pre-K classrooms, and early learning hubs across the city."
       explanation: "Goodweather pledges to defend the Pay Equity Fund for childcare workers and expand Pre-K 3 and Pre-K 4 seats. His Capital Corps includes an Early Childhood Development Corps branch supporting daycare centers and early learning hubs. His approach expands access and workforce capacity rather than framing childcare as a universal entitlement program."
       sources:
         - url: https://www.goodweatherfordc.com/5e04fbaf-ad3f-403f-adbc-556b8c19fdfc
@@ -639,6 +686,7 @@
 
     - question_id: federal_workers_advocate
       stance: 2
+      quote: "Rapid-response economic support when federal workforce disruptions impact D.C."
       explanation: "Goodweather's Defend DC plan explicitly lists 'Rapid-response economic support when federal workforce disruptions impact D.C.' His RISE Act includes a federal workforce transition pipeline into tech and AI-adjacent careers, and free AI retraining at libraries for displaced federal workers. He pledges to 'advocate fiercely for federal policies that mirror the RISE Act's protections.'"
       sources:
         - url: https://www.goodweatherfordc.com/defend-dc
@@ -648,6 +696,7 @@
 
     - question_id: transit_fare_free_buses
       stance: 2
+      quote: "Fare-Free DC eliminates fares on all Metrobus and Metrorail service for DC residents."
       explanation: "'Fare-Free DC' is one of his four signature initiatives: eliminating Metrobus and Metrorail fares for DC residents, which he says would save regular riders roughly $1,000 per year."
       sources:
         - url: https://www.goodweatherfordc.com/issues
@@ -716,6 +765,7 @@
 
     - question_id: crime_public_health
       stance: 1
+      quote: "Drug court expansion for non-violent offenders."
       explanation: "Platform includes violence interruption programs in high-risk areas, drug court expansion for non-violent offenders, mental health and addiction treatment services in corrections, and youth intervention through mentorship and job training — alongside community policing reforms and enhanced prosecution of repeat offenders."
       sources:
         - url: https://ernestformayor2026.com/
@@ -725,6 +775,7 @@
 
     - question_id: parks_rec_funding
       stance: 1
+      quote: "After-school programs in high-crime areas"
       explanation: "Youth intervention platform calls for 'after-school programs in high-crime areas, sports and recreational opportunities, conflict resolution and leadership training' — implying support for parks and recreation-type programming, though DPR is not named explicitly."
       sources:
         - url: https://ernestformayor2026.com/
@@ -734,6 +785,7 @@
 
     - question_id: transit_congestion_pricing
       stance: 1
+      quote: "Install tolls on major commuter arteries into the District"
       explanation: "His 'Growing Revenue Without Raising Taxes' plan proposes to 'Install tolls on major commuter arteries into the District' — a road-pricing approach aimed at out-of-District commuters, in the same family as congestion pricing."
       sources:
         - url: https://ernestformayor2026.com/
@@ -743,6 +795,7 @@
 
     - question_id: fiscal_progressive_taxation
       stance: 1
+      quote: "Tax high-value properties that are currently exempt"
       explanation: "His revenue plan proposes to 'tax currently exempt high-value properties' to fund city services and his Beautify DC jobs initiative, preferring targeted expansion of the tax base over broad new corporate tax hikes. Frames this as growing revenue rather than raising taxes on businesses or workers."
       sources:
         - url: https://ernestformayor2026.com/
@@ -808,6 +861,7 @@
   positions:
     - question_id: youth_curfew_support
       stance: 2
+      quote: "Curfew: Individuals under 18 must be off DC streets Sunday–Thursday, 11:00 PM–6:00 AM, with defined exceptions."
       explanation: "Orange Plan explicitly mandates: 'Curfew: Individuals under 18 must be off DC streets Sunday–Thursday, 11:00 PM–6:00 AM, with defined exceptions.' This is one of ten named pillars in his governing blueprint."
       sources:
         - url: https://orangeformayor.com/
@@ -817,6 +871,7 @@
 
     - question_id: youth_curfew_programming
       stance: 1
+      quote: "Mandate youth apprenticeship programs across all DC agencies and intergovernmental agencies."
       explanation: "Orange pairs his curfew with youth opportunity measures: 'Mandate youth apprenticeship programs across all DC agencies and intergovernmental agencies' and scale apprenticeships to match MBSYEP. The framing is accountability plus workforce opportunity rather than the broader recreation/mental health investment the question describes."
       sources:
         - url: https://orangeformayor.com/
@@ -826,6 +881,7 @@
 
     - question_id: crime_more_police
       stance: 2
+      quote: "Restore and maintain a sworn police force of approximately 4,100 officers."
       explanation: "Orange Plan explicitly calls to 'Restore and maintain a sworn police force of approximately 4,100 officers,' framing it as foundational to residents' quality of life and DC's visitor economy."
       sources:
         - url: https://orangeformayor.com/
@@ -835,6 +891,7 @@
 
     - question_id: fiscal_progressive_taxation
       stance: -2
+      quote: "Stimulate economic activity to grow revenue rather than raising taxes."
       explanation: "'Economic Growth Without Raising Taxes' is an explicit platform pillar — pledges to stimulate economic activity to grow revenue rather than raising taxes, circulate DC dollars locally through Certified Business Enterprises, and achieve fiscal discipline and AAA credit restoration. He explicitly rejects the premise that DC should raise taxes to fund services."
       sources:
         - url: https://orangeformayor.com/
@@ -844,6 +901,7 @@
 
     - question_id: home_rule_dc_resist
       stance: -1
+      quote: "Work pragmatically with federal partners to advance shared goals."
       explanation: "'Working pragmatically with Congress and the White House' is one of his ten platform pillars. He frames pragmatic engagement as the realistic path to advancing DC's interests given federal constitutional authority over the District — prioritizing deal-making over confrontation, even while supporting DC statehood and Home Rule preservation."
       sources:
         - url: https://orangeformayor.com/
@@ -853,6 +911,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "Circulate DC dollars within the District by strengthening Certified Business Enterprises and local businesses."
       explanation: "His Orange Plan pillar 'Economic Growth Without Raising Taxes' pledges to 'stimulate economic activity to grow revenue rather than raising taxes,' circulate DC dollars locally by strengthening Certified Business Enterprises and local businesses, and support small business investment — a pro-small-business, no-tax-increase posture."
       sources:
         - url: https://orangeformayor.com/
@@ -921,6 +980,7 @@
   positions:
     - question_id: transit_bike_bus_lanes
       stance: 1
+      quote: "I will support better bus lanes, clearer enforcement of blocked bus zones, transit signal priority, safe and comfortable bus stops, and real-time communication that riders can actually trust."
       explanation: "Transportation platform supports bus priority, transit signal priority, protected bike lanes 'where appropriate,' and better bus lanes with enforcement of blocked bus zones. The qualifier 'where appropriate' reflects geographic judgment; overall stance is clearly supportive."
       sources:
         - url: https://riniformayor.com/
@@ -939,6 +999,7 @@
 
     - question_id: mpd_ice_cooperation
       stance: 2
+      quote: "There should be no data sharing between MPD and ICE, and no local resources used to facilitate fear-based enforcement actions that undermine community trust."
       explanation: "Statehood platform explicitly states: 'There should be no data sharing between MPD and ICE, and no local resources used to facilitate fear-based enforcement actions that undermine community trust.' She also pledges a full audit of every point of contact between DC government and federal enforcement agencies."
       sources:
         - url: https://riniformayor.com/
@@ -948,6 +1009,7 @@
 
     - question_id: housing_production_trust_fund
       stance: 1
+      quote: "I will protect the Housing Production Trust Fund and the Local Rent Supplement Program, while requiring better transparency on lease-up timelines and outcomes so public dollars lead to real housing placements."
       explanation: "Platform explicitly states: 'I will protect the Housing Production Trust Fund and the Local Rent Supplement Program, while requiring better transparency on lease-up timelines and outcomes so public dollars lead to real housing placements.' Framing is protection and accountability rather than significant expansion."
       sources:
         - url: https://riniformayor.com/
@@ -957,6 +1019,7 @@
 
     - question_id: crime_public_health
       stance: 1
+      quote: "I will audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations."
       explanation: "Public safety platform pledges to 'audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations.' Combines professional policing, evidence-based prevention, and youth opportunity without a purely enforcement frame."
       sources:
         - url: https://riniformayor.com/
@@ -966,6 +1029,7 @@
 
     - question_id: parks_rec_funding
       stance: 1
+      quote: "I will strengthen after-school and evening programming, including initiatives like Late Night Hype, so young residents have structured, safe spaces during high-risk hours."
       explanation: "Platform pledges to strengthen after-school and evening programming including 'Late Night Hype' so young residents have 'structured, safe spaces during high-risk hours,' and to expand MBSYEP with stronger job matching and long-term outcome tracking. Supports parks/rec-type investment primarily through a youth safety and opportunity lens."
       sources:
         - url: https://riniformayor.com/
@@ -975,6 +1039,7 @@
 
     - question_id: education_mental_health_schools
       stance: 1
+      quote: "My education agenda begins with fixing the basics students need every single day: safe and functional school buildings, stable staffing, strong attendance, reliable transportation, mental health support, and classrooms where learning can happen consistently."
       explanation: "Education platform identifies 'untreated mental health needs' as a key driver of the 40% chronic absenteeism rate and calls for connecting at-risk students to health providers through interagency coordination. Supports mental health support as part of wraparound services strategy, though does not specifically mandate a dedicated clinician in every school."
       sources:
         - url: https://riniformayor.com/
@@ -984,6 +1049,7 @@
 
     - question_id: education_community_schools
       stance: 1
+      quote: "As Mayor, I will strengthen and better coordinate the city’s existing attendance efforts by bringing together DCPS, charter schools, WMATA, OSSE, health providers, and family outreach teams to identify at-risk students earlier and intervene faster."
       explanation: "Education platform calls for 'bringing together DCPS, charter schools, WMATA, OSSE, health providers, and family outreach teams to identify at-risk students earlier and intervene faster' — a coordinated wraparound approach aligned with the community schools model, though the specific program is not named."
       sources:
         - url: https://riniformayor.com/
@@ -993,6 +1059,7 @@
 
     - question_id: housing_upzoning
       stance: 1
+      quote: "I support modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit."
       explanation: "Housing platform supports 'modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit' to reduce construction costs and create walkable, family-sized housing — supportive of density reform, with 'where appropriate' qualifiers."
       sources:
         - url: https://riniformayor.com/
@@ -1011,6 +1078,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "DC should be the easiest city in America to start a business and keep it open."
       explanation: "Built a Small Business Permitting Concierge prototype and pledges to make DC 'the easiest city in America to start a business and keep it open,' cutting the bureaucracy, fees, and delays behind DC's nation-leading first-year business failure rate — focused on reducing red tape and fees more than cutting business taxes specifically."
       sources:
         - url: https://riniformayor.com/
@@ -1020,6 +1088,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 1
+      quote: "I support using every lawful tool available, including litigation and emergency local legislation when necessary, to protect residents from political gamesmanship and ensure predictability in city governance."
       explanation: "Pledges no data sharing between MPD and ICE and a full audit of every contact between DC government and federal enforcement agencies. Her stance on protecting DC residents is firm, but her execution-first philosophy emphasizes targeted defensive measures rather than a broadly confrontational political posture."
       sources:
         - url: https://riniformayor.com/
@@ -1082,6 +1151,7 @@
   positions:
     - question_id: fiscal_progressive_taxation
       stance: -1
+      quote: "I’m clear about limits. Honest about the budget. Focused on outcomes, not headlines."
       explanation: "Is explicit about 'budget limits rather than promising new spending' and frames her platform around fixing existing city services rather than expanding programs that require new revenue. Her candidacy is built on the premise that DC should 'get the basics right first' rather than adding new tax-funded programs."
       sources:
         - url: https://hopefordc.com/
@@ -1091,6 +1161,7 @@
 
     - question_id: sanitation_rats
       stance: 2
+      quote: "You know what it’s like to watch rats take over parks and sidewalks while City Hall treats it like background noise."
       explanation: "Explicitly names rats as one of the core failures she would fix as mayor: 'You know what it's like to watch rats take over parks and sidewalks while City Hall treats it like background noise.' Listed alongside trash, snow removal, and public safety as the broken basics that must be fixed first."
       sources:
         - url: https://hopefordc.com/
@@ -1100,6 +1171,7 @@
 
     - question_id: econ_small_business_tax_relief
       stance: 1
+      quote: "You know the gut punch of watching neighborhood restaurants and bars close — squeezed by crime, high rents, Initiative 82, and a bureaucracy that never seems to say yes."
       explanation: "Grew up in a family small business and laments that neighborhood restaurants and bars are 'squeezed by crime, high rents, Initiative 82, and a bureaucracy that never seems to say yes,' with 'small business owners buried in paperwork while big developers skip the line' — supportive of easing the burden on small businesses, framed around fees and red tape."
       sources:
         - url: https://hopefordc.com/
@@ -1161,6 +1233,7 @@
   positions:
     - question_id: parks_rec_funding
       stance: 2
+      quote: "DC Parks and Recreation needs to incorporate activities for our teens and “tweens” that will keep them engaged and out of trouble."
       explanation: "Campaign platform explicitly calls for DC Parks and Recreation to incorporate programming for teens and 'tweens' and pledges to collaborate with community leaders, faith leaders, coaches, and clubs to connect youth to DPR services."
       sources:
         - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
@@ -1170,6 +1243,7 @@
 
     - question_id: crime_public_health
       stance: 1
+      quote: "Our policies should address the root cause of crime and incentivize strong community engagement between local police and DC residents."
       explanation: "Campaign values state that public safety policies 'should address the root cause of crime and incentivize strong community engagement between local police and DC residents,' while also calling for transparency in policing communities of color."
       sources:
         - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
@@ -1179,6 +1253,7 @@
 
     - question_id: education_mayoral_control
       stance: 2
+      quote: "For as long as our schools have been under mayoral control, far too many of our students, including those with special needs, remain left behind."
       explanation: "Her Educational Excellence platform states: 'For as long as our schools have been under mayoral control, far too many of our students, including those with special needs, remain left behind. Yaida wants to explore eliminating Mayoral control of our school system and giving power back to elected state board representatives where it belongs.'"
       sources:
         - url: https://www.yaida4dc.com/
