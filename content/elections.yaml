@@ -85,3 +85,21 @@
       title: "City elections in Washington, D.C. (2026) — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+
+- slug: ward5
+  title: "Ward 5 Councilmember"
+  short_description: "Incumbent Zachary Parker faces two challengers in the June 16 Democratic primary."
+  whats_at_stake: |
+    Ward 5 covers a wide swath of Northeast DC including Trinidad, Brentwood,
+    Langdon, Edgewood, Michigan Park, Brookland, Lamond-Riggs, Fort Lincoln,
+    and the Ivy City corridor. Incumbent Councilmember Zachary Parker, the first
+    Black openly gay Council member in DC history, is seeking re-election. The ward
+    has seen significant development pressure along the NoMa, Ivy City, and Rhode
+    Island Avenue corridors and a sharp decline in violent crime under Parker's tenure.
+    Three Democrats are on the primary ballot.
+  election_date: 2026-06-16
+  sources:
+    - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+      title: "City elections in Washington, D.C. (2026) — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-05-31

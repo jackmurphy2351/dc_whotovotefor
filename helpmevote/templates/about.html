@@ -38,11 +38,88 @@
 <section>
   <h2>Methodology</h2>
   <p>
-    For each question you answer, we compare your stance to the candidate's and compute an
-    agreement score: 1.0 for a perfect match, 0.0 for the opposite position, with intermediate
-    values for partial agreement. Questions you skip are excluded. The final match percentage
-    is the average agreement score across all questions you answered where the candidate has
-    a known public stance.
+    Every answer uses a 5-point scale: <em>strongly disagree</em>, <em>disagree</em>,
+    <em>neutral</em>, <em>agree</em>, <em>strongly agree</em>. For each question you answer,
+    we compare your position to the candidate's and look at how many steps apart they are on
+    that scale.
+  </p>
+
+  <h3>Two things you'll see, and why they can differ</h3>
+  <p>
+    Each compared question shows a <strong>label</strong> — the headline
+    <span class="agree-pill agree-yes">Agree</span>,
+    <span class="agree-pill agree-partial">Partial</span>, or
+    <span class="agree-pill agree-no">Disagree</span> — and also feeds the candidate's overall
+    <strong>match&nbsp;percentage</strong>. These measure different things, so they can disagree:
+  </p>
+  <ul>
+    <li>
+      <strong>The label is a coarse headline: which side are you on?</strong>
+      It uses simple, intuitive rules:
+      <ul>
+        <li><strong>Agree</strong> — the same position.</li>
+        <li>
+          <strong>Partial</strong> — one step apart: you're on the <em>same side</em> and differ
+          only in intensity (for example, <em>strongly agree</em> vs. <em>agree</em>).
+        </li>
+        <li>
+          <strong>Disagree</strong> — two or more steps apart. Opposite sides, or one of you is
+          neutral while the other is committed, counts as disagreement — not "partial" agreement.
+        </li>
+      </ul>
+    </li>
+    <li>
+      <strong>The percentage is the fine print: how far apart are you, exactly?</strong>
+      It scales smoothly with the gap — 100% for an identical answer down to 0% for the polar
+      opposite — and the final match percentage is the average of those values across every
+      question you answered where the candidate has a known public stance. Keeping it graded is
+      what lets a candidate who is only <em>mildly</em> off your views rank above one who is
+      <em>diametrically</em> opposed.
+    </li>
+  </ul>
+  <p>
+    Because of this, you may see a <span class="agree-pill agree-no">Disagree</span> label on a
+    question that still contributed a partial amount (say, 50%) to the percentage. That's
+    intended: you can land on opposite sides yet not be maximally far apart.
+  </p>
+
+  <h3>Worked examples</h3>
+  <p>
+    Here is exactly how each case looks, from an identical answer to a complete opposite — the
+    cards below render just like the question-by-question breakdown on your results page:
+  </p>
+
+  <div class="answer-detail-list methodology-examples">
+    {% set examples = [
+      ("Strongly agree", "Strongly agree", 0, "yes", "Agree", "100%"),
+      ("Strongly agree", "Agree", 1, "partial", "Partial", "75%"),
+      ("Agree", "Disagree", 2, "no", "Disagree", "50%"),
+      ("Strongly agree", "Disagree", 3, "no", "Disagree", "25%"),
+      ("Strongly agree", "Strongly disagree", 4, "no", "Disagree", "0%")
+    ] %}
+    {% for you, cand, gap, cls, label, pct in examples %}
+    <div class="answer-detail">
+      <p class="answer-detail-prompt">
+        {{ gap }} step{{ "s" if gap != 1 }} apart &middot; contributes {{ pct }} to the match
+      </p>
+      <div class="answer-detail-compare">
+        <div class="answer-col answer-col-you">
+          <span class="answer-col-label">Your answer</span>
+          <span class="answer-stance">{{ you }}</span>
+        </div>
+        <div class="answer-col answer-col-cand">
+          <span class="answer-col-label">Candidate</span>
+          <span class="answer-stance">{{ cand }}</span>
+        </div>
+        <span class="agree-pill agree-{{ cls }}">{{ label }}</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <p>
+    Questions you skip — and questions where the candidate has no known public stance — are
+    excluded entirely. They get no label and never count toward the percentage.
   </p>
   <p>
     A candidate with no known stances on any of your answered questions is shown as

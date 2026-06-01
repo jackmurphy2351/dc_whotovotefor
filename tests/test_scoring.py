@@ -121,6 +121,41 @@ class TestMatchScore:
         assert result.match_percent == pytest.approx(75.0)
 
 
+class TestAgreementLabel:
+    """The pill label is coarse and gap-driven, independent of the continuous
+    agreement value that feeds the percentage."""
+
+    @pytest.mark.parametrize(
+        "user, cand, expected",
+        [
+            (2, 2, "agree"),       # 0 steps
+            (-1, -1, "agree"),     # 0 steps
+            (2, 1, "partial"),     # 1 step, same side
+            (-2, -1, "partial"),   # 1 step, same side
+            (1, -1, "disagree"),   # 2 steps
+            (2, -1, "disagree"),   # 3 steps
+            (2, -2, "disagree"),   # 4 steps, opposite
+            (2, 0, "disagree"),    # 2 steps, committed vs neutral
+        ],
+    )
+    def test_label_by_gap(self, user, cand, expected):
+        candidate = make_candidate([("q1", cand)])
+        questions = make_questions(["q1"])
+        issues = make_issues("housing")
+
+        result = match_score({"q1": user}, candidate, questions, issues)
+        assert result.details[0].agreement_label == expected
+
+    def test_label_none_when_candidate_stance_unknown(self):
+        candidate = make_candidate([("q1", None)])
+        questions = make_questions(["q1"])
+        issues = make_issues("housing")
+
+        result = match_score({"q1": 2}, candidate, questions, issues)
+        assert result.details[0].agreement_label is None
+        assert result.details[0].distance is None
+
+
 class TestAnswerDetails:
     def test_detail_per_answered_question(self):
         candidate = make_candidate([("q1", 2), ("q2", -2)])

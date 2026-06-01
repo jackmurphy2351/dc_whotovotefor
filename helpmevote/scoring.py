@@ -30,9 +30,27 @@ class AnswerDetail:
     user_stance: int  # user always has a stance in the answered set
     candidate_stance: int | None  # None = candidate has no known position
     agreement: float | None  # 0..1; None when candidate stance is unknown
+    distance: int | None  # steps apart on the -2..+2 scale; None when stance unknown
     explanation: str
     quote: str
     sources: tuple[Source, ...]
+
+    @property
+    def agreement_label(self) -> str | None:
+        """Coarse headline label for the pill, driven by step distance (not the
+        continuous agreement value used for the percentage):
+          - identical position (0 steps) -> "agree"
+          - one step apart (same side, differing intensity) -> "partial"
+          - two or more steps apart -> "disagree"
+        Returns None when the candidate has no known stance (no pill shown).
+        """
+        if self.distance is None:
+            return None
+        if self.distance == 0:
+            return "agree"
+        if self.distance == 1:
+            return "partial"
+        return "disagree"
 
 
 @dataclass
@@ -110,6 +128,7 @@ def match_score(
                 user_stance=user_stance,
                 candidate_stance=None,
                 agreement=None,
+                distance=None,
                 explanation=position.explanation if position else "",
                 quote=position.quote if position else "",
                 sources=position.sources if position else (),
@@ -126,6 +145,7 @@ def match_score(
             user_stance=user_stance,
             candidate_stance=position.stance,
             agreement=agreement,
+            distance=distance,
             explanation=position.explanation,
             quote=position.quote,
             sources=position.sources,

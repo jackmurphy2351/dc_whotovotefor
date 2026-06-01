@@ -1,0 +1,372 @@
+# Ward 5 Councilmember candidates — 2026 DC Democratic Primary
+# Three Democrats are on the primary ballot.
+# Incumbent: Zachary Parker (elected 2022)
+# Source: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+
+- id: zachary-parker
+  name: "Zachary Parker"
+  election_slug: ward5
+  in_fair_elections: false
+  campaign_url: https://www.zacharyparker2026.com/
+  endorsements: []
+  short_bio: >
+    Incumbent Ward 5 Councilmember and the first Black openly gay Council member in
+    DC history. Former 7th-grade math teacher and DC State Board of Education President
+    (2021). Delivered the District Child Tax Credit ($1,000 per child under 18),
+    helped produce a 35% drop in violent crime, chairs the Committee on Youth Affairs,
+    and secured additional labor protections in the Commanders stadium deal.
+  long_bio: |
+    Zachary Parker is an educator, public servant, and transformative leader dedicated
+    to building communities where all residents can thrive. He earned a Bachelor of
+    Science from Northwestern University and a Master of Arts from Columbia University,
+    Teachers College, and began his career as a 7th-grade math teacher before spending
+    nearly a decade supporting DC school leaders to improve student learning.
+
+    In 2018, Ward 5 residents elected Zach to the DC State Board of Education, where he
+    was unanimously chosen as President in 2021. In 2022, Ward 5 neighbors elected him
+    to the DC Council, where he serves as the only openly gay member and the first Black
+    openly gay member in Council history.
+
+    Parker is considered a progressive member of the Council, though not dogmatically so.
+    In his first term he developed and funded the District Child Tax Credit, making DC the
+    first city in the nation to provide a local child tax credit of $1,000 per child under
+    18 — projected to cut childhood poverty by about 25%. He secured additional labor
+    protections and benefits in the Commanders stadium deal at RFK. He contributed to a
+    35% drop in violent crime in Ward 5 from 2023 to 2024 (the steepest decline in the
+    city) and an approximate 15% drop in 2025. As Chair of the Committee on Youth Affairs,
+    he passed and funded the Child Behavioral Health Services Dashboard, passed the School
+    Improvement Amendment Act, and introduced the 16-bill C.A.R.E. for Youth Plan
+    addressing everything from higher pay for summer jobs to reducing truancy. He secured
+    $1 million for the DC LGBTQ+ Center, established two new parks in Lamond-Riggs and
+    Carver-Langston, advanced the Fort Lincoln Recreation Center, and secured nearly
+    $500,000 in grants to support small businesses along Rhode Island Avenue. He is a
+    proud member of Alpha Phi Alpha Fraternity, Incorporated.
+  advisories: []
+  sources:
+    - url: https://www.zacharyparker2026.com/
+      title: "Zachary Parker for Ward 5 — Campaign Website"
+      publisher: "Zachary Parker Campaign"
+      accessed: 2026-05-31
+    - url: https://51st.news/dc-juvenile-justice-and-child-welfare-systems-zachary-parker-bill/
+      title: "Opinion: Locking kids up isn't working. Here's what we should do instead."
+      publisher: "The 51st"
+      accessed: 2026-05-31
+    - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+      title: "Your guide to the June 16 DC primary — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-31
+  positions:
+    - question_id: crime_public_health
+      stance: 2
+      quote: "Zach approaches safety holistically, not by simply expanding enforcement, but by investing in jobs, behavioral health services, and neighborhood partnerships."
+      explanation: "Contributed to a 35% drop in violent crime in Ward 5 through holistic, non-enforcement-first approaches — investing in behavioral health, jobs, and community partnerships. Pushed for targeted opioid abatement investments in Ivy City to ensure resources for treatment, prevention, and community-based response reach the neighborhoods most affected."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-05-31
+
+    - question_id: youth_curfew_support
+      stance: -1
+      quote: "Even well meaning legislators can do harm when they reach for 'quick fixes' to complicated problems. One such fix is locking up youth without addressing the root causes of their behavior."
+      explanation: "Opposes punitive quick-fix approaches to youth crime, arguing they 'fly in the face of definitive research on what it takes to help youth succeed: restorative justice, trauma-informed care, and access to quality education and economic opportunity.' Frames durable safety as coming from healing trauma, supporting families, and investing in communities rather than enforcement-first measures like curfews."
+      sources:
+        - url: https://51st.news/dc-juvenile-justice-and-child-welfare-systems-zachary-parker-bill/
+          title: "Opinion: Locking kids up isn't working. Here's what we should do instead."
+          publisher: "The 51st"
+          accessed: 2026-05-31
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      quote: "Expand access to work-based learning and career technical education. Increase pay for participants in the District's youth employment leadership program."
+      explanation: "Introduced the 16-bill C.A.R.E. for Youth Plan — developed with impacted youth, families, advocacy groups, and agency employees — to address gaps in juvenile justice and child welfare. The package expands work-based learning and career technical education, increases pay for youth employment program participants, aims to improve school attendance, and ensures education continuity for youth in and exiting custody."
+      sources:
+        - url: https://51st.news/dc-juvenile-justice-and-child-welfare-systems-zachary-parker-bill/
+          title: "Opinion: Locking kids up isn't working. Here's what we should do instead."
+          publisher: "The 51st"
+          accessed: 2026-05-31
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      quote: "Passed and funded the Child Behavioral Health Services Dashboard to help families access care and support faster."
+      explanation: "Passed and funded the Child Behavioral Health Services Dashboard to help families access behavioral health care faster. Strengthened oversight of child welfare and rehabilitation systems, helped expand education services for incarcerated youth, and addressed social worker vacancies so foster care youth receive the support they deserve."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-05-31
+
+    - question_id: parks_rec_funding
+      stance: 2
+      quote: "Established two new parks in Lamond-Riggs and Carver-Langston. Advanced long-stalled community projects like the Fort Lincoln Recreation Center."
+      explanation: "Established two new parks in Lamond-Riggs and Carver-Langston, and advanced the long-stalled Fort Lincoln Recreation Center. Revived community traditions like Ward 5 Day. Expanded Ward 5's tree canopy by partnering with organizations like Casey Trees to reduce heat and pollution."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-05-31
+
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      quote: "Co-introduced the STEER Act to hold reckless out-of-state drivers accountable, secured closure of the 8th Street gap on the Metropolitan Branch Trail to protect cyclists and pedestrians, and has advocated for safer street design to curb reckless driving."
+      explanation: "Co-introduced the STEER Act to hold reckless out-of-state drivers accountable, secured closure of the 8th Street gap on the Metropolitan Branch Trail to protect cyclists and pedestrians, and advocated for safer street design to curb reckless driving throughout Ward 5."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-05-31
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      quote: "Neighbors are losing jobs, housing instability and displacement plague the District, and DC's right to self-governance is under threat. Through it all, Zach has stood firm against federal overreach."
+      explanation: "Stood firm against federal overreach on DC's self-governance throughout his first term. Fought to ensure the RFK redevelopment deal supports strong labor standards and creates union jobs for DC residents, asserting local community interests against external pressure."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-05-31
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      quote: "Passed legislation lowering permitting fees for breweries. Secured nearly $500,000 in grants to support small businesses along Rhode Island Avenue."
+      explanation: "Passed legislation lowering permitting fees for breweries, secured nearly $500,000 in grants to support small businesses along Rhode Island Avenue through a multi-year revitalization effort, and supported the creation of Station DC, a transformative tech hub in Union Market. Championed grocery store investments in Lamond Riggs, Brookland, and the Reservoir District."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-05-31
+
+    - question_id: fiscal_progressive_taxation
+      stance: 1
+      quote: "The CTC will put money back into the pockets of families and is projected to cut childhood poverty by about 25% in DC."
+      explanation: "Developed and funded the District Child Tax Credit, which provides $1,000 per child under 18 to working-class families — a redistributive policy funded through the District's progressive revenue structure. His focus on targeted investments for working-class and low-income families reflects support for using the tax system progressively."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-05-31
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      quote: "Effective leadership means resisting the urge to fall back on surface-level solutions and committing to the deeper work: healing trauma, supporting families, and investing in communities."
+      explanation: "Advocates for restorative justice, trauma-informed care, and expanded education over punitive enforcement for youth. His C.A.R.E. for Youth legislation emphasizes counseling, support, and rehabilitation rather than police-based approaches — consistent with preferring mental-health staff and social workers over police in school settings."
+      sources:
+        - url: https://51st.news/dc-juvenile-justice-and-child-welfare-systems-zachary-parker-bill/
+          title: "Opinion: Locking kids up isn't working. Here's what we should do instead."
+          publisher: "The 51st"
+          accessed: 2026-05-31
+
+- id: bernita-carmichael
+  name: "Bernita Carmichael"
+  election_slug: ward5
+  in_fair_elections: true
+  campaign_url: https://carmichael2026.com/
+  endorsements: []
+  short_bio: >
+    Washington, DC native, Enterprise Risk Management professional, and senior DC
+    Democratic Party member. Proposing her "Future of Ward 5 Legislation" package:
+    higher CBA standards for developers, commercial corridor revitalization, and
+    workforce development. Wants to build 36,000 housing units per year citywide
+    (20,000 affordable). Participates in DC Fair Elections small-donor matching.
+  long_bio: |
+    Bernita Carmichael is a proud Washington, DC native. Born at Walter Reed Army
+    Medical Center in Ward 4 and raised in Brightwood and Riggs Park, she is a graduate
+    of Phelps High School and the University of the District of Columbia. As the daughter
+    of a Gulf War Army Medic, she learned the value of community service early.
+
+    With over 15 years of experience in DC government, she secured the first accreditation
+    for the DC Department of Corrections under the DC Jail Improvement Act of 2004 and
+    enhanced emergency response capabilities for DC Child Care Centers at OSSE. She holds
+    credentials as a pro-board fire inspector and a general industry occupational safety
+    and health trainer.
+
+    A civic leader, Carmichael currently serves as a DC Democratic Party Committeewoman
+    and member of the Ward 5 Leadership Council. She organized the National Federation of
+    Democratic Women's virtual conference during COVID-19, served as an At-Large Delegate
+    for President Biden in 2020, and mobilized five charter buses from Ward 5 in support
+    of Vice President Kamala Harris in 2024. She is also an active member of the Junior
+    League of Washington.
+
+    Her campaign participates in the DC Fair Elections program, where contributions from
+    DC donors are matched 5-to-1. Her centerpiece proposal is the "Future of Ward 5
+    Legislation," a package of bills that would increase standards for Community Benefits
+    Agreements negotiated between developers and residents when large projects are built,
+    spur revitalization of Ward 5's commercial corridors, and provide more workforce
+    development and job opportunities for native Washingtonians. On housing, she has set
+    an ambitious goal of building 36,000 units per year citywide, with 20,000 of them for
+    low- and moderate-income residents. (For context, Mayor Bowser built roughly 36,000
+    units over five years.) Her other priorities include increasing affordable homeownership,
+    senior advocacy, and strengthening Ward 5's local and global business ecosystem.
+  advisories: []
+  sources:
+    - url: https://carmichael2026.com/
+      title: "Bernita Carmichael for Ward 5 — Campaign Website"
+      publisher: "Carmichael 2026 Campaign"
+      accessed: 2026-05-31
+    - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+      title: "Your guide to the June 16 DC primary — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-31
+  positions:
+    - question_id: crime_public_health
+      stance: 2
+      quote: "Expand funding for violence interrupter programs and credible messenger organizations operating in Ward 5. Partner with Cure the Streets, ONSE, and local non-profits."
+      explanation: "Would expand funding for violence interrupter programs and credible messenger organizations; partner with Cure the Streets, ONSE, and local nonprofits; and create Ward 5-specific Community Violence Intervention hubs in Edgewood, Trinidad, and Langdon. Also supports CPTED investments (lighting, cameras, park maintenance) and youth violence prevention through mentorship programs at Ward 5 high schools."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: housing_rent_stabilization
+      stance: 1
+      explanation: "Supports strengthening tenant protections including TOPA enforcement, expanding emergency rental assistance for Ward 5 households through community organizations, and working with DHCD to bring more Ward 5 buildings under Affordable Dwelling Unit covenants. Focused on enforcement and assistance mechanisms rather than explicitly expanding coverage to newer buildings."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: housing_topa_restore
+      stance: 1
+      quote: "Strengthen enforcement of the Tenant Opportunity to Purchase Act (TOPA) in Ward 5."
+      explanation: "Explicitly calls for strengthening enforcement of TOPA in Ward 5. Also supports emergency rental assistance expansions through community organizations and working with DHCD to bring more Ward 5 buildings under ADU covenants. Focused on enforcement of existing protections rather than full restoration of rolled-back TOPA coverage."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      quote: "Advocate for dedicated Ward 5 allocations from the DC Housing Production Trust Fund (HPTF)."
+      explanation: "Would advocate for dedicated Ward 5 allocations from the DC HPTF and support government-owned mixed-income development on DC-owned land parcels throughout Ward 5. Calls for a minimum of 30–60% affordable units (at AMIs of 30–80%) in all new large developments and champions workforce housing for teachers, police officers, and the medical community."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      quote: "Heighten awareness of the Marion Barry Summer Youth Employment Program to increase participation. Fund after-school and mentorship programs at Dunbar, Cardozo, and Coolidge High Schools serving Ward 5 youth."
+      explanation: "Would heighten awareness of the Marion Barry Summer Youth Employment Program, fund after-school and mentorship programs at Ward 5 high schools, and advocate for recreation center upgrades within her first term. Frames youth programming as a core public safety strategy alongside violence interruption."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: parks_rec_funding
+      stance: 2
+      quote: "Advocate for recreation center upgrades in Ward 5 within the first term."
+      explanation: "Would advocate for recreation center upgrades in Ward 5 within the first term, fund after-school and mentorship programs at Ward 5 high schools, and invest in upgrading and expanding programming at Ward 5 senior wellness centers in partnership with DPR and DACL."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      quote: "Establish a Ward 5 Small Business Navigator, a dedicated DSLBD liaison embedded in the ward. Create a Ward 5 Storefront Activation Grant program in partnership with the DC Main Street program."
+      explanation: "Would establish a Ward 5 Small Business Navigator (a dedicated DSLBD liaison embedded in the ward), create a Ward 5 Storefront Activation Grant program, and advocate for commercial rent stabilization pilots for small businesses in major corridors. Emphasizes navigation and grant support alongside her call for global and manufacturing business attraction to bring jobs to Ward 5."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: education_mental_health_schools
+      stance: 2
+      quote: "Support increased school-based mental health counselor ratios in all Ward 5 DC Public Schools."
+      explanation: "Would support increased school-based mental health counselor ratios in all Ward 5 DCPS schools, fund after-school therapeutic programming in collaboration with DYRS for students and parents, and create partnerships with HBCU and university psychology programs for training clinics serving Ward 5 youth. Also supports establishing a Ward 5 Community Mental Health Hub with walk-in counseling, peer support, and crisis stabilization."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: crime_more_police
+      stance: 1
+      quote: "Increase police presence at Ward 5 Metro stations. Advocate for MPD deployment strategies prioritizing Ward 5 hot spots, particularly along the NY and Rhode Island Ave corridors."
+      explanation: "Would advocate for MPD deployment strategies prioritizing Ward 5 crime hot spots and increase police presence at Ward 5 Metro stations. Pairs this with accountability measures — body camera transparency, independent use-of-force oversight, and a Ward 5 Community Policing Liaison — framing police deployment as one part of a broader public safety mix alongside violence interruption."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-05-31
+
+    - question_id: housing_upzoning
+      stance: 2
+      quote: "She also wants to build 36,000 units of housing a year, 20,000 of them for low- and moderate-income residents."
+      explanation: "Has set an extremely ambitious housing production goal of 36,000 units per year citywide, with 20,000 of them for low- and moderate-income residents. For context, Mayor Bowser built roughly 36,000 units over five years. Reaching that pace would require dramatically expanding zoning capacity and density across the District. Her Future of Ward 5 Legislation also calls for increased Community Benefits Agreement standards in large developments, pairing density with stronger community protections."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-05-31
+
+- id: bridget-french
+  name: "Bridget French"
+  election_slug: ward5
+  in_fair_elections: false
+  campaign_url: https://www.frenchforfive.com/
+  endorsements: []
+  short_bio: >
+    Twenty-year DC resident and clean energy policy professional who helped launch DC's
+    first energy programs through the DC Sustainable Energy Utility. Announced March
+    2026. Focuses on lowering residents' monthly bills (especially utility costs),
+    making it easier to open and run small businesses, and improving government services
+    for families. "We don't need more programs — we need the ones we already fund to
+    actually work together."
+  long_bio: |
+    Bridget French has called DC home for nearly 20 years. She grew up in a
+    working-class family in Fort Lauderdale, where her parents ran a small business.
+    After college she served as a Peace Corps Volunteer in Honduras, working with
+    communities to protect natural resources and support sustainable economic
+    opportunities.
+
+    Early in her career, she worked on some of DC's first energy programs through the
+    DC Sustainable Energy Utility, helping launch initiatives that reduced costs for
+    residents and businesses across the city. Today she works with decision-makers
+    across the country to advance practical, cost-effective energy solutions, with a
+    focus on lowering costs and improving people's lives through good energy policy.
+    She and her husband live in Ward 5 with their two rescue dogs.
+
+    Her platform centers on three themes: lowering everyday costs (with a particular
+    emphasis on utility bills), making DC's programs for young people and families
+    actually work together through improved coordination and accountability across
+    agencies ("We don't need more programs — we need the ones we already fund to actually
+    work together"), and helping Ward 5 small businesses stay open, grow, and hire
+    locally.
+  advisories: []
+  sources:
+    - url: https://www.frenchforfive.com/
+      title: "Bridget French for Ward 5 — Campaign Website"
+      publisher: "Bridget French Campaign"
+      accessed: 2026-05-31
+    - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+      title: "Your guide to the June 16 DC primary — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-05-31
+  positions:
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      quote: "I'll focus on making it easier to open, operate, and sustain a business — so our commercial corridors stay vibrant and our local economy stays strong."
+      explanation: "Platform highlights 'Thriving Local Businesses' as a core priority: 'Small businesses are the backbone of Ward 5, but many are struggling with rising costs and barriers to growth.' Would focus on reducing barriers to operating a business and keeping commercial corridors vibrant rather than specific tax-cut proposals."
+      sources:
+        - url: https://www.frenchforfive.com/
+          title: "Bridget French for Ward 5 — Campaign Website"
+          publisher: "Bridget French Campaign"
+          accessed: 2026-05-31
+
+    - question_id: environment_renewable_energy
+      stance: 1
+      quote: "I work with decision-makers across the country to advance practical, cost-effective energy solutions."
+      explanation: "Worked on DC's first energy programs through the DC Sustainable Energy Utility, helping launch initiatives that reduced costs for residents and businesses. Her energy platform is framed around 'practical, cost-effective' solutions that lower household bills, suggesting support for renewable investment primarily as a cost-reduction mechanism rather than an aggressive mandate-driven transition."
+      sources:
+        - url: https://www.frenchforfive.com/
+          title: "Bridget French for Ward 5 — Campaign Website"
+          publisher: "Bridget French Campaign"
+          accessed: 2026-05-31

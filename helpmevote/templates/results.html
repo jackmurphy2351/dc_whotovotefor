@@ -107,14 +107,12 @@
               <span class="answer-stance answer-stance-unknown">No known position</span>
               {% endif %}
             </div>
-            {% if d.agreement is not none %}
-              {% if d.agreement >= 0.75 %}
-              <span class="agree-pill agree-yes">Agree</span>
-              {% elif d.agreement >= 0.5 %}
-              <span class="agree-pill agree-partial">Partial</span>
-              {% else %}
-              <span class="agree-pill agree-no">Disagree</span>
-              {% endif %}
+            {% if d.agreement_label == "agree" %}
+            <span class="agree-pill agree-yes">Agree</span>
+            {% elif d.agreement_label == "partial" %}
+            <span class="agree-pill agree-partial">Partial</span>
+            {% elif d.agreement_label == "disagree" %}
+            <span class="agree-pill agree-no">Disagree</span>
             {% endif %}
           </div>
           {% set excerpt = d.quote or d.explanation %}
