@@ -9,7 +9,7 @@
 - id: housing_topa_restore
   issue: tenants_rights
   prompt: "DC should restore and strengthen TOPA (the Tenant Opportunity to Purchase Act) to give tenants the right to purchase their building before it's sold to an outside buyer."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     TOPA (DC Code Title 42, Chapter 34) gives DC tenants a right of first refusal
     when their landlord wants to sell. Recent amendments narrowed its scope.
@@ -23,7 +23,7 @@
 - id: housing_rent_stabilization
   issue: housing
   prompt: "DC should expand rent stabilization to cover more housing, including buildings constructed after 1975."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's rent stabilization law currently covers most units in buildings built
     before 1978 with 5 or more units. Expanding it would protect tens of thousands
@@ -51,7 +51,7 @@
 - id: housing_production_trust_fund
   issue: housing
   prompt: "DC should significantly increase the Housing Production Trust Fund — the city's primary tool for financing affordable housing."
-  applies_to_elections: [mayor, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     The Housing Production Trust Fund (HPTF) finances construction and preservation
     of affordable housing. Mayor Bowser proposed cutting the fund by 50% in her most
@@ -81,7 +81,7 @@
 - id: transit_bike_bus_lanes
   issue: transit
   prompt: "DC should build more protected bike lanes and dedicated bus lanes."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC has expanded its protected bike lane network in recent years, but progress
     has been uneven. Bus lanes on corridors like Georgia Ave and 14th St could
@@ -131,7 +131,7 @@
 - id: education_mental_health_schools
   issue: education
   prompt: "Every DC public school should have a dedicated behavioral health clinician on staff."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     Advocates argue that having mental health professionals in every school can
     reduce behavioral incidents, improve attendance, and provide early intervention
@@ -147,7 +147,7 @@
 - id: crime_public_health
   issue: community_safety
   prompt: "DC should treat violence as a public health problem, investing heavily in violence interruption programs and community-based solutions."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     The Neighborhood Engagement Achieves Results (NEAR) Act, passed by DC Council
     in 2016, established a public-health framework for violence reduction including
@@ -178,7 +178,7 @@
 - id: crime_more_police
   issue: policing
   prompt: "Hiring significantly more MPD officers is a priority for reducing crime in DC."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     MPD has seen its officer count decline significantly below its authorized
     strength in recent years. Both major mayoral candidates support hiring more
@@ -195,7 +195,7 @@
 - id: youth_curfew_support
   issue: youth_curfew
   prompt: "DC should enforce a curfew for minors as a tool to reduce youth crime."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC has had youth curfew legislation for years. Supporters argue curfews can
     reduce juvenile crime and protect young people; opponents say they criminalize
@@ -210,7 +210,7 @@
 - id: youth_curfew_programming
   issue: youth_curfew
   prompt: "Any youth curfew must be paired with substantial investment in alternative programming — jobs, recreation centers, mental health services — for young people."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     Even candidates who support curfews often argue they are only a short-term
     measure and must be accompanied by expanded out-of-school programming, extended
@@ -273,7 +273,7 @@
 - id: environment_renewable_energy
   issue: environment
   prompt: "DC should aggressively accelerate its transition to 100% renewable energy, installing solar on public buildings and investing in geothermal and other clean sources."
-  applies_to_elections: [mayor, ward5, at_large_mcduffie, at_large_bonds, delegate]
+  applies_to_elections: [mayor, ward5, ward6, at_large_mcduffie, at_large_bonds, delegate]
   explanation: |
     DC has a Renewable Portfolio Standard targeting 100% renewable electricity by
     2032. Candidates differ on how proactively the District should invest public
@@ -305,7 +305,7 @@
 - id: parks_rec_funding
   issue: parks_recreation
   prompt: "DC should increase funding for the Department of Parks and Recreation, including extended rec center hours and expanded youth and senior programming."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's Department of Parks and Recreation (DPR) operates 70+ facilities and
     provides youth jobs, after-school programs, senior services, and community
@@ -422,7 +422,7 @@
 - id: housing_upzoning
   issue: housing
   prompt: "DC should legalize apartments and 'missing-middle' housing (duplexes, triplexes, and small multifamily buildings) citywide by removing single-family-only zoning restrictions."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's next Comprehensive Plan and Future Land Use Map (the dc2050 process) will
     decide how much new housing different neighborhoods must accommodate. Some
@@ -440,7 +440,7 @@
 - id: crime_police_in_schools
   issue: policing
   prompt: "DC should keep police officers out of public schools and instead invest in counselors, social workers, and mental-health staff."
-  applies_to_elections: [ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's 2020 policing reform law moved to phase School Resource Officers out of
     DCPS, a change that has been debated and partly reversed amid crime concerns.
@@ -457,7 +457,7 @@
 - id: fiscal_progressive_taxation
   issue: economic_development
   prompt: "DC should raise taxes on large corporations and the wealthiest residents to close the District's budget gap."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     DC's FY2026 budget proposed deep cuts to the Housing Production Trust Fund,
     parks, and childcare programs amid a major budget shortfall. Candidates differ
@@ -473,7 +473,7 @@
 - id: econ_small_business_tax_relief
   issue: economic_development
   prompt: "DC should cut taxes and fees on small and local businesses — and offer relief such as the small retailer property tax credit — to help them open, survive, and grow."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     Small businesses face high commercial rents, fees, and one of the nation's
     highest first-year failure rates. Some candidates propose cutting business taxes
@@ -559,7 +559,7 @@
 - id: home_rule_dc_resist
   issue: home_rule
   prompt: "DC should respond to Trump administration interference in city governance with an assertive, public stance — filing lawsuits, passing protective legislation, and refusing to comply with unlawful federal directives — rather than quiet diplomacy or pragmatic deal-making."
-  applies_to_elections: [mayor, ward1, ward5, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     Beyond MPD and immigration enforcement, the Trump administration has cut DC's
     locally raised budget, proposed takeovers of city agencies, and interfered with

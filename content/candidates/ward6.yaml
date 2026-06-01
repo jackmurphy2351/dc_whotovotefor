@@ -1,0 +1,506 @@
+# Ward 6 Councilmember candidates — 2026 DC Democratic Primary
+# Three Democrats are on the primary ballot.
+# Incumbent: Charles Allen (elected 2014, serving third term)
+# Challengers: Gloria Nauden, Michael Murphy
+# Sources:
+#   https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+#   https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+
+- id: charles-allen
+  name: "Charles Allen"
+  election_slug: ward6
+  in_fair_elections: true
+  campaign_url: https://charlesallen2026.com/
+  endorsements:
+    - "Sierra Club"
+    - "Jews United for Justice"
+    - "Greater Greater Washington"
+    - "Capital Stonewall Democrats"
+    - "Working Families Party"
+    - "DC YIMBYs"
+    - "32BJ SEIU"
+    - "UNITE HERE Local 25"
+    - "LIUNA — Baltimore/Washington Laborers' District Council"
+    - "Amalgamated Transit Union Local 689"
+    - "International Association of Fire Fighters Local 36"
+    - "Restaurant Association Metropolitan Washington (RAMW)"
+    - "District of Columbia Association of REALTORS"
+    - "Washington National Organization for Women (NOW)"
+    - "DC Voters for Animals"
+    - "Center for Strong Public Schools Action Fund"
+    - "Opportunity DC"
+  short_bio: >
+    Three-term incumbent Ward 6 Councilmember and former chair of the Council's
+    Committee on the Judiciary and Public Safety. Authored the STEER Act to hold
+    dangerous out-of-state drivers accountable, created the Books From Birth early
+    literacy program and the District's Fair Elections public-financing program,
+    led DC's rescue of WMATA from a fiscal cliff, and co-architected the 2021
+    Hearts and Homes budget amendment funded by a tax increase on high earners. A
+    progressive who survived a 2024 recall effort, he is endorsed by the Sierra
+    Club, Jews United for Justice, Greater Greater Washington, and major unions.
+  long_bio: |
+    Charles Allen has represented Ward 6 on the DC Council since 2015 and is seeking
+    a fourth term. Over three terms he has built a record as one of the Council's
+    most active legislators. His first bill created Books From Birth, which has sent
+    more than 3.6 million books to over 103,000 DC children in partnership with Dolly
+    Parton's Imagination Library. As chair of the Committee on the Judiciary and
+    Public Safety, he guided creation of the District's Fair Elections program in
+    2019, which matches small-dollar contributions from DC residents 5-to-1 so
+    candidates can run without corporate or PAC money.
+
+    Allen authored the STEER Act, a first-in-the-nation law giving the Attorney
+    General authority to sue dangerous drivers regardless of what state their car is
+    registered in and allowing DMV to install speed governors on the cars of repeat
+    offenders. He helped steer DC, Maryland, and Virginia to a new WMATA funding
+    formula that averted dramatic Metro service cuts, and he was one of three
+    architects of the 2021 Hearts and Homes Amendment, which expanded childcare
+    funding, doubled the Earned Income Tax Credit, and funded more than 1,000 housing
+    vouchers — paid for with a modest tax increase on residents earning more than
+    $250,000. He also wrote the law empowering MPD and the Alcoholic Beverage and
+    Cannabis Administration to shut down unlicensed cannabis shops, and the Safe at
+    Home program that funds home modifications so seniors can age in place.
+
+    Allen describes his approach to public safety as "both / and" — pairing strong
+    laws and accountability with investments in violence prevention and second
+    chances. He was a consistent critic of public financing for a new Commanders
+    stadium at RFK, though he ultimately voted for the deal after securing changes.
+    Concerns from critics that he was "soft on crime" during his time chairing the
+    judiciary committee prompted an unsuccessful 2024 effort to recall him from
+    office. He has been endorsed by a broad coalition of progressive groups, unions,
+    and the DC Association of Realtors.
+  advisories: []
+  sources:
+    - url: https://charlesallen2026.com/
+      title: "Charles Allen for Ward 6 — Campaign Website"
+      publisher: "Charles Allen Campaign"
+      accessed: 2026-06-01
+    - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+      title: "Your guide to the June 16 DC primary — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-06-01
+  positions:
+    - question_id: crime_public_health
+      stance: 2
+      quote: "That means striking the right balance pursuing both strong laws and the certainty of being held accountable, and making targeted investments in preventing crime and breaking cycles of violence that go beyond what law enforcement is suited to deliver."
+      explanation: "Describes his public-safety approach as 'both / and' — combining strong laws with targeted investments in preventing crime and breaking cycles of violence 'that go beyond what law enforcement is suited to deliver.' Emphasizes reaching those most likely to use a gun, creating real opportunities for people returning from incarceration, and protecting victims' rights in law."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: crime_more_police
+      stance: 0
+      explanation: "Frames public safety through a 'both / and' lens rather than prioritizing officer hiring as the primary solution, balancing strong enforcement and accountability with prevention investments. To counter critics who called him soft on crime, he notes he supported teen curfew zones and voted for a bill increasing pre-trial detention of people charged with violent crimes — but does not center significantly expanding MPD's ranks as his lead public-safety priority."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+
+    - question_id: youth_curfew_support
+      stance: 1
+      quote: "He counters that he supported teen curfew zones to prevent teen takeovers of areas like Navy Yard and voted for a bill that increases pre-trial detention of people charged with violent crimes."
+      explanation: "Supported teen curfew zones to prevent 'teen takeovers' of areas like Navy Yard and voted in favor of the Juvenile Curfew Amendment Act, treating curfews as one tool in a broader public-safety mix. He has stressed that the city must pair any curfew with meaningful youth programming and alternatives."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      quote: "This city has been lacking with imagination and creativity to reach the very people it's concerned about. I think Councilmember Crawford's amendment changes this by requiring the city to provide and promote alternatives whenever they want to be able to use this tool."
+      explanation: "Argues curfews are meaningless without robust alternatives. Introduced a bill to expand DPR recreation center hours to Saturdays and Sundays, praised programming run at Greenleaf and Randall Recreation Centers, and championed a curfew amendment requiring the city to provide and promote youth programming whenever a curfew zone is in effect."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: education_mental_health_schools
+      stance: 1
+      quote: "Charles has fought to ensure every school has the teaching and support staff to meet students where they are."
+      explanation: "Has fought to ensure every school has the teaching and support staff to meet students where they are, including increasing out-of-school-time grants and securing more than $1 billion for Ward 6 school modernizations. His framing centers support staff and resources broadly rather than a specific behavioral-health-clinician guarantee."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: parks_rec_funding
+      stance: 2
+      quote: "When pushed, we have seen DPR put together meaningful and positive experiences."
+      explanation: "Introduced legislation to expand DPR recreation center hours to weekends and has pushed the city to invest in youth enrichment programming at rec centers. Authored the Safe at Home program funding home modifications so seniors can age in place, reflecting consistent support for expanded recreation and aging services."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: transit_bike_bus_lanes
+      stance: 2
+      quote: "It means passing laws that will slow down drivers so kids can walk to school and people feel comfortable enough to commute on a bike or walk."
+      explanation: "Calls great transit and safe streets 'central to the success of the District,' supporting funding and oversight to keep trains and buses reliable and passing laws to slow drivers so people feel safe biking and walking. Authored the STEER Act on traffic safety and led DC's funding rescue of WMATA."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      quote: "Courage is contagious, which is why I'm not afraid to continue calling out the lies, the smears, and the attacks."
+      explanation: "Urges an assertive posture against federal interference, saying 'this is the time for leadership' and that DC must 'stand up for our values and come out as a stronger community on the other side.' Frames the Trump administration and a hostile Congress as threats to DC autonomy that must be fought publicly rather than appeased."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: econ_small_business_tax_relief
+      stance: 2
+      quote: "That includes helping create, and later double, the Small Retailer Property Tax Credit, creating a grant program to install security inside of local businesses, and taking on big companies who try to rip off local businesses."
+      explanation: "Helped create and later double the Small Retailer Property Tax Credit, created a grant program for in-store security, and pushed back on swipe fees and predatory delivery-app schemes. Introduced the RESALE Act to stop large resellers from marking up local tickets. Has written several laws to make it easier for local businesses to open and thrive."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      quote: "This was all paid for with a small increase in the tax rate for high-income earners."
+      explanation: "Co-architected the 2021 Hearts and Homes Amendment — expanding childcare funding, doubling the Earned Income Tax Credit, and funding more than 1,000 housing vouchers — paid for with a tax increase on residents earning more than $250,000. That revenue funded the Early Childhood Educator Pay Equity Fund, demonstrating support for raising taxes on high earners to fund services."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: housing_upzoning
+      stance: 2
+      quote: "That work includes joining advocates to push the Office of Zoning to make it much easier to build alley homes that can add gentle density and charm to DC neighborhoods."
+      explanation: "Pushed the Office of Zoning to make it easier to build alley homes that add 'gentle density,' and says Ward 6 has built more newly constructed affordable homes than anywhere else in the city. Endorsed by DC YIMBYs, consistent with support for legalizing more housing types citywide."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      quote: "At every opportunity, Charles has advocated for more affordable homes to be added to a project whenever the District has leverage to do so."
+      explanation: "Has advocated for more affordable homes at every opportunity and helped fund more than 1,000 new housing vouchers through the Hearts and Homes Amendment. His record of prioritizing affordable-housing financing points to support for the District's affordable-housing funding tools, though his materials emphasize affordable production broadly rather than the Housing Production Trust Fund by name."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      quote: "Charles is unquestionably the strongest advocate on the Council for taking bold steps to move toward powering more of our day-to-day activities with clean renewable energy sources."
+      explanation: "Calls himself the Council's strongest advocate for bold clean-energy steps. His Healthy Homes Act helps lower-income families electrify — replacing gas ovens, water heaters, and home heating with modern electric appliances powered by solar — so the clean-energy transition is not limited to those who can afford it. Also champions protecting the urban tree canopy and river access."
+      sources:
+        - url: https://charlesallen2026.com/
+          title: "Charles Allen for Ward 6 — Campaign Website"
+          publisher: "Charles Allen Campaign"
+          accessed: 2026-06-01
+
+- id: gloria-nauden
+  name: "Gloria Nauden"
+  election_slug: ward6
+  in_fair_elections: false
+  campaign_url: https://gloriaforward6.com/
+  endorsements: []
+  short_bio: >
+    Three-decade Ward 6 resident, former ANC commissioner (ANC6A), and interim CEO
+    of Philanthropy DMV. A community economic development strategist who has helped
+    nearly 1,000 DC small businesses access capital and led the DC Commission on the
+    Arts and Humanities. Running on public safety, affordability, strong small
+    businesses and schools, and a more responsive city government. Would rebuild MPD
+    to full staffing while expanding youth workforce and violence-prevention programs.
+  long_bio: |
+    Gloria Nauden has lived in Ward 6 for more than 30 years, raising her family,
+    building her career, and serving as an Advisory Neighborhood Commissioner
+    (ANC6A-02) representing the Capitol Hill side of H Street. The daughter of a
+    decorated African American U.S. Army veteran and a Korean mother who together
+    built nearly a dozen small businesses, she grew up working in the family's
+    restaurants and car wash.
+
+    Nauden began her career at Black Entertainment Television during its startup
+    years and later led the DC Commission on the Arts and Humanities, where she
+    expanded funding access to the arts by 77% and created Art All Night. As Vice
+    President at City First Bank — a leading national Community Development Financial
+    Institution — she helped drive asset growth and expand capital access for local
+    businesses, and led the bank's transformation into the first certified B
+    Corporation bank in the United States. She currently serves as interim CEO of
+    Philanthropy DMV and runs the DC Community Development Consortium Institute. Over
+    her career she has helped nearly 1,000 DC small businesses secure capital, grants,
+    and back-office support.
+
+    Her campaign — built around the principle "Listen. Collaborate. Deliver." —
+    focuses on safer communities, affordability, strong small businesses and schools,
+    and a city government that follows through. On public safety she calls for a fully
+    staffed Metropolitan Police Department paired with prevention, opportunity, and
+    clear consequences. In response to recent "teen takeover" incidents she launched
+    Spring Break Community Service Week, connecting students with workforce exposure,
+    civic engagement, and service. She has criticized incumbent Charles Allen for what
+    she describes as limited engagement with Ward 6 organizers outside Capitol Hill.
+  advisories: []
+  sources:
+    - url: https://gloriaforward6.com/
+      title: "Gloria Nauden for Ward 6 — Campaign Website"
+      publisher: "Gloria Nauden Campaign"
+      accessed: 2026-06-01
+    - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+      title: "Your guide to the June 16 DC primary — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-06-01
+  positions:
+    - question_id: crime_more_police
+      stance: 2
+      quote: "That means a fully staffed Metropolitan Police Department (MPD) with officers who are visible and engaged in the community."
+      explanation: "Calls for rebuilding MPD to full staffing levels with officers who are visible and engaged, and for strengthening community policing and coordination across public safety agencies. The 51st reports she would increase MPD staffing while also expanding youth workforce programs."
+      sources:
+        - url: https://gloriaforward6.com/
+          title: "Gloria Nauden for Ward 6 — Campaign Website"
+          publisher: "Gloria Nauden Campaign"
+          accessed: 2026-06-01
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+
+    - question_id: crime_public_health
+      stance: 1
+      quote: "Public safety also requires prevention, opportunity, and clear expectations."
+      explanation: "Supports community-based violence prevention, expanded youth workforce programs, and early intervention efforts alongside enforcement. Frames durable safety as requiring prevention and opportunity, but pairs it with 'clear and appropriate consequences' and a fully staffed police force rather than a primarily public-health framework."
+      sources:
+        - url: https://gloriaforward6.com/
+          title: "Gloria Nauden for Ward 6 — Campaign Website"
+          publisher: "Gloria Nauden Campaign"
+          accessed: 2026-06-01
+
+    - question_id: youth_curfew_support
+      stance: 1
+      quote: "We need to make sure that it's clearly enforced across all neighborhoods. If it's citywide, and it's timed, I think that's a good idea."
+      explanation: "Supports a youth curfew provided it is implemented equitably and data-driven — enforced consistently across all neighborhoods, citywide and timed, with regular reporting on whether incidents are actually declining."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      quote: "When young people have real pathways, along with structure, support, and clear and consistent standards, they succeed."
+      explanation: "Launched Spring Break Community Service Week in response to teen takeovers, connecting students with workforce exposure, mentorship, and civic engagement, and pledges to fight for its public funding and expansion if elected. Would expand youth workforce programs and early intervention as a core public-safety strategy."
+      sources:
+        - url: https://gloriaforward6.com/
+          title: "Gloria Nauden for Ward 6 — Campaign Website"
+          publisher: "Gloria Nauden Campaign"
+          accessed: 2026-06-01
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      quote: "Cut red tape to make it easier to open and grow a business."
+      explanation: "Would cut red tape to make it easier to open and grow a business, expand access to capital and technical support, and strengthen commercial corridors. Having helped nearly 1,000 DC small businesses, her emphasis is on reducing bureaucratic barriers and improving conditions like cleanliness, lighting, and safety rather than specific tax cuts."
+      sources:
+        - url: https://gloriaforward6.com/
+          title: "Gloria Nauden for Ward 6 — Campaign Website"
+          publisher: "Gloria Nauden Campaign"
+          accessed: 2026-06-01
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      quote: "Use partnerships to bring more housing online."
+      explanation: "Would expand affordable housing and homeownership opportunities, ensure new development includes real affordability, and use public-private partnerships to bring more housing online. Her affordable-housing focus suggests support for the District's affordable-housing financing tools, though her materials emphasize partnerships rather than the Housing Production Trust Fund by name."
+      sources:
+        - url: https://gloriaforward6.com/
+          title: "Gloria Nauden for Ward 6 — Campaign Website"
+          publisher: "Gloria Nauden Campaign"
+          accessed: 2026-06-01
+
+    - question_id: housing_upzoning
+      stance: 1
+      quote: "They favor bringing down costs to increase housing production."
+      explanation: "Per The 51st, favors bringing down costs to increase housing production. Her platform calls for ensuring new development includes 'real affordability' and using partnerships to bring more housing online — broadly supportive of expanding housing supply, though without an explicit position on ending single-family-only zoning."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+
+    - question_id: transit_bike_bus_lanes
+      stance: 1
+      quote: "They favor... adding transit options for residents."
+      explanation: "Per The 51st, supports adding transit options for residents. Has also called for greater transparency and oversight of rising costs, including utility bills, as part of her broader affordability agenda. Her transit position is one of general support for expanded options rather than a detailed bike- and bus-lane buildout plan."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+
+    - question_id: parks_rec_funding
+      stance: 1
+      quote: "Expand youth workforce programs and early intervention efforts."
+      explanation: "Would expand youth workforce programs and early intervention efforts and has organized community programming connecting young people with service and civic engagement. Supportive of recreation and youth programming as part of her public-safety and community agenda, though her materials do not detail a DPR budget plan."
+      sources:
+        - url: https://gloriaforward6.com/
+          title: "Gloria Nauden for Ward 6 — Campaign Website"
+          publisher: "Gloria Nauden Campaign"
+          accessed: 2026-06-01
+
+- id: michael-murphy
+  name: "Michael Murphy"
+  election_slug: ward6
+  in_fair_elections: false
+  campaign_url: https://www.murphyforward6.com/
+  endorsements:
+    - "Denise Rucker Krepp, former Ward 6 ANC commissioner and victims' rights advocate"
+  short_bio: >
+    Litigator at Bailey & Glasser LLP and 30-year Capitol Hill resident running on
+    transparency and public safety. Was the first to publicly allege that MPD
+    manipulated violent-crime statistics, and has built his campaign around honest
+    crime data, rebuilding MPD, youth accountability and opportunity, faster housing
+    approvals, and fully funding the open primaries voters approved in Initiative 83.
+    Wants more police officers and to revisit the Youth Rehabilitation Act.
+  long_bio: |
+    Michael "Mike" Murphy is a litigator at Bailey & Glasser LLP with a track record
+    in class-action lawsuits against major corporations and pro bono work, including
+    representing Two Rivers Public Charter School. A second-career attorney who
+    graduated cum laude from The Catholic University of America law school, he
+    previously supported national bargaining committees for the International
+    Brotherhood of Teamsters and worked as a paralegal in the DC Office of the
+    Corporation Counsel. He served as interim Executive Director of the Drum Major
+    Institute, a nonprofit founded on Dr. Martin Luther King, Jr.'s principles. A
+    Capitol Hill resident married for nearly 30 years with two children, he enjoys
+    bouldering, biking, and hosting living-room concerts.
+
+    Murphy entered the race centering public safety and government transparency. He
+    led a months-long investigation alleging discrepancies between DC and FBI crime
+    reporting and was the first to publicly claim, in June 2025, that MPD was
+    manipulating violent-crime statistics — pressing the Council to conduct oversight
+    it had avoided. He argues the city has given residents a dishonest picture of its
+    safety challenges and that trust cannot be rebuilt without transparency.
+
+    His platform calls for honest crime data aligned with FBI reporting, rebuilding
+    an MPD at a 50-year staffing low while holding leadership accountable, and youth
+    accountability paired with opportunity — including overhauling the Youth
+    Rehabilitation Act, fixing truancy systems, and creating a DC Service & Career
+    Corps modeled on Maryland programs. He proposes a "120-day shot clock" for
+    office-to-residential conversions and faster permitting to unlock housing supply,
+    a two-track compensation model on Initiative 82, and fully funding the open
+    primaries and ranked-choice voting that voters approved in Initiative 83, along
+    with term limits. He has been endorsed by former Ward 6 ANC commissioner and
+    victims' rights advocate Denise Rucker Krepp.
+  advisories: []
+  sources:
+    - url: https://www.murphyforward6.com/
+      title: "Michael Murphy for Ward 6 — Campaign Website"
+      publisher: "Michael Murphy Campaign"
+      accessed: 2026-06-01
+    - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+      title: "Your guide to the June 16 DC primary — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-06-01
+  positions:
+    - question_id: crime_more_police
+      stance: 2
+      quote: "The force is at a 50-year staffing low. Officers are exhausted, response times lag, and community policing is impossible without adequate staffing. Michael supports rebuilding MPD while holding leadership accountable."
+      explanation: "Calls MPD's staffing a 50-year low and supports rebuilding the force while holding leadership accountable for efficient, community-centered deployment. The 51st reports he wants more police officers, pairing increased staffing with demands for honest crime data and oversight."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-01
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      quote: "Give young people real opportunity, real structure, and real support, and watch crime go down while hope goes up."
+      explanation: "Proposes a DC Service & Career Corps with youth apprenticeships and a paid service-year option, a unified truancy early-warning system, and mentorship through partners like Urban Alliance. Frames opportunity and structure — 'mentorship, not just enforcement' — as central to reducing youth crime."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+
+    - question_id: crime_public_health
+      stance: 1
+      quote: "Michael's approach is simple: Give young people real opportunity, real structure, and real support, and watch crime go down while hope goes up."
+      explanation: "Supports prevention-oriented tools — mentorship, workforce pathways, and support services for families — as a way to bring crime down, while pairing them with stronger consequences for violent offenses and rebuilding MPD. His emphasis blends opportunity-based intervention with accountability rather than a primarily public-health framework."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+
+    - question_id: housing_upzoning
+      stance: 2
+      quote: "We must increase supply where it makes the most sense: unlocking underutilized land along Metro lines, modernizing alley and parking requirements to allow more units (ADUs), and expanding upzoning where community impact is minimal."
+      explanation: "Calls for 'smart density' — unlocking underutilized land along Metro lines, modernizing alley and parking rules to allow more ADUs, and expanding upzoning where community impact is minimal. Supports a 120-day 'shot clock' for office-to-residential conversions and faster permitting to make 'missing middle' housing financially viable."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      quote: "Michael advocates for robust public investment in housing vouchers and subsidies directed at extremely low-income (ELI) residents to bridge the gap the market leaves behind."
+      explanation: "Argues new high-end construction does not filter down to low-income families fast enough, so the market 'will not naturally serve our most vulnerable neighbors.' Advocates robust public investment in housing vouchers and subsidies targeted at extremely low-income residents — supportive of public affordable-housing financing, though he does not name the Housing Production Trust Fund specifically."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+
+    - question_id: transit_bike_bus_lanes
+      stance: 1
+      quote: "Increasing protected bike lanes where appropriate."
+      explanation: "Would create more reliable bus routes, develop safer pedestrian corridors, and increase protected bike lanes 'where appropriate,' alongside smarter curb management. Frames mobility as a public-safety and equity issue, with qualified rather than maximal support for bike and bus infrastructure."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      quote: "Getting your car inspected, applying for a business license, or visiting your local rec center should not be complex tasks."
+      explanation: "Argues simple tasks like applying for a business license are stymied by outdated bureaucracy and calls for 'simple solutions to simple problems' to encourage neighbors to invest in the community. His emphasis is on cutting red tape and barriers to opening a business rather than specific tax cuts."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+
+    - question_id: parks_rec_funding
+      stance: 1
+      quote: "Visiting your local rec center should not be complex tasks."
+      explanation: "Says visiting a local rec center should be simple and supports youth recreation facilities as part of his RFK redevelopment vision and his youth-opportunity agenda. Broadly supportive of recreation access, though his materials do not lay out a specific DPR funding increase."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01
+
+    - question_id: home_rule_dc_resist
+      stance: -1
+      quote: "We need Council representation who have the credibility to meet with members that span the ideological spectrum in Congress."
+      explanation: "Emphasizes the credibility and bipartisan relationships needed to negotiate with members across the ideological spectrum in Congress, and faults Allen for crafting legislation that drew congressional disapproval votes. Leans toward pragmatic engagement and deal-making to protect Home Rule rather than a primarily confrontational, litigation-and-resistance posture."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-01

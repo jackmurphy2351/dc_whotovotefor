@@ -117,6 +117,36 @@
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
 
+    - question_id: housing_dopa
+      stance: 1
+      quote: "Finally, the bill amends the District’s Opportunity to Purchase Act (DOPA) and disposition authority (§ 10–801) to incentivize the use of excess District-owned properties as social housing."
+      explanation: "Proposes amending DOPA to require the Mayor to clarify why a given building should be sold to developers rather than having the City develop the building itself, citing the lack of sustained, deeply affordable housing resulting from such practice."
+      sources:
+        - url: https://thedcline.org/2022/04/26/press-release-councilmember-janeese-lewis-george-introduces-green-new-deal-legislation-to-create-social-housing-and-remove-lead-pipes-in-dc/
+          title: "Press Release: Councilmember Janeese Lewis George Introduces Green New Deal Legislation to Create Social Housing and Remove Lead Pipes in DC"
+          publisher: "The DC Line"
+          accessed: 2026-06-01
+
+    - question_id: environment_data_centers
+      stance: 1
+      quote: "AI data centers in Virginia are driving up our costs and we aren’t using all our tools to stop them. As mayor, Janeese will work closely with governors whose constituents are facing the same painful consequences of these AI data centers. She will also advance local and regional legal strategies."
+      explanation: "Suggests she will limit new data center construction by implementing more restrictions to hold them accountable for rising utility costs."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Platform — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-06-01
+
+    - question_id: sanitation_rats
+      stance: 2
+      quote: "Bill 26-492 would require the Department of Health to require the development of a rodent abatement dashboard and report on rodent abatement efforts."
+      explanation: "As councilmember, Lewis George has introduced a bill to establish a publicly accessible dashboard for rat activity tracking, including population estimates and geospatial trends in treatments and service requests. Also seeks to improve coordination between DPW and DPH in the event that DPW encounters rats when removing residential trash cans."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B26-0492
+          title: "B26-0492 - Rodent Abatement and Transparency (RAT) Amendment Act of 2025"
+          publisher: "dccouncil.gov"
+          accessed: 2026-06-01
+
     - question_id: fiscal_progressive_taxation
       stance: 1
       quote: "Increase property taxes on long-term vacant commercial spaces to encourage leasing and create affordable space."
@@ -703,6 +733,16 @@
           title: "Issues — Gary Goodweather for Mayor"
           publisher: "Gary Goodweather Campaign"
           accessed: 2026-05-28
+
+    - question_id: housing_rent_stabilization
+      stance: 1
+      quote: "If rent stabilization is in effect, it should apply to all."
+      explanation: "In a Ward 3 tenant leaders' questionnaire, Goodweather said NO to restricting rent stabilization to only low-income renters ('If rent stabilization is in effect, it should apply to all') and YES to limiting voucher-supported rents to the stabilized maximum ('Landlords should only be allowed to receive the rent stabilized amount'). His answers affirm broad support for the existing rent stabilization system; he does not directly address expanding it to buildings constructed after 1975."
+      sources:
+        - url: https://www.foresthillsconnection.com/news/ward-3-primary-voter-guide/
+          title: "Ward 3 primary voter guide — Forest Hills Connection"
+          publisher: "Forest Hills Connection"
+          accessed: 2026-06-01
 
 - id: ernest-johnson
   name: "Ernest E. Johnson"

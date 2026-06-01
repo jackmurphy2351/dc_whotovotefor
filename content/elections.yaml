@@ -103,3 +103,27 @@
       title: "City elections in Washington, D.C. (2026) — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-31
+
+- slug: ward6
+  title: "Ward 6 Councilmember"
+  short_description: "Three-term incumbent Charles Allen faces two challengers in the June 16 Democratic primary."
+  whats_at_stake: |
+    Ward 6 is the only ward with neighborhoods in all four quadrants of the city —
+    Capitol Hill, Southwest Waterfront and the Wharf, Navy Yard and Capitol
+    Riverfront, NoMa, Penn Quarter, Gallery Place-Chinatown, and Buzzard Point.
+    Three-term incumbent Charles Allen, a progressive who chaired the Council's
+    judiciary and public safety committee, is seeking re-election. Public safety
+    — including disputes over crime data and the city's response to "teen
+    takeovers" — is the central issue dividing him from challengers Gloria Nauden
+    and Michael Murphy. Ranked choice voting applies for the first time. Three
+    Democrats are on the primary ballot.
+  election_date: 2026-06-16
+  sources:
+    - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
+      title: "City elections in Washington, D.C. (2026) — Ballotpedia"
+      publisher: ballotpedia.org
+      accessed: 2026-06-01
+    - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+      title: "Your guide to the June 16 DC primary — The 51st"
+      publisher: "The 51st"
+      accessed: 2026-06-01
