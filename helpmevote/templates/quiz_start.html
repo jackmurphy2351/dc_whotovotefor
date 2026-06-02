@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}Choose questions: {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
+  Choose questions
+</nav>
+
+<div class="quiz-header">
+  <h1>{{ election.title }}</h1>
+  <p class="lead">Choose the questions you'd like to answer.</p>
+  <p class="select-intro">
+    Every question is selected by default. Uncheck any topics or individual
+    questions you'd rather skip — a shorter quiz is fine. Your match is calculated
+    only from the questions you keep and answer with an opinion.
+  </p>
+</div>
+
+{% if error %}
+<div class="alert alert-warning">
+  <strong>Pick at least one question.</strong>
+  Select the questions you want to answer before starting the quiz.
+</div>
+{% endif %}
+
+<form method="post" action="{{ url_for('quiz.start_post', slug=election.slug) }}"
+      class="select-form" id="select-form">
+
+  <div class="select-toolbar">
+    <div class="select-bulk">
+      <button type="button" class="btn btn-ghost btn-small" data-select-all>Select all</button>
+      <button type="button" class="btn btn-ghost btn-small" data-deselect-all>Deselect all</button>
+    </div>
+    <p class="select-counter" aria-live="polite">
+      <span data-selected-count>{{ selected | length }}</span> of {{ total }} selected
+    </p>
+  </div>
+
+  {% for issue, questions in groups %}
+  <fieldset class="select-category" data-category>
+    <legend class="select-category-legend">
+      <label class="select-category-label">
+        <input type="checkbox" data-category-toggle
+               {% if questions | rejectattr('id', 'in', selected) | list | length == 0 %}checked{% endif %}>
+        <span>{{ issue.label if issue else "Other" }}</span>
+      </label>
+    </legend>
+
+    <div class="select-questions">
+      {% for q in questions %}
+      <label class="select-question">
+        <input type="checkbox" name="selected" value="{{ q.id }}" data-question
+               {% if q.id in selected %}checked{% endif %}>
+        <span>{{ q.prompt }}</span>
+      </label>
+      {% endfor %}
+    </div>
+  </fieldset>
+  {% endfor %}
+
+  <div class="quiz-navigation">
+    <button type="submit" class="btn btn-primary btn-large" data-start-btn>Start quiz →</button>
+  </div>
+</form>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/quiz_start.js') }}"></script>
+{% endblock %}

@@ -79,6 +79,8 @@
 </form>
 
 <p class="quiz-reset">
+  <a href="{{ url_for('quiz.start', slug=election.slug) }}">← Choose questions</a>
+  &nbsp;·&nbsp;
   <a href="{{ url_for('quiz.reset', slug=election.slug) }}">Start over</a>
 </p>
 {% endblock %}
