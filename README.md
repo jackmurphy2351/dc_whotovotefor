@@ -273,6 +273,20 @@ python scripts/fastdemocracy_scraper.py --id DCL000027   # Janeese Lewis George
 
 Output CSVs (`sponsored_bills.csv`, `voting_records.csv`) are written to `scripts/output/` (gitignored). The data covers sponsored bills and yes/no votes across ~45 policy topic categories, and is useful for researching candidate positions to add to the YAML files.
 
+Two follow-on scripts turn that raw data into reviewable evidence:
+
+```bash
+# Map the scraped record to quiz questions (writes filtered_votes.csv,
+# vote_summary.csv, filtered_sponsorships.csv to scripts/output/)
+python scripts/filter_votes.py
+
+# Cross-reference the record against published positions and write a
+# corroboration report (scripts/output/corroboration_report.md)
+python scripts/corroborate.py
+```
+
+`filter_votes.py` matches each authored bill / vote to a quiz question and tags it with the bill's DC Council **LIMS** link and council period. `corroborate.py` flags where a candidate's authored bills **corroborate** the stance we already publish (so we can attach the LIMS record as a source), where they **conflict**, and where there is a **position gap**. Treat sponsored bills as strong evidence and votes as weak context; the candidate's campaign page remains the authoritative source for their stance, and a bill only counts as corroboration when its subject genuinely matches the question.
+
 ---
 
 ## Contributing

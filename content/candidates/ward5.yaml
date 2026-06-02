@@ -95,6 +95,14 @@
           title: "Zachary Parker for Ward 5 — Campaign Website"
           publisher: "Zachary Parker Campaign"
           accessed: 2026-05-31
+        - url: https://lims.dccouncil.gov/Legislation/B25-0690
+          title: "Public School Health Services Amendment Act of 2024 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B25-0759
+          title: "Child Behavioral Health Services Dashboard Act of 2024 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: parks_rec_funding
       stance: 2
@@ -135,6 +143,10 @@
           title: "Zachary Parker for Ward 5 — Campaign Website"
           publisher: "Zachary Parker Campaign"
           accessed: 2026-05-31
+        - url: https://lims.dccouncil.gov/Legislation/B26-0445
+          title: "Small Retailer Property Tax Credit Expansion Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: fiscal_progressive_taxation
       stance: 1

@@ -141,6 +141,14 @@
           title: "Charles Allen for Ward 6 — Campaign Website"
           publisher: "Charles Allen Campaign"
           accessed: 2026-06-01
+        - url: https://lims.dccouncil.gov/Legislation/B26-0113
+          title: "Department of Parks and Recreation Hours Expansion Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B26-0112
+          title: "Department of Parks and Recreation Field Priority Access Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: transit_bike_bus_lanes
       stance: 2
@@ -211,6 +219,14 @@
           title: "Charles Allen for Ward 6 — Campaign Website"
           publisher: "Charles Allen Campaign"
           accessed: 2026-06-01
+        - url: https://lims.dccouncil.gov/Legislation/B26-0065
+          title: "Solar Shade Expansion Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B26-0602
+          title: "Guiding Renewable Interconnection and Distribution (GRID) Amendment Act of 2026 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: housing_topa_restore
       stance: 1

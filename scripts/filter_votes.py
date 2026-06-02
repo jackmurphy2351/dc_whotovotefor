@@ -97,8 +97,9 @@ QUESTION_FILTERS: dict[str, dict] = {
     "transit_bike_bus_lanes": {
         "issue": "transit",
         "topics": ["transportation", "infrastructure"],
-        "keywords": ["bike", "bicycle", "bus lane", "dedicated lane", "protected lane",
-                     "circulator", "streetcar"],
+        # NB: "circulator"/"streetcar" removed — DC Circulator funding/transition bills
+        # are about operating a bus service, not building bike/bus lanes (false positive).
+        "keywords": ["bike", "bicycle", "bus lane", "dedicated lane", "protected lane"],
     },
     "transit_fare_free_buses": {
         "issue": "transit",
@@ -114,8 +115,11 @@ QUESTION_FILTERS: dict[str, dict] = {
     "mpd_ice_cooperation": {
         "issue": "mpd_ice",
         "topics": ["immigration", "police"],
-        "keywords": ["ice", "immigration enforcement", "sanctuary", "deportation",
-                     "cooperative agreement", "federal immigration", "immigration detain"],
+        # NB: "sanctuary values" (DC's immigration sanctuary law) — bare "sanctuary"
+        # also matches the reproductive-rights "Human Rights Sanctuary Act", a false
+        # positive, so the keyword is scoped to the immigration phrasing.
+        "keywords": ["ice", "immigration enforcement", "sanctuary values", "deportation",
+                     "federal immigration", "immigration detain"],
     },
     # ── EDUCATION ────────────────────────────────────────────────────────────
     "education_community_schools": {
@@ -148,7 +152,7 @@ QUESTION_FILTERS: dict[str, dict] = {
         "issue": "policing",
         "topics": ["crime", "police"],
         "keywords": ["secure dc", "pretrial detention", "pre-trial detention",
-                     "criminal penalty", "omnibus", "crime omnibus"],
+                     "criminal penalty", "crime omnibus"],
     },
     "crime_more_police": {
         "issue": "policing",
@@ -230,14 +234,15 @@ QUESTION_FILTERS: dict[str, dict] = {
     "childcare_universal": {
         "issue": "childcare",
         "topics": ["children", "education", "benefits"],
-        "keywords": ["childcare", "child care", "pre-k", "pkeep", "early childhood",
-                     "child development"],
+        # NB: "early childhood" removed — it matches "Early Childhood Educator Pay"
+        # bills (about staff compensation), not the free/universal-care guarantee.
+        "keywords": ["childcare", "child care", "pre-k", "pkeep", "child development"],
     },
     "childcare_birth_to_three": {
         "issue": "childcare",
         "topics": ["children", "education", "benefits"],
         "keywords": ["birth to three", "birth-to-three", "infant care", "toddler",
-                     "early childhood", "child care subsidy"],
+                     "child care subsidy"],
     },
     # ── DC STATEHOOD ─────────────────────────────────────────────────────────
     "statehood_top_priority": {
@@ -268,8 +273,10 @@ QUESTION_FILTERS: dict[str, dict] = {
     "delegate_budget_autonomy": {
         "issue": "home_rule",
         "topics": ["government", "budget"],
-        "keywords": ["home rule", "budget autonomy", "congressional review",
-                     "local budget", "budget control"],
+        # NB: "congressional review" intentionally excluded — it is boilerplate in
+        # nearly every "… Congressional Review Emergency …" bill title and is not
+        # evidence of a budget-autonomy stance. (Still fine for topic-gated votes.)
+        "keywords": ["home rule", "budget autonomy", "local budget", "budget control"],
     },
     "home_rule_dc_resist": {
         "issue": "home_rule",
@@ -313,20 +320,99 @@ def normalise_vote(vote: str) -> str:
         return "Other"
     return ""
 
+
+def lims_url(bill_number: str) -> str:
+    """Convert a bill number ("B 21-0147", "PR 25-0440") to a DC Council LIMS URL."""
+    slug = bill_number.replace(" ", "")
+    return f"https://lims.dccouncil.gov/Legislation/{slug}"
+
+
+def council_period(bill_number: str) -> int | None:
+    """Council period from a bill number ("B 26-0355" -> 26). Period 24 began Jan 2021,
+    so the "last ~5 years" (2021+) window is period >= 24."""
+    m = re.search(r"(\d{2})-\d", bill_number)
+    return int(m.group(1)) if m else None
+
+
+def matches_sponsored(title: str, q_filter: dict) -> bool:
+    """Sponsored bills have no topic column, so match on keywords against the title alone.
+
+    Questions whose filter has no keywords can't be matched this way (topic-only),
+    so they are skipped for sponsorship. Keywords are matched on word boundaries so
+    short/ambiguous terms ("ice", "rat", "sro") don't match inside larger words
+    ("office", "ratify", "ensure") — title-only matching has no topic to disambiguate.
+    """
+    keywords = q_filter.get("keywords", [])
+    if not keywords:
+        return False
+    hay = title.lower()
+    return any(
+        re.search(r"\b" + re.escape(kw.strip().lower()) + r"\b", hay)
+        for kw in keywords
+    )
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 FILTERED_FIELDS = [
     "quiz_question", "issue", "candidate_name", "legislator_id",
-    "session", "bill_number", "description", "motion", "vote",
-    "topic", "sponsors", "bill_url",
+    "session", "council_period", "bill_number", "description", "motion", "vote",
+    "topic", "sponsors", "lims_url", "bill_url",
 ]
 
 SUMMARY_FIELDS = [
     "quiz_question", "issue", "candidate_name",
     "yes_count", "no_count", "other_count", "total",
 ]
+
+SPONSORSHIP_FIELDS = [
+    "quiz_question", "issue", "candidate_name", "legislator_id",
+    "session", "council_period", "bill_number", "title", "lims_url", "bill_url",
+]
+
+
+def filter_sponsorships(questions: dict, candidate: str | None) -> list[dict]:
+    """Mine sponsored_bills.csv for bills whose title matches a question's keywords.
+
+    Sponsored bills are strong evidence (the legislator chose to author the bill),
+    but the CSV has no topic column, so matching is keyword-on-title only via
+    matches_sponsored(). Topic-only questions (no keywords) can't match and are
+    skipped. Returns one row per (question x candidate x matching bill).
+    """
+    output_dir = Path(__file__).parent / "output"
+    bills_path = output_dir / "sponsored_bills.csv"
+    if not bills_path.exists():
+        print(f"WARNING: {bills_path} not found — skipping sponsorship mining.")
+        return []
+
+    with open(bills_path, newline="", encoding="utf-8") as f:
+        all_bills = list(csv.DictReader(f))
+    print(f"Loaded {len(all_bills):,} sponsored-bill records.")
+
+    rows: list[dict] = []
+    for qid, q_filter in questions.items():
+        for bill in all_bills:
+            if bill["legislator_id"] in EXCLUDED_IDS:
+                continue
+            cname = display_name(bill)
+            if candidate and cname.lower() != candidate.lower():
+                continue
+            if not matches_sponsored(bill["title"], q_filter):
+                continue
+            rows.append({
+                "quiz_question": qid,
+                "issue": q_filter["issue"],
+                "candidate_name": cname,
+                "legislator_id": bill["legislator_id"],
+                "session": bill["session"],
+                "council_period": council_period(bill["bill_number"]),
+                "bill_number": bill["bill_number"],
+                "title": bill["title"],
+                "lims_url": lims_url(bill["bill_number"]),
+                "bill_url": bill["bill_url"],
+            })
+    return rows
 
 
 def main():
@@ -385,12 +471,14 @@ def main():
                 "candidate_name": cname,
                 "legislator_id": row["legislator_id"],
                 "session": row["session"],
+                "council_period": council_period(row["bill_number"]),
                 "bill_number": row["bill_number"],
                 "description": row["description"],
                 "motion": row["motion"],
                 "vote": vote_norm or row.get("vote", ""),
                 "topic": row["topic"],
                 "sponsors": row["sponsors"],
+                "lims_url": lims_url(row["bill_number"]),
                 "bill_url": row["bill_url"],
             })
 
@@ -422,6 +510,15 @@ def main():
         writer.writeheader()
         writer.writerows(summary_rows)
     print(f"Wrote {len(summary_rows):,} summary rows → {summary_path}")
+
+    # Mine sponsored bills (strong evidence) into a separate file
+    sponsorship_rows = filter_sponsorships(questions, args.candidate)
+    sponsorship_path = output_dir / "filtered_sponsorships.csv"
+    with open(sponsorship_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=SPONSORSHIP_FIELDS)
+        writer.writeheader()
+        writer.writerows(sponsorship_rows)
+    print(f"Wrote {len(sponsorship_rows):,} sponsorship rows → {sponsorship_path}")
 
     # Print a quick human-readable table
     if args.question:

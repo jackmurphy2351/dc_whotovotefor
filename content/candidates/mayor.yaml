@@ -402,6 +402,14 @@
           title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
           publisher: ballotpedia.org
           accessed: 2026-05-27
+        - url: https://lims.dccouncil.gov/Legislation/B22-0844
+          title: "Neighborhood Safety and Engagement Fund Violence Prevention and Intervention Initiatives Enhancement Amendment Act of 2018 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B22-0843
+          title: "Center for Firearm Violence Prevention Research Establishment Act of 2018 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: crime_secure_dc
       stance: 1
@@ -431,6 +439,10 @@
           title: "Kenyan McDuffie — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
           accessed: 2026-05-27
+        - url: https://lims.dccouncil.gov/Legislation/B26-0043
+          title: "Marion S. Barry Summer Youth Employment Program Creditable Service Benefit Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: housing_production_trust_fund
       stance: 2
@@ -494,6 +506,10 @@
           title: "Platform — Kenyan McDuffie for Mayor"
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-28
+        - url: https://lims.dccouncil.gov/Legislation/B26-0055
+          title: "Nonprofit Solar Tax Exemption Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: childcare_universal
       stance: 1
@@ -961,6 +977,10 @@
           title: "The Orange Plan — Vincent Orange for Mayor"
           publisher: "Vincent Orange Campaign"
           accessed: 2026-05-28
+        - url: https://lims.dccouncil.gov/Legislation/B21-0606
+          title: "Marion S. Barry Summer Youth Employment Expansion Emergency Amendment Act of 2016 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: crime_more_police
       stance: 2
@@ -1004,10 +1024,14 @@
 
     - question_id: housing_topa_restore
       stance: 1
-      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) at first and final reading during his At-Large Council term, supporting DC's tenant purchase rights framework."
+      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) at first and final reading during his At-Large Council term, and authored the TOPA Application-Assistance Program Amendment Act of 2016 (B 21-0739) to help tenants exercise their purchase rights — supporting DC's tenant purchase rights framework."
       sources:
         - url: https://lims.dccouncil.gov/Legislation/B21-0147
           title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B21-0739
+          title: "TOPA Application-Assistance Program Amendment Act of 2016 — DC Council LIMS"
           publisher: dccouncil.gov
           accessed: 2026-06-02
 

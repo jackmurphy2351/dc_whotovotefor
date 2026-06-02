@@ -115,6 +115,26 @@
           publisher: "Free DC Project"
           accessed: 2026-05-27
 
+    # Drawn from White's At-Large Council record (this question is not part of the
+    # Delegate quiz, but the position documents his legislative history on the issue).
+    - question_id: childcare_birth_to_three
+      stance: 2
+      explanation: "As an At-Large Councilmember, White authored the Birth-to-Three for All DC Act of 2018 (introduced as the Infant and Toddler Developmental Health Services Act of 2017), the District's landmark framework for expanding subsidized infant and toddler care, home visiting, developmental screenings, and early-childhood educator compensation — a strong, foundational commitment to birth-to-three investment."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B22-0203
+          title: "Birth-to-Three for All DC Act of 2018 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "As an At-Large Councilmember, White sponsored the Neighborhood Safety and Engagement Fund Violence Prevention and Intervention Initiatives Enhancement Amendment Act of 2018, strengthening DC's community-based violence-interruption and intervention programming — consistent with treating violence as a public-health problem."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B22-0844
+          title: "Neighborhood Safety and Engagement Fund Violence Prevention and Intervention Initiatives Enhancement Amendment Act of 2018 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+
 - id: trent-holbrook
   name: "Trent Holbrook"
   election_slug: delegate
@@ -427,13 +447,25 @@
       accessed: 2026-05-27
   positions:
     - question_id: youth_curfew_support
-      stance: 1
-      explanation: "Introduced teen curfew legislation as part of Secure DC as Ward 2 Councilmember."
+      stance: 2
+      explanation: "Introduced teen curfew legislation as part of Secure DC as Ward 2 Councilmember, and has repeatedly authored and extended juvenile curfew measures since — including the Juvenile Curfew Amendment Act that empowers the Mayor to extend curfews and the 2026 measures continuing them — a consistent, active record of expanding curfew enforcement."
       sources:
         - url: https://lims.dccouncil.gov/
           title: "DC Council Legislative Information Management System"
           publisher: dccouncil.gov
           accessed: 2026-05-27
+        - url: https://lims.dccouncil.gov/Legislation/B26-0355
+          title: "Juvenile Curfew Congressional Review Emergency Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B26-0459
+          title: "Juvenile Curfew Second Emergency Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B26-0636
+          title: "Juvenile Curfew Sunset Emergency Amendment Act of 2026 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
     - question_id: statehood_top_priority
       stance: 2
@@ -502,6 +534,21 @@
           title: "Issues — Brooke Pinto for Congress"
           publisher: "Brooke Pinto Campaign"
           accessed: 2026-05-30
+
+    # Drawn from Pinto's Ward 2 Council record (this question is not part of the
+    # Delegate quiz, but the position documents her authorship of Secure DC).
+    - question_id: crime_secure_dc
+      stance: 2
+      explanation: "As Ward 2 Councilmember and Judiciary Committee chair, Pinto was the lead author of the Secure DC omnibus and has repeatedly authored and extended its pre-trial detention provisions — including the Secure DC Pretrial Detention Extension and Reporting Amendment Acts — a consistent, active record championing the Secure DC approach."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B26-0082
+          title: "Secure DC Pretrial Detention Extension and Reporting Temporary Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/B26-0209
+          title: "Secure DC Pretrial Detention Extension and Reporting Congressional Review Emergency Amendment Act of 2025 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
 - id: kinney-zalesne
   name: "Kinney Zalesne"

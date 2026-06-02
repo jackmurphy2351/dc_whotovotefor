@@ -57,6 +57,21 @@ The AJAX endpoint pattern is:
 
 Both require the header `X-Requested-With: XMLHttpRequest`. The scraper tries 45 topic slugs per legislator and skips ones that return empty results. `scripts/output/` is gitignored (raw scraped data, not checked in).
 
+### Mapping the record to quiz questions
+
+`scripts/filter_votes.py` maps the scraped record to quiz questions via the `QUESTION_FILTERS` table (per-question FastDemocracy topic slugs + title/description keywords). It writes into `scripts/output/`:
+- `filtered_votes.csv` — one row per (question × candidate × matching vote); **weak** evidence
+- `vote_summary.csv` — yes/no/other tallies per (question × candidate)
+- `filtered_sponsorships.csv` — one row per (question × candidate × authored bill whose title matches the question's keywords); **strong** evidence
+
+Both filtered files carry a `lims_url` (authoritative DC Council LIMS link) and a `council_period` (parsed from the bill number — period 24 began Jan 2021). Keyword matching against bill titles is **word-boundary-anchored** so short/ambiguous terms (`ice`, `rat`, `sanctuary values`) don't match inside larger words; dual legislator IDs are merged and retiring Anita Bonds (DCL000013) is excluded.
+
+`scripts/corroborate.py` joins those CSVs against the published positions (via `load_all_content`) and writes `scripts/output/corroboration_report.md`, classifying each (council candidate × question) as **CORROBORATES** (supportive stance + an authored on-topic bill → add a LIMS source to the existing position), **CONFLICT**, or **NEW** (authored a bill but no published position). When acting on the report:
+- The **campaign page stays authoritative** for a candidate's stance; the council record only corroborates.
+- A bill corroborates only if its **subject matches the question's specific claim** — not just a keyword (e.g. a TOPA *exemption* does not support "strengthen TOPA"; a "Human Rights Sanctuary" reproductive-rights bill is not about ICE; Circulator funding is not about bus *lanes*).
+- Sponsorships are strong evidence; **votes are noisy context only** and can be semantically inverted.
+- Prefer bills from **council period ≥ 24 (2021+)**; older bills are used only as a flagged fallback when a candidate has no in-window record (e.g. former members like Vincent Orange).
+
 ## Architecture
 
 **Flask app factory + content-at-startup.** `helpmevote/__init__.py` calls `load_all_content()` once and stashes the result on `app.config["CONTENT"]` as an `AppContent` dataclass. Routes read from `current_app.config["CONTENT"]`. There is no database — quiz state lives in signed-cookie Flask session keys: `quiz_answers_<election_slug>` (the `{question_id: stance}` map) and `quiz_selected_<election_slug>` (the list of question IDs the user chose to answer; absent means "all questions").
