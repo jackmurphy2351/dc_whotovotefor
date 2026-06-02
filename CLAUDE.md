@@ -20,6 +20,44 @@ FLASK_ENV=development .venv/bin/python app.py
 
 Python 3.13 is required (`pyproject.toml`). Install dev deps with `pip install -e ".[dev]"`.
 
+## Research scripts
+
+`scripts/fastdemocracy_scraper.py` pulls DC Council sponsored-bill and voting-record data from fastdemocracy.com for candidates who have (or had) a council seat. Uses only stdlib (`urllib`, `re`, `csv`) — no extra dependencies. Output lands in `scripts/output/`.
+
+```bash
+# Scrape all known candidates (bills + votes, ~20 min due to rate-limit delays)
+python scripts/fastdemocracy_scraper.py
+
+# Bills only (faster)
+python scripts/fastdemocracy_scraper.py --bills-only
+
+# Single legislator
+python scripts/fastdemocracy_scraper.py --id DCL000027   # Janeese Lewis George
+
+# Print a discovered name→ID table for all DC legislators
+python scripts/fastdemocracy_scraper.py --discover
+```
+
+**Known FastDemocracy legislator IDs** (defined in `CANDIDATES` dict at top of script):
+
+| ID | Candidate | Race |
+|---|---|---|
+| DCL000002 | Vincent Orange | Mayor |
+| DCL000004 / DCL000025 | Kenyan McDuffie | Mayor (two session entries) |
+| DCL000013 | Anita Bonds | At-Large (Bonds seat) |
+| DCL000017 | Elissa Silverman | At-Large (McDuffie seat) |
+| DCL000019 / DCL000024 | Robert White | Delegate (two session entries) |
+| DCL000020 | Charles Allen | Ward 6 |
+| DCL000026 | Brooke Pinto | Delegate |
+| DCL000027 | Janeese Lewis George | Mayor |
+| DCL000031 | Zachary Parker | Ward 5 |
+
+The AJAX endpoint pattern is:
+- Sponsored bills: `https://fastdemocracy.com/ajax/?sponsoredbills-state=dc&sponsoredbills-legislator={ID}`
+- Voting records: `https://fastdemocracy.com/ajax/?voterecord-state=dc&voterecord-topic-id={topic}&voterecord-chamber=upper&voterecord-legislator={ID}`
+
+Both require the header `X-Requested-With: XMLHttpRequest`. The scraper tries 45 topic slugs per legislator and skips ones that return empty results. `scripts/output/` is gitignored (raw scraped data, not checked in).
+
 ## Architecture
 
 **Flask app factory + content-at-startup.** `helpmevote/__init__.py` calls `load_all_content()` once and stashes the result on `app.config["CONTENT"]` as an `AppContent` dataclass. Routes read from `current_app.config["CONTENT"]`. There is no database — quiz state lives in a signed-cookie Flask session keyed `quiz_answers_<election_slug>`.

@@ -100,6 +100,8 @@ dc_whotovotefor/
 │   │   ├── at_large_bonds.yaml   # 9 candidates
 │   │   └── ward1.yaml            # 5 candidates
 │   └── resources/                # Markdown explainer pages
+├── scripts/
+│   └── fastdemocracy_scraper.py  # DC Council voting-record scraper (see below)
 └── tests/
     ├── test_scoring.py
     ├── test_data_loader.py
@@ -253,6 +255,23 @@ This is a Flask/WSGI app — it **cannot** be deployed on Streamlit. Use [Render
 On every `git push` to `main`/`master`, Render will automatically redeploy.
 
 > **Note:** On Render's free tier the app will spin down after 15 minutes of inactivity and take ~30 seconds to cold-start on the next request. This is fine for a civic-tech app that sees bursty election-season traffic.
+
+---
+
+## Research tools
+
+`scripts/fastdemocracy_scraper.py` scrapes DC Council sponsored-bill and voting-record data from [fastdemocracy.com](https://fastdemocracy.com) for candidates who currently hold or previously held a council seat. It uses only Python stdlib — no extra dependencies beyond what the app already requires.
+
+```bash
+# Scrape all known candidates (~20 min)
+python scripts/fastdemocracy_scraper.py
+
+# Bills only, or a single legislator
+python scripts/fastdemocracy_scraper.py --bills-only
+python scripts/fastdemocracy_scraper.py --id DCL000027   # Janeese Lewis George
+```
+
+Output CSVs (`sponsored_bills.csv`, `voting_records.csv`) are written to `scripts/output/` (gitignored). The data covers sponsored bills and yes/no votes across ~45 policy topic categories, and is useful for researching candidate positions to add to the YAML files.
 
 ---
 
