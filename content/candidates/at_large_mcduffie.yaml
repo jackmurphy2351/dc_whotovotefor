@@ -395,3 +395,12 @@
           title: "Elissa Silverman for DC Council — Campaign Website"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-05-29
+
+    - question_id: housing_topa_restore
+      stance: 1
+      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) at first and final reading during her At-Large Council term, supporting DC's tenant purchase rights framework."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B21-0147
+          title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02

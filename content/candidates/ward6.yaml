@@ -212,6 +212,15 @@
           publisher: "Charles Allen Campaign"
           accessed: 2026-06-01
 
+    - question_id: housing_topa_restore
+      stance: 1
+      explanation: "Voted Yes on multiple TOPA bills during Session 21, including the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147), its Temporary Amendment Act (B 21-0223), and its Congressional Review Emergency version (B 21-0306), demonstrating consistent support for DC's tenant purchase rights framework across his council tenure."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B21-0147
+          title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+
 - id: gloria-nauden
   name: "Gloria Nauden"
   election_slug: ward6

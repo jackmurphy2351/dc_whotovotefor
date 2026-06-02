@@ -525,6 +525,19 @@
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-30
 
+    - question_id: housing_topa_restore
+      stance: 1
+      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) during his Ward 5 Council term, supporting DC's tenant purchase rights framework. Also voted yes on the Karin House TOPA Exemption Resolution (PR 25-0440) during his At-Large term."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B21-0147
+          title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+        - url: https://lims.dccouncil.gov/Legislation/PR25-0440
+          title: "Karin House TOPA Exemption Emergency Declaration Resolution of 2023 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
+
 - id: gary-goodweather
   name: "Gary Goodweather"
   election_slug: mayor
@@ -988,6 +1001,15 @@
           title: "The Orange Plan — Vincent Orange for Mayor"
           publisher: "Vincent Orange Campaign"
           accessed: 2026-05-28
+
+    - question_id: housing_topa_restore
+      stance: 1
+      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) at first and final reading during his At-Large Council term, supporting DC's tenant purchase rights framework."
+      sources:
+        - url: https://lims.dccouncil.gov/Legislation/B21-0147
+          title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
+          publisher: dccouncil.gov
+          accessed: 2026-06-02
 
 - id: rini-sampath
   name: "Rini Sampath"
