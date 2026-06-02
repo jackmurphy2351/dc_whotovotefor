@@ -604,6 +604,36 @@
           publisher: "Gary Goodweather Campaign"
           accessed: 2026-05-28
 
+    - question_id: youth_curfew_support
+      stance: 1
+      quote: "When you have a curfew, they need to have three components in my opinion. Number one is they need to have a limited scope of time. Number two is a very clear plan of how they are keeping the youth safe and the overall population. And three, and most important is, an exit plan."
+      explanation: "Does not oppose youth curfews per se, but is clear that they must be limited."
+      sources:
+        - url: https://youtu.be/rDoAiUu2Is4?si=595hFn7gpeFRoXYP&t=2428
+          title: "DC Mayoral Candidate Forum with Gary Goodweather"
+          publisher: "Jewish Community Relations Council of Greater Washington"
+          accessed: 2026-06-01
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      quote: "[DC youth] want a place of purpose and belonging. That is what the youth track in the Capital Corps - my workforce development program - will provide, including mentorship."
+      explanation: "Underlines the need for youth programming and the need to tackle underlying causes, including poverty and lack of mental health services."
+      sources:
+        - url: https://youtu.be/rDoAiUu2Is4?si=W6ezWXIfiqaOB_kT&t=2530
+          title: "DC Mayoral Candidate Forum with Gary Goodweather"
+          publisher: "Jewish Community Relations Council of Greater Washington"
+          accessed: 2026-06-01
+
+    - question_id: childcare_birth_to_three
+      stance:
+      quote: ""
+      explanation: ""
+      sources:
+        - url: https://youtu.be/rDoAiUu2Is4?si=R2If5faJqKM47rx_&t=1528
+          title: "DC Mayoral Candidate Forum with Gary Goodweather"
+          publisher: "Jewish Community Relations Council of Greater Washington"
+          accessed: 2026-06-01
+
     - question_id: housing_social_model
       stance: 2
       quote: "support permanently affordable housing through tools like community land trusts and social housing."
