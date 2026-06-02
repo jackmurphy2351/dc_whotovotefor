@@ -14,6 +14,7 @@ TOPIC_ORDER = [
     "dc_council",
     "delegate_statehood",
     "special_elections",
+    "methodology",
 ]
 
 TOPIC_TITLES = {
@@ -24,6 +25,7 @@ TOPIC_TITLES = {
     "dc_council": "How the DC Council Works",
     "delegate_statehood": "The Non-Voting Delegate & DC Statehood",
     "special_elections": "How Special Elections Work",
+    "methodology": "How We Assign Candidate Stances",
 }
 
 

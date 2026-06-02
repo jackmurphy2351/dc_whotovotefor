@@ -62,19 +62,6 @@
       publisher: "The 51st"
       accessed: 2026-05-27
   positions:
-    - question_id: housing_topa_restore
-      stance: 2
-      explanation: "Built his early career organizing tenant associations under TOPA at Housing Counseling Services; law practice centered on housing and landlord-tenant matters. Platform explicitly supports protecting tenants and enforcing housing laws clearly and consistently."
-      sources:
-        - url: https://www.chavousfordc.com/
-          title: "Kevin Chavous for DC Council — Campaign Website"
-          publisher: "Kevin Chavous Campaign"
-          accessed: 2026-05-29
-        - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
-          title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
-          publisher: "The 51st"
-          accessed: 2026-05-27
-
     - question_id: education_mental_health_schools
       stance: 2
       explanation: "Wants every school to have a counselor and nurse regardless of enrollment, especially in areas hardest hit by trauma. Platform calls for expanding targeted mental health and crisis-response services to prevent violence before it occurs."
@@ -152,7 +139,7 @@
       accessed: 2026-05-29
   positions:
     - question_id: education_community_schools
-      stance: 2
+      stance: 1
       explanation: "Education is his central platform issue — career as DCPS teacher, principal at Ron Brown College Preparatory High School, and nonprofit leader. Wants every DC school to have adequate resources regardless of zip code, with strong middle school programming, mental health supports, family partnerships, and career pathways. Advocates a standalone Council education committee for more robust policy conversations, and says DC 'isn't going to be able to legislate its way out of an adaptive problem' — preferring youth dialogue and college/career development over enforcement-only approaches."
       sources:
         - url: https://dwight4dccouncil.com
@@ -166,15 +153,6 @@
         - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
           title: "Youth Engagement, Education Policy — Washington Informer"
           publisher: "Washington Informer"
-          accessed: 2026-05-29
-
-    - question_id: statehood_top_priority
-      stance: 2
-      explanation: "Explicitly calls DC self-government 'a civil right' and Congress's interference in local affairs 'unacceptable.' Platform calls for protecting Home Rule, defending budget autonomy, supporting an independent Attorney General, fighting for full voting representation, and building national coalitions for DC statehood."
-      sources:
-        - url: https://dwight4dccouncil.com
-          title: "Dwight Davis for DC Council — Campaign Website"
-          publisher: "Dwight Davis Campaign"
           accessed: 2026-05-29
 
 - id: dyana-forester
@@ -211,7 +189,7 @@
       accessed: 2026-05-27
   positions:
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       explanation: "Former DC Housing Authority commissioner; wants to increase investment in affordable housing and workforce housing. Skeptical of fast-build-first approaches; focuses on what families can actually afford."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
@@ -270,7 +248,7 @@
       accessed: 2026-05-29
   positions:
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       explanation: "Would fast-track any affordable housing project receiving city financing to prevent bureaucratic delay; BZA experience showed him how projects die in the permitting process. Also supports 3+ bedroom family units and working with Congress to relax the federal Height of Building Act to enable denser DC development."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
@@ -404,7 +382,7 @@
           accessed: 2026-05-29
 
     - question_id: education_mental_health_schools
-      stance: 2
+      stance: 1
       quote: "Expand Cognitive Behavior and School Based Mental Health Programs."
       explanation: "Proposes to 'Expand Cognitive Behavior and School Based Mental Health Programs,' citing their impact in DC and similar cities; also proposes to strengthen school climate through restorative practice investments and direct resources to schools where indicators show students need the most support."
       sources:
@@ -414,7 +392,7 @@
           accessed: 2026-05-29
 
     - question_id: childcare_universal
-      stance: 2
+      stance: 1
       explanation: "Pledges to protect Paid Family Leave, the Early Childhood Educator Pay Equity Fund, and Universal Pre-K; wants to expand childcare facility grants and push toward a goal where childcare costs families no more than 7% of income."
       sources:
         - url: https://www.jacksonfordc.com/
@@ -423,7 +401,7 @@
           accessed: 2026-05-29
 
     - question_id: parks_rec_funding
-      stance: 2
+      stance: 1
       explanation: "Served as DPR's communications and community relations director, coining the 'Where Fun Happens' motto and launching the FitDC campaign. His youth safety platform proposes a 'Safe Nights DC Initiative' expanding late-night youth-targeted recreation in high youth-traffic areas and strengthening out-of-school programs."
       sources:
         - url: https://www.jacksonfordc.com/
@@ -617,7 +595,7 @@
           accessed: 2026-05-29
 
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       explanation: "Explicitly names 'fully funding the Housing Production Trust Fund' as part of her homeownership-pathway agenda, alongside the First Right to Purchase Program."
       sources:
         - url: https://www.candacefordc.com/
@@ -636,7 +614,7 @@
           accessed: 2026-05-29
 
     - question_id: mpd_ice_cooperation
-      stance: 2
+      stance: 1
       quote: "Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values."
       explanation: "Pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values,' ensuring DC remains a safe place for immigrant communities. Will refuse to preemptively comply with Trump administration overreach."
       sources:
@@ -789,7 +767,7 @@
           accessed: 2026-05-29
 
     - question_id: transit_bike_bus_lanes
-      stance: 2
+      stance: 1
       quote: "invest in safer stations, bus stops, sidewalks, lighting, and accessibility improvements."
       explanation: "Will 'expand bus priority corridors' and 'invest in safer stations, bus stops, sidewalks, lighting, and accessibility improvements.' Endorsed by Bike, Walk & Bus PAC. Focuses on a transit-first District that centers residents over car throughput."
       sources:
@@ -877,7 +855,7 @@
           accessed: 2026-05-29
 
     - question_id: harm_reduction_safe_injection
-      stance: 2
+      stance: 1
       quote: "confront overdoses with a true public health approach centered on harm reduction, treatment access, housing stability, and continuity of care."
       explanation: "Explicitly calls for DC to 'confront overdoses with a true public health approach centered on harm reduction, treatment access, housing stability, and continuity of care.' As a pharmacist and public health professional, his use of 'harm reduction' as a core framing encompasses overdose prevention center models."
       sources:
@@ -887,7 +865,7 @@
           accessed: 2026-05-29
 
     - question_id: childcare_universal
-      stance: 2
+      stance: 1
       quote: "ensure families do not spend more than ten percent of their income on child care when the Birth-to-Three Act is fully implemented."
       explanation: "Will 'fund early care and learning from birth through pre-K with stable, predictable public investment,' raise child care reimbursement rates, and 'ensure families do not spend more than ten percent of their income on child care when the Birth-to-Three Act is fully implemented.' Will fully fund and permanently protect the Early Childhood Educator Pay Equity Fund."
       sources:
@@ -1036,7 +1014,7 @@
       accessed: 2026-05-29
   positions:
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       quote: "Invest in the Housing Production Trust Fund with strong oversight."
       explanation: "Explicitly pledges to 'Invest in the Housing Production Trust Fund with strong oversight.' Also supports streamlined permitting and use of public land to increase supply across all eight wards."
       sources:
@@ -1085,7 +1063,7 @@
           accessed: 2026-05-30
 
     - question_id: youth_curfew_programming
-      stance: 2
+      stance: 1
       quote: "The long-term solution is opportunity, connection, and hope."
       explanation: "Pairs her curfew support with a comprehensive youth investment agenda: evidence-based conflict management programs, career pathways, paid apprenticeships (champions DC Young Adult Corps Act), expanded safe afterschool and late-night spaces, and school-based mental health care. 'The long-term solution is opportunity, connection, and hope.'"
       sources:
@@ -1104,7 +1082,7 @@
           accessed: 2026-05-30
 
     - question_id: environment_renewable_energy
-      stance: 2
+      stance: 1
       explanation: "Supports 'robust implementation of the Carbon Free DC plan' and the Healthy Homes Act. Wants gas-free, energy-efficient affordable housing construction and tough Public Service Commission oversight to control utility costs."
       sources:
         - url: https://lisaraymondfordc.com/

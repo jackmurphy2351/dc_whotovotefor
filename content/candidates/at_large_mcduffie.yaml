@@ -96,7 +96,7 @@
           accessed: 2026-05-27
 
     - question_id: education_mental_health_schools
-      stance: 2
+      stance: 1
       quote: "I will protect the School-Based Behavioral Health Program, which places clinicians in DC public and charter schools, from budget cuts."
       explanation: "Pledges to protect the School-Based Behavioral Health Program — which places clinicians in DC public and charter schools — from budget cuts, calling cuts 'not a savings but a cost we will pay in other ways.' Wants to expand out-of-school time funding for safe, structured after-school programming."
       sources:
@@ -109,16 +109,6 @@
       stance: 2
       quote: "I support consolidating our community violence intervention programs for greater efficiency, improving transparency between MPD and the communities it serves, and ensuring that DC’s police department is never used as a tool of federal immigration enforcement."
       explanation: "Explicitly states that DC's police department must never be used as a tool of federal immigration enforcement. Has co-introduced legislation to protect DC residents from federal law enforcement overreach."
-      sources:
-        - url: https://www.donicrawford.com/
-          title: "Doni Crawford for DC Council — Campaign Website"
-          publisher: "Doni Crawford Campaign"
-          accessed: 2026-05-29
-
-    - question_id: statehood_top_priority
-      stance: 2
-      quote: "One of my first meetings as a Councilmember was with DC’s Shadow Senator to align on strategy and make clear that the Council has a real role to play in the statehood movement."
-      explanation: "Treats statehood as an urgent priority; one of her first acts as Councilmember was meeting with DC's Shadow Senator to align on strategy. Has co-introduced legislation protecting residents from federal law enforcement overreach. Calls for a dedicated federal relations office at the Council level so DC's voice on the Hill is consistent and strategic."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
@@ -196,7 +186,7 @@
       accessed: 2026-05-27
   positions:
     - question_id: education_community_schools
-      stance: 2
+      stance: 1
       quote: "On the Council, I will continue advocating for strong public schools, workforce pathways for young people, and programs that prepare students for college, careers, and leadership in our city."
       explanation: "Has advocated for 'community schools' — which provide resources for families beyond basic education — throughout his career as DC State Board of Education President and ANC commissioner."
       sources:
@@ -246,7 +236,7 @@
           accessed: 2026-05-27
 
     - question_id: econ_small_business_tax_relief
-      stance: 2
+      stance: 1
       quote: "The goal is to make DC a city where small businesses can launch, grow, and succeed without being buried in bureaucracy."
       explanation: "Has a detailed Small Business Action Plan: expand access to capital (CDFIs, grants and loans, especially for minority- and women-owned businesses), preserve and expand affordable commercial space, and 'smart and streamlined regulations' that simplify licensing and reduce delays so small businesses 'can launch, grow, and succeed without being buried in bureaucracy.'"
       sources:
@@ -334,7 +324,7 @@
           accessed: 2026-05-29
 
     - question_id: transit_bike_bus_lanes
-      stance: 2
+      stance: 1
       explanation: "Endorsed by Greater Greater Washington (pro-transit), Bike Walk & Bus PAC, and DC YIMBYs, and is a self-described bike commuter; strong record supporting transit and active-transportation infrastructure."
       sources:
         - url: https://www.elissafordc.com/
@@ -343,7 +333,7 @@
           accessed: 2026-05-29
 
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       quote: "She focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms."
       explanation: "Supports streamlining and increasing DCHA resources and the Housing Production Trust Fund; advocates removing obstacles to building and using public lands and public dollars strategically. Focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms."
       sources:

@@ -109,8 +109,8 @@
 
     - question_id: housing_topa_restore
       stance: 2
-      quote: "Enhancing pathways from renting to owning to help tenants become owners through cooperatives, tenant purchases, and structured negotiations."
-      explanation: "Platform supports tenant purchase rights: 'Enhancing pathways from renting to owning to help tenants become owners through cooperatives, tenant purchases, and structured negotiations.' Her broader housing platform is strongly pro-tenant, including ending the 'slumlord business model' and funding cooperative conversions."
+      quote: "She will restore tenants’ purchasing rights by strengthening DC’s powerful anti-displacement law, the Tenant Opportunity to Purchase Act (TOPA)."
+      explanation: "Campaign platform explicitly pledges, under 'Expanding homeownership,' to 'restore tenants’ purchasing rights by strengthening DC’s powerful anti-displacement law, the Tenant Opportunity to Purchase Act (TOPA)' — directly endorsing restoring and strengthening TOPA. Her broader housing platform is strongly pro-tenant, including ending the 'slumlord business model' and funding cooperative conversions."
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
@@ -255,7 +255,7 @@
           accessed: 2026-05-28
 
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       quote: "Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need."
       explanation: "Platform calls for 'Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need,' plus launching Dignified Homes DC as a new publicly-funded housing initiative. Her full audit of housing systems in the first 100 days and strong affordable housing investment priorities imply maintaining and expanding the HPTF rather than cutting it."
       sources:
@@ -435,7 +435,7 @@
           accessed: 2026-06-02
 
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       quote: "Ensuring HPTF dollars are deployed efficiently to maximize the number of affordable homes produced by administering stronger scoring for projects that produce more units per dollar, incorporating minimum private or tax-credit equity share requirements, improving coordination with federal tax credits and incentives and standardizing and accelerating underwriting and approvals."
       explanation: "Pledges to build 12,000 new housing units by 2030 and preserve 20,000 affordable homes."
       sources:
@@ -594,7 +594,7 @@
       accessed: 2026-05-28
   positions:
     - question_id: transit_bike_bus_lanes
-      stance: 2
+      stance: 1
       quote: "My administration will expand access to reliable public transit, strengthen infrastructure for biking and walking, and accelerate the transition to electric vehicles and cleaner transportation systems."
       explanation: "Proposes Fare-Free DC (eliminating Metrobus and Metrorail fares for DC residents) and calls for expanded transit access, biking and walking infrastructure, and EV transition as part of his Sustainability platform."
       sources:
@@ -1266,7 +1266,7 @@
           accessed: 2026-05-28
 
     - question_id: sanitation_rats
-      stance: 2
+      stance: 1
       quote: "You know what it’s like to watch rats take over parks and sidewalks while City Hall treats it like background noise."
       explanation: "Explicitly names rats as one of the core failures she would fix as mayor: 'You know what it's like to watch rats take over parks and sidewalks while City Hall treats it like background noise.' Listed alongside trash, snow removal, and public safety as the broken basics that must be fixed first."
       sources:
@@ -1338,7 +1338,7 @@
       accessed: 2026-05-28
   positions:
     - question_id: parks_rec_funding
-      stance: 2
+      stance: 1
       quote: "DC Parks and Recreation needs to incorporate activities for our teens and “tweens” that will keep them engaged and out of trouble."
       explanation: "Campaign platform explicitly calls for DC Parks and Recreation to incorporate programming for teens and 'tweens' and pledges to collaborate with community leaders, faith leaders, coaches, and clubs to connect youth to DPR services."
       sources:
@@ -1358,7 +1358,7 @@
           accessed: 2026-05-28
 
     - question_id: education_mayoral_control
-      stance: 2
+      stance: 1
       quote: "For as long as our schools have been under mayoral control, far too many of our students, including those with special needs, remain left behind."
       explanation: "Her Educational Excellence platform states: 'For as long as our schools have been under mayoral control, far too many of our students, including those with special needs, remain left behind. Yaida wants to explore eliminating Mayoral control of our school system and giving power back to elected state board representatives where it belongs.'"
       sources:

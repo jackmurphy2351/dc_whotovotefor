@@ -151,6 +151,8 @@ This app enforces a "no unsourced claims" policy at startup:
 
 Acceptable sources: dc.gov, dccouncil.gov, dcboe.org, candidate campaign sites, Ballotpedia, and established local news (The 51st, Washington City Paper, WAMU/DCist archive, Washington Post).
 
+How each stance is graded — and specifically when a position earns a strong **±2** rather than an ordinary **±1** — is documented in [`content/resources/methodology.md`](content/resources/methodology.md), published in-app at `/resources/methodology`.
+
 ---
 
 ## Adding or updating candidate data
@@ -224,6 +226,7 @@ The `/resources` section contains dc.gov-linked explainer pages on:
 - The DC Fair Elections Program
 - How the DC Council works (wards vs. at-large)
 - The Non-Voting Delegate role & DC Statehood
+- **How we assign candidate stances** — the grading rubric, including when a position earns a strong **±2** vs an ordinary **±1**
 
 These are Markdown files in `content/resources/` with YAML front-matter declaring their sources.
 

@@ -87,7 +87,7 @@
           accessed: 2026-05-31
 
     - question_id: education_mental_health_schools
-      stance: 2
+      stance: 1
       quote: "Passed and funded the Child Behavioral Health Services Dashboard to help families access care and support faster."
       explanation: "Passed and funded the Child Behavioral Health Services Dashboard to help families access behavioral health care faster. Strengthened oversight of child welfare and rehabilitation systems, helped expand education services for incarcerated youth, and addressed social worker vacancies so foster care youth receive the support they deserve."
       sources:
@@ -115,7 +115,7 @@
           accessed: 2026-05-31
 
     - question_id: transit_bike_bus_lanes
-      stance: 2
+      stance: 1
       quote: "Co-introduced the STEER Act to hold reckless out-of-state drivers accountable, secured closure of the 8th Street gap on the Metropolitan Branch Trail to protect cyclists and pedestrians, and has advocated for safer street design to curb reckless driving."
       explanation: "Co-introduced the STEER Act to hold reckless out-of-state drivers accountable, secured closure of the 8th Street gap on the Metropolitan Branch Trail to protect cyclists and pedestrians, and advocated for safer street design to curb reckless driving throughout Ward 5."
       sources:
@@ -125,7 +125,7 @@
           accessed: 2026-05-31
 
     - question_id: home_rule_dc_resist
-      stance: 2
+      stance: 1
       quote: "Neighbors are losing jobs, housing instability and displacement plague the District, and DC's right to self-governance is under threat. Through it all, Zach has stood firm against federal overreach."
       explanation: "Stood firm against federal overreach on DC's self-governance throughout his first term. Fought to ensure the RFK redevelopment deal supports strong labor standards and creates union jobs for DC residents, asserting local community interests against external pressure."
       sources:
@@ -260,7 +260,7 @@
           accessed: 2026-05-31
 
     - question_id: youth_curfew_programming
-      stance: 2
+      stance: 1
       quote: "Heighten awareness of the Marion Barry Summer Youth Employment Program to increase participation. Fund after-school and mentorship programs at Dunbar, Cardozo, and Coolidge High Schools serving Ward 5 youth."
       explanation: "Would heighten awareness of the Marion Barry Summer Youth Employment Program, fund after-school and mentorship programs at Ward 5 high schools, and advocate for recreation center upgrades within her first term. Frames youth programming as a core public safety strategy alongside violence interruption."
       sources:
@@ -270,7 +270,7 @@
           accessed: 2026-05-31
 
     - question_id: parks_rec_funding
-      stance: 2
+      stance: 1
       quote: "Advocate for recreation center upgrades in Ward 5 within the first term."
       explanation: "Would advocate for recreation center upgrades in Ward 5 within the first term, fund after-school and mentorship programs at Ward 5 high schools, and invest in upgrading and expanding programming at Ward 5 senior wellness centers in partnership with DPR and DACL."
       sources:
@@ -310,7 +310,7 @@
           accessed: 2026-05-31
 
     - question_id: housing_upzoning
-      stance: 2
+      stance: 1
       quote: "She also wants to build 36,000 units of housing a year, 20,000 of them for low- and moderate-income residents."
       explanation: "Has set an extremely ambitious housing production goal of 36,000 units per year citywide, with 20,000 of them for low- and moderate-income residents. For context, Mayor Bowser built roughly 36,000 units over five years. Reaching that pace would require dramatically expanding zoning capacity and density across the District. Her Future of Ward 5 Legislation also calls for increased Community Benefits Agreement standards in large developments, pairing density with stronger community protections."
       sources:

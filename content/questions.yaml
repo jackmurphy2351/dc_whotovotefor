@@ -51,7 +51,7 @@
 - id: housing_production_trust_fund
   issue: housing
   prompt: "DC should significantly increase the Housing Production Trust Fund — the city's primary tool for financing affordable housing."
-  applies_to_elections: [mayor, ward5, ward6, at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
   explanation: |
     The Housing Production Trust Fund (HPTF) finances construction and preservation
     of affordable housing. Mayor Bowser proposed cutting the fund by 50% in her most

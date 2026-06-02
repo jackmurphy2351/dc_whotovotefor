@@ -105,7 +105,7 @@
           accessed: 2026-05-30
 
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       quote: "Rashida will fight to protect these funds exclusively for affordable housing production and preservation, with mandatory set-asides for deeply affordable units (0-30% AMI)."
       explanation: "Will protect the HPTF from being raided for budget gaps, with mandatory set-asides for deeply affordable units (0–30% AMI). Also supports Councilmember Nadeau's 2026 legislation to replace and reform the HPTF with a more modern, robust financing mechanism."
       sources:
@@ -135,7 +135,7 @@
           accessed: 2026-05-30
 
     - question_id: education_mental_health_schools
-      stance: 2
+      stance: 1
       quote: "Rashida will expand school-based mental health services, peer support programs, and healing-centered approaches that address root causes rather than symptoms."
       explanation: "Will expand school-based mental health services, peer support programs, and healing-centered approaches; supports expanding mental health crisis response teams to respond to psychiatric emergencies instead of armed police; calls for evaluating progress on school-based mental health since its passage."
       sources:
@@ -185,7 +185,7 @@
           accessed: 2026-05-30
 
     - question_id: parks_rec_funding
-      stance: 2
+      stance: 1
       quote: "Rashida will fund recreation centers, libraries, and community spaces with extended hours, providing structured activities, mentorship, and positive adult relationships."
       explanation: "Will fund recreation centers, libraries, and community spaces with extended hours for structured activities and mentorship. Personally activated community spaces through Georgia Avenue Thrive with youth programming, and sees investment in 'safe spaces open late' as a core public safety strategy."
       sources:
@@ -225,7 +225,7 @@
           accessed: 2026-05-30
 
     - question_id: transit_congestion_pricing
-      stance: 2
+      stance: 1
       quote: "Rashida will work to make sure that car usage is not subsidized by residents who don’t use cars."
       explanation: "Explicitly supports road-pricing so car usage is not subsidized by residents who don't drive: would increase the price of Residential Parking Permits, remove minimum parking requirements near transit, implement road diets on arterials, make some streets car-free, and pursue regional reciprocity for automated traffic enforcement."
       sources:
@@ -254,7 +254,7 @@
           accessed: 2026-05-30
 
     - question_id: econ_small_business_tax_relief
-      stance: 2
+      stance: 1
       quote: "She’ll prioritize the Small Retailer Property Tax Credit Expansion Amendment Act of 2025 to support small retailers and restaurants, many of them immigrant-owned and family-operated."
       explanation: "Would prioritize the Small Retailer Property Tax Credit Expansion Amendment Act to support small retailers and restaurants (many immigrant-owned), support commercial rent stabilization and community ownership models, and 'increase taxes and close loopholes for major corporations… while providing some relief to smaller businesses to succeed and thrive.'"
       sources:
@@ -567,7 +567,7 @@
           accessed: 2026-05-30
 
     - question_id: education_mental_health_schools
-      stance: 2
+      stance: 1
       quote: "Instead, funding for school-based behavioral health should increase to meet the needs of students today."
       explanation: "Would increase funding for school-based behavioral health services, opposing the FY26 budget's $2.3 million cut to school behavioral health. Supports expanding school counselors, social workers, and nurses; funds mobile health crisis units; and expands the Certified Community Behavioral Health Clinic program."
       sources:
@@ -597,7 +597,7 @@
           accessed: 2026-05-30
 
     - question_id: parks_rec_funding
-      stance: 2
+      stance: 1
       quote: "Aparna will resist cuts to libraries, rec centers, and public spaces, and she’ll fight to invest in longer hours and to improve facilities’ physical infrastructure and improve accessibility."
       explanation: "Would resist cuts to rec centers and public spaces and fight to invest in longer hours and improved physical infrastructure. Specifically proposes expanding rec center hours with programming for youth, and advocates for bringing Ward 1's federally maintained parks under DPR control."
       sources:
@@ -627,7 +627,7 @@
           accessed: 2026-05-30
 
     - question_id: environment_renewable_energy
-      stance: 2
+      stance: 1
       quote: "Aparna supports fully funding the program, which would lower bills for 100,000 DC families."
       explanation: "Would fully fund Solar for All (lowering bills for 100,000 families), fully fund the Affordable Home Electrification Program, reform solar interconnection fees, reduce Pepco's guaranteed investor return from 9.5% to ~6%, and defend DC's Building Efficiency Performance Standards. Ultimately wants to transition DC's utilities to public ownership, citing lower bills and better reliability at the 2,000+ municipal utilities nationally."
       sources:
@@ -781,7 +781,7 @@
           accessed: 2026-05-30
 
     - question_id: mpd_ice_cooperation
-      stance: 2
+      stance: 1
       explanation: "Her entire career has centered on protecting immigrant communities: she secured $10 million for DC's Immigration Justice Legal Services Grant Program, expanded STAY DC housing stability for immigrant families, and led multilingual vaccine outreach in hard-to-reach neighborhoods. Per The 51st, she is outspoken against MPD collaboration with ICE and federal immigration agents."
       sources:
         - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
@@ -955,7 +955,7 @@
           accessed: 2026-05-30
 
     - question_id: housing_production_trust_fund
-      stance: 2
+      stance: 1
       quote: "As a Councilmember, Miguel will fight for more resources for the Housing Production Trust Fund (HPTF), while ensuring through rigorous oversight that our investment is effectively used, and paired with other resources, to create new affordable homes for households earning up to 50% of the Area Median Income."
       explanation: "Will fight for more resources for the HPTF focused on households earning up to 50% AMI, paired with rigorous oversight. Also proposes a new Housing Preservation Fund alongside the HPTF to protect existing affordable housing from being converted to market rate."
       sources:
@@ -1055,7 +1055,7 @@
           accessed: 2026-05-30
 
     - question_id: parks_rec_funding
-      stance: 2
+      stance: 1
       quote: "Count on Miguel to be a champion for public spaces, no matter how small."
       explanation: "Frames recreation centers as essential youth safety infrastructure (safe spaces for youth gatherings as an alternative to curfews) and supports expanding Out-of-School Time seat capacity. Organized monthly Malcolm X Park cleanups, brought Shakespeare in the Park to Malcolm X, and built partnerships with Washington Parks & People and the National Park Service to attract resources for the park."
       sources:

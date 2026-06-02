@@ -101,11 +101,12 @@ When editing YAML, run the dev server or `pytest` to catch violations immediatel
 - `main.py` — `/`, `/about`
 - `elections.py` — `/election/<slug>`, `/candidate/<election_slug>/<candidate_id>`
 - `quiz.py` — `/quiz/<slug>/start` (GET/POST question-selection screen, grouped by issue with per-category + per-question checkboxes; stores `quiz_selected_<slug>`), `/quiz/<slug>` (GET stepped, POST advances), `/results/<slug>`, `/quiz/<slug>/reset`. The stepped quiz, progress, and results scoring all run over `_active_questions()` — the election's questions filtered to the user's selection (or all questions when none is stored). The selection screen is the quiz's entry point from the election page.
-- `resources.py` — `/resources`, `/resources/<topic>` (hardcoded topic allowlist in `TOPIC_ORDER` / `TOPIC_TITLES`)
+- `resources.py` — `/resources`, `/resources/<topic>` (hardcoded topic allowlist in `TOPIC_ORDER` / `TOPIC_TITLES`; one entry is `methodology`, the public stance-grading explainer)
 
 ## Content conventions
 
 - **Stance scale:** `-2` strongly opposes, `-1` opposes, `0` neutral, `1` supports, `2` strongly supports, `null` unknown. `0` and `null` do **not** require sources; everything else does.
+- **Stance-grading rubric:** The criteria for assigning a stance — especially when a position earns a strong **±2** (on-topic to the question's specific claim *and* backed by emphatic framing or a concrete commitment) versus an ordinary **±1** — are written up in `content/resources/methodology.md`, published at `/resources/methodology`. Sponsorship is strong evidence; a lone vote is weak; the campaign page stays authoritative. Keep that page in sync when the grading bar changes.
 - **Candidate IDs are kebab-case and globally unique** across all `candidates/*.yaml` files — not just within one race.
 - **Advisories** are named third-party voter-guidance quotes (e.g. "Free DC: do not rank X"), always attributed to an organization, never editorial.
 - **Source dates** (`accessed:`) parse via `date.fromisoformat`. Quote them as `YYYY-MM-DD`.

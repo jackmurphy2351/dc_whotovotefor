@@ -207,7 +207,7 @@
           accessed: 2026-05-28
 
     - question_id: mpd_ice_cooperation
-      stance: 2
+      stance: 1
       explanation: "Answered Yes to all sanctuary-related questions in his Free DC questionnaire, including opposing MPD/ICE cooperation and opposing Congress increasing police in DC."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9215b81184fbd4895bb/1771890977316/Trent+Holbrook+Free+DC+Candidate+Questionnaire.pdf
@@ -328,7 +328,7 @@
           accessed: 2026-05-28
 
     - question_id: mpd_ice_cooperation
-      stance: 2
+      stance: 1
       quote: "The best way I can honor his legacy is to fight for a humane immigration policy that respects the diversity and hard work that immigrants bring to our society."
       explanation: "Strongly opposes Trump's immigration detention policies, calling them 'brutal' and 'illegal' — a position he connects personally to his father's history as a Romanian refugee. Supports getting the federal government entirely out of DC's local justice system so residents can set policies focused on prevention and rehabilitation."
       sources:
@@ -368,7 +368,7 @@
           accessed: 2026-05-30
 
     - question_id: delegate_oppose_federal_mpd
-      stance: 2
+      stance: 1
       quote: "Greg will also fight to get the federal government out of D.C.'s local justice system so District residents can shape policies that are accountable to their communities and focused on prevention, rehabilitation, and real public safety."
       explanation: "Cites National Guard troops 'deployed throughout the city' and federal incarceration as 'peculiarities' of DC's status, and pledges to 'fight to get the federal government out of D.C.'s local justice system' so District residents can shape policies accountable to their own communities."
       sources:
@@ -506,7 +506,7 @@
           accessed: 2026-05-30
 
     - question_id: delegate_budget_autonomy
-      stance: 2
+      stance: 1
       quote: "Every single day, the Trump Administration is trampling on our rights as Washingtonians and trying to strip power from our local leadership."
       explanation: "Centers her campaign on DC self-governance: 'the Trump Administration is… trying to strip power from our local leadership,' and DC 'needs a champion in Congress to defend our values' and autonomy. Notes DC is 'the only jurisdiction in the country where the federal government tells us how and where we can build,' and would fight congressional interference in local decisions."
       sources:
@@ -629,7 +629,7 @@
       accessed: 2026-05-27
   positions:
     - question_id: statehood_top_priority
-      stance: 2
+      stance: 1
       quote: "America is the only democracy on earth that denies the residents of its capital city the right to vote. It's a national disgrace, and part of the legacy of racism."
       explanation: "Calls DC's lack of voting representation 'a national disgrace and part of the legacy of racism,' but argues that fixing it requires a strategic 'grand bargain' on Capitol Hill — not outrage. Distinguishes herself from other candidates by emphasizing coalition-building across sectors and the aisle as the path to full representation. Proposes a Capital Caucus to build regional economic leverage with DC, MD, VA, and neighboring jurisdictions."
       sources:
