@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 # Run dev server (http://127.0.0.1:5000)
 FLASK_ENV=development .venv/bin/python app.py
 
-# Run all tests (31 tests; data_loader + scoring)
+# Run all tests (45 tests; data_loader + scoring + quiz selection)
 .venv/bin/python -m pytest
 
 # Run a single test
@@ -44,7 +44,6 @@ python scripts/fastdemocracy_scraper.py --discover
 |---|---|---|
 | DCL000002 | Vincent Orange | Mayor |
 | DCL000004 / DCL000025 | Kenyan McDuffie | Mayor (two session entries) |
-| DCL000013 | Anita Bonds | At-Large (Bonds seat) |
 | DCL000017 | Elissa Silverman | At-Large (McDuffie seat) |
 | DCL000019 / DCL000024 | Robert White | Delegate (two session entries) |
 | DCL000020 | Charles Allen | Ward 6 |
@@ -60,7 +59,7 @@ Both require the header `X-Requested-With: XMLHttpRequest`. The scraper tries 45
 
 ## Architecture
 
-**Flask app factory + content-at-startup.** `helpmevote/__init__.py` calls `load_all_content()` once and stashes the result on `app.config["CONTENT"]` as an `AppContent` dataclass. Routes read from `current_app.config["CONTENT"]`. There is no database — quiz state lives in a signed-cookie Flask session keyed `quiz_answers_<election_slug>`.
+**Flask app factory + content-at-startup.** `helpmevote/__init__.py` calls `load_all_content()` once and stashes the result on `app.config["CONTENT"]` as an `AppContent` dataclass. Routes read from `current_app.config["CONTENT"]`. There is no database — quiz state lives in signed-cookie Flask session keys: `quiz_answers_<election_slug>` (the `{question_id: stance}` map) and `quiz_selected_<election_slug>` (the list of question IDs the user chose to answer; absent means "all questions").
 
 **Content is data, not code.** Everything voter-facing lives under `content/`:
 - `elections.yaml`, `issues.yaml`, `questions.yaml` — top-level taxonomy
@@ -86,7 +85,7 @@ When editing YAML, run the dev server or `pytest` to catch violations immediatel
 **Routes are split into four blueprints** under `helpmevote/routes/`:
 - `main.py` — `/`, `/about`
 - `elections.py` — `/election/<slug>`, `/candidate/<election_slug>/<candidate_id>`
-- `quiz.py` — `/quiz/<slug>` (GET stepped, POST advances), `/results/<slug>`, `/quiz/<slug>/reset`
+- `quiz.py` — `/quiz/<slug>/start` (GET/POST question-selection screen, grouped by issue with per-category + per-question checkboxes; stores `quiz_selected_<slug>`), `/quiz/<slug>` (GET stepped, POST advances), `/results/<slug>`, `/quiz/<slug>/reset`. The stepped quiz, progress, and results scoring all run over `_active_questions()` — the election's questions filtered to the user's selection (or all questions when none is stored). The selection screen is the quiz's entry point from the election page.
 - `resources.py` — `/resources`, `/resources/<topic>` (hardcoded topic allowlist in `TOPIC_ORDER` / `TOPIC_TITLES`)
 
 ## Content conventions

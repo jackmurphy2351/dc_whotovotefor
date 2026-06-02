@@ -47,7 +47,6 @@ HEADERS = {
 CANDIDATES: dict[str, tuple[str, str]] = {
     "DCL000002": ("Vincent Orange",       "Mayor"),
     "DCL000004": ("Kenyan McDuffie",       "Mayor (Session 19–22)"),
-    "DCL000013": ("Anita Bonds",           "At-Large (Bonds seat)"),
     "DCL000017": ("Elissa Silverman",      "At-Large (McDuffie seat)"),
     "DCL000019": ("Robert White",          "Delegate (Session 23+)"),
     "DCL000020": ("Charles Allen",         "Ward 6"),
