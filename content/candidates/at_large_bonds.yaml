@@ -84,6 +84,33 @@
           publisher: "Kevin Chavous Campaign"
           accessed: 2026-05-29
 
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Chavous argued that the small number of youth most likely to commit violent crime can be identified through data, and that DC should direct resources straight to them — a job-training program with an actual job at the end, a housing voucher into vacant units — while 'cutting some of the bureaucracy that prevents the resources from going to who needs them most.' A targeted-prevention, community-investment approach to youth violence."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Chavous said his 'general answer would be no' to returning armed police to all DC public high schools, allowing a narrow exception only where a specific school or administrator requests it for a specific situation."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Chavous took a deliberately measured line on federal interference, noting 'the president makes a lot of threats [but] follows through on very few,' that DC 'still control[s] our budget,' and that his focus would be on effective oversight of the $22B budget and 'what we can do with the power we have today.' Neither an assertive litigation/refusal posture nor explicit deal-making — recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: dwight-davis
   name: "Dwight Davis"
   election_slug: at_large_bonds
@@ -140,7 +167,7 @@
   positions:
     - question_id: education_community_schools
       stance: 1
-      explanation: "Education is his central platform issue — career as DCPS teacher, principal at Ron Brown College Preparatory High School, and nonprofit leader. Wants every DC school to have adequate resources regardless of zip code, with strong middle school programming, mental health supports, family partnerships, and career pathways. Advocates a standalone Council education committee for more robust policy conversations, and says DC 'isn't going to be able to legislate its way out of an adaptive problem' — preferring youth dialogue and college/career development over enforcement-only approaches."
+      explanation: "Education is his central platform issue — career as DCPS teacher, principal at Ron Brown College Preparatory High School, and nonprofit leader. Wants every DC school to have adequate resources regardless of zip code, with strong middle school programming, mental health supports, family partnerships, and career pathways. Advocates a standalone Council education committee for more robust policy conversations, and says DC 'isn't going to be able to legislate its way out of an adaptive problem' — preferring youth dialogue and college/career development over enforcement-only approaches. At the April 28, 2026 Fair Elections Program At-Large debate he called for wrapping programming around students as they move from elementary to middle to high school, and for the Deputy Mayor for Education to better connect high-school career specialties to UDC for skills and certifications."
       sources:
         - url: https://dwight4dccouncil.com
           title: "Dwight Davis for DC Council — Campaign Website"
@@ -154,6 +181,38 @@
           title: "Youth Engagement, Education Policy — Washington Informer"
           publisher: "Washington Informer"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis answered the youth-violence question by emphasizing intervening 'before their actions escalate' — starting with listening to young people to understand the root cause, and ensuring programming follows students from elementary through high school rather than disappearing in the middle-school years. A prevention- and root-cause-focused, community-based approach."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 2
+      quote: "No. Weapons should not be in schools."
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Davis gave a flat 'no' to returning armed police to all DC public high schools — 'weapons should not be in schools' — a firm, unqualified position."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis said DC needs 'a coalition of those who will fight with us' against the administration and must 'make sure our attorney general remains independent' to fight when DC's laws are challenged or overturned, drawing on his Teach Plus policy-fellowship experience advocating to Congress. Supports assertive legal defense and coalition-building, framed around relationships rather than maximal confrontation."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: dyana-forester
   name: "Dyana Forester"
@@ -190,21 +249,74 @@
   positions:
     - question_id: housing_production_trust_fund
       stance: 1
-      explanation: "Former DC Housing Authority commissioner; wants to increase investment in affordable housing and workforce housing. Skeptical of fast-build-first approaches; focuses on what families can actually afford."
+      explanation: "Former DC Housing Authority commissioner; wants to increase investment in affordable housing and workforce housing. Skeptical of fast-build-first approaches; focuses on what families can actually afford. At the April 28, 2026 Fair Elections Program At-Large debate she said she will 'always prioritize affordability,' recounting that on the DCHA board she and another commissioner voted against a project when developers asked the board to lower its deep-affordability requirement, because that public land 'belongs to the public housing residents of the District of Columbia.'"
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
-      explanation: "A labor leader and former AFL-CIO Metropolitan Washington Council president whose campaign pillars include 'support for small businesses and job growth.' Emphasizes streamlining permitting and licensing scaled to small businesses, reducing administrative burdens, and commercial rent-stability incentives to keep local operators in their neighborhoods."
+      explanation: "A labor leader and former AFL-CIO Metropolitan Washington Council president whose campaign pillars include 'support for small businesses and job growth.' Emphasizes streamlining permitting and licensing scaled to small businesses, reducing administrative burdens, and commercial rent-stability incentives to keep local operators in their neighborhoods. At the April 28, 2026 Fair Elections Program At-Large debate she named small business as the sector to prioritize for displaced federal workers, arguing many have the skills to be entrepreneurs and contractors but DC lacks 'the structure in place to support them.'"
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: fiscal_progressive_taxation
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate, asked what she would cut, Forester said DC should 'cut tax loopholes for corporations that have come to DC and not been accountable to the District of Columbia and that are taking our money' — closing corporate tax breaks to recapture revenue, consistent with a progressive-revenue posture."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester — a survivor of violent crime — emphasized creating opportunities for youth to 'choose a different path,' citing a pre-apprenticeship program she ran, and the power of exposure and of an adult 'believing in' young people (recalling a teacher who believed in her). A prevention-and-opportunity, community-based approach to youth violence."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Forester answered 'no' to returning armed police to all DC public high schools."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: education_community_schools
+      stance: 2
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester named 'prioritizing community schools' as a first-year commitment, noting she helped get community-schools legislation passed years ago that 'has never been funded' and that she would fight to fund it. Her career began at Teaching for Change working on community schools and parent engagement — a longstanding, concrete commitment to the model."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester said a core reason she is running is that DC's leaders — the Attorney General, Mayor, and Council — have not 'united together to push back against the administration and the attacks' and have not 'worked strategically.' A longtime statehood activist who says she 'got locked up fighting for statehood,' she calls for proactive, coordinated resistance rather than waiting — an assertive posture."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: fred-hill
   name: "Fred Hill"
@@ -249,7 +361,7 @@
   positions:
     - question_id: housing_production_trust_fund
       stance: 1
-      explanation: "Would fast-track any affordable housing project receiving city financing to prevent bureaucratic delay; BZA experience showed him how projects die in the permitting process. Also supports 3+ bedroom family units and working with Congress to relax the federal Height of Building Act to enable denser DC development."
+      explanation: "Would fast-track any affordable housing project receiving city financing to prevent bureaucratic delay; BZA experience showed him how projects die in the permitting process. Also supports 3+ bedroom family units and working with Congress to relax the federal Height of Building Act to enable denser DC development. At the April 28, 2026 Fair Elections Program At-Large debate he said the 'affordable housing system is broken right now — no one's investing in it, no one's building,' named the Housing Production Trust Fund among the tools that aren't working, and said as a first oversight step he would go to the housing agency to find out why the financing pipeline fails."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
@@ -259,34 +371,77 @@
           title: "Youth Engagement, Education Policy — Washington Informer"
           publisher: "Washington Informer"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: housing_upzoning
       stance: 1
-      explanation: "Former 10-year chair of the DC Board of Zoning Adjustment who supports denser development: he calls for more 3+ bedroom family units and for working with Congress to relax the federal Height of Building Act to enable taller, denser construction in DC."
+      explanation: "Former 10-year chair of the DC Board of Zoning Adjustment who supports denser development: he calls for more 3+ bedroom family units and for working with Congress to relax the federal Height of Building Act to enable taller, denser construction in DC. At the April 28, 2026 Fair Elections Program At-Large debate he reiterated the 'need for density,' tying it to rail lines and high-speed bus lines so more housing can be built along transit."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
-      explanation: "A business-friendly moderate who ran a federal contracting firm for nearly three decades and argues the Council needs a private-sector voice. Wants to grow biotech and high-tech sectors to diversify DC's economy and reduce bureaucratic barriers for businesses."
+      explanation: "A business-friendly moderate who ran a federal contracting firm for nearly three decades and argues the Council needs a private-sector voice. Wants to grow biotech and high-tech sectors to diversify DC's economy and reduce bureaucratic barriers for businesses. At the April 28, 2026 Fair Elections Program At-Large debate he proposed cutting small-business red tape — a 50-day licensing window and a 45-day certificate-of-occupancy window — short-term leases to fill vacant downtown ground-floor space, and prioritizing AI, cybersecurity, and biotechnology to diversify the economy."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "strategic — rather than activist — resistance to federal overreach."
-      explanation: "Supports 'strategic — rather than activist — resistance to federal overreach,' favoring a measured, pragmatic approach to defending DC's autonomy rather than an explicitly confrontational political posture."
+      explanation: "Supports 'strategic — rather than activist — resistance to federal overreach,' favoring a measured, pragmatic approach to defending DC's autonomy rather than an explicitly confrontational political posture. At the April 28, 2026 Fair Elections Program At-Large debate he urged educating congressional allies that 'DC's disenfranchisement is a civil rights issue, not a partisan one,' a focused defense coordinated with the Council, Attorney General, and Mayor, and a 'nuanced' message to Congress that DC 'is run very well' and they should not make it worse by taking it over."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Hill described 'two sides' to public safety: evidence-based violence interruption and restorative-justice programs focused on healing, accountability, and community engagement; the Office of Neighborhood Safety and Engagement; mental-health co-responders; an expanded Marion Barry Summer Youth Employment Program; and re-entry services — paired with traditional policing. Supportive of the public-health/prevention approach as one of two pillars."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_more_police
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Hill said DC should 'fully fund the MPD' and escalate the force 'back up from the 3,000 to 4,000 officers,' then prioritize officers on commercial corridors. Supportive of more officers, presented as one half of a balanced approach alongside violence interruption and re-entry services."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Hill answered 'no' to returning armed police to all DC public high schools."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: greg-jackson-jr
   name: "Greg Jackson Jr."
@@ -356,21 +511,29 @@
   positions:
     - question_id: crime_public_health
       stance: 2
-      explanation: "Survived a 2013 Shaw shooting; spent over 12 years in gun violence prevention, including leading 54 Biden executive actions and overseeing the Bipartisan Safer Communities Act's implementation, which he credits with a 49% nationwide homicide reduction. His public safety platform leads with community violence intervention, cognitive behavioral therapy, wrap-around services, and a Group Violence Reduction Strategy — with law enforcement as one tool among many."
+      explanation: "Survived a 2013 Shaw shooting; spent over 12 years in gun violence prevention, including leading 54 Biden executive actions and overseeing the Bipartisan Safer Communities Act's implementation, which he credits with a 49% nationwide homicide reduction. His public safety platform leads with community violence intervention, cognitive behavioral therapy, wrap-around services, and a Group Violence Reduction Strategy — with law enforcement as one tool among many. At the April 28, 2026 Fair Elections Program At-Large debate he called to 'invest in prevention strategies' including mental health and community violence intervention (noting DC has put only $25M into it) and to focus on 'upstream accountability' to intercept the guns — 95% from outside DC — that make crime fatal."
       sources:
         - url: https://www.jacksonfordc.com/
           title: "Greg Jackson for DC Council — Campaign Website"
           publisher: "jacksonfordc.com"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: crime_more_police
       stance: 0
-      explanation: "Does not call for simply hiring more MPD officers. His gun violence platform emphasizes Crime Gun Intelligence, a Regional Gun Trafficking Initiative with VA and MD, and investigative tools — explicitly stating 'not just patrol or surveillance.' He favors targeted law enforcement strategies over across-the-board hiring."
+      explanation: "Does not call for simply hiring more MPD officers. His gun violence platform emphasizes Crime Gun Intelligence, a Regional Gun Trafficking Initiative with VA and MD, and investigative tools — explicitly stating 'not just patrol or surveillance.' He favors targeted law enforcement strategies over across-the-board hiring. At the April 28, 2026 Fair Elections Program At-Large debate he affirmed 'law enforcement is a big part of how we address these crises' and pressed a rival on a proposed 50% police cut — signaling he opposes deep cuts while not prioritizing mass hiring either."
       sources:
         - url: https://www.jacksonfordc.com/
           title: "Greg Jackson for DC Council — Campaign Website"
           publisher: "jacksonfordc.com"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: education_community_schools
       stance: 2
@@ -426,6 +589,34 @@
           title: "Greg Jackson for DC Council — Campaign Website"
           publisher: "jacksonfordc.com"
           accessed: 2026-05-29
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jackson made job creation his top budget priority, proposing to 'cut fees and red tape that's impacting and keeping small businesses from operating,' including a 'first-year free waiver for new businesses' — especially those that hire residents without advanced degrees — alongside cutting middle management in a 'top-heavy' government. Supportive of cutting fees and red tape on small businesses."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 1
+      quote: "Power respects power, not pity."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jackson argued 'power respects power, not pity,' citing being called to testify before Congress four times, his bipartisan relationships, and having passed a bipartisan law Trump tried to repeal. He would 'build a bridge between council and Congress … an actual council that has relationships that can fight, protect, and defend our rights' — an assertive defense pursued through coalitions and federal relationships rather than litigation/refusal alone."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Jackson answered 'no' to returning armed police to all DC public high schools, adding that DC should prioritize resources for parent-teacher engagement as 'the highest predictor of youth performance.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: leniquadominique-jenkins
   name: "Leniqua'dominique Jenkins"
@@ -485,12 +676,16 @@
     - question_id: crime_public_health
       stance: 2
       quote: "Safety isn't achieved by punishment alone — it is created when people have access to housing, education, opportunity, and mental-health care."
-      explanation: "Frames public safety explicitly around prevention: 'Safety isn't achieved by punishment alone — it is created when people have access to housing, education, opportunity, and mental-health care.' Proposes expanding youth programs, mental health care access, community-based violence prevention, and crisis-response models pairing police with service providers."
+      explanation: "Frames public safety explicitly around prevention: 'Safety isn't achieved by punishment alone — it is created when people have access to housing, education, opportunity, and mental-health care.' Proposes expanding youth programs, mental health care access, community-based violence prevention, and crisis-response models pairing police with service providers. At the April 28, 2026 Fair Elections Program At-Large debate — noting her father and brother are returning citizens — she said accountability and safety 'can coexist' by 'investing in people: housing, mental health services, job training, addressing the root issue of what motivates crime.'"
       sources:
         - url: https://www.votejenkinsfordc.com/
           title: "Leniqua'dominique Jenkins for DC Council — Campaign Website"
           publisher: "votejenkinsfordc.com"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: education_mental_health_schools
       stance: 1
@@ -518,6 +713,35 @@
           title: "Leniqua'dominique Jenkins for DC Council — Campaign Website"
           publisher: "votejenkinsfordc.com"
           accessed: 2026-05-29
+
+    - question_id: housing_topa_restore
+      stance: 2
+      quote: "I would definitely cut the red tape and expand TOPA legislation that I've actually benefited from."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins recounted being wrongfully evicted around 2010, displacing three generations of her family, and said she would 'prioritize deeply affordable housing,' 'cut the red tape and expand TOPA legislation that I've actually benefited from,' and extend it with property-tax relief for seniors. A strong, personally grounded commitment to strengthening TOPA."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins said small business owners 'aren't prepared to compete with government contracting,' and pledged to 'cut the red tape,' make the process accessible, and provide mentoring so businesses have a 'fair and balanced approach to compete.' Supportive of easing burdens on small businesses, framed around red tape and access rather than tax cuts specifically."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 2
+      quote: "Absolutely not. We will not vilify our children. Innocent until proven guilty. It is a school, not a prison institution."
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Jenkins gave an emphatic 'absolutely not' to returning armed police to all DC public high schools, calling a school 'not a prison institution.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: candace-nelson
   name: "Candace Tiana Nelson"
@@ -634,12 +858,35 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
-      explanation: "Home rule is her first platform priority — explicitly opposes any preemptive compliance with Trump administration overreach and pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values.'"
+      explanation: "Home rule is her first platform priority — explicitly opposes any preemptive compliance with Trump administration overreach and pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values.' At the April 28, 2026 Fair Elections Program At-Large debate she said DC's wins against federal interference 'have been in the judiciary branch' and pledged to 'support ensuring the office of the attorney general has what they need to sue,' fight 'collectively,' and create an office of federal affairs in the Council, drawing on having seen the Mayor, Council, and AG fail to coordinate when she was a Ward 4 chief of staff."
       sources:
         - url: https://www.candacefordc.com/
           title: "Candace Tiana Nelson for DC Council — Campaign Website"
           publisher: "candacefordc.com"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: 2
+      quote: "We support them by focusing more on pathways than versus punishment."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Nelson said repeat youth offenders should be met with 'pathways [rather] than punishment' — violence interruption, mental health supports, and conflict resolution, plus career pathways through programs like the DC Infrastructure Academy and a youth council working 'lock in step' with the Council. A clear prevention-over-punishment, community-based public-safety stance."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 2
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Nelson gave an emphatic 'no' to returning armed police to all DC public high schools, urging investment in mental health services so schools 'remain a healthy place to be' rather than criminalizing young people."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: oye-owolewa
   name: "Oye Owolewa"
@@ -808,12 +1055,16 @@
 
     - question_id: crime_public_health
       stance: 2
-      explanation: "As a pharmacist and elected official, frames violence as 'closely tied to trauma, untreated mental illness, housing instability, and lack of opportunity.' Will expand violence interruption programs, youth employment, and community-based prevention; ensure mental health emergencies are handled by trained responders rather than armed officers."
+      explanation: "As a pharmacist and elected official, frames violence as 'closely tied to trauma, untreated mental illness, housing instability, and lack of opportunity.' Will expand violence interruption programs, youth employment, and community-based prevention; ensure mental health emergencies are handled by trained responders rather than armed officers. At the April 28, 2026 Fair Elections Program At-Large debate he called violence 'a product of a lack of investment,' described turning his own violent adolescence around through mental support, and said he works with violence-interruption groups like the Alliance of Concerned Men and invests in literacy (the Washington Literacy Center) to prevent a 'life of crime.'"
       sources:
         - url: https://www.vote4oye.com/
           title: "Oye Owolewa for DC Council — Campaign Website"
           publisher: "vote4oye.com"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: crime_secure_dc
       stance: -2
@@ -826,13 +1077,17 @@
           accessed: 2026-05-29
 
     - question_id: crime_more_police
-      stance: -1
-      explanation: "Says DC 'relies on public safety strategies that have failed for decades' and that 'residents fund the largest police budget in District history while the root causes of violence... go unaddressed.' Favors oversight and accountability for MPD, not expansion."
+      stance: -2
+      explanation: "Says DC 'relies on public safety strategies that have failed for decades' and that 'residents fund the largest police budget in District history while the root causes of violence... go unaddressed.' Favors oversight and accountability for MPD, not expansion. At the April 28, 2026 Fair Elections Program At-Large debate he defended a candidate-questionnaire proposal for a 50% cut to law enforcement, arguing DC is among the most heavily policed jurisdictions (Capitol Police, schools, universities, Secret Service) and that mandatory overtime 'bleeds our budget' on reactive spending better redirected to mental-health responders (citing the CAHOOTS model) and DPR — firmly opposing, not just declining to prioritize, more officers."
       sources:
         - url: https://www.vote4oye.com/
           title: "Oye Owolewa for DC Council — Campaign Website"
           publisher: "vote4oye.com"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: youth_curfew_support
       stance: -2
@@ -930,6 +1185,15 @@
           title: "Oye Owolewa for DC Council — Campaign Website"
           publisher: "vote4oye.com"
           accessed: 2026-05-30
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "DC's elected Shadow Representative, an unpaid statehood advocate who led protests against a new ICE headquarters on the St. Elizabeth's campus. At the April 28, 2026 Fair Elections Program At-Large debate he said DC must 'push back against a hostile White House' while 'push[ing] forward towards DC statehood,' and must 'use the budget to protect people' — increasing the immigration legal fund and attracting industries to rehire laid-off federal workers — because residents told him at an immigration town hall they wanted 'immigration attorneys,' not 'a council member['s] thoughts and prayers.' A strongly assertive home-rule posture."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: lisa-raymond
   name: "Lisa Raymond"
@@ -1092,9 +1356,41 @@
 
     - question_id: housing_upzoning
       stance: 1
-      explanation: "Supports increasing housing supply across all eight wards through streamlined permitting and strategic use of public land. Endorsed by DC YIMBYs, signaling a pro-supply, pro-density orientation, though her platform emphasizes process reform over an explicit end to single-family zoning."
+      explanation: "Supports increasing housing supply across all eight wards through streamlined permitting and strategic use of public land. Endorsed by DC YIMBYs, signaling a pro-supply, pro-density orientation, though her platform emphasizes process reform over an explicit end to single-family zoning. At the April 28, 2026 Fair Elections Program At-Large debate she rejected the framing as 'either/or,' saying DC needs deeply affordable housing and to 'build more housing,' with partners and a streamlined process, to 'create a climate where people will actually come and build.'"
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Lisa Raymond for DC Council — Campaign Website"
           publisher: "lisaraymondfordc.com"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond, drawing on her work at Covenant House Greater Washington, said the answer to youth offending 'starts with the basics': housing, wraparound services, and high-quality workforce development that 'meets youth where they are' and puts them on a path to independence — a prevention- and services-first approach."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 1
+      quote: "We have to continue to legislate based on what our values are, not on an administration that may or may not intervene."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond urged the Council to 'legislate boldly' for residents and 'based on what our values are, not on an administration that may or may not intervene' — i.e., not preemptively complying. She also stressed educating Democratic allies and said she would withhold support from out-of-state candidates who will not commit to DC statehood. Assertive in principle, paired with a relationship/education strategy."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Raymond answered 'no' to returning armed police to all DC public high schools, saying she could support unarmed security or support services at the door but not armed officers across the board."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
