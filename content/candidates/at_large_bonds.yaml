@@ -111,6 +111,26 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: transit_metro_funding
+      stance: -1
+      quote: "Not if other states don't pay more as well."
+      explanation: "In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Chavous opposed increasing DC's Metro funding 'if other states don't pay more as well,' arguing DC should not keep paying more than Maryland and Virginia when most riders are suburban commuters."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: -1
+      quote: "At this point, I would say no. Our businesses are suffering and we don't want to discourage people from coming into DC."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Chavous opposed a commuter tax 'at this point,' warning it would discourage people from coming into DC while local businesses are already struggling."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: dwight-davis
   name: "Dwight Davis"
   election_slug: at_large_bonds
@@ -208,6 +228,34 @@
     - question_id: home_rule_dc_resist
       stance: 1
       explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis said DC needs 'a coalition of those who will fight with us' against the administration and must 'make sure our attorney general remains independent' to fight when DC's laws are challenged or overturned, drawing on his Teach Plus policy-fellowship experience advocating to Congress. Supports assertive legal defense and coalition-building, framed around relationships rather than maximal confrontation."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: -1
+      quote: "Everyone needs to pay their fair share. Not DC taking the whole bill."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis opposed DC shouldering more Metro funding, saying 'everyone needs to pay their fair share' rather than 'DC taking the whole bill.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis supported a commuter fee, arguing DC's rich resources (e.g., free museums) draw commuters and the fee 'would actually generate more income for DC.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis rejected the either/or framing — 'we need both,' producing more units and repairing existing ones — while emphasizing workforce housing (for teachers, police, firefighters) rather than a pure deep-affordable-versus-market choice. Recorded as mixed."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
@@ -312,6 +360,34 @@
     - question_id: home_rule_dc_resist
       stance: 2
       explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester said a core reason she is running is that DC's leaders — the Attorney General, Mayor, and Council — have not 'united together to push back against the administration and the attacks' and have not 'worked strategically.' A longtime statehood activist who says she 'got locked up fighting for statehood,' she calls for proactive, coordinated resistance rather than waiting — an assertive posture."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester called it 'a hard question' — DC needs to fund Metro equitably and pay its workers, 'but we should not be cutting other services to fund Metro.' Supportive of Metro funding but against the cuts-elsewhere tradeoff; recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester said she 'would consider it with some nuances' — torn between DC families who commute in from Maryland and out-of-state workers who profit in DC and leave. Recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: -2
+      quote: "I will always prioritize affordability."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester emphatically chose affordability over speed, recounting voting on the DC Housing Authority board against lowering a project's deep-affordability requirement because the public land 'belongs to the public housing residents of the District of Columbia.' Emphatic framing plus concrete action support a strong stance."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
@@ -437,6 +513,34 @@
     - question_id: crime_police_in_schools
       stance: 1
       explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Hill answered 'no' to returning armed police to all DC public high schools."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Hill said he would 'figure out how to fund Metro in a way that doesn't involve us providing other cuts' — not in favor of creating cuts to fund Metro. Supportive of Metro but against the cuts-elsewhere tradeoff; recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: -1
+      quote: "I would not be in support."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Hill opposed a commuter tax, arguing such fees 'end up hurting lower income workers' and are easily evaded (parking outside the zone, shuffling between cars)."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Hill called it 'not either or' but 'what actually might work from a financial standpoint' — projects must 'pencil out,' DC needs more density (rail and high-speed bus lines), and the priority is both new affordable housing and retention of existing units. Recorded as mixed."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
@@ -618,6 +722,35 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: transit_metro_funding
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jackson said it is 'not a time to cut crucial services... for Metro,' while stressing that many residents depend on Metro and it must be safe and reliable. Supportive of Metro but against the cuts-elsewhere tradeoff; recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 1
+      quote: "I am open to some regional commuter taxes. I think a universal one is something I would love to look more into."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jackson said he is 'open to some regional commuter taxes' and would 'love to look more into' a universal one."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 1
+      quote: "To make a choice between affordability and supply, I think is a failed strategy ... because affordability is driven by more supply."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jackson argued the affordability-vs-supply choice 'is a failed strategy... because affordability is driven by more supply,' and would fight for more supply of homes affordable to rent and to own. Supply-leaning."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: leniquadominique-jenkins
   name: "Leniqua'dominique Jenkins"
   election_slug: at_large_bonds
@@ -737,6 +870,44 @@
       stance: 2
       quote: "Absolutely not. We will not vilify our children. Innocent until proven guilty. It is a school, not a prison institution."
       explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Jenkins gave an emphatic 'absolutely not' to returning armed police to all DC public high schools, calling a school 'not a prison institution.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: 1
+      quote: "I definitely support funding Metro 100%. Transportation is equity. It's also safety."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins, a resident of a transit desert east of the river, said she 'definitely support[s] funding Metro 100%,' framing transit as equity and safety."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins said she is 'open to the conversation,' noting many people 'enjoy the fishes and the loaves' of DC without contributing to its revenue."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: -1
+      quote: "It doesn't matter if there's new housing being developed if you can't afford to live there."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins said she would 'definitely prioritize deeply affordable housing,' recounting her own wrongful eviction; new production matters little 'if you can't afford to live there.' Affordability-first."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_rfk_stadium
+      stance: -1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins called the RFK redevelopment 'a point of contention' for her Deanwood (Ward 7) community, faulting it because 'a lot of those good union jobs were committed to unions outside the District of Columbia'; she would broker local-hiring relationships so residents get construction and hospitality jobs. Critical of the deal as structured."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
@@ -882,6 +1053,35 @@
     - question_id: crime_police_in_schools
       stance: 2
       explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Nelson gave an emphatic 'no' to returning armed police to all DC public high schools, urging investment in mental health services so schools 'remain a healthy place to be' rather than criminalizing young people."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: -1
+      quote: "No, I would not increase the funding ... the other states are not paying enough."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Nelson said she 'would not increase the funding,' because Virginia and Maryland 'are not paying enough' and DC has been paying more than its share."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Nelson answered 'yes' to a regional commuter tax, while acknowledging that congressional oversight would likely block such a bill."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 1
+      quote: "We know we need balanced affordable housing and deeply affordable housing as well, but the production of that is highly important."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Nelson said housing 'production... we know we need it'; while she also wants balanced and deeply affordable housing, she stressed that 'the production of that is highly important.' Production-leaning."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
@@ -1195,6 +1395,35 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: transit_metro_funding
+      stance: 1
+      quote: "I support proactively increasing the funding to reduce reactive costs."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Owolewa supported proactively increasing Metro funding 'to reduce reactive costs.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Owolewa said 'I will look hard at it. I'm not supportive of it right now because... our businesses are suffering,' preferring to attract tourism and rehire workers. Open to studying but currently opposed; recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: -1
+      quote: "Building housing is very critical, but making sure that they're affordable is absolutely number one for me."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Owolewa said affordability is 'absolutely number one,' to protect long-term native Washingtonians and seniors on fixed incomes from displacement. Affordability-first."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: lisa-raymond
   name: "Lisa Raymond"
   election_slug: at_large_bonds
@@ -1389,6 +1618,35 @@
     - question_id: crime_police_in_schools
       stance: 1
       explanation: "Reverse-coded question: keeping armed police out of schools aligns with the statement. In the April 28, 2026 Fair Elections Program At-Large debate lightning round, Raymond answered 'no' to returning armed police to all DC public high schools, saying she could support unarmed security or support services at the door but not armed officers across the board."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond said she would support increasing funding 'only if it was to support services to people in a transportation desert... for fast bus service,' tying it to economic access. Conditional; recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 1
+      quote: "I like the idea ... people are paying nothing to come to DC ... we absolutely need to consider it."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond said she 'like[s] the idea' of a commuter tax, noting other areas charge to enter (e.g., ~$13 for New York City) while 'people are paying nothing to come to DC,' and 'we absolutely need to consider it.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+          title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 0
+      quote: "I don't think it has to be an either or."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond rejected the tradeoff — DC needs affordable and deeply affordable housing and to build more, with a streamlined process and partners 'to create a climate where people will actually come and build.' Recorded as mixed."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"

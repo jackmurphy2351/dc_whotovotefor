@@ -211,6 +211,55 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: transit_metro_funding
+      stance: 0
+      explanation: "In the April 28, 2026 Fair Elections Program special-election debate lightning round, Crawford supported increasing Metro funding 'if we could get our regional partners on board with increasing their shares as well.' Conditional on regional cost-sharing; recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_traffic_cameras
+      stance: -1
+      quote: "No. And I also believe we need to reassess the placement of the existing cameras."
+      explanation: "In the April 28, 2026 Fair Elections Program special-election debate lightning round, Crawford opposed expanding automated traffic cameras and called for reassessing the placement of existing ones."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 1
+      quote: "I would say faster housing production."
+      explanation: "Asked at the April 28, 2026 Fair Elections Program special-election debate to choose, Crawford picked 'faster housing production,' citing regulatory burdens driving developers to Virginia and Maryland and the need to 'make it just as easy to build housing.' Production-leaning, though she also defended the Housing Production Trust Fund's deep-affordability requirement."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_office_conversion
+      stance: -1
+      quote: "I do not support waiving affordable housing requirements for these conversions downtown."
+      explanation: "At the April 28, 2026 Fair Elections Program special-election debate Crawford opposed waiving affordable-housing requirements for downtown office-to-residential conversions, proposing instead to fast-track projects that include a set percentage of affordable units toward gap financing."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_rfk_stadium
+      stance: 1
+      quote: "The deal is only as good as our eyes on the deal."
+      explanation: "Crawford helped negotiate the RFK/Commanders deal's $50M community benefits agreement as a Council committee director. At the April 28, 2026 Fair Elections Program special-election debate she defended it, conditioning its value on 'rigorous oversight' at every step to 'secure the wins that we intended for our community.' Supportive, with an oversight emphasis."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: jacque-patterson
   name: "Jacque Patterson"
   election_slug: at_large_mcduffie
@@ -361,6 +410,46 @@
       sources:
         - url: https://www.youtube.com/watch?v=EPfD0_neF04
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: -1
+      quote: "No ... we already paid more than our fair share at Metro."
+      explanation: "In the April 28, 2026 Fair Elections Program special-election debate lightning round, Patterson opposed increasing DC's Metro funding, saying DC has 'already paid more than our fair share.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_traffic_cameras
+      stance: -2
+      quote: "They're predatory ... They are a revenue generating entity and we need to stop that."
+      explanation: "In the April 28, 2026 Fair Elections Program special-election debate lightning round, Patterson strongly opposed automated traffic cameras as 'predatory' and revenue-driven, placed where they shouldn't be and issuing tickets so steep people 'can't even renew their licenses' — he would roll them back, not expand them."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 1
+      quote: "We have to move faster on producing housing ... We need to make sure that we're building denser areas."
+      explanation: "At the April 28, 2026 Fair Elections Program special-election debate Patterson agreed DC should move faster on producing housing and build denser areas (citing Barry Farms), prioritizing production. Production-leaning."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_office_conversion
+      stance: 1
+      quote: "I would wave. Yes, we need to make sure that those housings are available to people."
+      explanation: "At the April 28, 2026 Fair Elections Program special-election debate Patterson said he would waive affordable-housing requirements to get downtown office-to-residential conversions done, prioritizing getting 'every available unit' online to revitalize downtown after the loss of ~22,000 federal jobs."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
@@ -557,6 +646,55 @@
       sources:
         - url: https://www.youtube.com/watch?v=EPfD0_neF04
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_metro_funding
+      stance: 1
+      quote: "Metro is really important to our residents and to our economy."
+      explanation: "In the April 28, 2026 Fair Elections Program special-election debate lightning round, Silverman backed funding Metro, calling it 'really important to our residents and to our economy.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_commuter_tax
+      stance: 1
+      quote: "I do support a commuter tax."
+      explanation: "In the April 28, 2026 Fair Elections Program special-election debate lightning round, Silverman said 'I do support a commuter tax,' adding that given federal job cuts she would think carefully about implementation timelines."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_traffic_cameras
+      stance: -1
+      quote: "No. I think we should keep them though ... they're designed to make the streets safe, not to raise revenue."
+      explanation: "In the April 28, 2026 Fair Elections Program special-election debate lightning round, Silverman opposed expanding automated traffic cameras while supporting keeping the existing ones, framing them as a safety (not revenue) tool."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_vs_affordability
+      stance: 0
+      quote: "I don't think it's a tradeoff."
+      explanation: "At the April 28, 2026 Fair Elections Program special-election debate Silverman rejected the production-vs-affordability framing — 'we need to do both,' build more and remove regulatory burdens while also filling hundreds of vacant DC Housing Authority units. Recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_office_conversion
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program special-election debate Silverman said subsidizing office-to-residential conversions is 'the future of our downtown' (a change in her thinking), but 'challenge[d] the tradeoff,' arguing that because taxpayer dollars subsidize the conversions 'we can expect some affordability in those projects.' Supports conversions but resists a full affordability waiver; recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 

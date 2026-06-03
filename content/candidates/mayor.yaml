@@ -348,6 +348,15 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: transit_traffic_cameras
+      stance: -1
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, George answered 'no' to expanding more traffic-enforcement cameras."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: kenyan-mcduffie
   name: "Kenyan McDuffie"
   election_slug: mayor
@@ -584,6 +593,25 @@
       stance: 1
       quote: "I'm going to be bolder when it comes to our comprehensive plan, making sure that we address the zoning issues, making sure we address the regulatory hurdles that make it more expensive and slow down the process of building the housing that we actually need across incomes."
       explanation: "At the April 30, 2026 Fair Elections Program mayoral debate McDuffie pledged to be 'bolder' on DC's Comprehensive Plan, addressing zoning issues and regulatory hurdles to build housing faster and across incomes (his plan: 12,000 new units, 20,000 preserved, 1,500 family-sized). Supportive of zoning reform to expand supply, though he framed his approach as 'realistic' — distinguishing it from a rival's larger target he called a 'fantasy' — rather than committing to a specific missing-middle/end-single-family-zoning measure."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_traffic_cameras
+      stance: 1
+      quote: "I'm for speed cameras when it prioritizes safety, not revenue on the backs [of residents]."
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, McDuffie supported speed cameras 'when it prioritizes safety, not revenue,' framing automated enforcement as a Vision Zero tool rather than a revenue source."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_rfk_stadium
+      stance: 1
+      explanation: "McDuffie championed the RFK/Commanders redevelopment as chair of the Council's business and economic development committee. At the April 30, 2026 Fair Elections Program mayoral debate he pledged to 'work on projects like RFK' and to partner with the federal government to expand Union Station, framing the deal as part of growing DC's economy. Supportive."
       sources:
         - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
@@ -996,6 +1024,25 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: transit_traffic_cameras
+      stance: -1
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, Johnson answered 'no' to expanding traffic-enforcement cameras."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_rfk_stadium
+      stance: -2
+      quote: "I'm going to revoke that agreement, renegotiate it. US taxpayers are going to own 26% of the team."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Johnson called the $1.3 billion RFK/Commanders agreement a bad deal he would 'revoke' and renegotiate so the public gets a 26% ownership stake and a tag-along agreement. Strongly opposes the deal as structured."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: vincent-orange
   name: "Vincent Orange"
   election_slug: mayor
@@ -1168,6 +1215,16 @@
     - question_id: transit_bike_bus_lanes
       stance: -2
       explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, Orange answered a flat 'no, no, and no' to more bus lanes, more traffic-enforcement cameras, and reducing parking to make way for bike lanes — a firm, across-the-board opposition."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_traffic_cameras
+      stance: -1
+      quote: "No. No, and no."
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, Orange answered 'no' across the board to bus lanes, traffic-enforcement cameras, and reducing parking for bike lanes — opposing expansion of automated traffic cameras."
       sources:
         - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
@@ -1381,6 +1438,25 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: transit_traffic_cameras
+      stance: -1
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, Sampath answered 'no to speed cameras.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: econ_rfk_stadium
+      stance: -1
+      quote: "The RFK stadium never came with a true equity plan and we need to make sure that's happening."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Sampath faulted the RFK redevelopment because it 'never came with a true equity plan,' calling for that to be fixed. Critical of the deal as structured."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
 - id: hope-solomon
   name: "Hope Solomon"
   election_slug: mayor
@@ -1498,6 +1574,15 @@
     - question_id: home_rule_dc_resist
       stance: 0
       explanation: "Asked about the District's relationship with Congress at the April 30, 2026 Fair Elections Program mayoral debate, Solomon emphasized 'personality' — being 'fearless,' drawing on her Hill and national-security experience to negotiate directly with the White House and Congress — and affirmed she supports statehood. She framed the approach around direct negotiation rather than committing to litigation or refusing federal directives, leaving her between confrontation and pragmatic diplomacy. Recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_traffic_cameras
+      stance: -1
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, Solomon answered 'no to cameras.'"
       sources:
         - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"

@@ -587,3 +587,97 @@
       title: "DC Home Rule Act § 1-207.40 (Section 740) — DC Code"
       publisher: dccouncil.gov
       accessed: 2026-05-30
+
+# ── NEW: mined from the April 2026 Fair Elections Program debates ───────────────
+
+- id: transit_metro_funding
+  issue: transit
+  prompt: "DC should increase its funding for Metro (WMATA), even if it means cutting other city services."
+  applies_to_elections: [at_large_mcduffie, at_large_bonds]
+  explanation: |
+    WMATA faces structural operating deficits, and DC, Maryland, and Virginia negotiate
+    their respective contributions. A recurring debate is whether DC should put in more —
+    even at the expense of other services — or hold back until Maryland and Virginia
+    increase their shares, since many riders commute from the suburbs.
+  sources:
+    - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+      title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+      publisher: "DC Office of Campaign Finance"
+      accessed: 2026-06-03
+
+- id: econ_commuter_tax
+  issue: economic_development
+  prompt: "DC should impose a commuter tax on people who work in the District but live in Maryland or Virginia (if federal law allowed it)."
+  applies_to_elections: [at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Federal law (the Home Rule Act) currently bars DC from taxing the income of
+    non-residents who work in the city. Supporters argue commuters use city services
+    without contributing to the tax base; opponents warn it could discourage businesses
+    and shoppers and would require an act of Congress to enact.
+  sources:
+    - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+      title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+      publisher: "DC Office of Campaign Finance"
+      accessed: 2026-06-03
+
+- id: transit_traffic_cameras
+  issue: transit
+  prompt: "DC should expand its automated traffic-enforcement camera program (speed and red-light cameras)."
+  applies_to_elections: [mayor, at_large_mcduffie]
+  explanation: |
+    DC operates one of the largest automated traffic-enforcement camera programs in the
+    country. Supporters frame cameras as a Vision Zero street-safety tool; critics call
+    them a regressive, revenue-driven burden that falls hardest on lower-income drivers
+    and question their placement.
+  sources:
+    - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+      title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+      publisher: "DC Office of Campaign Finance"
+      accessed: 2026-06-03
+
+- id: housing_production_vs_affordability
+  issue: housing
+  prompt: "When the two conflict, DC should prioritize building more housing quickly — including market-rate — over maximizing deep-affordability requirements on each project."
+  applies_to_elections: [at_large_mcduffie, at_large_bonds]
+  explanation: |
+    A central housing tension: production-first advocates argue that cutting regulatory
+    barriers and building more of all kinds (including market-rate) is the fastest way to
+    bring costs down, while affordability-first advocates argue that without deep-affordability
+    requirements, new supply displaces long-time residents. Many candidates reject the framing
+    as a false choice; a neutral or mixed answer reflects that view.
+  sources:
+    - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
+      title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
+      publisher: "DC Office of Campaign Finance"
+      accessed: 2026-06-03
+
+- id: housing_office_conversion
+  issue: housing
+  prompt: "DC should offer incentives to convert vacant downtown office buildings into housing, even if that means waiving affordable-housing requirements for those conversions."
+  applies_to_elections: [at_large_mcduffie]
+  explanation: |
+    With downtown office vacancy near 20%, DC has used tax incentives to spur office-to-
+    residential conversions. The debate is whether to waive inclusionary/affordable-housing
+    requirements to make the (expensive) conversions financially viable, or to insist on
+    affordability even at the risk of fewer projects penciling out.
+  sources:
+    - url: https://www.youtube.com/watch?v=EPfD0_neF04
+      title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
+      publisher: "DC Office of Campaign Finance"
+      accessed: 2026-06-03
+
+- id: econ_rfk_stadium
+  issue: economic_development
+  prompt: "The District's RFK Stadium / Washington Commanders redevelopment deal, as structured, is a good investment for DC residents."
+  applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's agreement to redevelop the RFK Stadium site and bring back the Washington
+    Commanders commits substantial public resources alongside community-benefit, local-hiring,
+    and equity commitments. Candidates split between defending the deal (and its oversight),
+    wanting to renegotiate it for a larger public stake, and faulting it for weak equity or
+    local-hiring guarantees.
+  sources:
+    - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+      title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+      publisher: "DC Office of Campaign Finance"
+      accessed: 2026-06-03
