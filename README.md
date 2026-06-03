@@ -220,7 +220,7 @@ The [DC Fair Elections Program](https://ocf.dc.gov/page/fair-elections-program) 
 
 The `/resources` section contains dc.gov-linked explainer pages on:
 
-- Why the Democratic Primary = the General Election in DC
+- Why the Democratic Primary ≈ the General Election in DC
 - Ranked Choice Voting (Initiative 83)
 - TOPA & DOPA (tenant purchase rights)
 - The DC Fair Elections Program
