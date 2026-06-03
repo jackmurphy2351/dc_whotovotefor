@@ -36,9 +36,9 @@ Official certified results are tentatively scheduled for Friday, July 17, 2026. 
 ## What Should I Expect on Election Day?
 Voting may take longer with RCV. Voters are encouraged to use Early Voting or return their mail-in ballot. Vote Centers will have educational materials and specially trained staff available to assist.
 ## Where Can I Learn More?
-- Attend a voter education event: www.dcboe.org/events.
-- Practice at DCBOE’s RCV lab at 1015 Half Street SE—–call (202) 727-2525 or email rcv@dcboe.org to schedule.
-- Register for an RCV webinar (English and Spanish sessions available) at www.dcboe.org/RCV. Advance questions may be submitted to rcv@dcboe.org.
-- Use DCBOE’s RCV tabulation app at www.dcboe.org/RCV.
+- Attend a voter education event: [www.dcboe.org/events](https://www.dcboe.org/events).
+- Practice at DCBOE’s RCV lab at 1015 Half Street SE — call (202) 727-2525 or email [rcv@dcboe.org](mailto:rcv@dcboe.org) to schedule.
+- Register for an RCV webinar (English and Spanish sessions available) at [www.dcboe.org/RCV](https://www.dcboe.org/RCV). Advance questions may be submitted to [rcv@dcboe.org](mailto:rcv@dcboe.org).
+- Use DCBOE’s RCV tabulation app at [www.dcboe.org/RCV](https://www.dcboe.org/RCV).
 ---
 *Source*: [DC Board of Elections](https://www.dcboe.org/elections/2026-elections)
