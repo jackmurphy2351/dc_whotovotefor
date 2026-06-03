@@ -71,12 +71,16 @@
     - question_id: crime_public_health
       stance: 2
       quote: "Addressing gun violence through a public health approach and strengthening violence prevention programs."
-      explanation: "Supports treating violence as a public health problem; backs the NEAR Act approach."
+      explanation: "Supports treating violence as a public health problem; backs the NEAR Act approach. At the April 30, 2026 Fair Elections Program mayoral debate she championed violence-interruption partners like the Office of Neighborhood Safety and Engagement and Cure the Streets, and argued they should be funded with multi-year (three-year) grants rather than minimal one-off grants 'that allow them to … only put on one cookout,' so organizations can retain staff and plan."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
           title: "Janeese Lewis George — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
           accessed: 2026-05-27
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: crime_secure_dc
       stance: 1
@@ -160,12 +164,16 @@
     - question_id: home_rule_dc_resist
       stance: 2
       quote: "Work hand in hand with the DC Office of the Attorney General to execute a comprehensive legal strategy to defend DC."
-      explanation: "Has been sharply critical of the Bowser administration for not doing enough to resist federal encroachment, and frames aggressive use of legal tools and public advocacy to defend DC's budget autonomy as a defining contrast with the current mayor."
+      explanation: "Has been sharply critical of the Bowser administration for not doing enough to resist federal encroachment, and frames aggressive use of legal tools and public advocacy to defend DC's budget autonomy as a defining contrast with the current mayor. At the April 30, 2026 Fair Elections Program mayoral debate she pledged to 'use every legal tool we have to fight back' with Attorney General Brian Schwalb, citing being 'the only council member in court with Eleanor Holmes Norton' when the administration tried to take over DC's police chief — 'and we won because we used our legal tools.'"
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: federal_workers_advocate
       stance: 2
@@ -329,12 +337,16 @@
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "Expand DC’s small business property tax credit."
-      explanation: "Supports targeted small-business relief — expanding DC's small business property tax credit, lease guarantees, a 15% price break for certified social-benefit businesses, and a 'Buy Local' campaign — while also raising property taxes on long-term vacant commercial space. Net supportive of small-business tax relief, paired with other tools."
+      explanation: "Supports targeted small-business relief — expanding DC's small business property tax credit, lease guarantees, a 15% price break for certified social-benefit businesses, and a 'Buy Local' campaign — while also raising property taxes on long-term vacant commercial space. Net supportive of small-business tax relief, paired with other tools. At the April 30, 2026 Fair Elections Program mayoral debate she answered 'yes' to more direct financial support, calling to streamline permitting and licensing (citing Ward 4 businesses waiting two years), consolidate small-business help under one agency, and open vacant and blighted buildings to young entrepreneurs, artists, and ghost kitchens as a path to brick-and-mortar."
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: kenyan-mcduffie
   name: "Kenyan McDuffie"
@@ -384,17 +396,21 @@
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "Prohibit DC police from acting as federal immigration agents or sharing residents' immigration status with ICE."
-      explanation: "McDuffie's Ballotpedia candidate survey response explicitly states he will 'end MPD cooperation with ICE' and expand legal protections for immigrant families."
+      explanation: "McDuffie's Ballotpedia candidate survey response explicitly states he will 'end MPD cooperation with ICE' and expand legal protections for immigrant families. At the April 30, 2026 Fair Elections Program mayoral debate he reiterated, 'I'm going to end cooperation between [the] Metropolitan Police Department and ICE,' to embed 'fairness and justice' in DC policing."
       sources:
         - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
           title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
           publisher: ballotpedia.org
           accessed: 2026-05-27
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: crime_public_health
       stance: 2
       quote: "Stand up the Office of Violence Prevention and Health Equity within DC Health and connect residents at highest risk of violence with trauma-informed care, hospital-based intervention, mental health services, family stabilization, and wraparound support before harm escalates."
-      explanation: "McDuffie authored the NEAR Act in 2016 and pledges to fully fund it as mayor."
+      explanation: "McDuffie authored the NEAR Act in 2016 and pledges to fully fund it as mayor. At the April 30, 2026 Fair Elections Program mayoral debate he said the NEAR Act 'ushered in a public health-based approach to crime prevention,' to 'treat violence like the epidemic that it is,' and pledged to use a NEAR Act provision letting the Office of Neighborhood Safety and Engagement raise philanthropic dollars to train community violence interrupters."
       sources:
         - url: https://nearact.dc.gov/page/about-near
           title: "NEAR Act Implementation"
@@ -412,6 +428,10 @@
           title: "Center for Firearm Violence Prevention Research Establishment Act of 2018 — DC Council LIMS"
           publisher: dccouncil.gov
           accessed: 2026-06-02
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: crime_secure_dc
       stance: 1
@@ -526,12 +546,16 @@
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "Local residents and elected officials know DC best and do not need federal intervention to keep our city safe and invest in our youth."
-      explanation: "Platform's Accountability pillar is titled 'Defend Home Rule and DC Autonomy' — pledges a Day-One directive ending MPD cooperation with ICE, bolstering the Mayor's Office of Legal Counsel for constitutional challenges, and fighting for legislative and budget autonomy. His approach is assertive and uses legal tools, but frames resistance through institutional channels rather than explicit political confrontation."
+      explanation: "Platform's Accountability pillar is titled 'Defend Home Rule and DC Autonomy' — pledges a Day-One directive ending MPD cooperation with ICE, bolstering the Mayor's Office of Legal Counsel for constitutional challenges, and fighting for legislative and budget autonomy. His approach is assertive and uses legal tools, but frames resistance through institutional channels rather than explicit political confrontation. At the April 30, 2026 Fair Elections Program mayoral debate he summarized the posture as 'work with the federal government where possible and fight back where necessary,' citing his first job out of Howard working for Eleanor Holmes Norton and pointing to collaboration on projects like RFK and Union Station — a calibrated mix rather than blanket confrontation."
       sources:
         - url: https://kenyanmcduffie.com/platform
           title: "Platform — Kenyan McDuffie for Mayor"
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -555,6 +579,16 @@
           title: "Karin House TOPA Exemption Emergency Declaration Resolution of 2023 — DC Council LIMS"
           publisher: dccouncil.gov
           accessed: 2026-06-02
+
+    - question_id: housing_upzoning
+      stance: 1
+      quote: "I'm going to be bolder when it comes to our comprehensive plan, making sure that we address the zoning issues, making sure we address the regulatory hurdles that make it more expensive and slow down the process of building the housing that we actually need across incomes."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate McDuffie pledged to be 'bolder' on DC's Comprehensive Plan, addressing zoning issues and regulatory hurdles to build housing faster and across incomes (his plan: 12,000 new units, 20,000 preserved, 1,500 family-sized). Supportive of zoning reform to expand supply, though he framed his approach as 'realistic' — distinguishing it from a rival's larger target he called a 'fantasy' — rather than committing to a specific missing-middle/end-single-family-zoning measure."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: gary-goodweather
   name: "Gary Goodweather"
@@ -618,22 +652,30 @@
     - question_id: crime_public_health
       stance: 1
       quote: "My administration will expand community-based healthcare and mental health services to address the root causes of trauma and violence."
-      explanation: "Supports 'community-based violence prevention and intervention programs that stop crime before it starts' and expanding mental health services to address root causes of trauma and violence alongside law enforcement investment."
+      explanation: "Supports 'community-based violence prevention and intervention programs that stop crime before it starts' and expanding mental health services to address root causes of trauma and violence alongside law enforcement investment. At the April 30, 2026 Fair Elections Program mayoral debate he tied crime to poverty and proposed a citywide civic corps, workforce development, and mental-health support — but added an accountability caveat, saying that 'if the metric is purely violence interruption … it's not working very well' and that as mayor he would cut ineffective programs and scale up effective ones."
       sources:
         - url: https://www.goodweatherfordc.com/issues
           title: "Issues — Gary Goodweather for Mayor"
           publisher: "Gary Goodweather Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: crime_more_police
       stance: 2
       quote: "Through my administration, we will rebuild the Metropolitan Police Department (MPD) by offering competitive compensation and comprehensive training, including specialized mental health crisis intervention."
-      explanation: "Calls for rebuilding MPD by offering competitive compensation, comprehensive training including mental health crisis intervention, housing incentives, and property tax abatements to help officers live in the communities they serve."
+      explanation: "Calls for rebuilding MPD by offering competitive compensation, comprehensive training including mental health crisis intervention, housing incentives, and property tax abatements to help officers live in the communities they serve. At the April 30, 2026 Fair Elections Program mayoral debate he made a fully staffed MPD his first public-safety step, contrasting roughly '3,100 officers today' with a fully staffed level of 'about 5,000' and arguing an understaffed department actually costs the city more."
       sources:
         - url: https://www.goodweatherfordc.com/issues
           title: "Issues — Gary Goodweather for Mayor"
           publisher: "Gary Goodweather Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: youth_curfew_support
       stance: 1
@@ -738,12 +780,16 @@
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "We will litigate when necessary, build coalitions to raise the political cost of interference, and prepare legal and media strategies before threats materialize."
-      explanation: "Defend DC is a signature initiative — pledges to prohibit DC agencies from cooperating with immigration enforcement without a judicial warrant and designate schools, hospitals, and houses of worship as protected spaces. His platform is firm on protecting DC residents from federal overreach but frames it as defensive measures and fierce advocacy rather than explicitly confrontational political resistance."
+      explanation: "Defend DC is a signature initiative — pledges to prohibit DC agencies from cooperating with immigration enforcement without a judicial warrant and designate schools, hospitals, and houses of worship as protected spaces. His platform is firm on protecting DC residents from federal overreach but frames it as defensive measures and fierce advocacy rather than explicitly confrontational political resistance. At the April 30, 2026 Fair Elections Program mayoral debate his Congress answer leaned pragmatic — calling the federal government 'our partner,' warning that breaching DC's fiscal 'seven deadly sins' invites a control board, and arguing DC must build a 'confident local government' that is easy to do business with to attract the federal dollars it deserves."
       sources:
         - url: https://www.goodweatherfordc.com/defend-dc
           title: "Defend DC — Gary Goodweather for Mayor"
           publisher: "Gary Goodweather Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: housing_topa_restore
       stance: -1
@@ -804,6 +850,16 @@
           title: "Ward 3 primary voter guide — Forest Hills Connection"
           publisher: "Forest Hills Connection"
           accessed: 2026-06-01
+
+    - question_id: econ_small_business_tax_relief
+      stance: 1
+      quote: "DC treats its business owners … like villains … more with penalties than promoting us. And … one of the biggest things that we are going to change is we are going to make it easier to do business in Washington DC."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Goodweather — a small business owner — answered 'yes' to providing more direct financial support to small businesses, pledging a venture fund that pairs startup capital with mentorship, and called to completely revamp DC's permitting and licensing process, saying the city treats business owners 'like villains' with penalties rather than support. Supportive of easing burdens on small businesses, via direct investment and red-tape reduction more than tax cuts specifically."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: ernest-johnson
   name: "Ernest E. Johnson"
@@ -867,12 +923,16 @@
     - question_id: crime_public_health
       stance: 1
       quote: "Drug court expansion for non-violent offenders."
-      explanation: "Platform includes violence interruption programs in high-risk areas, drug court expansion for non-violent offenders, mental health and addiction treatment services in corrections, and youth intervention through mentorship and job training — alongside community policing reforms and enhanced prosecution of repeat offenders."
+      explanation: "Platform includes violence interruption programs in high-risk areas, drug court expansion for non-violent offenders, mental health and addiction treatment services in corrections, and youth intervention through mentorship and job training — alongside community policing reforms and enhanced prosecution of repeat offenders. At the April 30, 2026 Fair Elections Program mayoral debate he said he wants violence interrupters to 'graduate from the program,' cautioned that relying on returning citizens is not a long-term career given their trauma, and called for better management of violence at the DC Jail and youth facilities."
       sources:
         - url: https://ernestformayor2026.com/
           title: "Ernest Johnson for Mayor — Campaign Website"
           publisher: "Ernest E. Johnson Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: parks_rec_funding
       stance: 1
@@ -897,12 +957,44 @@
     - question_id: fiscal_progressive_taxation
       stance: 1
       quote: "Tax high-value properties that are currently exempt"
-      explanation: "His revenue plan proposes to 'tax currently exempt high-value properties' to fund city services and his Beautify DC jobs initiative, preferring targeted expansion of the tax base over broad new corporate tax hikes. Frames this as growing revenue rather than raising taxes on businesses or workers."
+      explanation: "His revenue plan proposes to 'tax currently exempt high-value properties' to fund city services and his Beautify DC jobs initiative — a targeted expansion of the tax base on high-value property. He pairs this with strong opposition to broad tax increases: at the April 30, 2026 Fair Elections Program mayoral debate he repeatedly insisted 'we do not need to raise taxes,' arguing the budget gap should be closed by auditing developers and ending 'waste, fraud, and abuse' rather than new levies. Recorded as a qualified +1 on taxing high-value property; note the debate emphasis against general tax increases."
       sources:
         - url: https://ernestformayor2026.com/
           title: "Ernest Johnson for Mayor — Campaign Website"
           publisher: "Ernest E. Johnson Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_more_police
+      stance: 1
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Johnson named 'addressing the MPD shortage' as one of the serious public-safety problems he would tackle as mayor, indicating support for restoring police staffing. A brief mention rather than a detailed hiring commitment, and balanced by his emphasis on violence interruption, youth intervention, and developer accountability."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: mpd_ice_cooperation
+      stance: -1
+      quote: "I'm not going to fund sanctuary city. I cannot in good conscience continue to fund sanctuary city."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Johnson said he would not 'fund sanctuary city,' framing it as a misuse of money (hotel housing for immigrants at $250/night while, he said, Black residents die on the affordable-housing waitlist). That opposition to sanctuary policy puts him against the question's no-cooperation posture, though he framed it in fiscal/priorities terms and did not address MPD's operational cooperation with ICE directly — recorded as a moderate, not strong, opposition."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_bike_bus_lanes
+      stance: -2
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, Johnson answered a flat 'no, no, and no' to more bus lanes, more traffic-enforcement cameras, and reducing parking to make way for bike lanes — a firm, across-the-board opposition."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: vincent-orange
   name: "Vincent Orange"
@@ -987,42 +1079,58 @@
     - question_id: crime_more_police
       stance: 2
       quote: "Restore and maintain a sworn police force of approximately 4,100 officers."
-      explanation: "Orange Plan explicitly calls to 'Restore and maintain a sworn police force of approximately 4,100 officers,' framing it as foundational to residents' quality of life and DC's visitor economy."
+      explanation: "Orange Plan explicitly calls to 'Restore and maintain a sworn police force of approximately 4,100 officers,' framing it as foundational to residents' quality of life and DC's visitor economy. At the April 30, 2026 Fair Elections Program mayoral debate he sharpened this, vowing to bring back '1,400' budgeted-but-unfilled officer positions and assign them to 'foot patrol, bike patrol, and community' policing, while pledging accountability standards for officers and a new chief."
       sources:
         - url: https://orangeformayor.com/
           title: "The Orange Plan — Vincent Orange for Mayor"
           publisher: "Vincent Orange Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: fiscal_progressive_taxation
       stance: -2
       quote: "Stimulate economic activity to grow revenue rather than raising taxes."
-      explanation: "'Economic Growth Without Raising Taxes' is an explicit platform pillar — pledges to stimulate economic activity to grow revenue rather than raising taxes, circulate DC dollars locally through Certified Business Enterprises, and achieve fiscal discipline and AAA credit restoration. He explicitly rejects the premise that DC should raise taxes to fund services."
+      explanation: "'Economic Growth Without Raising Taxes' is an explicit platform pillar — pledges to stimulate economic activity to grow revenue rather than raising taxes, circulate DC dollars locally through Certified Business Enterprises, and achieve fiscal discipline and AAA credit restoration. He explicitly rejects the premise that DC should raise taxes to fund services. At the April 30, 2026 Fair Elections Program mayoral debate he reiterated 'we do not have a money problem, we have a management problem,' proposing a 'revenue alignment commission' to track surpluses (e.g., traffic-camera and paid-family-leave revenue) and redirect them rather than raising taxes."
       sources:
         - url: https://orangeformayor.com/
           title: "The Orange Plan — Vincent Orange for Mayor"
           publisher: "Vincent Orange Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: home_rule_dc_resist
       stance: -1
       quote: "Work pragmatically with federal partners to advance shared goals."
-      explanation: "'Working pragmatically with Congress and the White House' is one of his ten platform pillars. He frames pragmatic engagement as the realistic path to advancing DC's interests given federal constitutional authority over the District — prioritizing deal-making over confrontation, even while supporting DC statehood and Home Rule preservation."
+      explanation: "'Working pragmatically with Congress and the White House' is one of his ten platform pillars. He frames pragmatic engagement as the realistic path to advancing DC's interests given federal constitutional authority over the District — prioritizing deal-making over confrontation, even while supporting DC statehood and Home Rule preservation. At the April 30, 2026 Fair Elections Program mayoral debate he summed up the posture by quoting John F. Kennedy — 'I will not negotiate in fear, yet I will not fear to negotiate' — while calling home rule, DC autonomy, and statehood 'non-negotiable.'"
       sources:
         - url: https://orangeformayor.com/
           title: "The Orange Plan — Vincent Orange for Mayor"
           publisher: "Vincent Orange Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "Circulate DC dollars within the District by strengthening Certified Business Enterprises and local businesses."
-      explanation: "His Orange Plan pillar 'Economic Growth Without Raising Taxes' pledges to 'stimulate economic activity to grow revenue rather than raising taxes,' circulate DC dollars locally by strengthening Certified Business Enterprises and local businesses, and support small business investment — a pro-small-business, no-tax-increase posture."
+      explanation: "His Orange Plan pillar 'Economic Growth Without Raising Taxes' pledges to 'stimulate economic activity to grow revenue rather than raising taxes,' circulate DC dollars locally by strengthening Certified Business Enterprises and local businesses, and support small business investment — a pro-small-business, no-tax-increase posture. At the April 30, 2026 Fair Elections Program mayoral debate he called himself 'the champion of small businesses,' citing growing CBE spending from $0 to $481M as Committee on Government Operations chair and pledging to reach '$2 billion' in CBE spending in FY2027 as mayor."
       sources:
         - url: https://orangeformayor.com/
           title: "The Orange Plan — Vincent Orange for Mayor"
           publisher: "Vincent Orange Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: housing_topa_restore
       stance: 1
@@ -1036,6 +1144,35 @@
           title: "TOPA Application-Assistance Program Amendment Act of 2016 — DC Council LIMS"
           publisher: dccouncil.gov
           accessed: 2026-06-02
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      quote: "I'm going to take that $100 million and I'm going to build 1,000 units right away, and I'm going to have them built by … certified business enterprises so that $100 million circulate here in the city."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Orange touted putting $100M/year into the Housing Production Trust Fund during his Council tenure and pledged to deploy that $100M to build 1,000 units (for first responders, seniors, minimum-wage workers, and graduates) via Certified Business Enterprises. Supportive of funding and using the HPTF, though he framed it around deploying the existing ~$100M rather than significantly increasing it."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: -1
+      quote: "Violence is not an epidemic. An epidemic is COVID … We do not have an epidemic of violence in the District of Columbia. We have criminal activity that we need to address."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Orange explicitly rejected the public-health framing of violence, saying it is 'not an epidemic' but 'criminal activity.' His approach pairs enforcement (restoring ~1,400 officers) with opportunity programs — tuition-free UDC, agency youth apprenticeships, and an 'incarceration to incorporation' program for returning citizens — rather than the violence-interruption/public-health model the question describes. Opposes the framing while still backing prevention-through-opportunity."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_bike_bus_lanes
+      stance: -2
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round, Orange answered a flat 'no, no, and no' to more bus lanes, more traffic-enforcement cameras, and reducing parking to make way for bike lanes — a firm, across-the-board opposition."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: rini-sampath
   name: "Rini Sampath"
@@ -1099,12 +1236,16 @@
     - question_id: transit_bike_bus_lanes
       stance: 1
       quote: "I will support better bus lanes, clearer enforcement of blocked bus zones, transit signal priority, safe and comfortable bus stops, and real-time communication that riders can actually trust."
-      explanation: "Transportation platform supports bus priority, transit signal priority, protected bike lanes 'where appropriate,' and better bus lanes with enforcement of blocked bus zones. The qualifier 'where appropriate' reflects geographic judgment; overall stance is clearly supportive."
+      explanation: "Transportation platform supports bus priority, transit signal priority, protected bike lanes 'where appropriate,' and better bus lanes with enforcement of blocked bus zones. The qualifier 'where appropriate' reflects geographic judgment; overall stance is clearly supportive. In the April 30, 2026 Fair Elections Program mayoral debate lightning round she answered 'yes' to both bus lanes and bike lanes (and 'no' to speed cameras)."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: childcare_universal
       stance: -1
@@ -1138,12 +1279,16 @@
     - question_id: crime_public_health
       stance: 1
       quote: "I will audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations."
-      explanation: "Public safety platform pledges to 'audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations.' Combines professional policing, evidence-based prevention, and youth opportunity without a purely enforcement frame."
+      explanation: "Public safety platform pledges to 'audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations.' Combines professional policing, evidence-based prevention, and youth opportunity without a purely enforcement frame. At the April 30, 2026 Fair Elections Program mayoral debate she proposed reinvesting MPD's '$75 million' in overtime into diversion programs, legal aid, and preventative programs so 'incarceration isn't the consistent option,' while praising groups like Peace for DC and flagging fraud (a contractor's $400,000 in personal spending) as the reason audits are needed."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: parks_rec_funding
       stance: 1
@@ -1178,12 +1323,16 @@
     - question_id: housing_upzoning
       stance: 1
       quote: "I support modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit."
-      explanation: "Housing platform supports 'modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit' to reduce construction costs and create walkable, family-sized housing — supportive of density reform, with 'where appropriate' qualifiers."
+      explanation: "Housing platform supports 'modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit' to reduce construction costs and create walkable, family-sized housing — supportive of density reform, with 'where appropriate' qualifiers. At the April 30, 2026 Fair Elections Program mayoral debate she argued DC should 'build more' while leasing units faster, rejecting the 'false narrative' that the city cannot both build more and protect renters."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: childcare_birth_to_three
       stance: -1
@@ -1197,22 +1346,40 @@
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "DC should be the easiest city in America to start a business and keep it open."
-      explanation: "Built a Small Business Permitting Concierge prototype and pledges to make DC 'the easiest city in America to start a business and keep it open,' cutting the bureaucracy, fees, and delays behind DC's nation-leading first-year business failure rate — focused on reducing red tape and fees more than cutting business taxes specifically."
+      explanation: "Built a Small Business Permitting Concierge prototype and pledges to make DC 'the easiest city in America to start a business and keep it open,' cutting the bureaucracy, fees, and delays behind DC's nation-leading first-year business failure rate — focused on reducing red tape and fees more than cutting business taxes specifically. At the April 30, 2026 Fair Elections Program mayoral debate she said her team had just launched a small-business permitting concierge and called for supporting owners hurt by city actions (e.g., construction that kills storefront foot traffic)."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "I support using every lawful tool available, including litigation and emergency local legislation when necessary, to protect residents from political gamesmanship and ensure predictability in city governance."
-      explanation: "Pledges no data sharing between MPD and ICE and a full audit of every contact between DC government and federal enforcement agencies. Her stance on protecting DC residents is firm, but her execution-first philosophy emphasizes targeted defensive measures rather than a broadly confrontational political posture."
+      explanation: "Pledges no data sharing between MPD and ICE and a full audit of every contact between DC government and federal enforcement agencies. Her stance on protecting DC residents is firm, but her execution-first philosophy emphasizes targeted defensive measures rather than a broadly confrontational political posture. At the April 30, 2026 Fair Elections Program mayoral debate she made statehood 'mission number one,' calling for a 'concerted campaign' with influencers and leaders to win over a Democratic Party she said does not yet truly back DC statehood — a persuasion strategy rather than a litigation/refusal posture."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: fiscal_progressive_taxation
+      stance: -1
+      quote: "It's why I'm in opposition to any kind of business activity tax that would effectively drive businesses away from our city."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Sampath said she opposes 'any kind of business activity tax that would effectively drive businesses away,' favoring closing the budget gap by cutting fraud, getting agencies to perform, pursuing the ~$180M the CFO holds from decoupling, and attracting business to grow tax revenue. A lean against raising business taxes; she focused on business activity taxes specifically rather than all taxes on the wealthy."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: hope-solomon
   name: "Hope Solomon"
@@ -1270,32 +1437,72 @@
     - question_id: fiscal_progressive_taxation
       stance: -1
       quote: "I’m clear about limits. Honest about the budget. Focused on outcomes, not headlines."
-      explanation: "Is explicit about 'budget limits rather than promising new spending' and frames her platform around fixing existing city services rather than expanding programs that require new revenue. Her candidacy is built on the premise that DC should 'get the basics right first' rather than adding new tax-funded programs."
+      explanation: "Is explicit about 'budget limits rather than promising new spending' and frames her platform around fixing existing city services rather than expanding programs that require new revenue. Her candidacy is built on the premise that DC should 'get the basics right first' rather than adding new tax-funded programs. At the April 30, 2026 Fair Elections Program mayoral debate she argued DC should raise revenue by growing the economy — bringing back businesses that 'crossed the river' and filling the ~20% downtown office vacancy — rather than through new taxes."
       sources:
         - url: https://hopefordc.com/
           title: "Hope Solomon for Mayor — Campaign Website"
           publisher: "Hope Solomon Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: sanitation_rats
       stance: 1
       quote: "You know what it’s like to watch rats take over parks and sidewalks while City Hall treats it like background noise."
-      explanation: "Explicitly names rats as one of the core failures she would fix as mayor: 'You know what it's like to watch rats take over parks and sidewalks while City Hall treats it like background noise.' Listed alongside trash, snow removal, and public safety as the broken basics that must be fixed first."
+      explanation: "Explicitly names rats as one of the core failures she would fix as mayor: 'You know what it's like to watch rats take over parks and sidewalks while City Hall treats it like background noise.' Listed alongside trash, snow removal, and public safety as the broken basics that must be fixed first. At the April 30, 2026 Fair Elections Program mayoral debate she returned to the theme in her closing — 'when we're fighting rats, why can't the rat holes get filled? No more rats.'"
       sources:
         - url: https://hopefordc.com/
           title: "Hope Solomon for Mayor — Campaign Website"
           publisher: "Hope Solomon Campaign"
           accessed: 2026-05-28
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "You know the gut punch of watching neighborhood restaurants and bars close — squeezed by crime, high rents, Initiative 82, and a bureaucracy that never seems to say yes."
-      explanation: "Grew up in a family small business and laments that neighborhood restaurants and bars are 'squeezed by crime, high rents, Initiative 82, and a bureaucracy that never seems to say yes,' with 'small business owners buried in paperwork while big developers skip the line' — supportive of easing the burden on small businesses, framed around fees and red tape."
+      explanation: "Grew up in a family small business and laments that neighborhood restaurants and bars are 'squeezed by crime, high rents, Initiative 82, and a bureaucracy that never seems to say yes,' with 'small business owners buried in paperwork while big developers skip the line' — supportive of easing the burden on small businesses, framed around fees and red tape. At the April 30, 2026 Fair Elections Program mayoral debate she proposed reforming Business Improvement District boards to be '50/50' between small businesses and developers so small businesses get a real voice and budget control, and urged neighborhoods to start Main Streets."
       sources:
         - url: https://hopefordc.com/
           title: "Hope Solomon for Mayor — Campaign Website"
           publisher: "Hope Solomon Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_more_police
+      stance: 1
+      quote: "Fully fund the police department … when you work people overtime, morale is very low … we need to get back to [community policing]. That's education and training. That's what we need to fund."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Solomon called to 'fully fund the police department,' cut reliance on overtime that burns out officers, and restore neighborhood community policing, citing officer turnover and burnout as a problem for store owners and residents. Supports funding and stabilizing police staffing, with an emphasis on training and community policing rather than a specific hiring target."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: transit_bike_bus_lanes
+      stance: 0
+      explanation: "In the April 30, 2026 Fair Elections Program mayoral debate lightning round Solomon split the question: 'yes to buses — everyone should have access to that,' but said 'we need parking for the business communities to thrive,' opposing reduced parking to make way for bike lanes. Recorded as mixed — supportive of bus service, protective of parking over bike lanes."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 0
+      explanation: "Asked about the District's relationship with Congress at the April 30, 2026 Fair Elections Program mayoral debate, Solomon emphasized 'personality' — being 'fearless,' drawing on her Hill and national-security experience to negotiate directly with the White House and Congress — and affirmed she supports statehood. She framed the approach around direct negotiation rather than committing to litigation or refusing federal directives, leaving her between confrontation and pragmatic diplomacy. Recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
+          title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 # ── WRITE-IN CANDIDATE ────────────────────────────────────────────────────────
 # Yaida Ford did not qualify for the primary ballot and is running as a write-in.
