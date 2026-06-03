@@ -98,42 +98,118 @@
     - question_id: education_mental_health_schools
       stance: 1
       quote: "I will protect the School-Based Behavioral Health Program, which places clinicians in DC public and charter schools, from budget cuts."
-      explanation: "Pledges to protect the School-Based Behavioral Health Program — which places clinicians in DC public and charter schools — from budget cuts, calling cuts 'not a savings but a cost we will pay in other ways.' Wants to expand out-of-school time funding for safe, structured after-school programming."
+      explanation: "Pledges to protect the School-Based Behavioral Health Program — which places clinicians in DC public and charter schools — from budget cuts, calling cuts 'not a savings but a cost we will pay in other ways.' Wants to expand out-of-school time funding for safe, structured after-school programming. At the April 28, 2026 Fair Elections Program debate she noted the program 'has been cut in the fiscal year 27 budget' and said 'I plan to fight for that program going forward.'"
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
           publisher: "Doni Crawford Campaign"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "I support consolidating our community violence intervention programs for greater efficiency, improving transparency between MPD and the communities it serves, and ensuring that DC’s police department is never used as a tool of federal immigration enforcement."
-      explanation: "Explicitly states that DC's police department must never be used as a tool of federal immigration enforcement. Has co-introduced legislation to protect DC residents from federal law enforcement overreach."
+      explanation: "Explicitly states that DC's police department must never be used as a tool of federal immigration enforcement. Has co-introduced legislation to protect DC residents from federal law enforcement overreach. At the April 28, 2026 Fair Elections Program debate she described introducing 'permanent and emergency legislation to require MPD to be more transparent when they're cooperating with federal immigration enforcement' and backing a pending bill to prohibit MPD collaboration absent a judicial warrant."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
           publisher: "Doni Crawford Campaign"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: housing_upzoning
       stance: 2
       quote: "I support building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live."
-      explanation: "Supports 'building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live,' and fixing the Inclusionary Zoning process so affordable units stop sitting empty."
+      explanation: "Supports 'building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live,' and fixing the Inclusionary Zoning process so affordable units stop sitting empty. At the April 28, 2026 Fair Elections Program debate she chose 'faster housing production' when asked to prioritize, citing regulatory burdens pushing developers to Virginia and Maryland."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
           publisher: "Doni Crawford Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "I recently introduced legislation to examine whether DC’s tax incentive programs are actually benefiting the District, because incentives without accountability leave us with nothing to show for it."
-      explanation: "Wants to 'make DC genuinely easier to do business in, especially for minority and women-owned businesses,' create a one-stop place for new business owners, and reduce unnecessary licensing barriers. Introduced legislation to examine whether DC's tax incentive programs actually benefit the District — emphasizing accountable incentives and lower barriers more than across-the-board tax cuts."
+      explanation: "Wants to 'make DC genuinely easier to do business in, especially for minority and women-owned businesses,' create a one-stop place for new business owners, and reduce unnecessary licensing barriers. Introduced legislation to examine whether DC's tax incentive programs actually benefit the District — emphasizing accountable incentives and lower barriers more than across-the-board tax cuts. At the April 28, 2026 Fair Elections Program debate she returned to this theme, noting DC has not 'comprehensively studied' its tax abatements since November 2018 and proposing to 'make some cuts and recapture that money and put it into social services and housing.'"
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
           publisher: "Doni Crawford Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: 2
+      quote: "I would say I want to focus on prevention primarily, making sure that we are working with community partners to put in place violence interruption programs, making sure our schools are adequately funded, making sure that people have access to healthy foods — all the things that could lead to crime over time."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford led with prevention as her primary public-safety approach — naming violence interruption programs, school funding, and access to healthy food as ways to address the root causes of crime. She also supports consolidating the District's community violence intervention programs for greater efficiency."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: parks_rec_funding
+      stance: 1
+      quote: "They don't have places to go and they want more spaces all around the city … the recreation programs that we have don't meet everyone's needs … we need to be creative in creating programs that meet their needs."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford said youth repeatedly tell her they lack places to go and want more spaces and activities across the city, and that existing recreation programming does not meet their needs. She tied a recent Council action to pairing any youth-restriction zone with investments and activities citywide."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      quote: "Even looking at the Housing Production Trust Fund, which is our primary tool to building affordable housing, this year there's only $40 million in it and it's usually a hundred million."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford described the Housing Production Trust Fund as DC's primary affordable-housing tool and faulted it being funded at roughly $40M this year versus its usual ~$100M, noting the fund is required to direct 50% to the lowest (0–30% AMI) income band. She frames adequate HPTF funding as necessary to restart stalled affordable production."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      quote: "I've already introduced permanent and emergency legislation to require MPD to be more transparent when they're cooperating with federal immigration enforcement … that bill would prohibit MPD from collaborating with federal immigration enforcement unless there's a judicial warrant in place."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford answered the question on congressional/federal interference by pointing to protective legislation she has already introduced (permanent and emergency MPD-transparency bills) and a pending bill she wants moved that would bar MPD collaboration with federal immigration enforcement without a judicial warrant. Asked whether the Council should still act without executive alignment, she said it should 'move forward' where the votes exist — favoring assertive, codified protection over waiting for consensus."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: environment_data_centers
+      stance: 1
+      quote: "I'm actually a little bit fearful of this area … AI, we've seen the increase in data centers and how that's affecting our utility costs … [we need to] place guardrails around that growth so that we are not seeing the impacts from data centers and just how that is impacting our utilities."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford voiced concern about data-center growth driving up residents' utility costs and called for 'guardrails around that growth,' to be pursued with DC's regional partners. Supportive of limiting/managing new data-center development rather than an outright ban."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 1
+      quote: "No, not at the moment."
+      explanation: "Reverse-coded question: declining to return police to schools aligns with keeping them out. In the April 28, 2026 Fair Elections Program debate lightning round on returning armed police to public high schools this fall, Crawford interjected 'no, not at the moment' — a brief, hedged lean against police in schools rather than a firm policy commitment."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: jacque-patterson
   name: "Jacque Patterson"
@@ -238,12 +314,55 @@
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "The goal is to make DC a city where small businesses can launch, grow, and succeed without being buried in bureaucracy."
-      explanation: "Has a detailed Small Business Action Plan: expand access to capital (CDFIs, grants and loans, especially for minority- and women-owned businesses), preserve and expand affordable commercial space, and 'smart and streamlined regulations' that simplify licensing and reduce delays so small businesses 'can launch, grow, and succeed without being buried in bureaucracy.'"
+      explanation: "Has a detailed Small Business Action Plan: expand access to capital (CDFIs, grants and loans, especially for minority- and women-owned businesses), preserve and expand affordable commercial space, and 'smart and streamlined regulations' that simplify licensing and reduce delays so small businesses 'can launch, grow, and succeed without being buried in bureaucracy.' At the April 28, 2026 Fair Elections Program debate he tied small-business growth to financial-literacy education and entrepreneurship programs, citing friends whose businesses 'collapsed because of … the inability to get the kind of support that they need.'"
       sources:
         - url: https://www.jacque4dc.com/
           title: "Jacque Patterson for DC Council — Campaign Website"
           publisher: "Jacque Patterson Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_public_health
+      stance: 1
+      quote: "You need to have violence interrupters who actually know the communities, come from the communities, and win the trust of youth … not just here for school time but also throughout the whole year."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Patterson called for community-rooted violence interrupters working year-round, plus investment in mental health, after-school and summer programming, and paid summer jobs — citing roughly a 40% crime reduction in the Trinidad area when he coordinated violence interrupters in Ward 5. He balances this with a stated emphasis on 'community policing above all things,' so the public-health approach is paired with, not in place of, policing."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_upzoning
+      stance: 1
+      quote: "We have to move faster on producing housing … We need to make sure that we're building denser areas … when we build more housing, we create more opportunities both for jobs and for people to be able to buy a house at a reasonable rate."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Patterson agreed DC should prioritize faster housing production and build denser, citing the Barry Farms redevelopment as a model for adding density without displacement. Supportive of more housing supply in general terms; he did not specifically address ending single-family-only zoning."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: home_rule_dc_resist
+      stance: 0
+      explanation: "At the April 28, 2026 Fair Elections Program debate Patterson framed the response to federal interference primarily around coordination — the Council, the Delegate, the Mayor, and the Attorney General 'singing from the same page' — citing the District's roughly $1.1 billion budget loss as a consequence of poor coordination. He also said the Council should 'move forward wherever we're going to pass legislation and the votes are there.' His emphasis on alignment and avoiding blindsiding sits between the question's assertive-confrontation pole and pragmatic coordination, so recorded as mixed."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: -2
+      quote: "I worked in schools. I know how important our SROs were … we lost a lot when we lost our SROs, and I would say yes."
+      explanation: "Reverse-coded question: supporting police in schools opposes the statement. In the April 28, 2026 Fair Elections Program debate lightning round, Patterson said 'yes' to returning armed police officers to all public high schools by the fall, citing the value of School Resource Officers and the loss when they were removed — a firm, unqualified position against keeping police out of schools."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
 - id: elissa-silverman
   name: "Elissa Silverman"
@@ -316,12 +435,16 @@
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "She will stop collaboration with ICE and ensure the Council proactively defends our right to self-determination."
-      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach."
+      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. At the April 28, 2026 Fair Elections Program debate she said 'MPD should not cooperate with ICE when it comes to immigration enforcement — that is our law, we should follow our own law.'"
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: transit_bike_bus_lanes
       stance: 1
@@ -349,22 +472,30 @@
     - question_id: crime_more_police
       stance: 1
       quote: "She supports an MPD that is properly trained and staffed and that protects residents and respects their rights."
-      explanation: "Supports an MPD that is 'properly trained and staffed and that protects residents and respects their rights.' Also funded the Cure the Streets violence interruption program and champions evidence-based programs to reduce gun violence alongside traditional policing."
+      explanation: "Supports an MPD that is 'properly trained and staffed and that protects residents and respects their rights.' Also funded the Cure the Streets violence interruption program and champions evidence-based programs to reduce gun violence alongside traditional policing. At the April 28, 2026 Fair Elections Program debate she called for following evidence-based best practices and implementing the post-George Floyd task-force recommendations to reform 'and bolster' MPD under the new chief."
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: housing_upzoning
       stance: 1
       quote: "She advocates for increasing the housing supply by removing unnecessary obstacles to building and by strategically using public lands and public dollars."
-      explanation: "Advocates increasing the housing supply 'by removing unnecessary obstacles to building and by strategically using public lands and public dollars,' and worked to increase affordable units citywide through inclusionary zoning. Endorsed by DC YIMBYs; frames supply growth as primarily benefiting working families rather than developers."
+      explanation: "Advocates increasing the housing supply 'by removing unnecessary obstacles to building and by strategically using public lands and public dollars,' and worked to increase affordable units citywide through inclusionary zoning. Endorsed by DC YIMBYs; frames supply growth as primarily benefiting working families rather than developers. At the April 28, 2026 Fair Elections Program debate she rejected the supply-vs-affordability tradeoff, saying DC needs to 'do both' — build more and remove regulatory burdens while also filling hundreds of vacant DC Housing Authority units."
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -379,12 +510,16 @@
     - question_id: home_rule_dc_resist
       stance: 2
       quote: "District government needs to protect our neighbors and our city from President Trump and his administration, not collaborate in their terror and lawlessness."
-      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. Called for a dedicated federal relations office at the Council level to keep DC's voice on the Hill consistent and strategic."
+      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. Called for a dedicated federal relations office at the Council level to keep DC's voice on the Hill consistent and strategic. At the April 28, 2026 Fair Elections Program debate she argued 'it's hard for us to argue for home rule when we don't follow our own law,' while stressing that the Council, Attorney General, Mayor, and Delegate should coordinate strategy so DC is not caught 'flatfooted' — pairing an assertive substantive stance with disciplined process."
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-05-29
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
 
     - question_id: housing_topa_restore
       stance: 1
@@ -394,3 +529,89 @@
           title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
           publisher: dccouncil.gov
           accessed: 2026-06-02
+
+    - question_id: crime_public_health
+      stance: 1
+      quote: "We're not following best practices when it comes to violence interruption. We need to do that and make sure it works well."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Silverman backed evidence-based violence interruption, citing University of Maryland researcher Thomas Abt and arguing DC is not currently following best practices. She frames violence prevention as something to do well alongside policing rather than as a wholesale replacement, and previously funded the Cure the Streets program."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: housing_social_model
+      stance: 1
+      quote: "It is our land. We can redevelop our public housing to be a real asset not only for low-income families but for market-rate units as well."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Silverman argued DC should redevelop its publicly owned housing authority land into mixed-income communities serving both low-income and market-rate residents — a publicly owned, mixed-income approach. Supportive in concept, framed around redeveloping existing public housing rather than a citywide social-housing program."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+    - question_id: crime_police_in_schools
+      stance: 0
+      quote: "I'm not sure, Michael. I'll be honest. I have to look at what the evidence-based best practices would be … I would have to take a better look at it."
+      explanation: "In the April 28, 2026 Fair Elections Program debate lightning round, asked whether she would vote to return armed police to public high schools this fall, Silverman declined to take a position either way, saying she was 'not sure' and would need to review the evidence-based best practices first. Recorded as neutral/undecided rather than a lean."
+      sources:
+        - url: https://www.youtube.com/watch?v=EPfD0_neF04
+          title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
+          publisher: "DC Office of Campaign Finance"
+          accessed: 2026-06-03
+
+- id: khalil-lee
+  name: "Khalil Lee"
+  election_slug: at_large_mcduffie
+  in_fair_elections: true
+  campaign_url: https://www.lee4dc.com/
+  endorsements: []
+  short_bio: >
+    Native Washingtonian and former congressional staffer. Born at DC General;
+    grew up in Ward 7; graduated Friendship Public Charter School Collegiate
+    Academy; attended University of Vermont via DC TAG Program (2016). Campaign
+    focuses on housing affordability and anti-displacement, DC home rule and
+    statehood, public safety, and economic development.
+  long_bio: |
+    Khalil Lee is a native Washingtonian born at DC General hospital — then
+    attached to the Central Detention Facility — to an incarcerated mother. He
+    grew up through DC public schools, participated in the Marion Barry Summer
+    Youth Employment Program and DC Youth and Government, and volunteered weekly
+    with the Mayor's Serve DC initiative. He graduated from Friendship Public
+    Charter School Collegiate Academy in Ward 7, and through the DC TAG Program
+    attended the University of Vermont, where he served on Student Government,
+    worked in Burlington City Hall, and won the University's first national
+    championship in American Policy Debate. He graduated in 2016 alongside his
+    adoptive parents Bruce and Maureen Normann, whom he met through Holy
+    Comforter Saint Cyprian Roman Catholic Church on East Capitol Street.
+
+    He subsequently worked as a congressional staffer, an experience he says
+    gives him "a unique vantage point to navigate the strained relationship
+    between the District and the federal government." He frames his candidacy
+    around bridging "homegrown understanding and federal insight" to fight for
+    DC's autonomy and improve economic opportunity across the District.
+
+    His campaign centers on the housing affordability and anti-displacement
+    crisis — noting that "revitalization without affordability isn't progress;
+    it's displacement dressed up as development" — as well as DC home rule and
+    statehood, public safety, and economic development.
+  advisories: []
+  sources:
+    - url: https://www.lee4dc.com/
+      title: "Khalil Lee for DC Council — Campaign Website"
+      publisher: "lee4dc.com"
+      accessed: 2026-06-03
+    - url: https://eastoftheriverdcnews.com/2026/05/01/who-is-running-in-the-at-large-special-election/
+      title: "Who is Running in the At-Large Special Election? — East of the River DC News"
+      publisher: "East of the River DC News"
+      accessed: 2026-06-03
+  positions:
+    - question_id: home_rule_dc_resist
+      stance: 1
+      quote: "The federal government's unyielding encroachment on D.C.'s autonomy... I feel a fervent responsibility to push back against that."
+      explanation: "Explicitly frames federal overreach as a core campaign issue, calling it 'unyielding encroachment' that undermines DC's ability to govern itself. Supports DC statehood. Argues his congressional experience gives him a vantage point to 'navigate the strained relationship between the District and the federal government' — assertive in principle but also emphasizes strategic use of federal connections rather than confrontation alone."
+      sources:
+        - url: https://www.lee4dc.com/
+          title: "Khalil Lee for DC Council — Campaign Website"
+          publisher: "lee4dc.com"
+          accessed: 2026-06-03
