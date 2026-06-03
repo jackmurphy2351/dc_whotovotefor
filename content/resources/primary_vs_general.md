@@ -1,5 +1,5 @@
 ---
-title: "Why the Democratic Primary ≈ the General Election in DC"
+title: "Why the Democratic Primary Is Effectively the General Election in DC"
 sources:
   - url: https://dcboe.org/Elections/2026-Elections
     title: "2026 Elections — DC Board of Elections"

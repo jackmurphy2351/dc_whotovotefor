@@ -19,7 +19,7 @@ TOPIC_ORDER = [
 ]
 
 TOPIC_TITLES = {
-    "primary_vs_general": "Why the Primary = the General Election in DC",
+    "primary_vs_general": "Why the Democratic Primary Is Effectively the General Election in DC",
     "ranked_choice": "Ranked Choice Voting / Initiative 83",
     "topa": "TOPA & DOPA: Tenant Purchase Rights",
     "fair_elections": "The DC Fair Elections Program",
