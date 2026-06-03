@@ -83,6 +83,14 @@
       title: "Ward 1 candidates helped clean Columbia Heights — El Tiempo Latino"
       publisher: "El Tiempo Latino"
       accessed: 2026-05-28
+    - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+      title: "Ward 1 Council Candidate Forum on Education (WTU)"
+      publisher: "Washington Teachers' Union"
+      accessed: 2026-06-02
+    - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+      title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+      publisher: "DC Bike, Walk & Bus PAC"
+      accessed: 2026-06-03
   positions:
     - question_id: housing_rent_stabilization
       stance: 2
@@ -117,12 +125,16 @@
     - question_id: transit_bike_bus_lanes
       stance: 2
       quote: "She’ll champion ambitious bus priority projects - bold solutions like a dedicated transit mall through central Columbia Heights and a center-running transitway on Georgia Avenue."
-      explanation: "Championed the Georgia Avenue and Columbia Heights Crosstown bus priority projects as ANC Commissioner; extended protected bike lanes along Kenyon, Warder, and Park Place streets; would champion a dedicated transit mall through central Columbia Heights and a center-running transitway on Georgia Avenue. Wants 5–8 minute headways on Ward 1's busiest routes and fare-free buses."
+      explanation: "Championed the Georgia Avenue and Columbia Heights Crosstown bus priority projects as ANC Commissioner; extended protected bike lanes along Kenyon, Warder, and Park Place streets; would champion a dedicated transit mall through central Columbia Heights and a center-running transitway on Georgia Avenue. Wants 5–8 minute headways on Ward 1's busiest routes and fare-free buses. At the Bike, Walk & Bus PAC transportation forum she stressed she has 'turned plans into pavement' — citing the Crosstown multimodal plan and the protected bike lanes she got fully built on Irving, Kenyon, and Warder Streets, plus the inaugural Georgia Avenue Open Streets — and pledged as her top transportation commitment to extend the Kenyon Street protected bike lane through 16th Street."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: mpd_ice_cooperation
       stance: 2
@@ -137,12 +149,26 @@
     - question_id: education_mental_health_schools
       stance: 1
       quote: "Rashida will expand school-based mental health services, peer support programs, and healing-centered approaches that address root causes rather than symptoms."
-      explanation: "Will expand school-based mental health services, peer support programs, and healing-centered approaches; supports expanding mental health crisis response teams to respond to psychiatric emergencies instead of armed police; calls for evaluating progress on school-based mental health since its passage."
+      explanation: "Will expand school-based mental health services, peer support programs, and healing-centered approaches; supports expanding mental health crisis response teams to respond to psychiatric emergencies instead of armed police; calls for evaluating progress on school-based mental health since its passage. At the WTU Ward 1 education forum she reinforced funding school-level roles — naming social workers, art teachers, librarians, and music teachers as the positions she would fund by redirecting money from the central office."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+          title: "Ward 1 Council Candidate Forum on Education (WTU)"
+          publisher: "Washington Teachers' Union"
+          accessed: 2026-06-02
+
+    - question_id: education_mayoral_control
+      stance: 2
+      quote: "Here's what we need: an elected school board with budget authorities and key powers over responsibilities… that selects our chancellor."
+      explanation: "At the WTU Ward 1 education forum she called for 'an elected school board with budget authorities and key powers… that selects our chancellor,' plus ward-based education councils with binding (not advisory) input and moving education oversight off the Committee of the Whole onto a dedicated education committee. Endorsed Councilmember Zachary Parker's legislation granting the State Board more authority as a first 'incremental step.' Directly supports shifting authority away from mayoral control toward the elected State Board of Education."
+      sources:
+        - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+          title: "Ward 1 Council Candidate Forum on Education (WTU)"
+          publisher: "Washington Teachers' Union"
+          accessed: 2026-06-02
 
     - question_id: crime_public_health
       stance: 2
@@ -217,12 +243,16 @@
     - question_id: transit_fare_free_buses
       stance: 2
       quote: "Fund fare-free buses."
-      explanation: "Explicitly pledges to 'Fund fare-free buses,' noting the Council funded fare-free buses once before but WMATA refused to implement them in the District. Would work to change the dynamic on the WMATA board to give DC more authority to pursue bold transit policy."
+      explanation: "Explicitly pledges to 'Fund fare-free buses,' noting the Council funded fare-free buses once before but WMATA refused to implement them in the District. Would work to change the dynamic on the WMATA board to give DC more authority to pursue bold transit policy. At the Bike, Walk & Bus PAC forum she reaffirmed she's 'a fan of it,' favoring a dedicated funding stream outside the regular budget and a universal approach, while noting kids-ride-free implementation problems she'd fix."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: transit_congestion_pricing
       stance: 1
@@ -351,6 +381,10 @@
       title: "Ward 1 candidates helped clean Columbia Heights — El Tiempo Latino"
       publisher: "El Tiempo Latino"
       accessed: 2026-05-28
+    - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+      title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+      publisher: "DC Bike, Walk & Bus PAC"
+      accessed: 2026-06-03
   positions:
     - question_id: housing_social_model
       stance: -1
@@ -390,6 +424,36 @@
           title: "The Issues — Terry Lynch for DC"
           publisher: "Terry Lynch Campaign"
           accessed: 2026-05-30
+
+    - question_id: transit_bike_bus_lanes
+      stance: 1
+      quote: "You have to be a fair broker, have everybody at the table, listen to everyone, and put out those solutions that actually work versus those that don't."
+      explanation: "At the Bike, Walk & Bus PAC transportation forum he supported completing Ward 1's bike network by acting as a 'fair broker' — getting neighbors, businesses, ANCs, and DOT to the table — and rides the 14th Street and Columbia Road protected bike lanes himself. In the lightning round he backed automatic traffic-enforcement cameras on dangerous corridors with the revenue funding biking, walking, and bus infrastructure, and prioritizing sidewalk repairs in school zones over driver convenience. His overriding transportation priority, though, is enforcement against dangerous drivers (cars, mopeds, and e-bikes), which he calls the biggest threat to safety."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
+
+    - question_id: transit_fare_free_buses
+      stance: -1
+      quote: "Frankly, I'm middle class. I should not get free bus fare… others don't need it to be free."
+      explanation: "At the Bike, Walk & Bus PAC forum he opposed universal fare-free buses, arguing fares should be income-based: 'I'm middle class — I should not get free bus fare… I should pay for what the cost actually is.' Open to exploring reduced or even free fares for lower-income riders and students, but rejects free buses for all riders, stressing the District must 'be very savvy budget-wise' so transit spending doesn't crowd out youth after-school programs."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
+
+    - question_id: housing_upzoning
+      stance: 1
+      quote: "I'm committed to bring at least 5,000 more units to the ward… the revitalization we should have had quite some time ago."
+      explanation: "At the Bike, Walk & Bus PAC forum he was a strong voice for transit-oriented development, recalling how in the early 1990s he helped write the code and argued at the Zoning Commission to require housing across 90 downtown blocks ('the best thing getting housing above transit and metro in downtown in the last 50 years'). Pledged to bring 'at least 5,000 more units' to Ward 1 and to revitalize Georgia Avenue, U Street, and 14th Street with mixed-use density. Strongly pro-supply and pro-density near transit, though framed around corridor revitalization rather than explicitly ending single-family zoning."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
 - id: aparna-raj
   name: "Aparna Raj"
@@ -495,6 +559,14 @@
       title: "Ward 1 candidates helped clean Columbia Heights — El Tiempo Latino"
       publisher: "El Tiempo Latino"
       accessed: 2026-05-28
+    - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+      title: "Ward 1 Council Candidate Forum on Education (WTU)"
+      publisher: "Washington Teachers' Union"
+      accessed: 2026-06-02
+    - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+      title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+      publisher: "DC Bike, Walk & Bus PAC"
+      accessed: 2026-06-03
   positions:
     - question_id: housing_rent_stabilization
       stance: 2
@@ -539,12 +611,36 @@
     - question_id: transit_bike_bus_lanes
       stance: 2
       quote: "Aparna will push DDOT to rapidly build more bus lanes, so our buses run faster and hit fewer traffic delays. Bus lanes can save DC workers 15% of their commuting time."
-      explanation: "Would build dedicated bus lanes (citing 15% commuting time savings), increase bus frequency to 12-minute minimums, extend existing lane hours, and close remaining bicycle network connectivity gaps to make it possible to ride safely east-to-west across Ward 1."
+      explanation: "Would build dedicated bus lanes (citing 15% commuting time savings), increase bus frequency to 12-minute minimums, extend existing lane hours, and close remaining bicycle network connectivity gaps to make it possible to ride safely east-to-west across Ward 1. At the Bike, Walk & Bus PAC transportation forum she named east-west connectivity a top priority, argued 'paint is not protection' in pushing to make the 14th Street bike lanes physically protected, and called for more bus shelters (noting they cluster in whiter, wealthier wards)."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
+
+    - question_id: transit_fare_free_buses
+      stance: 2
+      quote: "I believe that buses should be a free public good in the same way that we consider libraries and parks a public good."
+      explanation: "At the Bike, Walk & Bus PAC forum she said 'buses should be a free public good in the same way that we consider libraries and parks a public good' — the position of the transit union (ATU Local 689) that endorsed her — because fare enforcement endangers drivers and fares are an unreliable funding source. Would fund free buses through a land value tax (which she says could raise up to $1 billion), commit to confirming only WMATA board members who back free buses, and fight for a free-bus pilot to build momentum for a permanent program."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
+
+    - question_id: transit_congestion_pricing
+      stance: 1
+      quote: "I would also fight to get DOT to release the congestion pricing study that they've been holding on to… and would potentially support that."
+      explanation: "At the Bike, Walk & Bus PAC forum, asked how the Council should discourage driving, she said she 'would fight to get DOT to release the congestion pricing study that they've been holding on to' and 'would potentially support' congestion pricing — pairing it with cheaper, more frequent transit, better bus shelters, and programs to teach kids to bike. Supportive but tentative ('potentially')."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: mpd_ice_cooperation
       stance: 2
@@ -569,12 +665,26 @@
     - question_id: education_mental_health_schools
       stance: 1
       quote: "Instead, funding for school-based behavioral health should increase to meet the needs of students today."
-      explanation: "Would increase funding for school-based behavioral health services, opposing the FY26 budget's $2.3 million cut to school behavioral health. Supports expanding school counselors, social workers, and nurses; funds mobile health crisis units; and expands the Certified Community Behavioral Health Clinic program."
+      explanation: "Would increase funding for school-based behavioral health services, opposing the FY26 budget's $2.3 million cut to school behavioral health. Supports expanding school counselors, social workers, and nurses; funds mobile health crisis units; and expands the Certified Community Behavioral Health Clinic program. At the WTU Ward 1 education forum she underscored that 'not every school has a counselor… not every school has a school nurse,' calling these vital supports for students' wellness, health, and safety."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+          title: "Ward 1 Council Candidate Forum on Education (WTU)"
+          publisher: "Washington Teachers' Union"
+          accessed: 2026-06-02
+
+    - question_id: education_mayoral_control
+      stance: 2
+      quote: "I will fight to bring the office of the state superintendent of education under the control of the state board of education, which is how it works in the majority of states."
+      explanation: "At the WTU Ward 1 education forum she pledged to 'democratize our school system' and bring OSSE under the control of the elected State Board of Education — 'which is how it works in the majority of states' — so State Board members (often current or former teachers) gain more decision-making authority. Would also hold public charter schools to the same accountability and transparency standards as DCPS. Directly supports ending mayoral control in favor of the elected board."
+      sources:
+        - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+          title: "Ward 1 Council Candidate Forum on Education (WTU)"
+          publisher: "Washington Teachers' Union"
+          accessed: 2026-06-02
 
     - question_id: crime_public_health
       stance: 2
@@ -649,12 +759,16 @@
     - question_id: housing_upzoning
       stance: 2
       quote: "As Councilmember, Aparna will fight to make it legal to build apartments everywhere in DC."
-      explanation: "Will 'make it legal to build apartments everywhere in DC,' citing Portland and Cambridge, and specifically upzone transit corridors such as Georgia Ave and 14th St. Would amend the Future Land Use Map to end exclusionary zoning, allow 'light-touch density' (duplexes, triplexes, sixplexes) by reducing minimum lot sizes and setbacks, ease alley-home rules, and reduce or eliminate parking minimums near transit."
+      explanation: "Will 'make it legal to build apartments everywhere in DC,' citing Portland and Cambridge, and specifically upzone transit corridors such as Georgia Ave and 14th St. Would amend the Future Land Use Map to end exclusionary zoning, allow 'light-touch density' (duplexes, triplexes, sixplexes) by reducing minimum lot sizes and setbacks, ease alley-home rules, and reduce or eliminate parking minimums near transit. At the Bike, Walk & Bus PAC forum she called transit-oriented development 'a no-brainer,' voicing strong support for upzoning near Metro stations and along transit corridors so people can live near transit."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: childcare_birth_to_three
       stance: 2
@@ -769,6 +883,14 @@
       title: "Ward 1 candidates helped clean Columbia Heights — El Tiempo Latino"
       publisher: "El Tiempo Latino"
       accessed: 2026-05-28
+    - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+      title: "Ward 1 Council Candidate Forum on Education (WTU)"
+      publisher: "Washington Teachers' Union"
+      accessed: 2026-06-02
+    - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+      title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+      publisher: "DC Bike, Walk & Bus PAC"
+      accessed: 2026-06-03
   positions:
     - question_id: housing_rent_stabilization
       stance: 1
@@ -788,6 +910,46 @@
           title: "Meet the candidates running to represent Ward 1 — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+
+    - question_id: education_mental_health_schools
+      stance: 1
+      quote: "We need more in the classroom… more counselors, more therapists, more librarians, more nurses — that is what is needed right now."
+      explanation: "At the WTU Ward 1 education forum, asked to name a central-office function to cut and a school-based role to fund, she said she would 'get the middleman out' and redirect money to school-based supports — 'more counselors, more therapists, more librarians, more nurses — that is what is needed right now.' In the teacher-retention discussion she also backed mental health supports and wellness resources. Supports expanding school-based behavioral health staffing, though she did not commit to a dedicated clinician in every school."
+      sources:
+        - url: https://www.youtube.com/watch?v=3WAYxcnBzSI
+          title: "Ward 1 Council Candidate Forum on Education (WTU)"
+          publisher: "Washington Teachers' Union"
+          accessed: 2026-06-02
+
+    - question_id: transit_bike_bus_lanes
+      stance: 1
+      quote: "I would like to work with you to close the gaps, identify gaps in Ward One and the bike network, and also to ensure that we work very closely with DOT."
+      explanation: "At the Bike, Walk & Bus PAC transportation forum she backed completing Ward 1's bike network — 'close the gaps, identify gaps in Ward One and the bike network' — and pledged to fully fund Vision Zero, working closely with DOT to keep projects from being pushed out of the ward. Supportive, but emphasizes community input, readable and bilingual signage, and 'sharing the streets' (noting cyclists should use bike lanes rather than sidewalks) more than aggressive lane expansion."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
+
+    - question_id: transit_fare_free_buses
+      stance: 0
+      quote: "I am more pro on doing partial, like the rush hours… we don't want to say everything for free and then we're going to be in a budget deficit."
+      explanation: "Supports expanding free transit but not universally: building on kids-ride-free, she favors making buses free 'partial, like the rush hours' for working families commuting and on late shifts, pending a real study — rather than free for all riders — warning that making 'everything for free' risks a budget deficit. A qualified, targeted position rather than support for universal fare-free buses."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
+
+    - question_id: housing_upzoning
+      stance: 0
+      quote: "We don't have to create no more housing, we have to expand on what we have already."
+      explanation: "At the Bike, Walk & Bus PAC transportation forum, asked about transit-oriented development, she did not back building new housing near transit — 'we don't have to create no more housing, we have to expand on what we have already.' She would instead focus on rehabilitating existing vacant and decaying apartments (citing Columbia Heights) and strengthening rent control (untouched since 1985), working with the Office of Planning on what is already in the pipeline. A notable contrast with the other Ward 1 candidates, who back upzoning to add housing near transit."
+      sources:
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: childcare_universal
       stance: 2
@@ -933,16 +1095,28 @@
       title: "Ward 1 candidates helped clean Columbia Heights — El Tiempo Latino"
       publisher: "El Tiempo Latino"
       accessed: 2026-05-28
+    - url: https://www.youtube.com/watch?v=8lqKTfYot20
+      title: "The DC Beat — Ward 1 candidate Miguel Trindade Deramo interview"
+      publisher: "WUSA9"
+      accessed: 2026-06-02
+    - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+      title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+      publisher: "DC Bike, Walk & Bus PAC"
+      accessed: 2026-06-03
   positions:
     - question_id: housing_topa_restore
       stance: 2
       quote: "Miguel will work to reverse the last-minute amendment exempting two- to four-unit properties from TOPA, which denies thousands of renters the opportunity to potentially become homeowners by purchasing their homes or ensuring that their properties continue to serve as unsubsidized affordable housing."
-      explanation: "Will reverse the RENTAL Act amendment exempting 2–4 unit properties from TOPA (which he says 'denies thousands of renters the opportunity to potentially become homeowners') and will work to shorten the 15-year TOPA exemption for new buildings."
+      explanation: "Will reverse the RENTAL Act amendment exempting 2–4 unit properties from TOPA (which he says 'denies thousands of renters the opportunity to potentially become homeowners') and will work to shorten the 15-year TOPA exemption for new buildings. In a DC Beat interview he called TOPA 'a landmark law' that 'when it works, it delivers' and has kept Ward 1 residents from being displaced — saying the priority is to 'make it work very well.'"
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=8lqKTfYot20
+          title: "The DC Beat — Ward 1 candidate Miguel Trindade Deramo interview"
+          publisher: "WUSA9"
+          accessed: 2026-06-02
 
     - question_id: housing_rent_stabilization
       stance: 1
@@ -987,22 +1161,30 @@
     - question_id: transit_bike_bus_lanes
       stance: 2
       quote: "Since his first ANC campaign, Miguel has advocated for a seamless protected bike lane on 14th Street from Columbia Heights all the way downtown."
-      explanation: "Will champion bus priority lanes on U Street, Florida, Georgia, 14th, and Columbia Heights Crosstown corridors; a seamless protected bike lane on 14th St from Columbia Heights to downtown; 25 new or expanded Capital Bikeshare stations; and bus frequencies of every 10 minutes or better on Ward 1's major corridors. Already secured two bikeshare station expansions as ANC chair."
+      explanation: "Will champion bus priority lanes on U Street, Florida, Georgia, 14th, and Columbia Heights Crosstown corridors; a seamless protected bike lane on 14th St from Columbia Heights to downtown; 25 new or expanded Capital Bikeshare stations; and bus frequencies of every 10 minutes or better on Ward 1's major corridors. Already secured two bikeshare station expansions as ANC chair. At the Bike, Walk & Bus PAC transportation forum he highlighted landing an expanded bike-share station plus a brand-new Malcolm X Park station in a year when DOT's new-station budget was $0 (assembled from spare parts), and his push to redesign and harden pedestrian crossings on 14th Street, stitch together the 11th and 14th Street bike lanes, and expand sidewalks in nightlife areas like U Street and around schools."
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "Miguel does not support MPD cooperation with ICE."
-      explanation: "Will introduce legislation to amend the Sanctuary Values Amendment Act to expand information-sharing prohibitions to people detained (not just in custody), add quarterly MPD reporting requirements, create protections at sensitive locations (schools, hospitals, clinics), and ban face coverings by law enforcement. Led 36 ANCs to pass resolutions demanding ICE remove masks and stop wearing 'POLICE' uniforms; ran weekly KYR outreach with Free DC; testified at Council's human rights hearing asking 'what is the value of the Sanctuary Values Act if not enforced?'"
+      explanation: "Will introduce legislation to amend the Sanctuary Values Amendment Act to expand information-sharing prohibitions to people detained (not just in custody), add quarterly MPD reporting requirements, create protections at sensitive locations (schools, hospitals, clinics), and ban face coverings by law enforcement. Led 36 ANCs to pass resolutions demanding ICE remove masks and stop wearing 'POLICE' uniforms; ran weekly KYR outreach with Free DC; testified at Council's human rights hearing asking 'what is the value of the Sanctuary Values Act if not enforced?' In a DC Beat interview he backed the FAAR Act and faulted the Council for not requiring MPD months earlier to track its interactions with federal agents: 'if the feds are going to be here on the streets we want MPD to have its eyes open and giving us good reports regularly on what's going on.'"
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=8lqKTfYot20
+          title: "The DC Beat — Ward 1 candidate Miguel Trindade Deramo interview"
+          publisher: "WUSA9"
+          accessed: 2026-06-02
 
     - question_id: education_community_schools
       stance: 2
@@ -1037,22 +1219,30 @@
     - question_id: youth_curfew_support
       stance: -1
       quote: "Fundamentally, Miguel is not in favor of youth curfews; he does not support a permanent curfew or repeatedly extending the curfew as the only solutions."
-      explanation: "States: 'Fundamentally, Miguel is not in favor of youth curfews; he does not support a permanent curfew or repeatedly extending the curfew as the only solutions.' Wants to prevent unnecessary interactions between youth and policing or the criminal justice system. As ANC Chair of U Street (where large youth gatherings have occurred), he prefers rec centers, night markets, and programming over enforcement."
+      explanation: "States: 'Fundamentally, Miguel is not in favor of youth curfews; he does not support a permanent curfew or repeatedly extending the curfew as the only solutions.' Wants to prevent unnecessary interactions between youth and policing or the criminal justice system. As ANC Chair of U Street (where large youth gatherings have occurred), he prefers rec centers, night markets, and programming over enforcement. In a DC Beat interview he called the curfew a 'band-aid' with nothing healing the wound underneath — 'the investment in youth, to me it looks non-existent… I don't think we're doing anything differently now than we were before the curfew was instituted' — and faulted the Council for 'kicking the can down the road' instead of addressing the underlying issues."
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=8lqKTfYot20
+          title: "The DC Beat — Ward 1 candidate Miguel Trindade Deramo interview"
+          publisher: "WUSA9"
+          accessed: 2026-06-02
 
     - question_id: youth_curfew_programming
       stance: 2
       quote: "Miguel will shape law and oversight to pressure the Mayor to reactivate the Youth Advisory Council and advance programming co-led by youth, including with schools, recreation centers, DC agencies, and entertainment businesses."
-      explanation: "Will pressure the Mayor to reactivate the defunct Youth Advisory Council; support expanding Out-of-School Time seat capacity; champion the Mayor Barry Summer Youth Employment Program and High School Internship Program; and broaden city partnerships to create all-ages events, safe spaces at rec centers, and youth-led programming. Explicitly frames programming as the alternative to curfews."
+      explanation: "Will pressure the Mayor to reactivate the defunct Youth Advisory Council; support expanding Out-of-School Time seat capacity; champion the Mayor Barry Summer Youth Employment Program and High School Internship Program; and broaden city partnerships to create all-ages events, safe spaces at rec centers, and youth-led programming. Explicitly frames programming as the alternative to curfews. In a DC Beat interview he criticized the dormant Mayor's Youth Advisory Council ('I don't believe it's been meeting') and called for 'speaking with youth instead of at youth,' plus real investment in rec centers and late-night programming he says hasn't materialized since the curfew began."
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=8lqKTfYot20
+          title: "The DC Beat — Ward 1 candidate Miguel Trindade Deramo interview"
+          publisher: "WUSA9"
+          accessed: 2026-06-02
 
     - question_id: parks_rec_funding
       stance: 1
@@ -1087,22 +1277,34 @@
     - question_id: housing_upzoning
       stance: 2
       quote: "We also need to make changes to the Comprehensive Plan to facilitate additional density, such as “missing middle” or “gentle density” housing."
-      explanation: "Will champion zoning reform to allow more housing, citing Minneapolis and Austin: ease parking and setback requirements, raise restrictive height caps, build over existing low-rise retail on commercial corridors, and amend the Comprehensive Plan to facilitate 'missing middle' / 'gentle density' housing. Expects Zoning Commission nominees to prioritize changes that spur housing construction."
+      explanation: "Will champion zoning reform to allow more housing, citing Minneapolis and Austin: ease parking and setback requirements, raise restrictive height caps, build over existing low-rise retail on commercial corridors, and amend the Comprehensive Plan to facilitate 'missing middle' / 'gentle density' housing. Expects Zoning Commission nominees to prioritize changes that spur housing construction. In a DC Beat interview he called himself 'the most pro housing candidate in my race,' arguing DC's own zoning — not the federal Height Act — constrains growth ('our zoning is often lower than the Height Act would allow') and pressing to 'open the gates for taller buildings' on transit-rich corridors like 14th and U Streets rather than 'building low-slung buildings' there. At the Bike, Walk & Bus PAC forum he called transit-oriented development essential, noting that for already-dense Ward 1 building more housing 'kind of means everywhere,' while insisting other wards 'pull their fair share' and raise density near transit."
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=8lqKTfYot20
+          title: "The DC Beat — Ward 1 candidate Miguel Trindade Deramo interview"
+          publisher: "WUSA9"
+          accessed: 2026-06-02
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: transit_fare_free_buses
       stance: 2
       quote: "Our transit vision should be ambitious and include efforts to make bus service in DC fare‑free."
-      explanation: "Supports moving to fare-free buses in the District, which he proposes funding through a land value tax — part of a transit platform that also includes bus priority corridors, a seamless 14th St protected bike lane, and expanded Capital Bikeshare."
+      explanation: "Supports moving to fare-free buses in the District, which he proposes funding through a land value tax — part of a transit platform that also includes bus priority corridors, a seamless 14th St protected bike lane, and expanded Capital Bikeshare. At the Bike, Walk & Bus PAC forum he reaffirmed strong support but cautioned it must be done 'the right way' — locking in a reliable, multi-year dedicated funding stream first so the city doesn't fund free buses for a few years and then break the promise, and without sacrificing the frequency and reliability that surveys show riders value most. He opposed the earlier trade-off of scrapping the K Street Transitway to pay for free buses."
       sources:
         - url: https://miguelward1.com/priorities
           title: "Priorities — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=kLVy6yhc0t8
+          title: "Ward 1 Council Candidate Forum on Transportation (Bike, Walk & Bus PAC)"
+          publisher: "DC Bike, Walk & Bus PAC"
+          accessed: 2026-06-03
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -1127,9 +1329,13 @@
     - question_id: home_rule_dc_resist
       stance: 2
       quote: "Miguel led the call for ICE and other federal agents to stop concealing their identities and wearing deceptive uniforms that say “POLICE.” ICE agents are not our police."
-      explanation: "Founded the ANC Home Rule Caucus (75+ commissioners), led 36 commissions to pass concurrent resolutions condemning the federal takeover, personally lobbied Capitol Hill with Free DC to restore $1 billion cut from DC's budget, ran weekly Know Your Rights outreach in English and Spanish, and rallied ANCs to demand ICE stop wearing deceptive 'POLICE' uniforms — a record of aggressive, public-facing resistance to federal interference."
+      explanation: "Founded the ANC Home Rule Caucus (75+ commissioners), led 36 commissions to pass concurrent resolutions condemning the federal takeover, personally lobbied Capitol Hill with Free DC to restore $1 billion cut from DC's budget, ran weekly Know Your Rights outreach in English and Spanish, and rallied ANCs to demand ICE stop wearing deceptive 'POLICE' uniforms — a record of aggressive, public-facing resistance to federal interference. In a DC Beat interview he backed the FAAR Act as pushing 'an envelope that's important to push,' urged the Mayor and Council to 'lean in a little more' in defending DC's autonomy, and faulted the city's 'softly softly' response to the federal immigration crackdown that hit Ward One hardest — saying he 'didn't see the mayor come out to Ward One and stand on the street corner with people.'"
       sources:
         - url: https://miguelward1.com/record
           title: "Record — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-05-30
+        - url: https://www.youtube.com/watch?v=8lqKTfYot20
+          title: "The DC Beat — Ward 1 candidate Miguel Trindade Deramo interview"
+          publisher: "WUSA9"
+          accessed: 2026-06-02
