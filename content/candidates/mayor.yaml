@@ -237,12 +237,16 @@
     - question_id: housing_social_model
       stance: 2
       quote: "Launching Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit."
-      explanation: "Platform pledges to 'Launch Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit.' This is an explicit social housing model with public ownership and mixed-income design."
+      explanation: "Platform pledges to 'Launch Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit.' This is an explicit social housing model with public ownership and mixed-income design. Her June 2026 Greater Greater Washington op-ed reiterates the commitment: 'establishing a social housing program to enable District-owned, mixed-income housing with stable rents, ensuring that government investments prioritize people over profit.'"
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
+        - url: https://ggwash.org/view/102946/im-running-for-dc-mayor-to-build-more-housing-to-lower-costs
+          title: "I'm running for DC mayor to build more housing to lower costs — Greater Greater Washington"
+          publisher: "Greater Greater Washington"
+          accessed: 2026-06-02
 
     - question_id: housing_rent_stabilization
       stance: 1
@@ -257,12 +261,16 @@
     - question_id: housing_production_trust_fund
       stance: 1
       quote: "Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need."
-      explanation: "Platform calls for 'Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need,' plus launching Dignified Homes DC as a new publicly-funded housing initiative. Her full audit of housing systems in the first 100 days and strong affordable housing investment priorities imply maintaining and expanding the HPTF rather than cutting it."
+      explanation: "Platform calls for 'Demanding accountability for housing investments by tying investments to measurable outcomes and prioritizing residents with the greatest need,' plus launching Dignified Homes DC as a new publicly-funded housing initiative. In her June 2026 Greater Greater Washington op-ed she says she would 'rely on funding mechanisms that already exist, like housing production trust fund dollars or federal dollars,' while cautioning that 'our housing supply challenges, however, are bigger than what we can solve via subsidy alone' — supporting the HPTF as an existing tool rather than calling to significantly increase it (a +1, not +2)."
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
+        - url: https://ggwash.org/view/102946/im-running-for-dc-mayor-to-build-more-housing-to-lower-costs
+          title: "I'm running for DC mayor to build more housing to lower costs — Greater Greater Washington"
+          publisher: "Greater Greater Washington"
+          accessed: 2026-06-02
 
     - question_id: parks_rec_funding
       stance: 1
@@ -277,12 +285,16 @@
     - question_id: housing_upzoning
       stance: 2
       quote: "Allowing for more housing citywide by removing outdated zoning restrictions so more homes and more types of homes can be built across DC, particularly near transit corridors."
-      explanation: "Platform pledges to build more homes by 'Allowing for more housing citywide by removing outdated zoning restrictions so more homes and more types of homes can be built across DC, particularly near transit corridors,' alongside streamlined permitting to accelerate production."
+      explanation: "Platform pledges to build more homes by 'Allowing for more housing citywide by removing outdated zoning restrictions so more homes and more types of homes can be built across DC, particularly near transit corridors,' alongside streamlined permitting to accelerate production. In a June 2026 Greater Greater Washington op-ed she goes further, committing to build 72,000 homes in five years (double the current administration's target) by legalizing 'small apartment homes up to six units District-wide,' easing setback and side-yard requirements, ending parking requirements citywide, and rewriting the Comprehensive Plan to undo exclusionary single-family zoning in the District's most affluent neighborhoods."
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-30
+        - url: https://ggwash.org/view/102946/im-running-for-dc-mayor-to-build-more-housing-to-lower-costs
+          title: "I'm running for DC mayor to build more housing to lower costs — Greater Greater Washington"
+          publisher: "Greater Greater Washington"
+          accessed: 2026-06-02
 
     - question_id: transit_fare_free_buses
       stance: 1
