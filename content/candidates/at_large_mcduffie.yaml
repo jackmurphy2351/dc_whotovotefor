@@ -6,7 +6,7 @@
 - id: doni-crawford
   name: "Doni Crawford"
   election_slug: at_large_mcduffie
-  in_fair_elections: false  # TODO: verify Fair Elections status
+  in_fair_elections: true
   campaign_url: https://www.donicrawford.com/
   endorsements:
     - "Opportunity DC"
@@ -138,7 +138,7 @@
 - id: jacque-patterson
   name: "Jacque Patterson"
   election_slug: at_large_mcduffie
-  in_fair_elections: false  # TODO: verify Fair Elections status
+  in_fair_elections: false
   campaign_url: https://www.jacque4dc.com/
   endorsements:
     - "ElectED DC (education equity group)"
@@ -248,7 +248,7 @@
 - id: elissa-silverman
   name: "Elissa Silverman"
   election_slug: at_large_mcduffie
-  in_fair_elections: false  # TODO: verify Fair Elections status
+  in_fair_elections: true
   campaign_url: https://www.elissafordc.com/
   endorsements:
     # Labor

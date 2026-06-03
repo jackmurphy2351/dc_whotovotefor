@@ -3,7 +3,7 @@
 - id: robert-white
   name: "Robert White"
   election_slug: delegate
-  in_fair_elections: true
+  in_fair_elections: false
   campaign_url: https://www.joinrobertwhite.com/
   endorsements:
     # Organizations & PACs
@@ -138,7 +138,7 @@
 - id: trent-holbrook
   name: "Trent Holbrook"
   election_slug: delegate
-  in_fair_elections: true
+  in_fair_elections: false
   campaign_url: https://www.trentholbrook.com
   endorsements:
     # Statehood movement advocates
@@ -248,7 +248,7 @@
 - id: greg-jaczko
   name: "Greg Jaczko"
   election_slug: delegate
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: false
   campaign_url: https://gojaczko4dc.com
   endorsements: []
   short_bio: >
@@ -543,7 +543,7 @@
 - id: kinney-zalesne
   name: "Kinney Zalesne"
   election_slug: delegate
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: false
   campaign_url: https://www.kinneyfordc.com/about
   endorsements:
     # Former federal officials

@@ -6,7 +6,7 @@
 - id: kevin-chavous
   name: "Kevin B. Chavous"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: true
   campaign_url: https://www.chavousfordc.com/
   endorsements:
     # Named endorsers
@@ -87,7 +87,7 @@
 - id: dwight-davis
   name: "Dwight Davis"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: false
   campaign_url: https://dwight4dccouncil.com
   endorsements: []
   short_bio: >
@@ -158,8 +158,8 @@
 - id: dyana-forester
   name: "Dyana Forester"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  in_fair_elections: true
+  campaign_url: https://www.dyanafordc.com/
   endorsements: []
   short_bio: >
     Labor leader and former DC Housing Authority commissioner (age 46). Former
@@ -209,8 +209,8 @@
 - id: fred-hill
   name: "Fred Hill"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
-  campaign_url: null  # TODO: add campaign URL
+  in_fair_elections: false
+  campaign_url: https://fredhill4dc.com/
   endorsements: []
   short_bio: >
     Former 10-year chair of DC Board of Zoning Adjustment (age 57); ran federal
@@ -291,7 +291,7 @@
 - id: greg-jackson-jr
   name: "Greg Jackson Jr."
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: true
   campaign_url: "https://www.jacksonfordc.com/"
   endorsements:
     - "Rep. Maxwell Alejandro Frost (D-FL)"
@@ -430,7 +430,7 @@
 - id: leniquadominique-jenkins
   name: "Leniqua'dominique Jenkins"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: false
   campaign_url: "https://www.votejenkinsfordc.com/"
   endorsements: []
   short_bio: >
@@ -522,7 +522,7 @@
 - id: candace-nelson
   name: "Candace Tiana Nelson"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: true
   campaign_url: "https://www.candacefordc.com/"
   endorsements:
     - "Jews United for Justice"
@@ -644,7 +644,7 @@
 - id: oye-owolewa
   name: "Oye Owolewa"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: true
   campaign_url: "https://www.vote4oye.com/"
   endorsements:
     - "Sierra Club"
@@ -934,7 +934,7 @@
 - id: lisa-raymond
   name: "Lisa Raymond"
   election_slug: at_large_bonds
-  in_fair_elections: false  # TODO: verify
+  in_fair_elections: true
   campaign_url: "https://lisaraymondfordc.com/"
   endorsements:
     - "Charles Allen, Ward 6 Councilmember"
