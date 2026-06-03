@@ -4,6 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% block title %}Help Me Vote DC 2026!{% endblock %}</title>
+  <meta name="description" content="{% block description %}Help Me Vote DC 2026! — Find which DC candidates best match your values for the June 2026 Democratic primary.{% endblock %}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ self.title() }}">
+  <meta property="og:description" content="{{ self.description() }}">
+  <meta property="og:url" content="{{ request.url }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ self.title() }}">
+  <meta name="twitter:description" content="{{ self.description() }}">
+  <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
@@ -37,6 +46,7 @@
         <a href="https://github.com/jackmurphy2351/dc_whotovotefor">View source on GitHub</a>.
       </p>
       <p>Not affiliated with any campaign or political organization.</p>
+      <p><a href="{{ url_for('resources.topic', topic='privacy') }}">Privacy — we don't collect your data</a></p>
     </div>
   </footer>
 

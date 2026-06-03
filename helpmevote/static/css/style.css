@@ -35,6 +35,13 @@ body {
 
 a { color: var(--dc-navy); }
 a:hover { text-decoration: underline; }
+a:visited { color: #6b2fa0; }
+
+:focus-visible {
+  outline: 3px solid var(--dc-gold);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
 
 h1 { font-size: 1.9rem; margin-bottom: .5rem; }
 h2 { font-size: 1.4rem; margin-bottom: .4rem; }
@@ -110,10 +117,13 @@ main.container { padding-top: 1.5rem; padding-bottom: 3rem; flex: 1; }
   transition: background .15s, color .15s, border-color .15s;
 }
 .btn-primary   { background: var(--dc-red);   color: #fff; }
-.btn-primary:hover   { background: #a00f19; }
+.btn-primary:hover, .btn-primary:visited   { background: var(--dc-red); color: #fff; }
+.btn-primary:hover { background: #a00f19; }
 .btn-secondary { background: var(--dc-navy);  color: #fff; }
+.btn-secondary:hover, .btn-secondary:visited { background: var(--dc-navy); color: #fff; }
 .btn-secondary:hover { background: #122b47; }
 .btn-ghost     { background: transparent; color: var(--dc-navy); border-color: var(--dc-navy); }
+.btn-ghost:visited { color: var(--dc-navy); }
 .btn-ghost:hover { background: var(--dc-navy); color: #fff; }
 .btn-large     { font-size: 1.05rem; padding: .75rem 1.5rem; }
 button.btn     { font-family: inherit; }

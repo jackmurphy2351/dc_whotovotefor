@@ -13,3 +13,4 @@ build/
 .env.local
 instance/
 scripts/output/
+/IMPROVEMENTS.md
