@@ -40,6 +40,7 @@
     <p class="select-counter" aria-live="polite">
       <span data-selected-count>{{ selected | length }}</span> of {{ total }} selected
     </p>
+    <button type="submit" class="btn btn-primary btn-small" data-start-btn>Start quiz →</button>
   </div>
 
   {% for issue, questions in groups %}
