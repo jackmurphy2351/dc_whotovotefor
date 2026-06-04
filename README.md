@@ -1,6 +1,6 @@
 # Help Me Vote DC 2026!
 
-An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across five races.
+An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across seven races.
 
 > **Why the primary matters:** In DC local politics, the Democratic Primary is effectively the general election. The District has not elected a Republican mayor since 1954. Winning the June 16 primary is, for most races, winning the seat.
 
@@ -8,12 +8,12 @@ An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Dem
 
 ## What it does
 
-1. You pick a race (Mayor, Non-Voting Delegate, two At-Large Council seats, or Ward 1 Council).
+1. You pick a race (Mayor, Non-Voting Delegate, two At-Large Council seats, or Ward 1, Ward 5, or Ward 6 Council).
 2. You answer a series of issue questions on a 5-point scale (strongly oppose → strongly support), or skip any you don't care about.
 3. The app scores every candidate by averaging your agreement on the questions where both you and the candidate have a stated position, then ranks them from most to least aligned — surfacing how much data backs each score so well-documented candidates aren't outranked by thinly-sourced ones (see [Scoring algorithm](#scoring-algorithm)).
 4. Each result shows per-issue breakdowns and links every claim to a primary source.
 
-### The five races
+### The seven races
 
 | Slug | Race                                | Type |
 |---|-------------------------------------|---|
@@ -21,7 +21,9 @@ An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Dem
 | `delegate` | Non-Voting Delegate to Congress     | Democratic Primary (5 candidates) |
 | `at_large_mcduffie` | At-Large Council — Special Election | **Non-partisan** general election (3 candidates) |
 | `at_large_bonds` | At-Large Council — Regular          | Democratic Primary (9 candidates) |
-| `ward1` | Ward 1 Councilmember                | Democratic Primary (5 candidates) |
+| `ward1` | Ward 1 Councilmember                | Democratic Primary (7 candidates) |
+| `ward5` | Ward 5 Councilmember                | Democratic Primary (3 candidates) |
+| `ward6` | Ward 6 Councilmember                | Democratic Primary (3 candidates) |
 
 ---
 
@@ -62,7 +64,7 @@ The app will be available at **http://127.0.0.1:5000**.
 python -m pytest
 ```
 
-All 31 tests should pass. The test suite covers:
+All 45 tests should pass. The test suite covers:
 - Scoring algorithm edge cases (null stances, skipped questions, agreement calculation)
 - Coverage tracking and the limited-data ranking tier (thresholds, tiered sort order)
 - Data loader validation (duplicate IDs, missing sources, unknown question references)
@@ -98,7 +100,10 @@ dc_whotovotefor/
 │   │   ├── delegate.yaml         # 5 candidates
 │   │   ├── at_large_mcduffie.yaml  # 3 candidates
 │   │   ├── at_large_bonds.yaml   # 9 candidates
-│   │   └── ward1.yaml            # 5 candidates
+│   │   ├── ward1.yaml            # 7 candidates
+│   │   ├── ward5.yaml            # 3 candidates
+│   │   └── ward6.yaml            # 3 candidates
+│   ├── transcripts/              # Debate transcripts used as sources
 │   └── resources/                # Markdown explainer pages
 ├── scripts/
 │   └── fastdemocracy_scraper.py  # DC Council voting-record scraper (see below)
