@@ -135,6 +135,52 @@
           publisher: dccouncil.gov
           accessed: 2026-06-02
 
+    # Positions below mined from the May 2, 2026 Washington Informer forum.
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Frames DOGE's federal-workforce cuts as a deliberate attack on 'the Black middle class' that the federal government built — 'not about efficiency' — and says 'we have to take that personally' and 'fight for those jobs to come back in a Democratic administration.' Argues lived experience of losing a paycheck, not just national theory, is what the seat demands."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_federal_land_transfer
+      stance: 2
+      explanation: "Would do 'work I did when I used to work for Norton and work to transfer land to DC so we can build affordable housing,' and wants vacant GSA buildings and national park land turned to local use. Notes Anacostia cleanup is slowed because the riverbanks are National Park Service land, and pledges to 'transfer that land back to the district' so DC isn't dependent on slow federal permits."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: statehood_strategy_bipartisan
+      stance: -1
+      explanation: "The most confrontational, partisan-leverage approach in the field: 'We're not going to make DC a state because it's the right thing to do — that would have happened already.' Would 'tap into the anger around the country' and the fight for Democratic control of Congress, mobilizing residents 'by the thousands into swing states or swing districts or the district of any member who votes against DC's interest.' Builds large Democratic coalitions (CBC, Progressive Caucus) rather than pursuing bipartisan deal-making."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_metro_federal_funding
+      stance: 2
+      explanation: "Says Metro 'has to be protected and fought for' with federal funding because 'DC taxpayers are carrying an unfair freight' for a system the federal government helped build and then abandoned; pledges to 'fight for a lot of federal funding to reduce the burden.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_contracting_equity
+      stance: 2
+      explanation: "The strongest voice for contracting preferences: 'If your competitors get a 10-second head start in a 100-yard dash, they win every time.' Argues Black-, brown-, and women-owned firms haven't had equal time to build, so 'we must without question give preference points to CBEs — if we don't, we continue inequity built in deep racism.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
 - id: trent-holbrook
   name: "Trent Holbrook"
   election_slug: delegate
@@ -271,6 +317,25 @@
         - url: https://www.youtube.com/watch?v=5eogeLK6tY8
           title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
           publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    # Positions below mined from the May 2, 2026 Washington Informer forum.
+    - question_id: delegate_metro_federal_funding
+      stance: 2
+      explanation: "'Yes, it should absolutely have permanent funding.' Handled Metro funding (PRIIA) for Norton and calls it 'so outdated and not nearly enough'; would work with the Maryland and Virginia regional members, as he did with Norton, to secure it. Rode Metro daily to work."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_contracting_equity
+      stance: 1
+      explanation: "Calls equity in federal contracting 'critically important.' Worked with Norton on policy requiring agencies to report minority-owned contracting (e.g. advertising dollars) and would expand that reporting to other contracting — favoring transparency and enforcement mechanisms as the route to equity."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
           accessed: 2026-06-04
 
 - id: greg-jaczko
@@ -426,11 +491,34 @@
 
     - question_id: delegate_impeach_trump
       stance: 2
-      explanation: "The clearest pro-impeachment voice in the field: calls Trump's conduct 'tyranny,' argues 'the constitutional remedy for tyranny is impeachment,' and pledges that 'when I get into Congress, I will advocate strongly for impeaching Donald Trump.' Faults Democratic leadership for tamping down impeachment talk before the midterms."
+      explanation: "The clearest pro-impeachment voice in the field: calls Trump's conduct 'tyranny,' argues 'the constitutional remedy for tyranny is impeachment,' and pledges that 'when I get into Congress, I will advocate strongly for impeaching Donald Trump.' Faults Democratic leadership for tamping down impeachment talk before the midterms. Reiterated at the May 2 forum that 'one of the key issues we need to recognize is necessary is to talk about impeachment.'"
       sources:
         - url: https://www.youtube.com/watch?v=5eogeLK6tY8
           title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
           publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    # Positions below mined from the May 2, 2026 Washington Informer forum.
+    - question_id: delegate_metro_federal_funding
+      stance: 1
+      explanation: "Handled Metro funding (PRIIA) for Norton — 'so outdated and not nearly enough' — and notes the federal government 'was a partner in creating it, then abandoned us to fund it.' Supports federal funding but distinctively frames the underlying fix as statehood and 'equal footing with Maryland and Virginia.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_contracting_equity
+      stance: 1
+      explanation: "Supports steering federal dollars to disadvantaged businesses, but frames it as an oversight-and-implementation question — 'it comes down to what's in the law' and making agencies follow existing statutes, with a concrete fix of getting set-asides into prime rather than subcontracts — rather than new preference points."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
           accessed: 2026-06-04
 
 - id: brooke-pinto
@@ -661,6 +749,34 @@
           publisher: "WJLA / Hill Rag"
           accessed: 2026-06-04
 
+    # Positions below mined from the May 2, 2026 Washington Informer forum.
+    - question_id: econ_commuter_tax
+      stance: 2
+      explanation: "Names DC's inability to tax non-resident commuters as a core federal disadvantage and pledges to 'eliminate that restriction and allow us to tax the people in Maryland and Virginia who come into the district, so DC will have more resources' for local priorities — a clear pro-commuter-tax position."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_metro_federal_funding
+      stance: 2
+      explanation: "Says Metro 'has to be protected and fought for' with 'DC funding and federal funding and fair funding from Maryland and Virginia,' noting DC 'has not gotten sufficient funding from our neighboring jurisdictions' — it's 'the first thing I speak to Governor Moore and Governor Spanberger about.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_contracting_equity
+      stance: 2
+      explanation: "'I reject the premise that we can't have preferential treatment of our local minority- and women-owned businesses and a competitive economy.' Points to DC's 'most important preferences' for minority- and women-owned firms and says she's 'taken difficult and controversial votes to support our CBEs,' wanting federal policy to match and bolster them."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
 - id: kinney-zalesne
   name: "Kinney Zalesne"
   election_slug: delegate
@@ -804,4 +920,32 @@
         - url: https://www.youtube.com/watch?v=5eogeLK6tY8
           title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
           publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    # Positions below mined from the May 2, 2026 Washington Informer forum.
+    - question_id: housing_height_act_repeal
+      stance: 2
+      explanation: "'I want to amend the Height Act in Congress so that we have the ability to build taller in this city, and that will enable us to provide more affordable housing.' Pairs it with expanding and adding flexibility to the Section 8 voucher program (usable for first-time mortgages)."
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_metro_federal_funding
+      stance: 2
+      explanation: "'Totally agree' that Metro needs permanent support: 'our regional and national partners need to help us protect it, grow it, and safeguard it because it's a jewel of our capital and the country.' A self-described 'serious public-transit family.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
+          accessed: 2026-06-04
+
+    - question_id: delegate_contracting_equity
+      stance: 1
+      explanation: "Supports addressing contracting inequities now — 'you can't pretend everything's equal' when some firms didn't start 'at the same place' — while framing it aspirationally: 'I long for the day when everyone can compete on equal footing… when we've solved that problem.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+          title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+          publisher: "The Washington Informer"
           accessed: 2026-06-04

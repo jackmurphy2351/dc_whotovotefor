@@ -832,3 +832,41 @@
       title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
       publisher: "WJLA / Hill Rag"
       accessed: 2026-06-04
+
+# ── NEW: mined from the Washington Informer Delegate forum (May 2, 2026) ────────
+
+- id: delegate_metro_federal_funding
+  issue: transit
+  prompt: "The federal government should make a permanent funding commitment to Metro (WMATA), and the Delegate should fight to secure it."
+  applies_to_elections: [delegate]
+  explanation: |
+    Metro was built by and serves the federal government and its workforce, but the
+    current federal contribution (through the PRIIA law) is widely seen as outdated and
+    insufficient, leaving DC, Maryland, and Virginia to negotiate the rest. Candidates
+    broadly agree the Delegate should fight for permanent federal funding, though some
+    tie it to statehood and "equal footing" while others stress that Maryland and
+    Virginia must also pay a fair regional share. This is distinct from whether DC
+    should put in more of its *own* budget for Metro.
+  sources:
+    - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+      title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+      publisher: "The Washington Informer"
+      accessed: 2026-06-04
+
+- id: delegate_contracting_equity
+  issue: economic_development
+  prompt: "Federal contracting should give preferences to local, minority-, and women-owned businesses (such as DC's Certified Business Enterprises), rather than awarding contracts solely on lowest cost and open competition."
+  applies_to_elections: [delegate]
+  explanation: |
+    Federal procurement is a major economic lever for DC. Candidates differ on emphasis:
+    some argue for explicit preference points and set-asides for Certified Business
+    Enterprises (CBEs) and minority- and women-owned firms to remedy a historic head
+    start enjoyed by larger, established companies; others favor enforcing existing
+    disadvantaged-business statutes through oversight (e.g. steering set-asides to prime
+    rather than subcontracts) while looking toward eventual "equal footing." A neutral
+    or opposed answer reflects a preference for colorblind, lowest-cost open competition.
+  sources:
+    - url: https://www.youtube.com/watch?v=Nej74wWaT9I
+      title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
+      publisher: "The Washington Informer"
+      accessed: 2026-06-04
