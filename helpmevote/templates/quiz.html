@@ -10,8 +10,9 @@
 
 <div class="quiz-header">
   <h1>{{ election.title }}</h1>
-  <div class="quiz-progress" role="progressbar"
-       aria-valuenow="{{ step + 1 }}" aria-valuemin="1" aria-valuemax="{{ total }}">
+  <div class="quiz-progress" role="progressbar" aria-label="Quiz progress"
+       aria-valuenow="{{ step + 1 }}" aria-valuemin="1" aria-valuemax="{{ total }}"
+       aria-valuetext="Question {{ step + 1 }} of {{ total }}">
     <div class="quiz-progress-bar" style="width: {{ ((step + 1) / total * 100) | int }}%"></div>
   </div>
   <p class="quiz-progress-label">Question {{ step + 1 }} of {{ total }}</p>
@@ -53,8 +54,8 @@
           (2,  "Strongly agree",    "stance-strong-agree"),
         ] %}
         {% for val, label, cls in stance_options %}
-        <label class="stance-option {{ cls }}{% if val == 'skip' %}{% if saved_stance is none %} selected{% endif %}{% else %}{% if saved_stance == val %} selected{% endif %}{% endif %}">
-          <input type="radio" name="stance" value="{{ val }}"
+        <label for="stance-{{ val }}" class="stance-option {{ cls }}{% if val == 'skip' %}{% if saved_stance is none %} selected{% endif %}{% else %}{% if saved_stance == val %} selected{% endif %}{% endif %}">
+          <input type="radio" id="stance-{{ val }}" name="stance" value="{{ val }}"
                  {% if val == 'skip' %}{% if saved_stance is none %}checked{% endif %}{% else %}{% if saved_stance == val %}checked{% endif %} required{% endif %}>
           {{ label }}
         </label>

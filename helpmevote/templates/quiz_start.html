@@ -41,8 +41,8 @@
   {% for issue, questions in groups %}
   <fieldset class="select-category" data-category>
     <legend class="select-category-legend">
-      <label class="select-category-label">
-        <input type="checkbox" data-category-toggle
+      <label for="category-toggle-{{ loop.index }}" class="select-category-label">
+        <input type="checkbox" id="category-toggle-{{ loop.index }}" data-category-toggle
                {% if questions | rejectattr('id', 'in', selected) | list | length == 0 %}checked{% endif %}>
         <span>{{ issue.label if issue else "Other" }}</span>
       </label>
@@ -50,8 +50,8 @@
 
     <div class="select-questions">
       {% for q in questions %}
-      <label class="select-question">
-        <input type="checkbox" name="selected" value="{{ q.id }}" data-question
+      <label for="q-{{ q.id }}" class="select-question">
+        <input type="checkbox" id="q-{{ q.id }}" name="selected" value="{{ q.id }}" data-question
                {% if q.id in selected %}checked{% endif %}>
         <span>{{ q.prompt }}</span>
       </label>
