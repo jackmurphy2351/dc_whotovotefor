@@ -131,6 +131,26 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "Protect workers by enforcing wage, safety, and labor standards and holding bad actors accountable."
+      explanation: "Chavous's workforce platform pledges to protect workers by enforcing wage, safety, and labor standards and to strengthen First Source and local hiring requirements. Supports worker protections, with an emphasis on enforcement of existing standards."
+      sources:
+        - url: https://www.chavousfordc.com/
+          title: "Workforce & Economic Opportunity — Kevin Chavous for DC Council"
+          publisher: "Kevin Chavous Campaign"
+          accessed: 2026-06-04
+
+    - question_id: homelessness_housing_first
+      stance: 2
+      quote: "Expand permanent supportive housing and targeted rental assistance for vulnerable residents."
+      explanation: "Chavous's housing platform explicitly calls to expand permanent supportive housing and targeted rental assistance for vulnerable residents. Strongly supports a supportive-housing approach."
+      sources:
+        - url: https://www.chavousfordc.com/
+          title: "Affordable Housing — Kevin Chavous for DC Council"
+          publisher: "Kevin Chavous Campaign"
+          accessed: 2026-06-04
+
 - id: dwight-davis
   name: "Dwight Davis"
   election_slug: at_large_bonds
@@ -393,6 +413,16 @@
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+
+    - question_id: labor_worker_protections
+      stance: 2
+      quote: "[Dyana] played key roles in major citywide initiatives, including DC's Minimum Wage Increase and Paid Family and Medical Leave."
+      explanation: "As president of the Metro Washington Labor Council, Forester helped lead DC's minimum-wage increase and Paid Family and Medical Leave campaigns and has built her career raising wages and protecting workers. A signature priority — strongly supports."
+      sources:
+        - url: https://www.dyanafordc.com/
+          title: "About / Proven Results — Dyana Forester for DC Council"
+          publisher: "Dyana Forester Campaign"
+          accessed: 2026-06-04
 
 - id: fred-hill
   name: "Fred Hill"
@@ -751,6 +781,26 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: econ_business_activity_tax
+      stance: -1
+      quote: "Instead of relying on constant tax increases, we'll grow D.C.'s economy by supporting small businesses…"
+      explanation: "Jackson favors growing the economy and providing tax relief to attract and retain businesses 'instead of relying on constant tax increases.' That revenue philosophy runs against creating a new business-activity tax. Leans opposed."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Affordability and Jobs — Greg Jackson for DC Council"
+          publisher: "Greg Jackson Campaign"
+          accessed: 2026-06-04
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "I will focus on protecting Paid Family Leave, the Early Childhood Educator Pay Equity Fund, Universal Pre-K…"
+      explanation: "Jackson pledges to protect Paid Family Leave and the Early Childhood Educator Pay Equity Fund and to strengthen workforce pipelines. Supports maintaining and protecting worker protections, with less emphasis on expanding mandates."
+      sources:
+        - url: https://www.jacksonfordc.com/
+          title: "Affordability and Jobs — Greg Jackson for DC Council"
+          publisher: "Greg Jackson Campaign"
+          accessed: 2026-06-04
+
 - id: leniquadominique-jenkins
   name: "Leniqua'dominique Jenkins"
   election_slug: at_large_bonds
@@ -913,6 +963,26 @@
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "I will work with D.C. employers to adopt caregiver-friendly policies such as flexible scheduling, telework options, and paid family leave…"
+      explanation: "Jenkins champions paid family leave, fair pay for home health and care workers, and investment in the care economy, framing strong worker protections as central to supporting caregivers and families. Supportive."
+      sources:
+        - url: https://www.votejenkinsfordc.com/
+          title: "Supporting Caregivers, Strengthening D.C. Families — Leniqua'dominique Jenkins for DC Council"
+          publisher: "Leniqua'dominique Jenkins Campaign"
+          accessed: 2026-06-04
+
+    - question_id: homelessness_housing_first
+      stance: 1
+      quote: "I will also invest in affordable housing development, protect tenants from unfair practices, and strengthen homelessness-prevention efforts."
+      explanation: "Jenkins's housing platform commits to strengthening homelessness-prevention efforts alongside tenant protections and affordable-housing development. Supportive of a prevention- and services-oriented approach, though stated briefly."
+      sources:
+        - url: https://www.votejenkinsfordc.com/
+          title: "Housing with Dignity — Leniqua'dominique Jenkins for DC Council"
+          publisher: "Leniqua'dominique Jenkins Campaign"
+          accessed: 2026-06-04
 
 - id: candace-nelson
   name: "Candace Tiana Nelson"
@@ -1087,6 +1157,26 @@
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+
+    - question_id: labor_worker_protections
+      stance: 2
+      quote: "Fight for a living wage for all. … I will work to establish the DC Department of Labor & Workers Rights to enforce labor standards, prevent retaliation… I will champion a Workers' Bill of Rights."
+      explanation: "Nelson, who calls herself 'a legacy of labor' and a former union member, makes worker power a centerpiece — fighting for a living wage for all, a Workers' Bill of Rights, a DC Department of Labor & Workers Rights, and expanded union jobs and protections. Strongly supports."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Fair Wages and Stable Jobs — Candace Tiana Nelson for DC Council"
+          publisher: "Candace Tiana Nelson Campaign"
+          accessed: 2026-06-04
+
+    - question_id: homelessness_housing_first
+      stance: 2
+      quote: "Protect unhoused neighbors from inhumane encampment evictions and expand wraparound services… Support best-practice solutions with proven success in DC, such as permanent supportive housing."
+      explanation: "Nelson would protect unhoused neighbors from 'inhumane encampment evictions,' expand wraparound services, and back permanent supportive housing and Housing First models. Strongly supports a Housing First approach over encampment clearing."
+      sources:
+        - url: https://www.candacefordc.com/
+          title: "Housing — Candace Tiana Nelson for DC Council"
+          publisher: "Candace Tiana Nelson Campaign"
+          accessed: 2026-06-04
 
 - id: oye-owolewa
   name: "Oye Owolewa"
@@ -1424,6 +1514,66 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: food_access_public_grocery
+      stance: 2
+      quote: "He will support small footprint grocery stores, food cooperatives, corner store conversions, and community gardens through targeted funding and technical assistance."
+      explanation: "Owolewa argues DC food policy has focused 'too narrowly on attracting grocery stores' and would invest directly — through the DMV Good Food Fund, food cooperatives, corner-store conversions, community gardens, and a Wards 7 and 8 food-access task force. Strongly supports city intervention against food deserts, emphasizing public and cooperative food systems over reliance on private grocers."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Food — Oye Owolewa for DC Council"
+          publisher: "Oye Owolewa Campaign"
+          accessed: 2026-06-04
+
+    - question_id: environment_electricity_affordability
+      stance: 2
+      quote: "Oye will require affordability and public health impact reviews before any rate increase is approved by the Public Service Commission and push for real enforcement when utilities violate District law…"
+      explanation: "Owolewa would require affordability and public-health reviews before the Public Service Commission approves any Pepco or Washington Gas rate increase, ban shutoffs for inability to pay, expand utility-debt relief, and seriously evaluate public power. Strongly supports aggressive action to lower electricity bills."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Utilities — Oye Owolewa for DC Council"
+          publisher: "Oye Owolewa Campaign"
+          accessed: 2026-06-04
+
+    - question_id: econ_business_activity_tax
+      stance: 2
+      quote: "He supports restructuring business taxes through a Business Activity Tax so large corporations operating in DC contribute fairly…"
+      explanation: "Owolewa explicitly supports restructuring business taxes through a Business Activity Tax so large corporations operating in DC contribute fairly, alongside a millionaires tax and higher capital-gains and mansion taxes. Strongly supports."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Revenue — Oye Owolewa for DC Council"
+          publisher: "Oye Owolewa Campaign"
+          accessed: 2026-06-04
+
+    - question_id: labor_worker_protections
+      stance: 2
+      quote: "Oye will fight to raise the minimum wage to at least twenty dollars an hour on the way to twenty five dollars… He will defend and fully restore One Fair Wage by completing Initiative 82…"
+      explanation: "Owolewa would raise the minimum wage to $20 and then $25/hour, fully implement Initiative 82, pass a Workers' Bill of Rights, strengthen paid leave and anti-wage-theft enforcement, and create a District Department of Labor. Strongly supports expanding worker protections."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Jobs / Labor — Oye Owolewa for DC Council"
+          publisher: "Oye Owolewa Campaign"
+          accessed: 2026-06-04
+
+    - question_id: homelessness_housing_first
+      stance: 2
+      quote: "He will partner closely with The Way Home Campaign… to advance a true Housing First approach. … Oye will oppose encampment sweeps and criminalization that destabilize people and undermine housing efforts."
+      explanation: "Owolewa explicitly champions a 'true Housing First approach' — fully funding permanent supportive housing, LRSP vouchers, and bridge housing — and opposes encampment sweeps and criminalization. Strongly supports."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Homelessness — Oye Owolewa for DC Council"
+          publisher: "Oye Owolewa Campaign"
+          accessed: 2026-06-04
+
+    - question_id: education_impact_osse
+      stance: 1
+      quote: "The Mayor appoints leadership across key education agencies, including DCPS… and OSSE, limiting independent oversight. At the same time, the elected State Board of Education lacks meaningful authority…"
+      explanation: "Owolewa criticizes mayoral appointment of OSSE and other education leadership for limiting independent oversight and would push governance reforms to restore democratic voice and strengthen the elected State Board of Education — aligning with OSSE independence. He backs the governance half of this question; he does not specifically address the IMPACT teacher-evaluation system."
+      sources:
+        - url: https://www.vote4oye.com/
+          title: "Education — Oye Owolewa for DC Council"
+          publisher: "Oye Owolewa Campaign"
+          accessed: 2026-06-04
+
 - id: lisa-raymond
   name: "Lisa Raymond"
   election_slug: at_large_bonds
@@ -1652,3 +1802,13 @@
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+
+    - question_id: environment_electricity_affordability
+      stance: 2
+      quote: "Support tough oversight of the Public Service Commission to ensure that the District's monopoly utilities are not leaving residents and businesses with crushing costs of power and heat."
+      explanation: "Raymond's Energy Affordability platform calls for tough oversight of the Public Service Commission so monopoly utilities don't leave residents with 'crushing costs,' plus the Healthy Homes Act and efficiency programs to cut low-income energy bills. Strongly supports action to lower electricity costs."
+      sources:
+        - url: https://lisaraymondfordc.com/
+          title: "Energy Affordability — Lisa Raymond for DC Council"
+          publisher: "Lisa Raymond Campaign"
+          accessed: 2026-06-04

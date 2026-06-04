@@ -416,6 +416,73 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: food_access_public_grocery
+      stance: 2
+      quote: "Prioritizing development that puts DC residents first, including grocery stores and retail amenities in Wards 5, 7 and 8."
+      explanation: "George has made food access a centerpiece, proposing a publicly owned grocery store east of the Anacostia and prioritizing District development that brings grocery stores and retail amenities to underserved Wards 5, 7, and 8. Strongly supports direct city intervention to eliminate food deserts."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Economic Development — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-06-04
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-04
+
+    - question_id: environment_electricity_affordability
+      stance: 2
+      quote: "Janeese will appoint Public Service Commissioners who will always center community impact in approving or disapproving rates. This will put money back in our pockets…"
+      explanation: "George's 'Affordable Utilities For All' platform is a 10-point plan to lower bills, opening by noting Pepco has 'increased rates each of the last three years' and that the Public Service Commission failed residents. She would appoint PSC commissioners who center community impact on rate approvals, protect residents from Pepco and Washington Gas rate hikes, and reduce bills for low-income households. Strongly supports aggressive intervention."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Affordable Utilities For All — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-06-04
+
+    - question_id: econ_business_activity_tax
+      stance: 2
+      explanation: "George has proposed a new business-activity tax on high-revenue professional-services firms — such as law firms, lobbyists, and consultants — as a progressive way to fund services like universal affordable childcare, a signature contrast with McDuffie, who opposes it. Strongly supportive."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-attacks-fact-check-2/
+          title: "Fact-checking the DC mayoral race (Business Activity Tax)"
+          publisher: "The 51st"
+          accessed: 2026-06-04
+
+    - question_id: labor_worker_protections
+      stance: 2
+      quote: "I expanded Paid Family Leave because when my dad got sick, I took time off to care for him and everyone should be able to do that for the people we love."
+      explanation: "As Councilmember, George expanded Paid Family Leave, raised wages for early childhood educators, ended the subminimum wage for restaurant workers, and strengthened worker protections, and she pledges to require strong labor standards on DC contracts and expand protections for gig workers. Strongly supports expanding worker protections."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Good Jobs for All — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-06-04
+
+    - question_id: homelessness_housing_first
+      stance: 1
+      quote: "Ensuring DC residents have access to safe housing as a source of stability in their lives, including by funding transitional housing programs for emerging adults and returning citizens and housing relocation assistance for victim families."
+      explanation: "George frames stable housing as a foundation of safety and would fund transitional housing programs and a publicly owned mixed-income 'Dignified Homes DC' model, emphasizing supportive housing over enforcement. Supportive of a Housing First-oriented approach."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Safe Communities / Making it Easier to Live, Own, and Build — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-06-04
+
+    - question_id: education_impact_osse
+      stance: 2
+      quote: "Work with the Washington Teachers' Union to reform DC Public Schools teacher evaluation to focus on growth."
+      explanation: "George would work with the Washington Teachers' Union to overhaul the IMPACT teacher-evaluation system to focus on growth, and has called for an independent Office of the State Superintendent (OSSE). Strongly supports both halves of this question."
+      sources:
+        - url: https://www.janeese4dc.com/
+          title: "Excellent Schools for All — Janeese Lewis George for Mayor"
+          publisher: "Janeese Lewis George Campaign"
+          accessed: 2026-06-04
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-04
+
 - id: kenyan-mcduffie
   name: "Kenyan McDuffie"
   election_slug: mayor
@@ -701,6 +768,43 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: food_access_public_grocery
+      stance: -1
+      explanation: "McDuffie addresses food deserts but favors incentivizing private grocers to open in underserved areas — citing the Lidl that opened at Skyland in Ward 8 — rather than a publicly owned, city-run grocery store. Opposes the public-grocery mechanism in this question."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-04
+
+    - question_id: econ_business_activity_tax
+      stance: -1
+      explanation: "McDuffie opposes Lewis George's proposed business-activity tax on professional-services firms, warning that a new tax on employers would drive jobs and investment out of the District amid federal workforce losses. Opposes."
+      sources:
+        - url: https://51st.news/dc-mayoral-race-attacks-fact-check-2/
+          title: "Fact-checking the DC mayoral race (Business Activity Tax)"
+          publisher: "The 51st"
+          accessed: 2026-06-04
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "Kenyan has spearheaded some of our city's most pressing labor issues, including strengthening enforcement against wage theft, increasing the minimum wage…"
+      explanation: "McDuffie's record includes increasing the minimum wage, pay transparency, and wage-theft and misclassification enforcement. He supports strong worker protections, though he pairs them with a more business-friendly, growth-oriented posture than the most expansionist candidates. Supportive."
+      sources:
+        - url: https://kenyanmcduffie.com/
+          title: "Record: Defending Workers' Rights — Kenyan McDuffie for Mayor"
+          publisher: "Kenyan McDuffie Campaign"
+          accessed: 2026-06-04
+
+    - question_id: education_impact_osse
+      stance: -1
+      explanation: "McDuffie defends the District's teacher-support and accountability framework and has opposed prior efforts to make OSSE independent of the mayor, favoring keeping education accountability with the executive. Opposes overhauling IMPACT and OSSE independence."
+      sources:
+        - url: https://51st.news/washington-dc-2026-primary-election-june-16-mayor-council/
+          title: "Your guide to the June 16 DC primary — The 51st"
+          publisher: "The 51st"
+          accessed: 2026-06-04
+
 - id: gary-goodweather
   name: "Gary Goodweather"
   election_slug: mayor
@@ -973,6 +1077,36 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+
+    - question_id: environment_electricity_affordability
+      stance: 2
+      quote: "Power DC attacks both problems: We generate more power locally so DC buys less from PJM's volatile wholesale market, and we hold Pepco accountable for every dollar they charge."
+      explanation: "Goodweather's 'Power DC' plan opens by noting the average DC household's Pepco bill rose $31/month since 2023 and that the Public Service Commission approved $123 million in rate increases for 2025-2026. He would hold Pepco accountable for distribution charges and generate more local power to cut bills. Strongly supports aggressive action to lower electricity costs."
+      sources:
+        - url: https://www.goodweatherfordc.com/
+          title: "Power DC — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-06-04
+
+    - question_id: food_access_public_grocery
+      stance: 1
+      quote: "By combining innovation with community involvement, we can strengthen local food systems, reduce food deserts, and provide healthier options for families across the city."
+      explanation: "Goodweather's platform makes reducing food deserts an explicit goal, emphasizing local food systems, fresh and affordable groceries, and locally grown produce in every neighborhood. Supports city intervention on food access, though framed around local food systems rather than a publicly owned grocery store specifically."
+      sources:
+        - url: https://www.goodweatherfordc.com/
+          title: "Food Access — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-06-04
+
+    - question_id: education_impact_osse
+      stance: 1
+      quote: "Reform DC's teacher evaluation system with real teacher input — and restore the right to bargain over how teachers are evaluated. IMPACT was designed without meaningful teacher involvement."
+      explanation: "Goodweather would overhaul the IMPACT teacher-evaluation system with real teacher input and restore collective bargaining over evaluation criteria. He strongly backs the IMPACT-reform half of this question; he does not specifically address making OSSE independent of the mayor."
+      sources:
+        - url: https://www.goodweatherfordc.com/
+          title: "Educate DC — Gary Goodweather for Mayor"
+          publisher: "Gary Goodweather Campaign"
+          accessed: 2026-06-04
 
 - id: ernest-johnson
   name: "Ernest E. Johnson"
@@ -1316,6 +1450,25 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: environment_electricity_affordability
+      stance: 1
+      explanation: "A former PEPCO government-affairs executive, Orange has said DC should leverage the utility's pending rate requests before regulators to drive down rates for residents — engaging the regulated-monopoly rate process rather than treating bills as fixed. Supportive of acting to lower electricity costs."
+      sources:
+        - url: https://eastoftheriverdcnews.com/2026/05/11/mayoral-candidates-clash-over-affordability/
+          title: "Mayoral candidates clash over affordability"
+          publisher: "East of the River"
+          accessed: 2026-06-04
+
+    - question_id: econ_business_activity_tax
+      stance: -2
+      quote: "Stimulate economic activity to grow revenue rather than raising taxes."
+      explanation: "A central pillar of the Orange Plan is 'Economic Growth Without Raising Taxes' — growing revenue by stimulating economic activity rather than imposing new taxes. A new business-activity tax on professional-services firms runs directly counter to that approach. Strongly opposes."
+      sources:
+        - url: https://orangeformayor.com/
+          title: "The Orange Plan — Vincent Orange for Mayor"
+          publisher: "Vincent Orange Campaign"
+          accessed: 2026-06-04
+
 - id: rini-sampath
   name: "Rini Sampath"
   election_slug: mayor
@@ -1542,6 +1695,16 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: homelessness_housing_first
+      stance: 1
+      quote: "I will preserve and strengthen the Emergency Rental Assistance Program, the Homelessness Prevention Program, and Project Reconnect so that temporary financial hardship does not become permanent displacement."
+      explanation: "Sampath would preserve and strengthen the Emergency Rental Assistance Program, Homelessness Prevention Program, and Project Reconnect to keep people housed, framing homelessness around prevention and supportive services rather than enforcement. Supportive of a services-first approach."
+      sources:
+        - url: https://riniformayor.com/
+          title: "Housing — Rini Sampath for Mayor"
+          publisher: "Rini Sampath Campaign"
+          accessed: 2026-06-04
+
 - id: hope-solomon
   name: "Hope Solomon"
   election_slug: mayor
@@ -1674,6 +1837,16 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: labor_worker_protections
+      stance: -1
+      quote: "…watching neighborhood restaurants and bars close — squeezed by crime, high rents, Initiative 82, and a bureaucracy that never seems to say yes."
+      explanation: "Solomon, a small-business owner, lists Initiative 82 (which phases out the tipped subminimum wage) among the cost pressures closing neighborhood restaurants and bars, signaling skepticism of wage and labor mandates that raise employer costs. Leans against further expanding such requirements."
+      sources:
+        - url: https://hopefordc.com/
+          title: "Why I'm Running — Hope Solomon for Mayor"
+          publisher: "Hope Solomon Campaign"
+          accessed: 2026-06-04
+
 # ── WRITE-IN CANDIDATE ────────────────────────────────────────────────────────
 # Yaida Ford did not qualify for the primary ballot and is running as a write-in.
 - id: yaida-ford
@@ -1755,3 +1928,32 @@
           title: "Values — Yaida Ford for Mayor"
           publisher: "Yaida Ford Campaign"
           accessed: 2026-05-30
+
+    - question_id: food_access_public_grocery
+      stance: 1
+      quote: "Today, Yaida lives in a designated food desert in Washington, D.C. … She … advocates for access to fresh, healthy food, and has even sued the District to challenge unnecessary permitting barriers that prevent residents from growing their own food."
+      explanation: "Ford lives in a designated food desert and has made food access a personal cause — teaching urban families to raise backyard hens, advocating for fresh-food access, and suing the District over permitting barriers to home food production. Supports city action on food deserts, though her emphasis is on resident self-sufficiency and removing barriers rather than a publicly owned grocery store."
+      sources:
+        - url: https://www.yaida4dc.com/
+          title: "Meet Yaida — Yaida Ford for Mayor"
+          publisher: "Yaida Ford Campaign"
+          accessed: 2026-06-04
+
+    - question_id: education_impact_osse
+      stance: 1
+      explanation: "Ford wants to move authority away from mayoral control of the schools and back to the elected State Board of Education, which aligns with making the state education apparatus independent of the mayor. She supports the governance-independence thrust of this question, though she does not specifically address the IMPACT teacher-evaluation system."
+      sources:
+        - url: https://www.yaida4dc.com/
+          title: "Values — Yaida Ford for Mayor"
+          publisher: "Yaida Ford Campaign"
+          accessed: 2026-06-04
+
+    - question_id: homelessness_housing_first
+      stance: 0
+      quote: "DC needs trained resource officers who will play a key role in providing outreach, building strong relationships, and problem-solving with individuals facing homelessness…"
+      explanation: "Ford proposes a new department of trained resource officers focused on outreach, relationship-building, and problem-solving with people facing homelessness, in partnership with community organizations — to 'keep homelessness from overrunning the streets.' This is a middle, engagement-based approach that neither commits to Housing First expansion nor to encampment clearing."
+      sources:
+        - url: https://www.yaida4dc.com/
+          title: "Values — Yaida Ford for Mayor"
+          publisher: "Yaida Ford Campaign"
+          accessed: 2026-06-04

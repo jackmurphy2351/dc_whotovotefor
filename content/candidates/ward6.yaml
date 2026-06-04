@@ -382,6 +382,16 @@
           publisher: "Gloria Nauden Campaign"
           accessed: 2026-06-01
 
+    - question_id: environment_electricity_affordability
+      stance: 1
+      quote: "Gloria will push for greater transparency and stronger oversight, including a closer look at rising utility costs."
+      explanation: "Nauden names rising utility bills as a growing strain on Ward 6 residents and would push for greater transparency and stronger oversight of rising utility costs — engaging the oversight and regulation angle rather than efficiency programs. Supportive of acting on utility affordability, with an emphasis on oversight and transparency rather than a specific rate-rollback mechanism."
+      sources:
+        - url: https://gloriaforward6.com/
+          title: "Gloria Nauden for Ward 6 — Campaign Website"
+          publisher: "Gloria Nauden Campaign"
+          accessed: 2026-06-04
+
 - id: michael-murphy
   name: "Michael Murphy"
   election_slug: ward6
@@ -529,3 +539,13 @@
           title: "Michael Murphy for Ward 6 — Campaign Website"
           publisher: "Michael Murphy Campaign"
           accessed: 2026-06-01
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "For quick-service and high-volume restaurants, a single, universal minimum wage can provide stability and predictability. Under this model, workers receive a guaranteed wage floor and tips return to their original purpose."
+      explanation: "Murphy backs a single, universal minimum wage for restaurant workers — a guaranteed wage floor with tips on top — aligning with the One Fair Wage / Initiative 82 direction of eliminating the tipped subminimum wage. Supportive of stronger wage protections, framed around stability for workers and businesses."
+      sources:
+        - url: https://www.murphyforward6.com/
+          title: "Michael Murphy for Ward 6 — Campaign Website"
+          publisher: "Michael Murphy Campaign"
+          accessed: 2026-06-04

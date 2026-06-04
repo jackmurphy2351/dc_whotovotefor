@@ -168,6 +168,26 @@
           publisher: "The 51st"
           accessed: 2026-05-31
 
+    - question_id: food_access_public_grocery
+      stance: 1
+      quote: "Championed grocery store investments in Lamond Riggs, Brookland, and the Reservoir District."
+      explanation: "Parker has championed bringing grocery stores to underserved Ward 5 neighborhoods including Lamond-Riggs, Brookland, and the Reservoir District. Supports active city intervention to expand food access, working primarily to attract and invest in grocery options rather than proposing a publicly owned store."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-06-04
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "He secured additional labor protections and benefits in the Commanders stadium deal at RFK."
+      explanation: "Parker secured additional labor protections and union-job guarantees in the Commanders stadium deal and raised pay for participants in the District's youth employment program. Supportive of strengthening worker protections, demonstrated through his Council record."
+      sources:
+        - url: https://www.zacharyparker2026.com/
+          title: "Zachary Parker for Ward 5 — Campaign Website"
+          publisher: "Zachary Parker Campaign"
+          accessed: 2026-06-04
+
 - id: bernita-carmichael
   name: "Bernita Carmichael"
   election_slug: ward5
@@ -318,6 +338,16 @@
           title: "Your guide to the June 16 DC primary — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-31
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "Support enforcement of DC's Living Wage Act to ensure all government contractors pay their employees a living wage."
+      explanation: "Carmichael would enforce the DC Living Wage Act so government contractors pay a living wage and would build workforce-development and local-hiring pathways for Ward 5 residents. Supportive of stronger worker protections, with an emphasis on living-wage enforcement and job access."
+      sources:
+        - url: https://carmichael2026.com/
+          title: "Bernita Carmichael for Ward 5 — Campaign Website"
+          publisher: "Carmichael 2026 Campaign"
+          accessed: 2026-06-04
 
 - id: bridget-french
   name: "Bridget French"

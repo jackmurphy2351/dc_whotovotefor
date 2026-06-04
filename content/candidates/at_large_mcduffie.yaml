@@ -261,6 +261,16 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "I led a coalition that secured $41 million for workers who had been excluded from federal pandemic relief entirely — people working in the informal economy, returning citizens, and undocumented workers…"
+      explanation: "A former DC Fiscal Policy Institute researcher, Crawford led the coalition that won $41 million for excluded workers and centers her economic agenda on workers and local hiring, insisting development deals carry real commitments to hire DC residents. Supportive of strong worker protections."
+      sources:
+        - url: https://www.donicrawford.com/
+          title: "Economic Growth That Reaches Everyone — Doni Crawford for DC Council"
+          publisher: "Doni Crawford Campaign"
+          accessed: 2026-06-04
+
 - id: jacque-patterson
   name: "Jacque Patterson"
   election_slug: at_large_mcduffie
@@ -453,6 +463,16 @@
           title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "I will also support policies that protect workers while ensuring our small business community can thrive."
+      explanation: "Patterson pledges to support policies that protect workers while keeping small businesses able to thrive, framing worker protections and business health as compatible. Supportive, with a balanced, business-conscious approach."
+      sources:
+        - url: https://www.jacque4dc.com/
+          title: "Supporting Small Businesses — Jacque Patterson for DC Council"
+          publisher: "Jacque Patterson Campaign"
+          accessed: 2026-06-04
 
 - id: elissa-silverman
   name: "Elissa Silverman"
@@ -698,6 +718,16 @@
           title: "DC Fair Elections Program At-Large special-election debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+
+    - question_id: labor_worker_protections
+      stance: 2
+      quote: "She was the lead champion for D.C.'s paid family leave program, which has benefitted tens of thousands of workers… led advocacy campaigns to raise the minimum wage."
+      explanation: "Silverman co-authored and was the lead champion of DC's paid family and medical leave law (up to 12 weeks) and previously led campaigns to raise the minimum wage. Expanding worker protections is her signature issue — strongly supports."
+      sources:
+        - url: https://www.elissafordc.com/
+          title: "Supporting D.C.'s Workers and Businesses — Elissa Silverman for DC Council"
+          publisher: "Elissa Silverman Campaign"
+          accessed: 2026-06-04
 
 - id: khalil-lee
   name: "Khalil Lee"

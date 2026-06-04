@@ -110,3 +110,25 @@
     interference, and resist federal attempts to take over local institutions such
     as the Metropolitan Police Department or to deploy the National Guard and
     federal agents in the city.
+
+- id: food_access
+  label: "Food Access & Food Security"
+  description: >
+    How DC should address food deserts and food insecurity — including grocery
+    access in underserved wards east of the Anacostia, publicly owned or
+    incentivized grocery options, and nutrition programs such as school and
+    summer meals.
+
+- id: labor
+  label: "Jobs, Wages & Workers' Rights"
+  description: >
+    Protections and opportunities for DC workers — including the minimum wage,
+    paid family and medical leave, labor standards, and workforce development and
+    local-hiring programs.
+
+- id: homelessness
+  label: "Homelessness & Housing Insecurity"
+  description: >
+    How DC should respond to homelessness — including permanent supportive housing
+    and "Housing First" services, emergency shelter, and the role of encampment
+    closures.

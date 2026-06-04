@@ -576,6 +576,16 @@
           publisher: dccouncil.gov
           accessed: 2026-06-02
 
+    - question_id: housing_height_act_repeal
+      stance: 2
+      quote: "[That] includes repealing the federal Height Act and replacing it with a local Height Act allowing DC to make its own decisions and regulations on what our city looks like."
+      explanation: "Pinto's housing platform explicitly calls for repealing the federal Height Act and replacing it with a locally controlled one, framing it as both a home-rule and a housing-supply issue: 'We are the only jurisdiction in the country where the federal government tells us how and where we can build.' Strongly supports."
+      sources:
+        - url: https://brookepintoforcongress.com
+          title: "Housing — Brooke Pinto for Congress"
+          publisher: "Brooke Pinto for Congress"
+          accessed: 2026-06-04
+
 - id: kinney-zalesne
   name: "Kinney Zalesne"
   election_slug: delegate

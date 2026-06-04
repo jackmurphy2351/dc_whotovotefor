@@ -681,3 +681,116 @@
       title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
       publisher: "DC Office of Campaign Finance"
       accessed: 2026-06-03
+
+# ── NEW: mined from the East of the River & The 51st voter guides (May 2026) ────
+
+- id: food_access_public_grocery
+  issue: food_access
+  prompt: "DC should directly intervene to eliminate food deserts — including by opening a publicly owned grocery store in underserved areas like east of the Anacostia."
+  applies_to_elections: [mayor, ward5, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Many neighborhoods, especially east of the Anacostia River, have few full-service
+    grocers. Candidates differ on the fix: some (e.g. Janeese Lewis George) propose a
+    publicly owned municipal grocery store, while others favor incentives to attract
+    private grocers (as DC did with Lidl at Skyland in Ward 8). Mayor Bowser's budget also
+    proposed cutting an office that helps students access summer meals.
+  sources:
+    - url: https://51st.news/dc-food-access-bowser-budget-cuts/
+      title: "DC has a food access problem. Advocates say Bowser's budget would make it worse."
+      publisher: "The 51st"
+      accessed: 2026-06-04
+
+- id: environment_electricity_affordability
+  issue: environment
+  prompt: "DC should act aggressively to lower residents' electricity bills — for example by contesting or rolling back Pepco rate increases through the Public Service Commission."
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Pepco, an investor-owned monopoly, repeatedly seeks rate increases approved by the DC
+    Public Service Commission, and rising electricity bills emerged as a top affordability
+    concern in the 2026 race. Candidates differ on how aggressively the District should
+    intervene — from contesting rate hikes and strengthening regulation to pursuing public
+    power — versus treating utility bills as a market matter. This is distinct from whether
+    DC should municipalize the utility outright.
+  sources:
+    - url: https://opc-dc.gov/
+      title: "DC Office of the People's Counsel"
+      publisher: dc.gov
+      accessed: 2026-06-04
+
+- id: econ_business_activity_tax
+  issue: economic_development
+  prompt: "DC should create a new tax on high-revenue professional-services firms — such as law firms, lobbyists, and consultants — to raise revenue for city programs."
+  applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    Facing a budget shortfall, some candidates (notably Janeese Lewis George) have proposed
+    a new business-activity tax targeting high-revenue professional-services firms like law
+    firms, lobbyists, and consultants. Supporters see it as a progressive way to fund
+    services; opponents (such as Kenyan McDuffie) warn it would drive employers out amid
+    federal job losses.
+  sources:
+    - url: https://51st.news/dc-mayoral-race-attacks-fact-check-2/
+      title: "Fact-checking the DC mayoral race (Business Activity Tax)"
+      publisher: "The 51st"
+      accessed: 2026-06-04
+
+- id: labor_worker_protections
+  issue: labor
+  prompt: "DC should strengthen worker protections — expanding paid family and medical leave and raising the minimum wage — even if it raises costs for employers."
+  applies_to_elections: [mayor, ward1, ward5, ward6, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's Universal Paid Leave program currently provides up to 12 weeks of paid family and
+    medical leave, and the District has one of the nation's higher minimum wages. Some
+    candidates (such as Elissa Silverman, who authored the paid-leave law) would expand
+    these worker protections further, arguing wages drive affordability; others worry about
+    added costs for small employers amid a tight budget and federal job losses.
+  sources:
+    - url: https://does.dc.gov/
+      title: "DC Department of Employment Services"
+      publisher: dc.gov
+      accessed: 2026-06-04
+
+- id: homelessness_housing_first
+  issue: homelessness
+  prompt: "DC should expand permanent supportive housing and 'Housing First' services to address homelessness, rather than relying on clearing encampments."
+  applies_to_elections: [mayor, ward1, ward6, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    DC's homeless-services strategy has emphasized "Housing First" — moving people into
+    permanent supportive housing with wraparound services — even as the city and federal
+    government have stepped up encampment closures. Candidates differ on whether to expand
+    supportive-housing investment or to prioritize clearing encampments and shelter.
+  sources:
+    - url: https://dhs.dc.gov/
+      title: "DC Department of Human Services"
+      publisher: dc.gov
+      accessed: 2026-06-04
+
+- id: education_impact_osse
+  issue: education
+  prompt: "DC should overhaul the IMPACT teacher-evaluation system and make the Office of the State Superintendent of Education (OSSE) independent of the mayor."
+  applies_to_elections: [mayor, at_large_mcduffie, at_large_bonds]
+  explanation: |
+    IMPACT is DCPS's test- and observation-based teacher-evaluation system, long criticized
+    by the Washington Teachers' Union; OSSE, the state education agency, currently answers to
+    the mayor. Some candidates (such as Janeese Lewis George) would overhaul IMPACT and make
+    OSSE independent; others (such as Kenyan McDuffie) have opposed prior independence bills
+    and defend the current evaluation system.
+  sources:
+    - url: https://osse.dc.gov/
+      title: "Office of the State Superintendent of Education"
+      publisher: dc.gov
+      accessed: 2026-06-04
+
+- id: housing_height_act_repeal
+  issue: housing
+  prompt: "DC should push Congress to repeal or loosen the federal Height Act so the District can build taller buildings."
+  applies_to_elections: [delegate, mayor]
+  explanation: |
+    The 1910 Height of Buildings Act caps building heights in DC and can be changed only by
+    Congress. Some candidates (notably delegate candidate Brooke Pinto) argue repealing or
+    loosening it would let DC add housing and density; others see it as a low priority or
+    value preserving the city's low skyline.
+  sources:
+    - url: https://planning.dc.gov/page/height-master-plan
+      title: "Height Master Plan — DC Office of Planning"
+      publisher: dc.gov
+      accessed: 2026-06-04
