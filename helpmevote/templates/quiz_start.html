@@ -4,7 +4,11 @@
 {% block content %}
 <nav class="breadcrumb">
   <a href="{{ url_for('main.index') }}">Elections</a> ›
+  {% if election.slug == 'all' %}
+  {{ election.title }} ›
+  {% else %}
   <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
+  {% endif %}
   Choose questions
 </nav>
 
@@ -44,7 +48,7 @@
       <label for="category-toggle-{{ loop.index }}" class="select-category-label">
         <input type="checkbox" id="category-toggle-{{ loop.index }}" data-category-toggle
                {% if questions | rejectattr('id', 'in', selected) | list | length == 0 %}checked{% endif %}>
-        <span>{{ issue.label if issue else "Other" }}</span>
+        <span>{{ issue.label if issue else "Other" }} ({{ questions | length }} question{{ "s" if questions | length != 1 }})</span>
       </label>
     </legend>
 

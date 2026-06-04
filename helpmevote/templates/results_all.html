@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %}Your Results: Every Race — Help Me Vote DC 2026!{% endblock %}
+
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ url_for('main.index') }}">Elections</a> › Your Results
+</nav>
+
+<div class="results-header">
+  <h1>Your results across every race</h1>
+  <p class="results-note">
+    For each race, here are the candidates whose known positions best match yours.
+    <a href="{{ url_for('main.about') }}">How is this calculated?</a>
+  </p>
+</div>
+
+{% if all_zero %}
+<div class="alert alert-warning">
+  <strong>No answers recorded.</strong>
+  You haven't answered any questions yet.
+  <a href="{{ url_for('quiz.quiz', slug='all') }}">Take the quiz →</a>
+</div>
+{% else %}
+
+{% for elec, ranked in race_results %}
+<section class="results-race">
+  <div class="results-race-header">
+    <h2>{{ elec.title }}</h2>
+    <a href="{{ url_for('quiz.results', slug=elec.slug) }}" class="btn btn-ghost btn-small">
+      Full results →
+    </a>
+  </div>
+
+  {% set any_sufficient = ranked | selectattr('sufficient_data') | list | length > 0 %}
+  {% if not any_sufficient %}
+  <p class="results-race-note">
+    Not enough of your answered questions overlap with this race yet to rank its
+    candidates confidently.
+    <a href="{{ url_for('quiz.results', slug=elec.slug) }}">See the full breakdown →</a>
+  </p>
+  {% endif %}
+
+  <div class="results-list results-list-compact">
+    {% for sc in ranked[:3] %}
+    {% set cand = sc.candidate %}
+    <div class="result-card {% if loop.first %}result-card-top{% endif %}{% if not sc.sufficient_data %} result-card-limited{% endif %}">
+      <div class="result-card-header">
+        <div class="result-rank">{{ loop.index }}</div>
+        <div class="result-name-block">
+          <h3>
+            <a href="{{ url_for('elections.candidate', election_slug=elec.slug, candidate_id=cand.id) }}">
+              {{ cand.name }}
+            </a>
+          </h3>
+          {% if not sc.sufficient_data %}
+          <span class="badge badge-limited">Limited data</span>
+          {% endif %}
+          {% if cand.in_fair_elections %}
+          <span class="badge badge-fair-elections">Fair Elections ✓</span>
+          {% endif %}
+        </div>
+        <div class="result-score-block">
+          {% if sc.match_percent is not none %}
+          <div class="match-percent">{{ sc.match_percent | round | int }}%</div>
+          <div class="match-label">match</div>
+          <div class="match-coverage">based on {{ sc.compared_count }} of {{ sc.answered_count }} questions</div>
+          {% else %}
+          <div class="match-percent match-unknown">—</div>
+          <div class="match-label">no data</div>
+          {% endif %}
+        </div>
+      </div>
+
+      {% if sc.match_percent is not none %}
+      <div class="match-bar-container" aria-hidden="true">
+        <div class="match-bar" style="width: {{ sc.match_percent | round | int }}%"></div>
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+<div class="results-actions">
+  <a href="{{ url_for('quiz.quiz', slug='all') }}" class="btn btn-secondary">Retake the quiz</a>
+  <a href="{{ url_for('quiz.reset', slug='all') }}" class="btn btn-ghost">Start over</a>
+</div>
+
+{% endif %}
+{% endblock %}

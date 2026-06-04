@@ -4,7 +4,11 @@
 {% block content %}
 <nav class="breadcrumb">
   <a href="{{ url_for('main.index') }}">Elections</a> ›
+  {% if election.slug == 'all' %}
+  {{ election.title }} ›
+  {% else %}
   <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
+  {% endif %}
   Quiz
 </nav>
 

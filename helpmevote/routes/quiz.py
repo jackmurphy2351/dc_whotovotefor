@@ -1,3 +1,5 @@
+import types
+
 from flask import (
     Blueprint,
     abort,
@@ -13,25 +15,49 @@ from helpmevote.scoring import match_score, rank_candidates
 
 bp = Blueprint("quiz", __name__)
 
-SESSION_KEY = "quiz_answers"
+# Answers live in a single, election-agnostic store keyed by question id, so a
+# stance given in one race automatically counts in every other race the question
+# applies to. Only "which questions to present" stays per-race (the selection).
+GLOBAL_ANSWERS_KEY = "quiz_answers"
 SELECTION_KEY = "quiz_selected"
 
-
-def _session_key(slug: str) -> str:
-    return f"{SESSION_KEY}_{slug}"
+# Pseudo-slug for the "answer everything, see every race" flow.
+ALL_SLUG = "all"
 
 
 def _selection_key(slug: str) -> str:
     return f"{SELECTION_KEY}_{slug}"
 
 
+def _answers() -> dict:
+    return session.get(GLOBAL_ANSWERS_KEY, {})
+
+
+def _save_answers(answers: dict) -> None:
+    session[GLOBAL_ANSWERS_KEY] = answers
+
+
+def _resolve_election(content, slug: str):
+    """Return the Election for ``slug``, or a synthetic stand-in for ALL_SLUG."""
+    if slug == ALL_SLUG:
+        return types.SimpleNamespace(slug=ALL_SLUG, title="All Races")
+    return content.elections.get(slug)
+
+
+def _base_questions(content, slug: str) -> list:
+    """All questions in scope for a flow: the union for ALL_SLUG, else the race's."""
+    if slug == ALL_SLUG:
+        return list(content.questions.values())
+    return content.questions_by_election.get(slug, [])
+
+
 def _active_questions(content, slug: str) -> list:
-    """Election questions filtered to the user's saved selection.
+    """In-scope questions filtered to the user's saved selection.
 
     When no selection is stored (e.g. a direct link to the quiz), all of the
-    election's questions are returned — backward-compatible with the old flow.
+    in-scope questions are returned — backward-compatible with the old flow.
     """
-    questions = content.questions_by_election.get(slug, [])
+    questions = _base_questions(content, slug)
     selected = session.get(_selection_key(slug))
     if selected is None:
         return questions
@@ -46,7 +72,7 @@ def _grouped_questions(content, slug: str) -> list:
     """
     groups: list = []
     index: dict[str, int] = {}
-    for q in content.questions_by_election.get(slug, []):
+    for q in _base_questions(content, slug):
         if q.issue not in index:
             index[q.issue] = len(groups)
             groups.append((content.issues.get(q.issue), []))
@@ -57,11 +83,11 @@ def _grouped_questions(content, slug: str) -> list:
 @bp.route("/quiz/<slug>/start")
 def start(slug: str):
     content = current_app.config["CONTENT"]
-    elec = content.elections.get(slug)
+    elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
 
-    questions = content.questions_by_election.get(slug, [])
+    questions = _base_questions(content, slug)
     if not questions:
         return render_template("quiz_no_questions.html", election=elec)
 
@@ -82,11 +108,11 @@ def start(slug: str):
 @bp.post("/quiz/<slug>/start")
 def start_post(slug: str):
     content = current_app.config["CONTENT"]
-    elec = content.elections.get(slug)
+    elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
 
-    questions = content.questions_by_election.get(slug, [])
+    questions = _base_questions(content, slug)
     valid_ids = {q.id for q in questions}
     selected = [qid for qid in request.form.getlist("selected") if qid in valid_ids]
 
@@ -107,7 +133,7 @@ def start_post(slug: str):
 @bp.route("/quiz/<slug>")
 def quiz(slug: str):
     content = current_app.config["CONTENT"]
-    elec = content.elections.get(slug)
+    elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
 
@@ -120,8 +146,7 @@ def quiz(slug: str):
     question = questions[step]
     issue = content.issues.get(question.issue)
 
-    saved = session.get(_session_key(slug), {})
-    saved_stance = saved.get(question.id)
+    saved_stance = _answers().get(question.id)
     if request.args.get("fresh"):
         saved_stance = None
 
@@ -139,7 +164,7 @@ def quiz(slug: str):
 @bp.post("/quiz/<slug>")
 def quiz_post(slug: str):
     content = current_app.config["CONTENT"]
-    elec = content.elections.get(slug)
+    elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
 
@@ -150,10 +175,9 @@ def quiz_post(slug: str):
         qid = questions[step].id
         raw_stance = request.form.get("stance")
 
-        saved = session.get(_session_key(slug), {})
-        stance = int(raw_stance) if raw_stance not in (None, "", "skip") else None
-        saved[qid] = stance
-        session[_session_key(slug)] = saved
+        answers = _answers()
+        answers[qid] = int(raw_stance) if raw_stance not in (None, "", "skip") else None
+        _save_answers(answers)
 
     next_step = step + 1
     if next_step < len(questions):
@@ -164,6 +188,9 @@ def quiz_post(slug: str):
 @bp.route("/results/<slug>")
 def results(slug: str):
     content = current_app.config["CONTENT"]
+    if slug == ALL_SLUG:
+        return _results_all(content)
+
     elec = content.elections.get(slug)
     if not elec:
         abort(404)
@@ -171,14 +198,11 @@ def results(slug: str):
     questions = _active_questions(content, slug)
     candidates = content.candidates.get(slug, [])
     issues = content.issues
-    saved: dict = session.get(_session_key(slug), {})
+    saved = _answers()
 
     all_zero = not saved or all(s is None for s in saved.values())
 
-    scored = [
-        match_score(saved, c, questions, issues)
-        for c in candidates
-    ]
+    scored = [match_score(saved, c, questions, issues) for c in candidates]
     ranked = rank_candidates(scored)
 
     return render_template(
@@ -191,8 +215,35 @@ def results(slug: str):
     )
 
 
+def _results_all(content):
+    """Combined results: each race scored over its full question set from the
+    one shared answer store."""
+    saved = _answers()
+    all_zero = not saved or all(s is None for s in saved.values())
+    issues = content.issues
+
+    race_results = []
+    for slug, elec in content.elections.items():
+        questions = content.questions_by_election.get(slug, [])
+        candidates = content.candidates.get(slug, [])
+        if not questions or not candidates:
+            continue
+        scored = [match_score(saved, c, questions, issues) for c in candidates]
+        race_results.append((elec, rank_candidates(scored)))
+
+    return render_template(
+        "results_all.html",
+        race_results=race_results,
+        all_zero=all_zero,
+    )
+
+
 @bp.route("/quiz/<slug>/reset")
 def reset(slug: str):
-    session.pop(_session_key(slug), None)
-    session.pop(_selection_key(slug), None)
+    # Answers are shared across races, so "start over" clears the whole store
+    # (and every saved question selection).
+    session.pop(GLOBAL_ANSWERS_KEY, None)
+    for key in list(session.keys()):
+        if key.startswith(SELECTION_KEY + "_"):
+            session.pop(key, None)
     return redirect(url_for("quiz.start", slug=slug))

@@ -24,6 +24,10 @@
 </div>
 {% else %}
 
+<p class="results-back">
+  <a href="{{ url_for('quiz.results', slug='all') }}">← Your results for every race</a>
+</p>
+
 <div class="results-list">
   {% set stance_labels = {-2: "Strongly opposes", -1: "Opposes", 0: "Neutral", 1: "Supports", 2: "Strongly supports"} %}
 
@@ -141,7 +145,10 @@
 </div>
 
 <div class="results-actions">
-  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-secondary">
+  <a href="{{ url_for('quiz.results', slug='all') }}" class="btn btn-secondary">
+    ← All races results
+  </a>
+  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-ghost">
     Retake the quiz
   </a>
   <a href="{{ url_for('main.index') }}" class="btn btn-ghost">

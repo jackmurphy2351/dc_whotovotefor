@@ -208,6 +208,18 @@ a.badge-no-fair-elections:hover, a.badge-no-fair-elections:focus-visible { backg
 .how-it-works ol { padding-left: 1.25rem; }
 .how-it-works li { margin-bottom: .4rem; }
 
+.all-races-cta {
+  background: var(--surface);
+  border: 1px solid var(--dc-red);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.all-races-cta p { margin: 0; }
+
+.section-note { font-size: .9rem; color: var(--text-light); margin-top: -.25rem; }
+
 /* ── Election page ───────────────────────────────────────────────────────── */
 .election-header { margin-bottom: 1rem; }
 .election-date { color: var(--text-light); font-size: .9rem; }
@@ -492,8 +504,28 @@ a.badge-no-fair-elections:hover, a.badge-no-fair-elections:focus-visible { backg
 /* ── Results ─────────────────────────────────────────────────────────────── */
 .results-header { margin-bottom: 1.5rem; }
 .results-note { font-size: .9rem; color: var(--text-light); }
+.results-back { font-size: .9rem; margin: -.5rem 0 1rem; }
 
 .results-list { display: flex; flex-direction: column; gap: 1rem; margin-bottom: 1.5rem; }
+
+/* Combined all-races results */
+.results-race {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.results-race:last-of-type { border-bottom: none; }
+.results-race-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: .75rem;
+}
+.results-race-header h2 { margin: 0; }
+.results-race-note { font-size: .9rem; color: var(--text-light); margin: 0 0 .75rem; }
+.results-list-compact { margin-bottom: 0; }
 
 .result-card {
   background: var(--surface);
