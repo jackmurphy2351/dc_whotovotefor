@@ -38,11 +38,6 @@ Whether a candidate participates in the Fair Elections Program is a useful signa
 funding model and who they are accountable to. Candidates who opt out can raise unlimited money
 from large donors, corporations, and out-of-District sources.
 
-In the 2026 delegate race, for example, Brooke Pinto chose not to participate in Fair Elections
-and raised more than any other delegate candidate — largely from out-of-district donors.
-
-All five Ward 1 candidates are participating in the Fair Elections Program in 2026.
-
 ## How to check
 
 You can search which candidates are participating at:
