@@ -10,7 +10,8 @@
     the MPD chief), and is the District's primary negotiator with Congress and the
     White House. In 2026, with federal threats to DC autonomy intensifying, this
     race carries extra weight. Incumbent Mayor Muriel Bowser is not seeking
-    re-election. Seven Democrats are running in the primary.
+    re-election. Seven Democrats are running in the primary, and ranked choice
+    voting applies for the first time in June 2026.
   election_date: 2026-06-16
   sources:
     - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
@@ -30,61 +31,93 @@
     legislation, and fight for the District's budget — but cannot vote on final
     passage of bills. Incumbent Eleanor Holmes Norton is not seeking re-election
     after 18 terms. This is one of the most competitive and expensive delegate
-    races in DC history. Five Democrats are in the primary.
+    races in DC history. Five Democrats are in the primary, and ranked choice
+    voting applies for the first time in June 2026.
   election_date: 2026-06-16
   sources:
     - url: https://ballotpedia.org/United_States_House_of_Representatives_election_in_the_District_of_Columbia,_2026
       title: "United States House of Representatives election in the District of Columbia, 2026 — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+    - url: https://www.dcboe.org/elections/2026-elections
+      title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+      publisher: dcboe.org
+      accessed: 2026-06-04
 
 - slug: at_large_mcduffie
   title: "At-Large Council — Special Election (McDuffie Seat)"
   short_description: "A non-partisan special general election to fill the At-Large seat vacated when Kenyan McDuffie ran for mayor."
   whats_at_stake: |
     This is a NON-PARTISAN SPECIAL GENERAL ELECTION — not a Democratic primary.
-    All registered DC voters may vote regardless of party. Three candidates
-    (Doni Crawford, Jacque Patterson, and Elissa Silverman) are on the June 16
-    ballot. The winner fills the remainder of Kenyan McDuffie's At-Large term
-    through January 2027. Ranked choice voting applies.
+    Special elections to fill a Council vacancy are non-partisan by law and open
+    to ALL registered DC voters regardless of party; the candidates run as
+    Independents as a consequence of that rule, not the reason for it. Four
+    candidates (Doni Crawford, Khalil Lee, Jacque Patterson, and Elissa Silverman)
+    are on the June 16 ballot. Unlike the other races on the ballot, the winner of
+    this special election does NOT advance to November — they are sworn in once
+    results are certified and serve only the remainder of Kenyan McDuffie's term,
+    through January 2, 2027. The same seat is then up for a full four-year term in
+    the November 2026 general election. Ranked choice voting applies for the first
+    time in June 2026.
   election_date: 2026-06-16
   sources:
     - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
       title: "City elections in Washington, D.C. (2026) — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+    - url: https://www.dcboe.org/elections/2026-elections
+      title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+      publisher: dcboe.org
+      accessed: 2026-06-04
+    - url: https://www.nbcwashington.com/news/local/what-to-know-about-the-special-election-for-an-at-large-seat-on-the-dc-council/4112210/
+      title: "What to know about the special election for an At-Large seat on the DC Council"
+      publisher: "NBC4 Washington"
+      accessed: 2026-06-04
 
 - slug: at_large_bonds
   title: "At-Large Council — Regular Election"
   short_description: "At-Large seat open due to Anita Bonds' retirement. Nine Democrats are on the June 16 primary ballot."
   whats_at_stake: |
-    Two At-Large Council seats are being contested in the regular 2026 election,
-    including the seat held by retiring Councilmember Anita Bonds. Nine Democrats
-    are running in the primary. The top two Democratic vote-getters will advance
-    to the November general election. At-Large members represent the entire
-    District and serve four-year terms.
+    This regular Democratic primary fills ONE At-Large seat — the seat held by
+    retiring Councilmember Anita Bonds. Nine Democrats are running, and because
+    three or more candidates appear on the ballot, ranked choice voting applies
+    for the first time in June 2026; the single winner becomes the Democratic
+    nominee for the November general election. This is one of two At-Large
+    contests on the June 16 ballot — the other is the separate NON-PARTISAN
+    SPECIAL election for the seat Kenyan McDuffie vacated to run for mayor. DC
+    has four At-Large seats, of which two are up in 2026. At-Large members
+    represent the entire District and serve four-year terms.
   election_date: 2026-06-16
   sources:
     - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
       title: "City elections in Washington, D.C. (2026) — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+    - url: https://www.dcboe.org/elections/2026-elections
+      title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+      publisher: dcboe.org
+      accessed: 2026-06-04
 
 - slug: ward1
   title: "Ward 1 Councilmember"
-  short_description: "Seven Democrats are vying to replace retiring Councilmember Brianne Nadeau in the June 16 primary."
+  short_description: "Five Democrats are vying to replace retiring Councilmember Brianne Nadeau in the June 16 primary."
   whats_at_stake: |
     Ward 1 covers Columbia Heights, Mt. Pleasant, Adams Morgan, Petworth, Shaw,
     and parts of U Street. The ward has a large Latinx community, significant
     affordable housing stock, and ongoing gentrification pressures. Retiring
-    Councilmember Brianne Nadeau has endorsed Rashida Brown. Seven Democrats are
-    in the primary.
+    Councilmember Brianne Nadeau has endorsed Rashida Brown. Five Democrats are
+    in the primary, and ranked choice voting applies for the first time in
+    June 2026.
   election_date: 2026-06-16
   sources:
     - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
       title: "City elections in Washington, D.C. (2026) — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-27
+    - url: https://www.dcboe.org/elections/2026-elections
+      title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+      publisher: dcboe.org
+      accessed: 2026-06-04
 
 - slug: ward5
   title: "Ward 5 Councilmember"
@@ -96,13 +129,18 @@
     Black openly gay Council member in DC history, is seeking re-election. The ward
     has seen significant development pressure along the NoMa, Ivy City, and Rhode
     Island Avenue corridors and a sharp decline in violent crime under Parker's tenure.
-    Three Democrats are on the primary ballot.
+    Three Democrats are on the primary ballot, and ranked choice voting applies
+    for the first time in June 2026.
   election_date: 2026-06-16
   sources:
     - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
       title: "City elections in Washington, D.C. (2026) — Ballotpedia"
       publisher: ballotpedia.org
       accessed: 2026-05-31
+    - url: https://www.dcboe.org/elections/2026-elections
+      title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+      publisher: dcboe.org
+      accessed: 2026-06-04
 
 - slug: ward6
   title: "Ward 6 Councilmember"
@@ -115,8 +153,8 @@
     judiciary and public safety committee, is seeking re-election. Public safety
     — including disputes over crime data and the city's response to "teen
     takeovers" — is the central issue dividing him from challengers Gloria Nauden
-    and Michael Murphy. Ranked choice voting applies for the first time. Three
-    Democrats are on the primary ballot.
+    and Michael Murphy. Three Democrats are on the primary ballot, and ranked
+    choice voting applies for the first time in June 2026.
   election_date: 2026-06-16
   sources:
     - url: https://ballotpedia.org/City_elections_in_Washington,_D.C._(2026)
@@ -127,3 +165,7 @@
       title: "Your guide to the June 16 DC primary — The 51st"
       publisher: "The 51st"
       accessed: 2026-06-01
+    - url: https://www.dcboe.org/elections/2026-elections
+      title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+      publisher: dcboe.org
+      accessed: 2026-06-04

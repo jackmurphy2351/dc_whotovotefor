@@ -9,6 +9,10 @@ sources:
     title: "Ward Boundaries — DC Council"
     publisher: dccouncil.gov
     accessed: 2026-05-27
+  - url: https://www.dcboe.org/elections/2026-elections
+    title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+    publisher: dcboe.org
+    accessed: 2026-06-04
 ---
 
 ## Structure
@@ -43,7 +47,9 @@ the city's relationship with Congress.
   Gallery Place-Chinatown, and Buzzard Point. Incumbent Charles Allen is seeking re-election.
 
 - **At-Large (Special Election)**: Kenyan McDuffie vacated his At-Large seat to run for mayor.
-  A special election will fill the remaining term (through January 2027).
+  A non-partisan special election — open to all registered voters regardless of party —
+  will fill the remaining term (through January 2, 2027). The same seat is then up for a
+  full four-year term in the November 2026 general election.
 
 - **At-Large (Regular Election)**: Anita Bonds is retiring after years representing the
   District. This is a full four-year term.

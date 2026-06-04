@@ -9,6 +9,10 @@ sources:
     title: "Fair Elections Program 2026"
     publisher: dc.gov
     accessed: 2026-05-27
+  - url: https://www.dcboe.org/elections/2026-elections
+    title: "Voter Guide — June 16, 2026 Primary and Special Elections (DCBOE)"
+    publisher: dcboe.org
+    accessed: 2026-06-04
 ---
 
 ## DC is an overwhelmingly Democratic city
@@ -34,8 +38,9 @@ Skipping the June primary means you have no say in who actually governs the Dist
 
 ## Ranked Choice Voting
 
-DC's 2026 primary uses **ranked choice voting (RCV)**, approved by voters in 2024 through
-Initiative 83. You can rank your candidates in order of preference. If your first choice is
+DC's 2026 primary uses **ranked choice voting (RCV)** for the first time, approved by voters in
+2024 through Initiative 83. RCV also applies to the non-partisan At-Large special election on the
+same June 16 ballot. You can rank your candidates in order of preference. If your first choice is
 eliminated, your vote transfers to your second choice — and so on.
 
 This means you should rank candidates in order of true preference, and you should **not rank
