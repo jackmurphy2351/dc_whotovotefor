@@ -245,6 +245,34 @@
           publisher: "Trent Holbrook Campaign"
           accessed: 2026-05-30
 
+    # Positions below mined from the May 14, 2026 Hill Rag / East of the River forum.
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Centers his candidacy on protecting the federal workforce: 'I was a federal employee myself,' and says he 'fought against the illegal firings of our federal employees, fought for pay raises, fought for back pay after the shutdown, and fought for better retirement' alongside Norton. Opposes relocating federal agencies out of the National Capital Region, arguing the agencies need to be where Congress is."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: delegate_federal_land_transfer
+      stance: 2
+      explanation: "Would 'transfer as much federal property over to the District of Columbia' as possible, then leave development decisions to DC ('much rather work with the DC Council than the federal government'). For land that isn't transferred, would press the National Park Service and GSA to maintain federal property and would fight the relocation of federal agencies out of DC."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: econ_commuter_tax
+      stance: 1
+      explanation: "Says DC 'should be able to tax people who work in DC just like you could anywhere else,' supporting a commuter tax in principle — but tempers it by noting existing federal offsets (e.g. the DC TAG dollars DC receives that states don't), framing it as a balanced trade-off rather than an unqualified priority."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
 - id: greg-jaczko
   name: "Greg Jaczko"
   election_slug: delegate
@@ -376,6 +404,34 @@
           title: "Platform — Greg Jaczko for Congress"
           publisher: "Greg Jaczko Campaign"
           accessed: 2026-05-30
+
+    # Positions below mined from the May 14, 2026 Hill Rag / East of the River forum.
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Entered the race 'motivated to help protect federal workers,' and describes the Trump administration as 'abusive to federal workers' and to the District. Opposes relocating federal agencies out of DC, citing the first Trump administration's failed move of part of the USDA to Colorado."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: delegate_federal_land_transfer
+      stance: 2
+      explanation: "Argues DC's 300-plus National Park Service reservations and other federal parcels 'have no business being part of the federal government' and would work to transfer them all to the District — but stresses that how the land is used 'is really a local decision' for the Council, mayor, and community, cautioning against attaching federal contingencies to the transfers."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: delegate_impeach_trump
+      stance: 2
+      explanation: "The clearest pro-impeachment voice in the field: calls Trump's conduct 'tyranny,' argues 'the constitutional remedy for tyranny is impeachment,' and pledges that 'when I get into Congress, I will advocate strongly for impeaching Donald Trump.' Faults Democratic leadership for tamping down impeachment talk before the midterms."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
 
 - id: brooke-pinto
   name: "Brooke Pinto"
@@ -586,6 +642,25 @@
           publisher: "Brooke Pinto for Congress"
           accessed: 2026-06-04
 
+    # Positions below mined from the May 14, 2026 Hill Rag / East of the River forum.
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Says she has 'not seen enough pushback' on behalf of the federal workforce and pledges that, 'behind the dais,' she will 'pose really difficult questions of the Trump administration' and make it answer for 'the kinds of abuses they've perpetrated on federal workers.' Frames defending federal employees as a core, day-one responsibility of the seat."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: delegate_federal_land_transfer
+      stance: 2
+      explanation: "Supports transferring federal land to DC and stresses having 'someone at the table representing our community' to shape its use — so vacant GSA buildings 'don't just become hotels or luxury condos' but meet needs for senior, affordable, and family housing. Cites her work on a downtown master development plan and on securing housing/equity benefits in the RFK redevelopment as the model."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
 - id: kinney-zalesne
   name: "Kinney Zalesne"
   election_slug: delegate
@@ -693,3 +768,40 @@
           title: "Issues — Kinney Zalesne for DC Delegate"
           publisher: "Kinney Zalesne Campaign"
           accessed: 2026-05-30
+
+    # Positions below mined from the May 14, 2026 Hill Rag / East of the River forum.
+    - question_id: federal_workers_advocate
+      stance: 2
+      explanation: "Casts protecting the federal workforce as a founding reason for her campaign — 'Trump is crushing this city on purpose' — and points to her DOJ record beating back Republican efforts to kill crime-prevention and after-school programs. Frames rebuilding DC's economy to be 'less dependent on the federal government' as the complement to defending federal workers now under attack."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: delegate_budget_autonomy
+      stance: 2
+      explanation: "Calls Congress's roughly $1 billion budget freeze 'a huge failure' that happened because 'nobody was paying attention — not our delegate, not our DC Council,' and argues the seat 'cannot just be reactive.' Pledges proactive, strategic vigilance to ensure DC controls 'its own revenue and its own destiny,' citing the beaten-back Medicaid-match cut as the model."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: delegate_federal_land_transfer
+      stance: 1
+      explanation: "Supports federal land transfers as 'a very important part of DC's economic growth' and wants DC to 'take advantage' of upcoming opportunities from vacated federal buildings — but qualifies that transfers are 'not the sum and substance' of an economic-growth plan, which she ties more to building a homegrown tech scene and recruiting major employers."
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04
+
+    - question_id: econ_commuter_tax
+      stance: 2
+      explanation: "The forum's strongest commuter-tax proponent: reframes the 'third rail' as a reciprocal 'shared asset fund' — non-residents who work in DC (and DC residents who work in MD/VA) pay in, with the revenue earmarked for shared regional needs like Metro, roads, healthcare, and the environment. Pairs it with her proposed regional 'Capital Caucus.'"
+      sources:
+        - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+          title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+          publisher: "WJLA / Hill Rag"
+          accessed: 2026-06-04

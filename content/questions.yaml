@@ -608,7 +608,7 @@
 - id: econ_commuter_tax
   issue: economic_development
   prompt: "DC should impose a commuter tax on people who work in the District but live in Maryland or Virginia (if federal law allowed it)."
-  applies_to_elections: [at_large_mcduffie, at_large_bonds]
+  applies_to_elections: [at_large_mcduffie, at_large_bonds, delegate]
   explanation: |
     Federal law (the Home Rule Act) currently bars DC from taxing the income of
     non-residents who work in the city. Supporters argue commuters use city services
@@ -793,4 +793,42 @@
     - url: https://planning.dc.gov/page/height-master-plan
       title: "Height Master Plan — DC Office of Planning"
       publisher: dc.gov
+      accessed: 2026-06-04
+
+# ── NEW: mined from the Hill Rag / East of the River Delegate forum (May 2026) ──
+
+- id: delegate_federal_land_transfer
+  issue: home_rule
+  prompt: "The Delegate should work to transfer federal land in DC — such as National Park Service parcels and vacant or surplus federal buildings — to local District control."
+  applies_to_elections: [delegate]
+  explanation: |
+    The federal government owns large amounts of land inside DC, including 300-plus
+    National Park Service "reservations" and vacant GSA buildings left by agency
+    relocations. Transferring these parcels to the District is one of the few concrete
+    levers a Delegate holds to expand DC's tax base and build housing. Candidates in
+    the 2026 race broadly support transfers but differ on whether Congress should
+    attach conditions on how the land is used or simply hand it over and let DC decide
+    locally.
+  sources:
+    - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+      title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+      publisher: "WJLA / Hill Rag"
+      accessed: 2026-06-04
+
+- id: delegate_impeach_trump
+  issue: home_rule
+  prompt: "The Delegate should actively push for the impeachment of President Trump."
+  applies_to_elections: [delegate]
+  explanation: |
+    Faced with what they describe as lawless federal interference in DC — from the
+    budget freeze and National Guard deployments to the demolition of the White House
+    East Wing — candidates differ on the appropriate response. One candidate (Greg
+    Jaczko) argues impeachment is the constitutional remedy for "tyranny" and faults
+    Democratic leadership for avoiding it; others emphasize coalition-building,
+    oversight hearings, winning back Congress, or pragmatically securing resources for
+    DC rather than prioritizing impeachment.
+  sources:
+    - url: https://www.youtube.com/watch?v=5eogeLK6tY8
+      title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
+      publisher: "WJLA / Hill Rag"
       accessed: 2026-06-04
