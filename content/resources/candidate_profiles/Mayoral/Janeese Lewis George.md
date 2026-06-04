@@ -1,8 +1,15 @@
-# People-First Platform
+# About
+I’m **Janeese Lewis George**, the DC Councilmember for Ward 4. I’m the daughter of a union postal worker and a third-generation Washingtonian who was raised in Ward 4. I’m a proud graduate of DC Public Schools (Cuno H. Rudolph Elementary School, Alice Deal Middle School, and School Without Walls) as well as Howard University School of Law. Starting in 2014, I served as the DC Assistant Attorney General in the Juvenile Section of the Public Safety Division under DC Attorney General Karl A. Racine. I was elected to DC Council in 2020.
+## Unbought and unbossed
+I fight for working families because I know firsthand what working people in DC are up against. As Councilmember, I’ve worked to save tenant protections and make housing more affordable because when I was a kid, my family had to leave my childhood home due to rising rent. I’ve voted for raises for working class people and strengthened worker protections because a good union job with a fair wage is what put dinner on the table for my family. I expanded Paid Family Leave because when my dad got sick, I took time off to care for him and everyone should be able to do that for the people we love.
+
+As Councilmember, I’ve made a point to always choose the side of DC residents, workers, and families. I led legislation that raised wages for early childhood educators, created good jobs for construction and retail workers, ended the subminimum wage for restaurant workers, increased SNAP food assistance for families and seniors, and improved traffic safety around schools. As Assistant Attorney General, I fought to secure justice for victims of violent crime and built programs that put young people in DC back on the right track. **As Mayor, I’ll always side with working people to make DC safe and affordable, and create a government that listens to and delivers for residents in all eight Wards.** I understand the urgency of the moment and the power DC has to make life better for everyone.
+# Issues
+## People-First Platform
 
 Janeese Lewis George is running for DC mayor because she knows DC is too expensive, from housing to childcare. She too has felt the squeeze and is ready to do something about it. She knows that we can tackle the problems facing DC residents by strategically and effectively utilizing all that the government can offer and do. Lewis George will work with anyone to **improve the lives of the people in DC**, and she will **stand up to anyone** who does harm to our residents.
 
-# Childcare For All
+## Childcare For All
 
 DC has the highest childcare costs in the nation. At the same time, many childcare workers
 earn poverty wages. Implementing universal affordable childcare will help thousands of
@@ -27,7 +34,7 @@ three components:
 **We Can Get This Done**: DC proved that bold investments work by successfully implementing universal Pre-K 3 and Pre-K 4 and the Pay Equity Fund. Now DC must lead again by adopting
 universal affordable childcare.
 
-# Affordable Utilities For All
+## Affordable Utilities For All
 
 All Washingtonians should be able to afford everyday needs like electricity and other utilities. But working people across the District have seen their Pepco and other utility bills skyrocket, with some people’s costs doubling or even tripling in recent months. High demand from AI data centers and inefficient infrastructure have contributed to high costs. But another significant cause is DC’s failure to provide proper oversight of Pepco as the company has increased rates each of the last three years, much faster than it has in other cities and states. That’s money that should be in the pockets of DC residents, not Pepco’s investors. Recently, the courts held DC’s Public Service Commission responsible for failing to look out for us in approving Pepco’s utility price increases.
 
@@ -62,7 +69,7 @@ Most large companies in the District buy low-cost power, saving nearly $200 mill
 #### 10. Protect DC residents from energy reseller scams.
 Too many low-income households get their electricity from overpriced third-party energy suppliers, which scam residents into signing contracts through which they are overcharged. This raises energy bills and makes families accrue more debt. As mayor, Janeese will initiate more stringent regulation of third-party suppliers and ensure they can’t charge residents more than Pepco for the same energy.
 
-# Economic development for A Thriving DC
+## Economic development for A Thriving DC
 DC should be a city of choice, where residents can build a career, raise a family, and become a part of the community. Our city must work for the people who live here in addition to the people who commute in for work and their employers. As mayor, Janeese will invest in reaalizing this vision of our city. She will:
 
 ### Reimagine a Thriving Downtown for All by:
@@ -86,7 +93,7 @@ DC should be a city of choice, where residents can build a career, raise a famil
 - Prioritizing development that puts DC residents first, **including grocery stores and retail amenities in Wards 5, 7 and 8**.
 - **Providing lease subsidies for small businesses** locating in underserved neighborhoods.
 
-# Reliable Transportation For All
+## Reliable Transportation For All
 
 People-first transportation means fast, reliable, and safe transportation for all residents regardless of how they get around. It means a system where buses, metro lines, pedestrian walkways, and bike lanes work together to connect neighborhoods, get people to work, improve access to essential services, and serve residents in all eight wards. 
 
@@ -106,7 +113,7 @@ Janeese’s plan will:
 
 **Provide dedicated funding for Metro**. Janeese will create certainty for residents and businesses by working with surrounding jurisdictions to maintain sufficient, dedicated, long-term funding for a robust metro system.
 
-# Stand Up For All DC
+## Stand Up For All DC
 DC is under attack and we need leaders who refuse to shrink in the face of injustice. Where there are opportunities to partner with federal agencies to improve the lives of DC residents, Janeese Lewis George will do so. But she will not accept the terrorization of our youth or the kidnapping of our neighbors.
 
 Janeese is a staunch advocate of DC Statehood and has a history of lobbying Capitol Hill in the interest of DC and standing up to the White House, particularly when it comes to the safety of DC residents. As mayor, she will:
@@ -138,7 +145,7 @@ Janeese is a staunch advocate of DC Statehood and has a history of lobbying Capi
 - **Strengthen and operationalize DC’s Shadow Senator and Shadow Representative roles** as active tools for change.
 - **Align the Office of Federal Affairs, Statehood Commission, and movement partners** into one coordinated effort to achieve Statehood.
 
-# Safe communities for all
+## Safe communities for all
 Keeping everyone who lives, works, or visits DC safe is nonnegotiable. Safe communities keep families here, help children thrive, create opportunity, and improve quality of life for everyone. As a former prosecutor, I understand what drives violence in our city and how to address it. We must respond to crime by holding offenders accountable, while also investing in proven prevention and intervention strategies that disrupt cycles of violence. We must step in early with high-risk individuals before a crisis occurs. We must also fix District agencies that are critical to public safety, like our 911 call center and juvenile justice agency.
 
 As a Councilmember, I worked block-by-block to implement a comprehensive public safety strategy that balances enforcement with intervention, and prevention mechanisms. As Mayor, I will deploy our resources strategically to further drive down crime, restore community trust, improve agency performance, and prevent crime before it happens.
@@ -172,7 +179,7 @@ To make DC safer, I will:
 - Ensuring DC residents have access to safe housing as a source of stability in their lives, including by funding transitional housing programs for emerging adults and returning citizens and housing relocation assistance for victim families.
 - Making our streets and intersections safer for all by improving traffic safety infrastructure and holding repeat dangerous drivers accountable.
 
-# Excellent schools for all
+## Excellent schools for all
 Every student deserves access to excellent neighborhood public schools, support in and out of the classroom, and real access to opportunity. Janeese’s education platform focuses on implementing and expanding the strategies that help our students succeed. As mayor, she will work alongside students, parents, educators, schools, and community organizations to solve problems together, strengthen schools in every neighborhood, improve out-of-school time programming, support teachers, and ensure families see real results in their daily lives.
 
 ### Excellent and Safe Schools in Every Neighborhood
@@ -201,7 +208,7 @@ Every student deserves access to excellent neighborhood public schools, support 
 - Partner with DC colleges and universities to build strong educator pipelines.
 - Collaborate with unions to create and sustain good, safe jobs that retain excellent educators.
 
-# Good Jobs for All
+## Good Jobs for All
 DC should be a city where every resident can build a stable, dignified life, and for many that includes a good job. From the young person looking to start a career to the parent who needs a family-sustaining job to the unjustly fired federal employee, Janeese’s vision is a District that fully invests in workers.
 
 As Mayor, Janeese will make sure our economy supports residents in every ward and balances innovation with equity. She will:
@@ -221,7 +228,7 @@ As Mayor, Janeese will make sure our economy supports residents in every ward an
 - **Establishing a rapid response Federal Workforce Transition Center** for displaced federal employees and contractors, including partnering with universities to reskill and support transitions into DC teaching jobs and other in-demand jobs.
 - **Improving the Unemployment Insurance program** and application platform to make sure residents get their benefits quickly without hassle.
 
-# Making it Easier to Live, Own, and Build for all of DC
+## Making it Easier to Live, Own, and Build for all of DC
 Stable housing is the foundation of strong families and well-resourced communities. But longtime residents are being priced out of the District, and young families cannot afford to put down roots.
 
 As Mayor, Janeese will lower costs for renters and homeowners while making it easier for developers to build the housing to meet the needs of all.
@@ -246,7 +253,7 @@ As Mayor, Janeese will lower costs for renters and homeowners while making it ea
 - **Fast-tracking public benefit housing** by making accelerated plan review the default pathway for affordable housing projects–faster timelines reduce costs and stretch public dollars further.
 - **Increasing transparency** by publishing clear criteria for DHCD and DCHFA funding decisions and maintaining a public pipeline tracker so residents and developers can see which housing projects are moving forward.
 
-# Supporting Small businesses
+## Supporting Small businesses
 Small businesses power DC’s economic growth. They create jobs, enliven neighborhoods, reflect the character of our communities, and keep opportunity rooted locally. Janeese envisions a DC where businesses open and stay open. Starting a business should be straightforward and operating one should be predictable, yet too often businesses struggle to open and, once open, struggle to remain profitable.
 
 District government must be a reliable partner and provide clear guidelines, tailored support, and proven tools that help entrepreneurs launch quickly, navigate challenges, and grow sustainably. Janeese will remove the red tape that prevents easy business opening and operations. She will work with small businesses to create a District where they can open, thrive, and remain pillars of their neighborhoods. Janeese’s plan will:
@@ -276,3 +283,66 @@ District government must be a reliable partner and provide clear guidelines, tai
 - Support community concerts, student art exhibits, and festivals in public parks and schoolyards through grants and government partnership.
 - Support for local fairs, markets, and neighborhood events that promote business activity.
 - Redesign at least one major corridor in every Ward into a pedestrian‑only street.
+# Endorsements
+- **Sierra Club**
+- **Free DC**
+- **Jews United for Justice**
+- **Metropolitan Washington Council**, *AFL-CIO*
+- **Robert White**, *At-Large Councilmember*
+- **Brianne Nadeau**, *Ward 1 Councilmember*
+- **Zachary Parker**, *Ward 5 Councilmember*
+- **Charles Allen**, *Ward 6 Councilmember*
+- **Karl Racine**, *Former DC Attorney General*
+- **Yvette Alexander**, *Former Ward 7 Councilmember*
+- **Tommy Wells**, *Former Ward 6 Councilmember*
+- **Frazier O'Leary**, *Former DC Board of Education Member*
+- **Amalgamated Transit Union**, *ATU Local 689*
+- **Greater Greater Washington**
+- **Metro DC DSA**
+- **DC Young Democrats**
+- **32BJ SEIU**
+- **1199 SEIU**, *United Healthcare Workers East*
+- **UFCW Local 400**
+- **Unite Here! Local 23**, *Hospitality Industry Workers Union*
+- **Unite Here! Local 25**, *Hospitality Industry Workers Union*
+- **Washington Teachers' Union**, *AFT Local 6 AFL-CIO*
+- **Working Families Party**
+- **Nonprofit Professional Employees Union**
+- **Our Revolution DC**
+- **Carpenters**, *Eastern Atlantic States Regional Council of Carpenters*
+- **People for the American Way**
+- **Lead Locally**
+- **AFGE Local 2725 AFL-CIO**
+- **Committee of Interns and Residents**, *SEIU Healthcare*
+- **Baltimore – D.C. Metro Building Trades Council**
+- **International Brotherhood of Electrical Workers**, *Local 26*
+- **IUPAT**, *District Council 51*
+- **LiUNA!**, *Baltimore/Washington District Council*
+- **AFGE Local 2978**
+- **Bike, Walk and Bus PAC**
+- **DC for Democracy**
+- **Local 500 SEIU**
+- **Care in Action**
+- **Rachel's Action Network**
+- **Casa in Action**
+- **DC Voters for Animals**
+- **Ward 1 Dems**
+- **AFSCME**, *District Council 20*
+- **District of Columbia Nurses Association**
+- **Nation's Capital Southern Maryland Area Local**, *APWU AFL-CIO*
+- **DC Women in Politics**
+- **DC YIMBYs**
+- **Teamsters Local 639**
+- **Vote Mama**
+- **Association of Flight Attendants-CWA**, *AFL-CIO*
+- **Caribbean-American Political Action Committee**
+- **National Nurses Organizing Committee**
+- **Maryland/DC Alliance for Retired Americans**
+- **Jane Fonda Climate PAC**
+- **Cleveland Park Smart Growth**
+- **AFGE**
+- **AFGE District 14**
+- **Washington DC Fire Fighters**, *Local 36*
+- **Capital Stonewall Democrats**
+- **Union of American Physicians & Dentists**
+- **Democratic Municipal Officials**

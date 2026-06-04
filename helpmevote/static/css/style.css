@@ -70,7 +70,7 @@ main.container { padding-top: 1.5rem; padding-bottom: 3rem; flex: 1; }
   justify-content: space-between;
   gap: 1rem;
 }
-.site-logo {
+.site-logo, .site-logo:visited {
   color: #fff;
   font-weight: 700;
   font-size: 1.1rem;
@@ -146,6 +146,11 @@ button.btn     { font-family: inherit; }
 }
 .badge-fair-elections    { background: #d4edda; color: #155724; }
 .badge-no-fair-elections { background: #f8d7da; color: #721c24; }
+/* Linked Fair Elections badges: keep the pill colors, signal they're clickable. */
+a.badge-fair-elections, a.badge-fair-elections:visited { color: #155724; text-decoration: none; }
+a.badge-fair-elections:hover, a.badge-fair-elections:focus-visible { background: #c3e6cb; text-decoration: underline; }
+a.badge-no-fair-elections, a.badge-no-fair-elections:visited { color: #721c24; text-decoration: none; }
+a.badge-no-fair-elections:hover, a.badge-no-fair-elections:focus-visible { background: #f1c2c7; text-decoration: underline; }
 
 /* ── Alerts ──────────────────────────────────────────────────────────────── */
 .alert {
@@ -224,7 +229,12 @@ button.btn     { font-family: inherit; }
   border-radius: var(--radius);
   padding: 1.1rem;
   box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
 }
+/* Push the "Full profile" button to the bottom so all cards' buttons align,
+   regardless of how much advisory/endorsement content sits above it. */
+.candidate-card .btn-ghost { margin-top: auto; align-self: flex-start; }
 .candidate-header {
   display: flex;
   justify-content: space-between;
@@ -298,6 +308,15 @@ button.btn     { font-family: inherit; }
   padding: 1.5rem;
   margin-bottom: 1.25rem;
   box-shadow: var(--shadow);
+}
+/* Each quiz step is a fresh page load, so this entrance runs on every new
+   question — a gentle fade/slide that signals "you've moved on." */
+@keyframes quizFadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .question-card { animation: quizFadeIn .25s ease both; }
 }
 .question-issue-tag {
   display: inline-block;
@@ -431,6 +450,15 @@ button.btn     { font-family: inherit; }
   min-width: 64px;
   margin-bottom: 0;
   position: relative;
+  transition: background .15s, border-color .15s, color .15s, transform .12s, box-shadow .12s;
+}
+/* Distinct confirmation when an answer is picked: lift the chip, ring it, and
+   bold the label — layered on top of each stance's own selected background. */
+.stance-option.selected {
+  transform: translateY(-2px) scale(1.04);
+  box-shadow: 0 3px 10px rgba(0,0,0,.18), 0 0 0 2px rgba(255,255,255,.6) inset;
+  font-weight: 700;
+  z-index: 1;
 }
 .stance-option input[type=radio] {
   appearance: none;

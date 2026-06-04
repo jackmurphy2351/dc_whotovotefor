@@ -34,9 +34,11 @@
           </a>
         </h3>
         {% if candidate.in_fair_elections %}
-        <span class="badge badge-fair-elections" title="Participating in DC Fair Elections Program">
+        <a href="{{ url_for('resources.topic', topic='fair_elections') }}"
+           class="badge badge-fair-elections"
+           title="Participating in DC Fair Elections Program — what's this?">
           Fair Elections ✓
-        </span>
+        </a>
         {% endif %}
       </div>
 

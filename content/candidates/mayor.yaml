@@ -9,10 +9,68 @@
   in_fair_elections: true
   campaign_url: https://www.janeese4dc.com/
   endorsements:
-    - "Free DC (freedcproject.org/news/our-2026-endorsements-guide)"
-    - "Working Families Party (workingfamilies.org/candidates/)"
-    - "Democratic Socialists of America"
-    - "Washington Area Bicyclist Association (WABA)"
+    - "Sierra Club"
+    - "Free DC"
+    - "Jews United for Justice"
+    - "Metropolitan Washington Council (AFL-CIO)"
+    - "Robert White (At-Large Councilmember)"
+    - "Brianne Nadeau (Ward 1 Councilmember)"
+    - "Zachary Parker (Ward 5 Councilmember)"
+    - "Charles Allen (Ward 6 Councilmember)"
+    - "Karl Racine (Former DC Attorney General)"
+    - "Yvette Alexander (Former Ward 7 Councilmember)"
+    - "Tommy Wells (Former Ward 6 Councilmember)"
+    - "Frazier O'Leary (Former DC Board of Education Member)"
+    - "Amalgamated Transit Union (ATU Local 689)"
+    - "Greater Greater Washington"
+    - "Metro DC DSA"
+    - "DC Young Democrats"
+    - "32BJ SEIU"
+    - "1199 SEIU (United Healthcare Workers East)"
+    - "UFCW Local 400"
+    - "Unite Here! Local 23 (Hospitality Industry Workers Union)"
+    - "Unite Here! Local 25 (Hospitality Industry Workers Union)"
+    - "Washington Teachers' Union (AFT Local 6 AFL-CIO)"
+    - "Working Families Party"
+    - "Nonprofit Professional Employees Union"
+    - "Our Revolution DC"
+    - "Carpenters (Eastern Atlantic States Regional Council of Carpenters)"
+    - "People for the American Way"
+    - "Lead Locally"
+    - "AFGE Local 2725 AFL-CIO"
+    - "Committee of Interns and Residents (SEIU Healthcare)"
+    - "Baltimore – D.C. Metro Building Trades Council"
+    - "International Brotherhood of Electrical Workers (Local 26)"
+    - "IUPAT (District Council 51)"
+    - "LiUNA! (Baltimore/Washington District Council)"
+    - "AFGE Local 2978"
+    - "Bike, Walk and Bus PAC"
+    - "DC for Democracy"
+    - "Local 500 SEIU"
+    - "Care in Action"
+    - "Rachel's Action Network"
+    - "Casa in Action"
+    - "DC Voters for Animals"
+    - "Ward 1 Dems"
+    - "AFSCME (District Council 20)"
+    - "District of Columbia Nurses Association"
+    - "Nation's Capital Southern Maryland Area Local (APWU AFL-CIO)"
+    - "DC Women in Politics"
+    - "DC YIMBYs"
+    - "Teamsters Local 639"
+    - "Vote Mama"
+    - "Association of Flight Attendants-CWA (AFL-CIO)"
+    - "Caribbean-American Political Action Committee"
+    - "National Nurses Organizing Committee"
+    - "Maryland/DC Alliance for Retired Americans"
+    - "Jane Fonda Climate PAC"
+    - "Cleveland Park Smart Growth"
+    - "AFGE"
+    - "AFGE District 14"
+    - "Washington DC Fire Fighters (Local 36)"
+    - "Capital Stonewall Democrats"
+    - "Union of American Physicians & Dentists"
+    - "Democratic Municipal Officials"
   short_bio: >
     Ward 4 Councilmember and native Washingtonian with six years on DC Council.
     Howard University law graduate; former assistant attorney general of DC.
@@ -362,7 +420,31 @@
   election_slug: mayor
   in_fair_elections: true
   campaign_url: https://kenyanmcduffie.com/
-  endorsements: []
+  endorsements:
+    - "Sharon Pratt (Former Mayor)"
+    - "Tony Williams (Former Mayor)"
+    - "Anita Bonds (Councilmember)"
+    - "Wendell Felder (Councilmember)"
+    - "Mary Cheh (Former Councilmember)"
+    - "Linda Cropp (Former Council Chair)"
+    - "Charlene Drew Jarvis (Former Councilmember)"
+    - "Angela Alsobrooks (Senator, MD)"
+    - "Aisha Braveboy (County Executive)"
+    - "Tom Perez (Former Labor Secretary)"
+    - "Liz Oyer (Former Pardon Attorney)"
+    - "'Big G' Anwan Glover (Actor/Musician)"
+    - "Raheem DeVaughn (Singer-Songwriter)"
+    - "DJ Quicksilva"
+    - "Kurtis Blow (Musician/Producer)"
+    - "RAMW"
+    - "DMV New Liberals"
+    - "District of Columbia Association of Realtors"
+    - "Greater Capital Area Association of Realtors"
+    - "Associated Builders and Contractors Metro Washington"
+    - "Small Multifamily Owners Association"
+    - "Chevy Chase Forward"
+    - "Washington Parking Association"
+    - "Washington Jewish Week"
   short_bio: >
     Fourth-generation Washingtonian; 13-year DC Council member (Ward 5, then
     At-Large); author of the NEAR Act; former civil rights attorney in the Obama
@@ -623,7 +705,9 @@
   election_slug: mayor
   in_fair_elections: true
   campaign_url: https://www.goodweatherfordc.com/
-  endorsements: []
+  endorsements:
+    - "DMV New Liberals"
+    - "DC Voters for Animals"
   short_bio: >
     U.S. Army veteran (Captain); 30+ years in business and organizational
     leadership; Bucknell B.A. (Political Science) and Johns Hopkins MBA (Finance).

@@ -525,6 +525,7 @@ As Mayor, Kenyan will establish clear, age-appropriate standards for device use 
 Families deserve clear, parent-friendly information about what schools are delivering and how students are doing. Results should be understandable, trackable, and tied to action when performance falls short, enabling schools and agencies to coordinate supports that help students, teachers and families.
 
 As Mayor, Kenyan will make performance information easier to understand and more useful, including clearer explanations of assessments and what results mean for students and schools. Kenyan will also center chronic absenteeism as a measurable priority by setting clear goals and publicly tracking progress.
+
 # Endorsements
 - **Sharon Pratt**, *Former Mayor*
 - **Tony Williams**, *Former Mayor*
