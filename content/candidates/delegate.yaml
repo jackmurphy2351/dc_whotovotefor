@@ -382,7 +382,43 @@
   election_slug: delegate
   in_fair_elections: false
   campaign_url: https://brookepintoforcongress.com
-  endorsements: []
+  endorsements:
+    - "Gretchen Wharton (Campaign Co-chair, Lifelong Shaw Resident, Community & Arts Activist and Chair of Shaw Main Streets, Ward 2 Resident)"
+    - "Shawn Townsend (Campaign Co-chair, Community and Business Leader, Ward 5 Resident)"
+    - "Elizabeth Miller (Campaign Finance Co-chair, Community and Arts Leader, Ward 2 Resident)"
+    - "Rahsaan Bernard (Campaign Finance Co-chair, Advocate for bridging the DC community across the Anacostia River, Ward 8 Resident)"
+    - "Angela Alsobrooks (US Senator, D-MD)"
+    - "Richard Blumenthal (US Senator, D-CT)"
+    - "Anita Bonds (At-Large DC Councilmember)"
+    - "Tony Williams (Former DC Mayor)"
+    - "Charlene Drew Jarvis (Former Ward 4 Councilmember, 1979–2001)"
+    - "Bill Lightfoot (Former At-large Councilmember, 1989–1997)"
+    - "Michael D. Brown (Former DC Shadow Senator, 2007–2025)"
+    - "The Honorable Mary Cheh (Former Ward 3 Councilmember)"
+    - "Dave Hoagland (President, District of Columbia Firefighters Association, IAFF Local 36 and Ward 5 resident)"
+    - "DC YIMBYs"
+    - "Opportunity DC"
+    - "DMV New Liberals"
+    - "Small Multifamily & Rental Owners Association (SMOA)"
+    - "Rick Murphy (Former Georgetown ANC Chair)"
+    - "Allister Chang (Ward 2 Representative on the State Board of Education, Ward 2 Resident)"
+    - "Tom Birch (Former Georgetown ANC Chair)"
+    - "Kerry Kennedy"
+    - "Jenise 'Mama Jo' Patterson (DC family advocate and Ward 1 Resident)"
+    - "Nancy and Marc Duber (Community Leaders)"
+    - "Lisa D. T. Rice, S.M. (Ward 7 resident, mom of a Ward 8 DCPS teacher, gun safety advocate, democracy reform activist and proposer of Initiative 83)"
+    - "John Lever (Former Georgetown ANC Commissioner)"
+    - "Ian Callender (Award Winning Cultural Architect, Suite Nation, Ward 6 resident)"
+    - "Amy Titus (President, Citizens Association of Georgetown)"
+    - "Brenda Richardson (Community and Public Safety Advocate, Ward 8 Resident)"
+    - "Alexander M. 'Alex' Padro (small business, arts and preservation advocate, Ward 2 Resident)"
+    - "Jessica and Ezra Glass (small business owners, hospitality and real estate developers, Ward 2 Residents)"
+    - "Clint Mann (President of Urban Pace and Ward 1 resident and community leader)"
+    - "Ernie Drew Jarvis (Business leader and Ward 2 resident)"
+    - "Katherine Weishaar (Ward 6 resident and public school education advocate)"
+    - "Graham McLaughlin (Ward 7 community leader and resident)"
+    - "Gerren Price (Business leader, Ward 5 Resident, and Father of 2)"
+    - "James Pittman, Esq. (Former Deputy Attorney General for the District of Columbia)"
   short_bio: >
     Ward 2 Councilmember (Logan Circle); chair of Judiciary and Public Safety
     committee. Cornell and Georgetown Law graduate; former DC OAG attorney. Led
