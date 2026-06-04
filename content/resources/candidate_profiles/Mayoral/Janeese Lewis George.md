@@ -326,6 +326,7 @@ District government must be a reliable partner and provide clear guidelines, tai
 - **Rachel's Action Network**
 - **Casa in Action**
 - **DC Voters for Animals**
+- **Progressive Voters Network**
 - **Ward 1 Dems**
 - **AFSCME**, *District Council 20*
 - **District of Columbia Nurses Association**
