@@ -232,3 +232,56 @@ class TestValidation:
 
         content = load_all_content(content_dir)
         assert content.candidates["mayor"][0].id == "dave"
+
+    def test_unknown_endorsement_category_raises(self, tmp_path):
+        content_dir = minimal_content_dir(tmp_path)
+        write_yaml(tmp_path / "candidates" / "mayor.yaml", [
+            {
+                "id": "erin",
+                "name": "Erin",
+                "election_slug": "mayor",
+                "in_fair_elections": False,
+                "endorsements": [
+                    {"category": "Robots", "items": ["Bender"]},
+                ],
+                "short_bio": "",
+                "long_bio": "",
+                "campaign_url": None,
+                "advisories": [],
+                "sources": [],
+                "positions": [],
+            }
+        ])
+
+        with pytest.raises(ValueError, match="unknown.*category"):
+            load_all_content(content_dir)
+
+
+class TestEndorsementGroups:
+    def test_grouped_endorsements_parse(self, tmp_path):
+        content_dir = minimal_content_dir(tmp_path)
+        write_yaml(tmp_path / "candidates" / "mayor.yaml", [
+            {
+                "id": "fiona",
+                "name": "Fiona",
+                "election_slug": "mayor",
+                "in_fair_elections": False,
+                "endorsements": [
+                    {"category": "Labor unions", "items": ["32BJ SEIU", "UFCW Local 400"]},
+                    {"category": "Elected/Appointed Officials", "items": ["Some Councilmember"]},
+                ],
+                "short_bio": "",
+                "long_bio": "",
+                "campaign_url": None,
+                "advisories": [],
+                "sources": [],
+                "positions": [],
+            }
+        ])
+
+        content = load_all_content(content_dir)
+        fiona = content.candidates_by_id["fiona"]
+        assert len(fiona.endorsements) == 2
+        assert fiona.endorsements[0].category == "Labor unions"
+        assert fiona.endorsements[0].items == ("32BJ SEIU", "UFCW Local 400")
+        assert fiona.endorsement_count == 3

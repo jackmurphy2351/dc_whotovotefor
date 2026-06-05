@@ -9,18 +9,24 @@
   in_fair_elections: true
   campaign_url: https://rashidaforward1.com/
   endorsements:
-    - "Brianne Nadeau, retiring Ward 1 Councilmember"
-    - "DC Working Families Party (Ranking Recommendation)"
-    - "Greater Greater Washington (Ranking Recommendation)"
-    - "Jews United for Justice"
-    - "Sierra Club"
-    - "DC YIMBYs"
-    - "DC Voters for Animals"
-    - "GLAA DC (10/10 Rating)"
-    - "32BJ SEIU"
-    - "LiUNA! – Baltimore/Washington District Council"
-    - "IUPAT – District Council 51"
-    - "Committee of Interns and Residents – SEIU Healthcare"
+    - category: "Labor unions"
+      items:
+        - "32BJ SEIU"
+        - "LiUNA! – Baltimore/Washington District Council"
+        - "IUPAT – District Council 51"
+        - "Committee of Interns and Residents – SEIU Healthcare"
+    - category: "Elected/Appointed Officials"
+      items:
+        - "Brianne Nadeau, retiring Ward 1 Councilmember"
+    - category: "Advocacy & community organizations"
+      items:
+        - "DC Working Families Party (Ranking Recommendation)"
+        - "Greater Greater Washington (Ranking Recommendation)"
+        - "Jews United for Justice"
+        - "Sierra Club"
+        - "DC YIMBYs"
+        - "DC Voters for Animals"
+        - "GLAA DC (10/10 Rating)"
   short_bio: >
     Social worker, Howard grad, and ANC rep of 10 years who delivered 456 housing
     units (60% affordable) through Park Morton and Bruce Monroe. Policy director
@@ -329,12 +335,16 @@
   in_fair_elections: true
   campaign_url: https://terrylynchfordc.com/
   endorsements:
-    - "Bill Lightfoot, former DC Councilmember and chair of Bowser/Fenty mayoral campaigns"
-    - "Carol Fennelly, homeless and prison reform activist"
-    - "Fr. Ray Kemp, former DC School Board member and longtime pastor of St. Augustine's"
-    - "Sandra Seegars, Ward 8 ANC Commissioner"
-    - "Frank Agbro, Mt. Pleasant community leader and former ANC Commissioner"
-    - "Pat Patrick, former Adams Morgan Business Association President"
+    - category: "Elected/Appointed Officials"
+      items:
+        - "Bill Lightfoot, former DC Councilmember and chair of Bowser/Fenty mayoral campaigns"
+        - "Fr. Ray Kemp, former DC School Board member and longtime pastor of St. Augustine's"
+        - "Sandra Seegars, Ward 8 ANC Commissioner"
+        - "Frank Agbro, Mt. Pleasant community leader and former ANC Commissioner"
+    - category: "Individuals & public figures"
+      items:
+        - "Carol Fennelly, homeless and prison reform activist"
+        - "Pat Patrick, former Adams Morgan Business Association President"
   short_bio: >
     40-year Mt. Pleasant resident (age 66), Georgetown alumnus, and living kidney
     donor (2020). Began career at CCNV shelters with Mitch Snyder; founded Calvary
@@ -480,38 +490,42 @@
   in_fair_elections: true
   campaign_url: https://aparnafordc.com/
   endorsements:
-    - "Working Families Party"
-    - "Washington Teachers' Union"
-    - "Greater Greater Washington (Rank #1)"
-    - "Metro DC DSA"
-    - "Sierra Club"
-    - "Jews United for Justice"
-    - "Bike, Walk & Bus PAC"
-    - "DC Women in Politics"
-    - "DC for Democracy"
-    - "DC Voters for Animals (#2 Ranking)"
-    - "Our Revolution DC"
-    - "Run for Something"
-    - "Lead Locally"
-    - "Rachel's Action Network"
-    - "The Woodner Tenants' Union"
-    - "Tivoli Gardens Tenants Association – Asociación de Inquilinos"
-    - "Local 25 – UNITE HERE (hotel, restaurant, casino workers)"
-    - "Unite Here! Local 23"
-    - "Amalgamated Transit Union – ATU Local 689"
-    - "Metropolitan Washington Council – AFL-CIO"
-    - "32BJ SEIU"
-    - "SEIU Local 500"
-    - "Committee of Interns and Residents – SEIU Healthcare"
-    - "AFSCME – District Council 20"
-    - "AFGE Local 2978"
-    - "AFGE Local 2725"
-    - "AFGE – District 14"
-    - "UFCW Local 400"
-    - "CWA – Maryland-DC State Council"
-    - "Teamsters Local 639"
-    - "Nonprofit Professional Employees Union"
-    - "International Association of Fire Fighters – Local 36"
+    - category: "Labor unions"
+      items:
+        - "Washington Teachers' Union"
+        - "Local 25 – UNITE HERE (hotel, restaurant, casino workers)"
+        - "Unite Here! Local 23"
+        - "Amalgamated Transit Union – ATU Local 689"
+        - "Metropolitan Washington Council – AFL-CIO"
+        - "32BJ SEIU"
+        - "SEIU Local 500"
+        - "Committee of Interns and Residents – SEIU Healthcare"
+        - "AFSCME – District Council 20"
+        - "AFGE Local 2978"
+        - "AFGE Local 2725"
+        - "AFGE – District 14"
+        - "UFCW Local 400"
+        - "CWA – Maryland-DC State Council"
+        - "Teamsters Local 639"
+        - "Nonprofit Professional Employees Union"
+        - "International Association of Fire Fighters – Local 36"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Working Families Party"
+        - "Greater Greater Washington (Rank #1)"
+        - "Metro DC DSA"
+        - "Sierra Club"
+        - "Jews United for Justice"
+        - "Bike, Walk & Bus PAC"
+        - "DC Women in Politics"
+        - "DC for Democracy"
+        - "DC Voters for Animals (#2 Ranking)"
+        - "Our Revolution DC"
+        - "Run for Something"
+        - "Lead Locally"
+        - "Rachel's Action Network"
+        - "The Woodner Tenants' Union"
+        - "Tivoli Gardens Tenants Association – Asociación de Inquilinos"
   short_bio: >
     Tenant organizer, union member, and queer daughter of immigrants who has
     called Columbia Heights home for a decade. DSA volunteer; served on ANC 1A
@@ -865,11 +879,17 @@
   in_fair_elections: true
   campaign_url: https://jackieforward1.com/
   endorsements:
-    - "Anita Bonds, DC At-Large Councilmember"
-    - "Greater Capital Area Association of REALTORS (GCAAR)"
-    - "Sharon Snead, Hubbard Place Tenant Association President"
-    - "Casilda Luna, Latino community leader"
-    - "Yasmin Romero, former ANC 1 Commissioner"
+    - category: "Elected/Appointed Officials"
+      items:
+        - "Anita Bonds, DC At-Large Councilmember"
+        - "Yasmin Romero, former ANC 1 Commissioner"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Greater Capital Area Association of REALTORS (GCAAR)"
+    - category: "Individuals & public figures"
+      items:
+        - "Sharon Snead, Hubbard Place Tenant Association President"
+        - "Casilda Luna, Latino community leader"
   short_bio: >
     Born in El Salvador; came to DC in 1990 as a teenage mother who experienced
     homelessness. Rose to become Executive Director of the Mayor's Office on Latino

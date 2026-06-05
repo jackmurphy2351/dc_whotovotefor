@@ -12,23 +12,27 @@
   in_fair_elections: true
   campaign_url: https://charlesallen2026.com/
   endorsements:
-    - "Sierra Club"
-    - "Jews United for Justice"
-    - "Greater Greater Washington"
-    - "Capital Stonewall Democrats"
-    - "Working Families Party"
-    - "DC YIMBYs"
-    - "32BJ SEIU"
-    - "UNITE HERE Local 25"
-    - "LIUNA — Baltimore/Washington Laborers' District Council"
-    - "Amalgamated Transit Union Local 689"
-    - "International Association of Fire Fighters Local 36"
-    - "Restaurant Association Metropolitan Washington (RAMW)"
-    - "District of Columbia Association of REALTORS"
-    - "Washington National Organization for Women (NOW)"
-    - "DC Voters for Animals"
-    - "Center for Strong Public Schools Action Fund"
-    - "Opportunity DC"
+    - category: "Labor unions"
+      items:
+        - "32BJ SEIU"
+        - "UNITE HERE Local 25"
+        - "LIUNA — Baltimore/Washington Laborers' District Council"
+        - "Amalgamated Transit Union Local 689"
+        - "International Association of Fire Fighters Local 36"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Sierra Club"
+        - "Jews United for Justice"
+        - "Greater Greater Washington"
+        - "Capital Stonewall Democrats"
+        - "Working Families Party"
+        - "DC YIMBYs"
+        - "Restaurant Association Metropolitan Washington (RAMW)"
+        - "District of Columbia Association of REALTORS"
+        - "Washington National Organization for Women (NOW)"
+        - "DC Voters for Animals"
+        - "Center for Strong Public Schools Action Fund"
+        - "Opportunity DC"
   short_bio: >
     Three-term incumbent Ward 6 Councilmember and former chair of the Council's
     Committee on the Judiciary and Public Safety. Authored the STEER Act to hold
@@ -398,7 +402,9 @@
   in_fair_elections: false
   campaign_url: https://www.murphyforward6.com/
   endorsements:
-    - "Denise Rucker Krepp, former Ward 6 ANC commissioner and victims' rights advocate"
+    - category: "Elected/Appointed Officials"
+      items:
+        - "Denise Rucker Krepp, former Ward 6 ANC commissioner and victims' rights advocate"
   short_bio: >
     Litigator at Bailey & Glasser LLP and 30-year Capitol Hill resident running on
     transparency and public safety. Was the first to publicly allege that MPD

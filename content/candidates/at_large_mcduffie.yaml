@@ -10,12 +10,14 @@
   in_fair_elections: true
   campaign_url: https://www.donicrawford.com/
   endorsements:
-    - "Opportunity DC"
-    - "District of Columbia Association of REALTORS"
-    - "Greater Capital Association of REALTORS"
-    - "DC Charter School Action"
-    - "Center for Strong Public Schools Action Fund"
-    - "Washington Parking Association"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Opportunity DC"
+        - "District of Columbia Association of REALTORS"
+        - "Greater Capital Association of REALTORS"
+        - "DC Charter School Action"
+        - "Center for Strong Public Schools Action Fund"
+        - "Washington Parking Association"
   short_bio: >
     At-Large Councilmember (Independent), appointed unanimously January 2026.
     Former Committee Director of the Council's Committee on Business and Economic
@@ -277,7 +279,9 @@
   in_fair_elections: false
   campaign_url: https://www.jacque4dc.com/
   endorsements:
-    - "ElectED DC (education equity group)"
+    - category: "Advocacy & community organizations"
+      items:
+        - "ElectED DC (education equity group)"
   short_bio: >
     DC State Board of Education President; military veteran; 30-year DC community
     servant. Born in foster care, raised on social safety net programs. Former
@@ -480,25 +484,27 @@
   in_fair_elections: true
   campaign_url: https://www.elissafordc.com/
   endorsements:
-    # Labor
-    - "Metropolitan Washington Council, AFL-CIO"
-    - "Washington Teachers' Union"
-    - "AFSCME District Council 20"
-    - "32BJ SEIU"
-    - "Amalgamated Transit Union (ATU Local 689)"
-    - "Eastern Atlantic States Regional Council of Carpenters"
-    - "Washington DC Firefighters Local 36"
-    - "AFGE Local 2725"
-    - "LIUNA Metropolitan Area Laborers' District Council"
-    - "Committee of Interns and Residents (SEIU Healthcare)"
-    - "Local 25 (hotel, restaurant, casino workers)"
-    # Civic and advocacy
-    - "Greater Greater Washington"
-    - "Ward One Democrats"
-    - "Sierra Club"
-    - "Bike, Walk & Bus PAC"
-    - "DC Women in Politics"
-    - "DC YIMBYs"
+    - category: "Labor unions"
+      items:
+        - "Metropolitan Washington Council, AFL-CIO"
+        - "Washington Teachers' Union"
+        - "AFSCME District Council 20"
+        - "32BJ SEIU"
+        - "Amalgamated Transit Union (ATU Local 689)"
+        - "Eastern Atlantic States Regional Council of Carpenters"
+        - "Washington DC Firefighters Local 36"
+        - "AFGE Local 2725"
+        - "LIUNA Metropolitan Area Laborers' District Council"
+        - "Committee of Interns and Residents (SEIU Healthcare)"
+        - "Local 25 (hotel, restaurant, casino workers)"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Greater Greater Washington"
+        - "Ward One Democrats"
+        - "Sierra Club"
+        - "Bike, Walk & Bus PAC"
+        - "DC Women in Politics"
+        - "DC YIMBYs"
   short_bio: >
     Former At-Large Councilmember 2015–2023; lead champion for DC's paid family
     leave law. Former Washington Post reporter and DC Fiscal Policy Institute

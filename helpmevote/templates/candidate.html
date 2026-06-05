@@ -39,12 +39,17 @@
 
 {% if candidate.endorsements %}
 <section class="endorsements-section">
-  <h2>Endorsements</h2>
-  <ul>
-    {% for e in candidate.endorsements %}
-    <li>{{ e }}</li>
-    {% endfor %}
-  </ul>
+  <h2>Endorsements ({{ candidate.endorsement_count }})</h2>
+  {% for group in candidate.endorsements %}
+  <div class="endorsement-group">
+    <h3>{{ group.category }}</h3>
+    <ul>
+      {% for item in group.items %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
 </section>
 {% endif %}
 

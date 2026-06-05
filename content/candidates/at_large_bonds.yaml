@@ -9,15 +9,19 @@
   in_fair_elections: true
   campaign_url: https://www.chavousfordc.com/
   endorsements:
-    # Named endorsers
-    - "Eric Holder (Former US Attorney General)"
-    - "Anita Bonds (retiring DC At-Large Councilmember)"
-    - "Charlene Drew Jarvis (Former Ward 4 Councilmember)"
-    # Organizations
-    - "AFSCME District Council 20"
-    - "ElectED DC (Empowering DC Wards 7 & 8)"
-    - "Greater Capital Area Association of REALTORS"
-    - "Moms Demand Gun Sense (2026 candidate distinction)"
+    - category: "Labor unions"
+      items:
+        - "AFSCME District Council 20"
+    - category: "Elected/Appointed Officials"
+      items:
+        - "Eric Holder (Former US Attorney General)"
+        - "Anita Bonds (retiring DC At-Large Councilmember)"
+        - "Charlene Drew Jarvis (Former Ward 4 Councilmember)"
+    - category: "Advocacy & community organizations"
+      items:
+        - "ElectED DC (Empowering DC Wards 7 & 8)"
+        - "Greater Capital Area Association of REALTORS"
+        - "Moms Demand Gun Sense (2026 candidate distinction)"
   short_bio: >
     Attorney (Howard BA + JD); Ward 7 resident and father; son of former Ward 7
     Councilmember Kevin P. Chavous. Four years as Committee Director under Anita
@@ -583,10 +587,14 @@
   in_fair_elections: true
   campaign_url: "https://www.jacksonfordc.com/"
   endorsements:
-    - "Rep. Maxwell Alejandro Frost (D-FL)"
-    - "Fmr. Gov. Kathleen Sebelius (D-KS)"
-    - "Opportunity DC"
-    - "The Collective PAC"
+    - category: "Elected/Appointed Officials"
+      items:
+        - "Rep. Maxwell Alejandro Frost (D-FL)"
+        - "Fmr. Gov. Kathleen Sebelius (D-KS)"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Opportunity DC"
+        - "The Collective PAC"
   short_bio: >
     Former Biden White House deputy director of gun violence prevention (age 41);
     UVA grad (first Black freshman class president). Survived a 2013 Shaw shooting.
@@ -990,9 +998,13 @@
   in_fair_elections: true
   campaign_url: "https://www.candacefordc.com/"
   endorsements:
-    - "Jews United for Justice"
-    - "Bike, Walk & Bus PAC"
-    - "AFGE Local 2725 – AFL-CIO"
+    - category: "Labor unions"
+      items:
+        - "AFGE Local 2725 – AFL-CIO"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Jews United for Justice"
+        - "Bike, Walk & Bus PAC"
   short_bio: >
     Two-decade DC government veteran (age 50) and current President of the DC
     Black Democratic Caucus; former chief of staff to Ward 4 Councilmember Janeese
@@ -1184,34 +1196,38 @@
   in_fair_elections: true
   campaign_url: "https://www.vote4oye.com/"
   endorsements:
-    - "Sierra Club"
-    - "Washington Teachers' Union"
-    - "Working Families Party"
-    - "LIUNA – Metropolitan Area of Philadelphia, Baltimore, Washington Laborers' District Council"
-    - "DC Voters for Animals"
-    - "DC for Democracy"
-    - "Pro Animal Washington DC"
-    - "UNITE HERE! Local 25"
-    - "Jews United for Justice"
-    - "314 Action"
-    - "Bike, Walk & Bus PAC"
-    - "Unite Here! Local 23"
-    - "Ghana Diaspora Public Affairs Collective"
-    - "Nigerian-American Public Affairs Committee"
-    - "AFGE Local 2725"
-    - "We Power DC"
-    - "Teachers Unify Action Team"
-    - "DC National Organization for Women"
-    - "Capital Stonewall Democrats"
-    - "Committee of Interns and Residents – SEIU Healthcare"
-    - "American Postal Workers Union – AFL-CIO"
-    - "Ward 1 Democrats"
-    - "Amalgamated Transit Union – ATU Local 689"
-    - "International Association of Fire Fighters – Local 36"
-    - "Eastern Atlantic States Regional Council of Carpenters"
-    - "District of Columbia Latino Caucus"
-    - "SEIU Local 500"
-    - "DC Young Democrats"
+    - category: "Labor unions"
+      items:
+        - "Washington Teachers' Union"
+        - "LIUNA – Metropolitan Area of Philadelphia, Baltimore, Washington Laborers' District Council"
+        - "UNITE HERE! Local 25"
+        - "Unite Here! Local 23"
+        - "AFGE Local 2725"
+        - "Committee of Interns and Residents – SEIU Healthcare"
+        - "American Postal Workers Union – AFL-CIO"
+        - "Amalgamated Transit Union – ATU Local 689"
+        - "International Association of Fire Fighters – Local 36"
+        - "Eastern Atlantic States Regional Council of Carpenters"
+        - "SEIU Local 500"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Sierra Club"
+        - "Working Families Party"
+        - "DC Voters for Animals"
+        - "DC for Democracy"
+        - "Pro Animal Washington DC"
+        - "Jews United for Justice"
+        - "314 Action"
+        - "Bike, Walk & Bus PAC"
+        - "Ghana Diaspora Public Affairs Collective"
+        - "Nigerian-American Public Affairs Committee"
+        - "We Power DC"
+        - "Teachers Unify Action Team"
+        - "DC National Organization for Women"
+        - "Capital Stonewall Democrats"
+        - "Ward 1 Democrats"
+        - "District of Columbia Latino Caucus"
+        - "DC Young Democrats"
   short_bio: >
     Current DC Shadow Representative (2021–present, age 36); PharmD from
     Northeastern. Born in Boston to Nigerian immigrants; grew up to volunteer in DC
@@ -1580,26 +1596,34 @@
   in_fair_elections: true
   campaign_url: "https://lisaraymondfordc.com/"
   endorsements:
-    - "Charles Allen, Ward 6 Councilmember"
-    - "Mary Cheh, Former Ward 3 Councilmember"
-    - "Sekou Biddle, Former At-Large Councilmember and Former DC SBOE Member"
-    - "Laura Slover, Former DC State Board of Education President"
-    - "James Pittman, Former Deputy Attorney General"
-    - "Amber Gove, ANC 6A Chair"
-    - "Andrew DeFrank, ANC Commissioner 2B01"
-    - "VJ Kapur, ANC 5C07"
-    - "Zach Israel, Former ANC 4D Commissioner"
-    - "Salim Adofo"
-    - "Greater Greater Washington"
-    - "IAFF Local 36"
-    - "DC YIMBYs"
-    - "DC Women in Politics"
-    - "ElectED DC"
-    - "DC Charter School Action"
-    - "Center for Strong Public Schools Action Fund"
-    - "DC Association of Realtors"
-    - "Greater Capital Area Association of REALTORS (GCAAR)"
-    - "Opportunity DC"
+    - category: "Labor unions"
+      items:
+        - "IAFF Local 36"
+    - category: "Elected/Appointed Officials"
+      items:
+        - "Charles Allen, Ward 6 Councilmember"
+        - "Mary Cheh, Former Ward 3 Councilmember"
+        - "Sekou Biddle, Former At-Large Councilmember and Former DC SBOE Member"
+        - "Laura Slover, Former DC State Board of Education President"
+        - "James Pittman, Former Deputy Attorney General"
+        - "Amber Gove, ANC 6A Chair"
+        - "Andrew DeFrank, ANC Commissioner 2B01"
+        - "VJ Kapur, ANC 5C07"
+        - "Zach Israel, Former ANC 4D Commissioner"
+    - category: "Advocacy & community organizations"
+      items:
+        - "Greater Greater Washington"
+        - "DC YIMBYs"
+        - "DC Women in Politics"
+        - "ElectED DC"
+        - "DC Charter School Action"
+        - "Center for Strong Public Schools Action Fund"
+        - "DC Association of Realtors"
+        - "Greater Capital Area Association of REALTORS (GCAAR)"
+        - "Opportunity DC"
+    - category: "Individuals & public figures"
+      items:
+        - "Salim Adofo"
   short_bio: >
     Education policy veteran (age 56); began career supporting formerly incarcerated
     women at a Dupont Circle halfway house. Helped co-found Cesar Chavez Charter;

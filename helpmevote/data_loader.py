@@ -8,10 +8,22 @@ from .models import (
     AppContent,
     Candidate,
     Election,
+    EndorsementGroup,
     Issue,
     Position,
     Question,
     Source,
+)
+
+# Fixed, controlled vocabulary for endorsement group categories. Adding a new
+# label here is the only way to introduce a new category; validate_content
+# rejects anything else.
+ALLOWED_ENDORSEMENT_CATEGORIES = (
+    "Labor unions",
+    "Elected/Appointed Officials",
+    "Advocacy & community organizations",
+    "Individuals & public figures",
+    "Newspapers & editorial boards",
 )
 
 
@@ -62,6 +74,13 @@ def _parse_advisory(raw: dict) -> Advisory:
     )
 
 
+def _parse_endorsement_group(raw: dict) -> EndorsementGroup:
+    return EndorsementGroup(
+        category=raw["category"],
+        items=tuple(raw.get("items", [])),
+    )
+
+
 def _parse_candidate(raw: dict, election_slug: str) -> Candidate:
     return Candidate(
         id=raw["id"],
@@ -70,7 +89,9 @@ def _parse_candidate(raw: dict, election_slug: str) -> Candidate:
         short_bio=raw.get("short_bio", ""),
         long_bio=raw.get("long_bio", ""),
         campaign_url=raw.get("campaign_url"),
-        endorsements=tuple(raw.get("endorsements", [])),
+        endorsements=tuple(
+            _parse_endorsement_group(g) for g in raw.get("endorsements", [])
+        ),
         in_fair_elections=bool(raw.get("in_fair_elections", False)),
         positions=tuple(_parse_position(p) for p in raw.get("positions", [])),
         advisories=tuple(_parse_advisory(a) for a in raw.get("advisories", [])),
@@ -138,6 +159,13 @@ def validate_content(content: AppContent) -> None:
                 if pos.question_id not in content.questions:
                     raise ValueError(
                         f"Candidate '{c.id}' references unknown question '{pos.question_id}'"
+                    )
+            for group in c.endorsements:
+                if group.category not in ALLOWED_ENDORSEMENT_CATEGORIES:
+                    raise ValueError(
+                        f"Candidate '{c.id}' has endorsement group with unknown "
+                        f"category '{group.category}'. Allowed categories: "
+                        f"{', '.join(ALLOWED_ENDORSEMENT_CATEGORIES)}"
                     )
 
     for qid, q in content.questions.items():

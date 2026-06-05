@@ -256,6 +256,23 @@ a.badge-no-fair-elections:hover, a.badge-no-fair-elections:focus-visible { backg
 }
 .candidate-bio { font-size: .9rem; color: var(--text-light); margin-bottom: .5rem; }
 .endorsements  { font-size: .85rem; margin-bottom: .75rem; }
+.endorsements summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--dc-navy);
+}
+/* Grouped endorsement lists, shared by the card (<details>) and the profile page. */
+.endorsement-group { margin-top: .5rem; }
+.endorsement-group h3,
+.endorsement-group h4 {
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  color: var(--text-light);
+  margin: .4rem 0 .15rem;
+}
+.endorsement-group ul { margin: 0 0 .35rem 1.1rem; }
+.endorsement-group li { margin-bottom: .1rem; }
 
 /* ── Candidate profile page ──────────────────────────────────────────────── */
 .candidate-profile-header { margin-bottom: 1.25rem; }

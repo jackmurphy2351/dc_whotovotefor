@@ -31,6 +31,13 @@ class Advisory:
 
 
 @dataclass(frozen=True)
+class EndorsementGroup:
+    """A category of endorsers (e.g. 'Labor unions') and the endorser names in it."""
+    category: str
+    items: tuple[str, ...]
+
+
+@dataclass(frozen=True)
 class Candidate:
     id: str
     name: str
@@ -38,11 +45,16 @@ class Candidate:
     short_bio: str
     long_bio: str
     campaign_url: str | None
-    endorsements: tuple[str, ...]
+    endorsements: tuple[EndorsementGroup, ...]
     in_fair_elections: bool
     positions: tuple[Position, ...]
     advisories: tuple[Advisory, ...]
     sources: tuple[Source, ...]
+
+    @property
+    def endorsement_count(self) -> int:
+        """Total number of endorsers across all groups."""
+        return sum(len(group.items) for group in self.endorsements)
 
 
 @dataclass(frozen=True)

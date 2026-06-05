@@ -58,10 +58,19 @@
       <p class="candidate-bio">{{ candidate.short_bio }}</p>
 
       {% if candidate.endorsements %}
-      <p class="endorsements">
-        <strong>Endorsed by:</strong>
-        {{ candidate.endorsements | join(", ") }}
-      </p>
+      <details class="endorsements">
+        <summary>Endorsements ({{ candidate.endorsement_count }})</summary>
+        {% for group in candidate.endorsements %}
+        <div class="endorsement-group">
+          <h4>{{ group.category }}</h4>
+          <ul>
+            {% for item in group.items %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </details>
       {% endif %}
 
       <a href="{{ url_for('elections.candidate', election_slug=election.slug, candidate_id=candidate.id) }}"
