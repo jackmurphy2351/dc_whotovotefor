@@ -54,3 +54,91 @@
     interferencia del Congreso, y resistir los intentos federales de tomar el control
     de instituciones locales como el Departamento de Policía Metropolitana o de
     desplegar la Guardia Nacional y agentes federales en la ciudad.
+
+- id: tenants_rights
+  label: "Derechos de los inquilinos"
+  description: >
+    Protecciones para los inquilinos de DC, incluyendo la Ley de Oportunidad de
+    Compra para Inquilinos (TOPA), la asistencia de emergencia para el alquiler y
+    las medidas contra el desplazamiento.
+
+- id: community_safety
+  label: "Seguridad comunitaria y prevención de la violencia"
+  description: >
+    Enfoques de salud pública y comunitarios para reducir la violencia —incluyendo
+    los interruptores de violencia, la Ley NEAR y los servicios con enfoque en el
+    trauma— como algo distinto de las estrategias policiales tradicionales.
+
+- id: policing
+  label: "Policía y justicia penal"
+  description: >
+    Enfoques tradicionales de aplicación de la ley para la seguridad pública: los
+    niveles de dotación del MPD, las penas penales, la detención preventiva y
+    legislación como la Ley Ómnibus Secure DC.
+
+- id: dc_statehood
+  label: "Estadidad de DC"
+  description: >
+    Cómo debe el Distrito buscar la estadidad plena y la representación con derecho
+    a voto en el Congreso, incluyendo enfoques alternativos como la exención de
+    impuestos federales para los residentes de DC.
+
+- id: federal_workers
+  label: "Protecciones para los trabajadores federales"
+  description: >
+    Cómo debe responder DC a las reducciones masivas de la fuerza laboral federal
+    de la era Trump, incluyendo si usar litigios, políticas santuario o defensa
+    pública para proteger a los más de 160,000 trabajadores federales que viven o
+    trabajan en el Distrito.
+
+- id: environment
+  label: "Medio ambiente y energía limpia"
+  description: >
+    La transición de DC hacia la energía renovable, la resiliencia climática, la
+    justicia ambiental y el impacto de la infraestructura a gran escala —como los
+    centros de datos— en la red eléctrica y el medio ambiente del Distrito.
+
+- id: parks_recreation
+  label: "Parques y recreación"
+  description: >
+    Financiamiento y programación para el Departamento de Parques y Recreación de
+    DC —incluyendo los horarios de los centros recreativos, los programas de empleo
+    juvenil, los servicios para personas mayores y los espacios verdes públicos.
+
+- id: sanitation
+  label: "Saneamiento y ratas"
+  description: >
+    El enfoque de DC sobre el control de roedores, la infraestructura de basura y
+    la limpieza pública —incluyendo si desplegar en toda la ciudad contenedores de
+    basura a prueba de roedores y aumentar la coordinación del DPW en la
+    exterminación.
+
+- id: harm_reduction
+  label: "Reducción de daños y política de drogas"
+  description: >
+    Si DC debe adoptar enfoques de reducción de daños para la crisis de opioides
+    —incluyendo sitios de inyección segura (centros de prevención de sobredosis)
+    donde las personas puedan usar drogas bajo supervisión médica— en lugar de
+    depender únicamente de la aplicación de la ley y el tratamiento tradicional.
+
+- id: food_access
+  label: "Acceso a los alimentos y seguridad alimentaria"
+  description: >
+    Cómo debe DC abordar los desiertos alimentarios y la inseguridad alimentaria
+    —incluyendo el acceso a supermercados en los distritos desatendidos al este del
+    Anacostia, opciones de supermercados de propiedad pública o incentivados, y
+    programas de nutrición como las comidas escolares y de verano.
+
+- id: labor
+  label: "Empleos, salarios y derechos de los trabajadores"
+  description: >
+    Protecciones y oportunidades para los trabajadores de DC —incluyendo el salario
+    mínimo, la licencia familiar y médica remunerada, los estándares laborales y los
+    programas de desarrollo de la fuerza laboral y de contratación local.
+
+- id: homelessness
+  label: "Falta de vivienda e inseguridad habitacional"
+  description: >
+    Cómo debe responder DC a la falta de vivienda —incluyendo la vivienda permanente
+    con servicios de apoyo y el enfoque «Housing First», los refugios de emergencia y
+    el papel del desalojo de campamentos.

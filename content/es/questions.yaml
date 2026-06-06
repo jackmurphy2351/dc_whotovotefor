@@ -116,3 +116,359 @@
     quieren una postura agresiva y de confrontación —mediante litigios, legislación y
     defensa pública— hasta quienes prefieren un compromiso pragmático con el Congreso y
     la Casa Blanca para proteger los intereses de DC.
+
+- id: housing_topa_restore
+  prompt: "DC debería restaurar y fortalecer la TOPA (la Ley de Oportunidad de Compra para Inquilinos) para dar a los inquilinos el derecho de comprar su edificio antes de que se venda a un comprador externo."
+  explanation: >
+    La TOPA (Código de DC, Título 42, Capítulo 34) otorga a los inquilinos de DC un
+    derecho preferente de compra cuando su arrendador quiere vender. Enmiendas recientes
+    redujeron su alcance. Fortalecer la TOPA es una herramienta clave contra el
+    desplazamiento.
+
+- id: housing_dopa
+  prompt: "DC debería usar la Ley de Oportunidad de Compra del Distrito (DOPA) para comprar edificios de apartamentos y preservarlos como vivienda asequible."
+  explanation: >
+    La DOPA otorga al Distrito el derecho de comprar ciertos edificios multifamiliares
+    cuando salen al mercado, lo que permite a la ciudad preservar las unidades asequibles
+    en lugar de dejar que se conviertan en vivienda a precio de mercado.
+
+- id: housing_production_trust_fund
+  prompt: "DC debería aumentar significativamente el Fondo Fiduciario para la Producción de Vivienda."
+  explanation: >
+    El Fondo Fiduciario para la Producción de Vivienda (HPTF) financia la construcción y
+    preservación de vivienda asequible. La alcaldesa Bowser propuso recortar el fondo en
+    un 50% en su presupuesto más reciente. Los candidatos difieren sobre si aumentarlo,
+    mantenerlo o recortarlo.
+
+- id: housing_social_model
+  prompt: "DC debería adoptar un modelo de vivienda social: vivienda de propiedad pública y de ingresos mixtos."
+  explanation: >
+    La vivienda social (como se implementa en Viena, Singapur y el condado de Montgomery,
+    MD) usa terreno y financiamiento público para construir comunidades de ingresos mixtos
+    permanentemente asequibles. Actualmente DC depende principalmente de subsidios a
+    desarrolladores privados.
+
+- id: education_community_schools
+  prompt: "DC debería ampliar el modelo de «escuelas comunitarias», donde las escuelas funcionan como centros del vecindario que ofrecen salud mental, apoyo familiar y otros servicios más allá de la educación."
+  explanation: >
+    Las escuelas comunitarias ofrecen servicios integrales —clínicos de salud mental,
+    trabajadores sociales, programas de apoyo familiar— además de la instrucción académica.
+    DC tiene una Iniciativa de Incentivo para Escuelas Comunitarias a través de OSSE.
+
+- id: crime_public_health
+  prompt: "DC debería tratar la violencia como un problema de salud pública, invirtiendo fuertemente en programas de interrupción de la violencia y en soluciones basadas en la comunidad."
+  explanation: >
+    La Ley NEAR (Neighborhood Engagement Achieves Results), aprobada por el Concejo de DC
+    en 2016, estableció un marco de salud pública para la reducción de la violencia que
+    incluye interruptores de violencia, atención con enfoque en el trauma y trabajadores
+    comunitarios de salud.
+
+- id: crime_secure_dc
+  prompt: "La legislación ómnibus Secure DC de 2024 —que aumentó las penas y amplió la detención preventiva— fue el enfoque correcto para abordar el aumento de la delincuencia en DC."
+  explanation: >
+    La Ley Ómnibus Secure DC de 2024 aumentó las penas penales, amplió las herramientas de
+    detención preventiva y agregó nuevos delitos. Se aprobó con apoyo de todo el espectro
+    político del Concejo de DC, aunque sus críticos la calificaron de ineficaz o
+    contraproducente.
+
+- id: crime_more_police
+  prompt: "Contratar significativamente más oficiales del MPD es una prioridad para reducir la delincuencia en DC."
+  explanation: >
+    El MPD ha visto disminuir su número de oficiales muy por debajo de su nivel autorizado
+    en los últimos años. Ambos principales candidatos a la alcaldía apoyan contratar más
+    oficiales, pero difieren en cuánto priorizar esto frente a otros enfoques de reducción
+    de la delincuencia.
+
+- id: statehood_top_priority
+  prompt: "Lograr la estadidad de DC debería ser la máxima prioridad del delegado del Distrito en el Congreso."
+  explanation: >
+    Los residentes de DC pagan impuestos federales y prestan servicio militar, pero no
+    tienen representación con derecho a voto en el Congreso. La estadidad le daría a DC dos
+    senadores y un representante con voto en la Cámara.
+
+- id: statehood_tax_exemption
+  prompt: "Los residentes de DC deberían estar exentos de los impuestos federales sobre la renta, como los residentes de Puerto Rico."
+  explanation: >
+    Un candidato (Greg Jaczko) propone que, dado que los residentes de DC no tienen
+    representación con derecho a voto, no deberían estar sujetos a los impuestos federales
+    sobre la renta —un enfoque inspirado en territorios como Puerto Rico. Los críticos
+    sostienen que esto distrae de la lucha por la estadidad.
+
+- id: federal_workers_advocate
+  prompt: "DC debería usar todas las herramientas legales disponibles —incluyendo litigios y defensa pública— para proteger a los trabajadores federales de los despidos masivos y defender a las agencias federales de su reubicación fuera del Distrito."
+  explanation: >
+    Washington, DC tiene más de 160,000 empleados federales. Las reducciones de personal
+    impulsadas por DOGE bajo la administración Trump han provocado despidos masivos y
+    propuestas para reubicar agencias federales. Los candidatos difieren sobre con qué
+    firmeza debe responder DC.
+
+- id: environment_renewable_energy
+  prompt: "DC debería acelerar agresivamente su transición a un 100% de energía renovable, instalando paneles solares en edificios públicos e invirtiendo en energía geotérmica y otras fuentes limpias."
+  explanation: >
+    DC tiene un Estándar de Cartera Renovable con la meta de un 100% de electricidad
+    renovable para 2032. Los candidatos difieren sobre con qué proactividad debe el
+    Distrito invertir recursos públicos en energía solar, geotérmica e infraestructura de
+    energía limpia más allá de los mandatos actuales.
+
+- id: environment_data_centers
+  prompt: "DC debería imponer límites a la construcción de nuevos centros de datos en el Distrito."
+  explanation: >
+    El norte de Virginia alberga la mayor concentración de centros de datos del mundo, y DC
+    enfrenta presión para expandir los suyos. Los grandes centros de datos requieren
+    enormes cantidades de electricidad y agua para su enfriamiento, lo que genera
+    preocupación por la fiabilidad de la red y el impacto ambiental.
+
+- id: parks_rec_funding
+  prompt: "DC debería aumentar el financiamiento del Departamento de Parques y Recreación, incluyendo horarios extendidos en los centros recreativos y una mayor programación para jóvenes y personas mayores."
+  explanation: >
+    El Departamento de Parques y Recreación (DPR) de DC opera más de 70 instalaciones y
+    ofrece empleos juveniles, programas extraescolares, servicios para personas mayores y
+    programación comunitaria. Las presiones presupuestarias han llevado a reducir horarios
+    y personal en algunas instalaciones en los últimos años.
+
+- id: sanitation_rats
+  prompt: "DC debería implementar un programa integral de control de roedores en toda la ciudad —incluyendo el reemplazo de los contenedores de basura estándar por botes a prueba de roedores— para abordar la infestación crónica de ratas del Distrito."
+  explanation: >
+    DC se ubica constantemente entre las ciudades más infestadas de ratas de EE. UU. Las
+    soluciones propuestas por los candidatos incluyen contenedores de basura de acero a
+    prueba de roedores en todos los distritos, una mejor coordinación del DPW y programas
+    sistemáticos de exterminación.
+
+- id: harm_reduction_safe_injection
+  prompt: "DC debería abrir sitios de inyección segura (centros de prevención de sobredosis) donde las personas puedan usar drogas bajo supervisión médica."
+  explanation: >
+    Los sitios de inyección segura (también llamados centros de prevención de sobredosis)
+    permiten que las personas usen drogas obtenidas previamente bajo supervisión médica, con
+    personal que puede intervenir en una sobredosis. La ciudad de Nueva York abrió los
+    primeros sitios legalmente autorizados de EE. UU. en 2021. En 2023, Janeese Lewis George
+    solicitó $15 millones en el presupuesto del año fiscal 2024 de DC para abrir dos de estos
+    centros. DC tiene una de las tasas de muerte por sobredosis más altas entre las
+    jurisdicciones de EE. UU.
+
+- id: transit_congestion_pricing
+  prompt: "DC debería implementar la tarificación por congestión: cobrar a los conductores por entrar a las zonas más concurridas del centro."
+  explanation: >
+    El DDOT ha estudiado la tarificación por congestión como herramienta para reducir los
+    embotellamientos, disminuir las emisiones y recaudar ingresos para el transporte público.
+    Otras ideas relacionadas de tarificación vial incluyen peajes para quienes vienen de los
+    suburbios y tarifas más altas para los permisos de estacionamiento residencial. Los
+    candidatos van desde partidarios activos hasta quienes solo la estudiarían con cautela.
+
+- id: crime_police_in_schools
+  prompt: "DC debería mantener a los oficiales de policía fuera de las escuelas públicas e invertir en su lugar en consejeros, trabajadores sociales y personal de salud mental."
+  explanation: >
+    La ley de reforma policial de DC de 2020 buscó eliminar gradualmente a los Oficiales de
+    Recursos Escolares de las DCPS, un cambio que ha sido debatido y parcialmente revertido
+    ante las preocupaciones por la delincuencia. Los candidatos difieren sobre si invertir en
+    apoyos no policiales —consejeros y personal de salud conductual— o mantener una presencia
+    policial en y alrededor de las escuelas.
+
+- id: education_mayoral_control
+  prompt: "DC debería poner fin al control municipal de las Escuelas Públicas de DC y devolver la autoridad a una Junta Estatal de Educación electa."
+  explanation: >
+    La Ley de Reforma de la Educación Pública de 2007 puso a las DCPS bajo el control directo
+    del alcalde, reduciendo a la Junta Estatal de Educación electa a un papel mayormente
+    asesor. Algunos candidatos devolverían la autoridad de gobierno a la junta electa; otros
+    apoyan mantener la rendición de cuentas en manos del alcalde.
+
+- id: environment_public_power
+  prompt: "DC debería crear una empresa de electricidad de propiedad pública para reemplazar a Pepco."
+  explanation: >
+    Pepco, un monopolio de propiedad de inversionistas, tiene garantizada una tasa de retorno
+    fija y ha subido las tarifas repetidamente. Algunos candidatos sostienen que DC debería
+    avanzar hacia la energía pública —una empresa municipal como las que sirven a Nebraska o a
+    muchas ciudades de EE. UU., que tienden a cobrar tarifas más bajas— mientras que otros
+    prefieren una regulación más estricta de Pepco a través de la Comisión de Servicios
+    Públicos en lugar de la propiedad pública.
+
+- id: statehood_strategy_bipartisan
+  prompt: "El delegado de DC debería buscar la estadidad principalmente construyendo coaliciones bipartidistas y acuerdos legislativos en el Congreso, en lugar de hacerlo mediante la confrontación y la protesta."
+  explanation: >
+    Los candidatos difieren en las tácticas para avanzar hacia la estadidad. Algunos prefieren
+    la paciente construcción de coaliciones y un enfoque de «gran acuerdo» entre ambos
+    partidos; otros sostienen que décadas de esa estrategia han fracasado y piden tácticas más
+    confrontativas —que llegan incluso a la resistencia fiscal— para forzar el tema.
+
+- id: delegate_budget_autonomy
+  prompt: "Defender la autonomía presupuestaria y legislativa de DC frente a la interferencia del Congreso debería ser una máxima prioridad para el delegado del Distrito."
+  explanation: >
+    Bajo la Ley de Autogobierno (Home Rule Act), el Congreso puede revisar y revocar las leyes
+    de DC e interferir con el presupuesto recaudado localmente por el Distrito —como lo hizo al
+    recortar aproximadamente $1,000 millones del presupuesto de DC en 2025. Los candidatos
+    difieren sobre con qué firmeza debe el delegado priorizar la protección de la autonomía y
+    el presupuesto de DC frente a la interferencia federal.
+
+- id: delegate_oppose_federal_mpd
+  prompt: "El delegado debería combatir los intentos federales de tomar el control del departamento de policía de DC o de desplegar la Guardia Nacional y agentes federales en la ciudad."
+  explanation: >
+    En 2025, el gobierno federal invocó la Sección 740 de la Ley de Autogobierno para asumir el
+    control del Departamento de Policía Metropolitana y desplegó la Guardia Nacional y agentes
+    federales en DC. Los candidatos difieren sobre con qué contundencia resistir la toma federal
+    de las instituciones locales de seguridad pública.
+
+- id: transit_metro_funding
+  prompt: "DC debería aumentar su financiamiento para el Metro (WMATA), incluso si eso significa recortar otros servicios de la ciudad."
+  explanation: >
+    WMATA enfrenta déficits operativos estructurales, y DC, Maryland y Virginia negocian sus
+    respectivas contribuciones. Un debate recurrente es si DC debería aportar más —incluso a
+    costa de otros servicios— o esperar hasta que Maryland y Virginia aumenten su parte, ya que
+    muchos usuarios viajan desde los suburbios.
+
+- id: econ_commuter_tax
+  prompt: "DC debería imponer un impuesto a quienes trabajan en el Distrito pero viven en Maryland o Virginia (si la ley federal lo permitiera)."
+  explanation: >
+    La ley federal (la Ley de Autogobierno) actualmente prohíbe a DC gravar los ingresos de los
+    no residentes que trabajan en la ciudad. Los partidarios sostienen que quienes vienen de los
+    suburbios usan los servicios de la ciudad sin contribuir a la base tributaria; los opositores
+    advierten que podría desalentar a negocios y compradores, y requeriría una ley del Congreso
+    para implementarse.
+
+- id: transit_traffic_cameras
+  prompt: "DC debería ampliar su programa de cámaras automatizadas de control de tránsito (cámaras de velocidad y de luz roja)."
+  explanation: >
+    DC opera uno de los programas de cámaras automatizadas de control de tránsito más grandes
+    del país. Los partidarios presentan las cámaras como una herramienta de seguridad vial de
+    Vision Zero; los críticos las llaman una carga regresiva impulsada por la recaudación que
+    afecta más a los conductores de bajos ingresos, y cuestionan su ubicación.
+
+- id: housing_production_vs_affordability
+  prompt: "Cuando ambas entran en conflicto, DC debería priorizar construir más vivienda rápidamente —incluida la de precio de mercado— por encima de maximizar los requisitos de asequibilidad profunda en cada proyecto."
+  explanation: >
+    Una tensión central en la vivienda: los partidarios de «producción primero» sostienen que
+    reducir las barreras regulatorias y construir más de todo tipo (incluida la de precio de
+    mercado) es la forma más rápida de bajar los costos, mientras que los partidarios de
+    «asequibilidad primero» sostienen que, sin requisitos de asequibilidad profunda, la nueva
+    oferta desplaza a los residentes de siempre. Muchos candidatos rechazan el planteamiento
+    como una falsa disyuntiva; una respuesta neutral o mixta refleja esa visión.
+
+- id: housing_office_conversion
+  prompt: "DC debería ofrecer incentivos para convertir los edificios de oficinas vacíos del centro en vivienda, aun si eso significa eximir a esas conversiones de los requisitos de vivienda asequible."
+  explanation: >
+    Con una desocupación de oficinas en el centro cercana al 20%, DC ha usado incentivos
+    fiscales para impulsar las conversiones de oficinas a viviendas. El debate es si eximir los
+    requisitos de vivienda inclusiva/asequible para que las (costosas) conversiones sean
+    financieramente viables, o insistir en la asequibilidad aun a riesgo de que menos proyectos
+    resulten rentables.
+
+- id: econ_rfk_stadium
+  prompt: "El acuerdo de reurbanización del estadio RFK / los Washington Commanders del Distrito, tal como está estructurado, es una buena inversión para los residentes de DC."
+  explanation: >
+    El acuerdo de DC para reurbanizar el sitio del estadio RFK y traer de regreso a los
+    Washington Commanders compromete recursos públicos sustanciales junto con compromisos de
+    beneficio comunitario, contratación local y equidad. Los candidatos se dividen entre defender
+    el acuerdo (y su supervisión), querer renegociarlo para una mayor participación pública, y
+    reprocharle garantías débiles de equidad o de contratación local.
+
+- id: food_access_public_grocery
+  prompt: "DC debería intervenir directamente para eliminar los desiertos alimentarios —incluso abriendo un supermercado de propiedad pública en zonas desatendidas como el este del Anacostia."
+  explanation: >
+    Muchos vecindarios, especialmente al este del río Anacostia, tienen pocos supermercados de
+    servicio completo. Los candidatos difieren en la solución: algunos (p. ej. Janeese Lewis
+    George) proponen un supermercado municipal de propiedad pública, mientras que otros prefieren
+    incentivos para atraer a supermercados privados (como hizo DC con Lidl en Skyland, en el
+    Distrito 8). El presupuesto de la alcaldesa Bowser también propuso recortar una oficina que
+    ayuda a los estudiantes a acceder a las comidas de verano.
+
+- id: environment_electricity_affordability
+  prompt: "DC debería actuar agresivamente para reducir las facturas de electricidad de los residentes —por ejemplo, impugnando o revirtiendo los aumentos de tarifas de Pepco a través de la Comisión de Servicios Públicos."
+  explanation: >
+    Pepco, un monopolio de propiedad de inversionistas, busca repetidamente aumentos de tarifas
+    aprobados por la Comisión de Servicios Públicos de DC, y el alza de las facturas de
+    electricidad surgió como una de las principales preocupaciones de asequibilidad en la
+    contienda de 2026. Los candidatos difieren sobre con qué agresividad debe intervenir el
+    Distrito —desde impugnar los aumentos de tarifas y fortalecer la regulación hasta buscar la
+    energía pública— frente a tratar las facturas de servicios como un asunto de mercado. Esto es
+    distinto de si DC debería municipalizar la empresa por completo.
+
+- id: econ_business_activity_tax
+  prompt: "DC debería crear un nuevo impuesto a las firmas de servicios profesionales de altos ingresos —como bufetes de abogados, cabilderos y consultores— para recaudar ingresos para los programas de la ciudad."
+  explanation: >
+    Ante un déficit presupuestario, algunos candidatos (en particular Janeese Lewis George) han
+    propuesto un nuevo impuesto a la actividad comercial dirigido a las firmas de servicios
+    profesionales de altos ingresos como bufetes de abogados, cabilderos y consultores. Los
+    partidarios lo ven como una forma progresiva de financiar servicios; los opositores (como
+    Kenyan McDuffie) advierten que expulsaría a los empleadores en medio de la pérdida de empleos
+    federales.
+
+- id: labor_worker_protections
+  prompt: "DC debería fortalecer las protecciones de los trabajadores —ampliando la licencia familiar y médica remunerada y aumentando el salario mínimo— aun si eso eleva los costos para los empleadores."
+  explanation: >
+    El programa de Licencia Remunerada Universal de DC actualmente ofrece hasta 12 semanas de
+    licencia familiar y médica remunerada, y el Distrito tiene uno de los salarios mínimos más
+    altos del país. Algunos candidatos (como Elissa Silverman, autora de la ley de licencia
+    remunerada) ampliarían aún más estas protecciones, argumentando que los salarios impulsan la
+    asequibilidad; otros se preocupan por los costos adicionales para los pequeños empleadores en
+    medio de un presupuesto ajustado y la pérdida de empleos federales.
+
+- id: homelessness_housing_first
+  prompt: "DC debería ampliar la vivienda permanente con servicios de apoyo y los servicios «Housing First» para abordar la falta de vivienda, en lugar de depender del desalojo de campamentos."
+  explanation: >
+    La estrategia de servicios para personas sin hogar de DC ha enfatizado el enfoque «Housing
+    First» —trasladar a las personas a vivienda permanente con servicios integrales de apoyo—
+    aun cuando la ciudad y el gobierno federal han intensificado el desalojo de campamentos. Los
+    candidatos difieren sobre si ampliar la inversión en vivienda con apoyo o priorizar el
+    desalojo de campamentos y los refugios.
+
+- id: education_impact_osse
+  prompt: "DC debería reformar a fondo el sistema de evaluación docente IMPACT y hacer que la Oficina del Superintendente Estatal de Educación (OSSE) sea independiente del alcalde."
+  explanation: >
+    IMPACT es el sistema de evaluación docente de las DCPS basado en exámenes y observaciones,
+    criticado durante mucho tiempo por el Washington Teachers' Union; OSSE, la agencia estatal de
+    educación, actualmente responde ante el alcalde. Algunos candidatos (como Janeese Lewis
+    George) reformarían a fondo IMPACT y harían a OSSE independiente; otros (como Kenyan
+    McDuffie) se han opuesto a proyectos de ley de independencia anteriores y defienden el sistema
+    de evaluación actual.
+
+- id: housing_height_act_repeal
+  prompt: "DC debería presionar al Congreso para que derogue o flexibilice la Ley federal de Altura (Height Act) para que el Distrito pueda construir edificios más altos."
+  explanation: >
+    La Ley de Altura de los Edificios de 1910 limita la altura de los edificios en DC y solo
+    puede modificarse por el Congreso. Algunos candidatos (en particular la candidata a delegada
+    Brooke Pinto) sostienen que derogarla o flexibilizarla permitiría a DC añadir vivienda y
+    densidad; otros lo ven como una baja prioridad o valoran preservar el bajo perfil urbano de
+    la ciudad.
+
+- id: delegate_federal_land_transfer
+  prompt: "El delegado debería trabajar para transferir terrenos federales en DC —como las parcelas del Servicio de Parques Nacionales y los edificios federales vacíos o excedentes— al control local del Distrito."
+  explanation: >
+    El gobierno federal posee grandes cantidades de terreno dentro de DC, incluyendo más de 300
+    «reservaciones» del Servicio de Parques Nacionales y edificios vacíos de la GSA dejados por
+    la reubicación de agencias. Transferir estas parcelas al Distrito es una de las pocas
+    palancas concretas que tiene un delegado para ampliar la base tributaria de DC y construir
+    vivienda. Los candidatos de la contienda de 2026 apoyan ampliamente las transferencias, pero
+    difieren sobre si el Congreso debería imponer condiciones sobre el uso del terreno o
+    simplemente entregarlo y dejar que DC decida localmente.
+
+- id: delegate_impeach_trump
+  prompt: "El delegado debería impulsar activamente el juicio político (impeachment) del presidente Trump."
+  explanation: >
+    Ante lo que describen como una interferencia federal sin ley en DC —desde la congelación del
+    presupuesto y los despliegues de la Guardia Nacional hasta la demolición del Ala Este de la
+    Casa Blanca— los candidatos difieren sobre la respuesta apropiada. Un candidato (Greg Jaczko)
+    sostiene que el juicio político es el remedio constitucional contra la «tiranía» y reprocha al
+    liderazgo demócrata haberlo evitado; otros enfatizan la construcción de coaliciones, las
+    audiencias de supervisión, recuperar el Congreso, o asegurar pragmáticamente recursos para DC
+    en lugar de priorizar el juicio político.
+
+- id: delegate_metro_federal_funding
+  prompt: "El gobierno federal debería asumir un compromiso de financiamiento permanente con el Metro (WMATA), y el delegado debería luchar para conseguirlo."
+  explanation: >
+    El Metro fue construido por el gobierno federal y sirve a este y a su fuerza laboral, pero la
+    contribución federal actual (a través de la ley PRIIA) es ampliamente vista como obsoleta e
+    insuficiente, lo que deja a DC, Maryland y Virginia negociar el resto. Los candidatos
+    coinciden en general en que el delegado debería luchar por un financiamiento federal
+    permanente, aunque algunos lo vinculan con la estadidad y la «igualdad de condiciones»,
+    mientras que otros recalcan que Maryland y Virginia también deben aportar una parte regional
+    justa. Esto es distinto de si DC debería aportar más de su propio presupuesto al Metro.
+
+- id: delegate_contracting_equity
+  prompt: "La contratación federal debería dar preferencias a los negocios locales y a los de propiedad de minorías y mujeres (como las Empresas Certificadas de DC), en lugar de adjudicar contratos únicamente por el menor costo y la competencia abierta."
+  explanation: >
+    La contratación pública federal es una palanca económica importante para DC. Los candidatos
+    difieren en el énfasis: algunos abogan por puntos de preferencia explícitos y reservas para
+    las Empresas Certificadas (CBE) y las firmas de propiedad de minorías y mujeres para remediar
+    la ventaja histórica de las empresas más grandes y establecidas; otros prefieren hacer
+    cumplir las leyes existentes de empresas en desventaja mediante la supervisión (p. ej.
+    dirigiendo las reservas a los contratos principales en lugar de a los subcontratos) mientras
+    avanzan hacia una eventual «igualdad de condiciones». Una respuesta neutral u opuesta refleja
+    una preferencia por una competencia abierta, sin distinción de raza y al menor costo.

@@ -146,3 +146,108 @@
     - question_id: education_impact_osse
       quote: "Trabajará con el Washington Teachers' Union para reformar la evaluación docente de las Escuelas Públicas de DC y enfocarla en el crecimiento."
       explanation: "George trabajaría con el Washington Teachers' Union para reformar el sistema de evaluación docente IMPACT y enfocarlo en el crecimiento, y ha pedido una Oficina del Superintendente Estatal de Educación (OSSE) independiente. Apoya firmemente ambas mitades de esta pregunta."
+
+# La biografía y las citas (quote) de Kenyan provienen del sitio en español de su campaña
+# (kenyanmcduffie.com). Para los temas que el sitio en español no cubre, el campo "quote" se
+# omite y se muestra la cita textual original en inglés; la "explanation" editorial sí se
+# traduce en todos los casos. Véase /resources/methodology.
+- id: kenyan-mcduffie
+  short_bio: >
+    Washingtoniano de cuarta generación; miembro del Concejo de DC durante 13 años
+    (Distrito 5 y luego At-Large); autor de la Ley NEAR; exabogado de derechos civiles en
+    el Departamento de Justicia de la era Obama. Graduado de la Universidad Howard y de la UDC.
+  long_bio: |
+    Kenyan McDuffie (51 años) es un washingtoniano de cuarta generación que sirvió 13 años
+    en el Concejo de DC, primero representando al Distrito 5 y luego como miembro At-Large.
+    Se graduó de la Universidad del Distrito de Columbia y de la Universidad Howard antes de
+    obtener su título de Derecho en la Facultad de Derecho Carey de la Universidad de
+    Maryland. Trabajó para la congresista Eleanor Holmes Norton, luego se convirtió en fiscal
+    y más tarde en abogado de derechos civiles en el Departamento de Justicia de la era Obama.
+
+    En 2016, McDuffie redactó la Ley NEAR, que estableció el marco de salud pública de DC
+    para la reducción de la violencia. Votó a favor del ómnibus Secure DC de 2024. En el
+    Concejo lideró la aprobación de uno de los estándares de energía limpia más sólidos del
+    país, redactó la Ley de Acumulación de Riqueza Infantil (Baby Bonds) y el primer programa
+    de Ingreso Básico Garantizado del Distrito, y dirigió $100 millones en subvenciones de
+    ayuda por la pandemia a pequeños negocios. Creció en el Distrito 5, hogar de la mayor
+    proporción de suelo industrial de la ciudad, y plantea la justicia ambiental como un
+    pilar central de su campaña. Su plataforma para la alcaldía promete construir 12,000
+    nuevas unidades de vivienda para 2030, financiar plenamente la Ley NEAR, emitir una
+    directiva desde el Primer Día que ponga fin a la cooperación del MPD con ICE, ampliar las
+    protecciones legales para las familias inmigrantes y crear una ruta de transición laboral
+    federal para los trabajadores federales desplazados. Apoya condicionalmente los toques de
+    queda para adolescentes como una medida a corto plazo junto con programación juvenil.
+  positions:
+    - question_id: mpd_ice_cooperation
+      quote: "Una directiva desde el Primer Día que ponga fin a la cooperación de la Policía Metropolitana (MPD) con ICE."
+      explanation: "La respuesta de McDuffie a la encuesta de candidatos de Ballotpedia afirma explícitamente que «pondrá fin a la cooperación del MPD con ICE» y ampliará las protecciones legales para las familias inmigrantes. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 reiteró: «Voy a poner fin a la cooperación entre el Departamento de Policía Metropolitana e ICE», para incorporar «equidad y justicia» en la actuación policial de DC."
+
+    - question_id: crime_public_health
+      explanation: "McDuffie redactó la Ley NEAR en 2016 y se compromete a financiarla plenamente como alcalde. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 dijo que la Ley NEAR «marcó el inicio de un enfoque basado en la salud pública para la prevención del delito», para «tratar la violencia como la epidemia que es», y se comprometió a usar una disposición de la Ley NEAR que permite a la Oficina de Seguridad y Compromiso del Vecindario (ONSE) recaudar fondos filantrópicos para capacitar a interruptores comunitarios de la violencia."
+
+    - question_id: crime_secure_dc
+      explanation: "Votó a favor de la legislación ómnibus Secure DC de 2024."
+
+    - question_id: youth_curfew_support
+      explanation: "Apoya condicionalmente los toques de queda para adolescentes como una medida a corto plazo junto con programación alternativa, empleos y acceso a salud mental."
+
+    - question_id: youth_curfew_programming
+      explanation: "Plantea los toques de queda como una medida a corto plazo que debe ir acompañada de programación, empleos y acceso a salud mental."
+
+    - question_id: housing_production_trust_fund
+      quote: "Asegurando que los recursos del Fondo Fiduciario de Producción de Vivienda se usen de forma eficiente, priorizando proyectos que generen más unidades por dólar e incorporando requisitos de capital privado o créditos fiscales."
+      explanation: "Se compromete a construir 12,000 nuevas unidades de vivienda para 2030 y preservar 20,000 viviendas asequibles."
+
+    - question_id: crime_more_police
+      explanation: "Se ha comprometido a contratar 1,000 nuevos oficiales del MPD y a duplicar el bono de contratación a $50,000. Su plataforma pide «un MPD del tamaño adecuado mediante un reclutamiento inteligente, asistencia para la compra de vivienda y reinversión en programas de seguridad comunitaria», junto con un programa de cadetes ampliado."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Invirtiendo en rutas de autobús rápido y conexiones de transporte de alta capacidad en zonas con terreno sin desarrollar, incluyendo New York Avenue, para que los nuevos vecindarios residenciales estén mejor conectados con empleos, escuelas y servicios."
+      explanation: "La plataforma pide acelerar la infraestructura de carriles de autobús y las mejoras de señales en los corredores donde los autobuses se retrasan, invertir en carriles de bicicleta protegidos e intersecciones más seguras, y financiar plenamente el Metro a largo plazo."
+
+    - question_id: education_mental_health_schools
+      quote: "Servicios oportunos de educación especial, salud mental y salud escolar."
+      explanation: "La plataforma promete «servicios oportunos de educación especial, salud mental y salud escolar» en las escuelas públicas de DC y plantea la salud conductual en las escuelas como parte de su agenda educativa."
+
+    - question_id: federal_workers_advocate
+      explanation: "El pilar de Rendición de Cuentas de su plataforma se titula «Defender el Autogobierno y la Autonomía de DC». Se compromete a emitir una directiva desde el Primer Día que ponga fin a la cooperación del MPD con ICE, reforzar la Oficina de Asesoría Legal del Alcalde para los desafíos constitucionales, y «luchar por la estadidad, ampliar la autonomía legislativa y presupuestaria y defender el autogobierno». También promete una ruta de transición laboral federal para los trabajadores federales desplazados."
+
+    - question_id: environment_renewable_energy
+      quote: "Lideró la aprobación de uno de los estándares de energía limpia más sólidos del país."
+      explanation: "McDuffie lideró la aprobación de uno de los estándares de energía limpia más sólidos del país en el Concejo de DC. La sección de Justicia Ambiental de su plataforma promete inversiones en energía solar comunitaria, ampliar el sellado climático y las mejoras de eficiencia energética para las familias de bajos ingresos, y una «Iniciativa de Fuerza Laboral para la Justicia Climática y Ambiental» vinculada a las inversiones en energía limpia."
+
+    - question_id: childcare_universal
+      explanation: "La plataforma tiene una sección dedicada, «Ampliar el Acceso al Cuidado Infantil y al Aprendizaje Temprano». McDuffie promete un Crédito Tributario Local por Hijos ampliado, incentivos para empleadores, la reutilización de espacios propiedad del Distrito para cuidado subsidiado en zonas desatendidas, y zonificación actualizada para el cuidado infantil en el hogar. Su enfoque amplía el acceso y reduce los costos, pero mediante medidas focalizadas en lugar de un programa universal."
+
+    - question_id: home_rule_dc_resist
+      quote: "Como ex fiscal y abogado en juicios de derechos civiles, Kenyan está listo para luchar por todo el DC y dejar claro desde el Primer Día: Ya Basta."
+      explanation: "El pilar de Rendición de Cuentas de su plataforma se titula «Defender el Autogobierno y la Autonomía de DC»: promete una directiva desde el Primer Día que ponga fin a la cooperación del MPD con ICE, reforzar la Oficina de Asesoría Legal del Alcalde para los desafíos constitucionales y luchar por la autonomía legislativa y presupuestaria. Su enfoque es firme y usa herramientas legales, pero plantea la resistencia a través de canales institucionales más que de una confrontación política explícita. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 resumió la postura como «trabajar con el gobierno federal donde sea posible y resistir donde sea necesario», citando su primer empleo al salir de Howard trabajando para Eleanor Holmes Norton y señalando la colaboración en proyectos como RFK y Union Station: una mezcla calibrada más que una confrontación general."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Un fondo «Quédate en DC» para pequeños negocios que prevenga el desplazamiento de negocios de propiedad local."
+      explanation: "Tiene un historial de inversión en pequeños negocios —dirigió $100 millones en subvenciones de ayuda por la pandemia a pequeños negocios de DC en el Concejo— y su plataforma combina herramientas de justicia económica con un Crédito Tributario Local por Hijos ampliado e incentivos para empleadores. Apoya el alivio para los pequeños negocios locales, a través de inversión focalizada más que de recortes de impuestos amplios."
+
+    - question_id: housing_topa_restore
+      explanation: "Votó «sí» a la Ley de Aclaración de la Oferta de Venta de Buena Fe de la TOPA de 2015 (B 21-0147) durante su periodo en el Concejo por el Distrito 5, apoyando el marco de derechos de compra de los inquilinos de DC. También votó «sí» a la Resolución de Exención de TOPA de Karin House (PR 25-0440) durante su periodo como At-Large."
+
+    - question_id: housing_upzoning
+      quote: "Usando el Plan Integral para permitir más tipos de vivienda en toda la ciudad, incluyendo casas adosadas, dúplex y pequeños edificios de apartamentos, aumentando las designaciones de densidad y ampliando las zonas de desarrollo orientado al tránsito."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, McDuffie se comprometió a ser «más audaz» con el Plan Integral de DC, abordando los problemas de zonificación y los obstáculos regulatorios para construir vivienda más rápido y para todos los niveles de ingreso (su plan: 12,000 unidades nuevas, 20,000 preservadas, 1,500 para familias grandes). Apoya la reforma de la zonificación para ampliar la oferta, aunque calificó su enfoque de «realista» —distinguiéndolo de la meta mayor de un rival que llamó una «fantasía»— en lugar de comprometerse con una medida específica de vivienda de escala intermedia o de poner fin a la zonificación unifamiliar."
+
+    - question_id: transit_traffic_cameras
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, McDuffie apoyó las cámaras de velocidad «cuando priorizan la seguridad, no la recaudación», planteando la aplicación automatizada como una herramienta de Vision Zero más que como una fuente de ingresos."
+
+    - question_id: econ_rfk_stadium
+      explanation: "McDuffie impulsó la reurbanización de RFK/los Commanders como presidente del comité de negocios y desarrollo económico del Concejo. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 se comprometió a «trabajar en proyectos como RFK» y a asociarse con el gobierno federal para ampliar Union Station, planteando el acuerdo como parte del crecimiento de la economía de DC. A favor."
+
+    - question_id: food_access_public_grocery
+      explanation: "McDuffie aborda los desiertos alimentarios, pero prefiere incentivar a los supermercados privados para que abran en zonas desatendidas —citando el Lidl que abrió en Skyland, en el Distrito 8— en lugar de un supermercado de propiedad pública gestionado por la ciudad. Se opone al mecanismo de supermercado público de esta pregunta."
+
+    - question_id: econ_business_activity_tax
+      explanation: "McDuffie se opone al impuesto a la actividad comercial propuesto por Lewis George sobre las firmas de servicios profesionales, advirtiendo que un nuevo impuesto a los empleadores expulsaría empleos e inversión del Distrito en medio de las pérdidas de empleo federal. Se opone."
+
+    - question_id: labor_worker_protections
+      explanation: "El historial de McDuffie incluye el aumento del salario mínimo, la transparencia salarial y la aplicación de la ley contra el robo de salarios y la clasificación errónea de trabajadores. Apoya protecciones sólidas para los trabajadores, aunque las combina con una postura más favorable a los negocios y orientada al crecimiento que los candidatos más expansionistas. A favor."
+
+    - question_id: education_impact_osse
+      explanation: "McDuffie defiende el marco de apoyo y rendición de cuentas docente del Distrito y se ha opuesto a esfuerzos anteriores para hacer a OSSE independiente del alcalde, prefiriendo mantener la rendición de cuentas educativa con el ejecutivo. Se opone a reformar a fondo IMPACT y a la independencia de OSSE."
