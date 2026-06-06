@@ -1,0 +1,244 @@
+# Spanish overlay for Ward 6 candidates. Only translatable text; ids/question_ids match
+# content/candidates/ward6.yaml. Names, sources and endorser names stay in English.
+# Ninguno de estos candidatos publicó un sitio en español; toda la biografía, las
+# explicaciones y las citas son traducción nuestra del contenido editorial en inglés.
+# Véase /resources/methodology.
+- id: charles-allen
+  short_bio: >
+    Concejal titular del Ward 6 con tres mandatos y expresidente del Comité Judicial y de
+    Seguridad Pública del Concejo. Autor de la Ley STEER para responsabilizar a los conductores
+    peligrosos de otros estados, creó el programa de alfabetización temprana Books From Birth y el
+    programa de financiamiento público de Elecciones Justas del Distrito, lideró el rescate de la
+    WMATA de un abismo fiscal por parte de DC, y fue coautor de la enmienda presupuestaria Hearts
+    and Homes de 2021, financiada con un aumento de impuestos a los altos ingresos. Progresista que
+    sobrevivió a un intento de revocatoria (recall) en 2024, cuenta con el respaldo del Sierra
+    Club, Jews United for Justice, Greater Greater Washington y los principales sindicatos.
+  long_bio: |
+    Charles Allen (49 años) ha representado al Ward 6 en el Concejo de DC desde 2015 y busca un
+    cuarto mandato. A lo largo de tres mandatos ha construido una trayectoria como uno de los
+    legisladores más activos del Concejo. Su primer proyecto de ley creó Books From Birth, que ha
+    enviado más de 3.6 millones de libros a más de 103,000 niños de DC en alianza con la Imagination
+    Library de Dolly Parton. Como presidente del Comité Judicial y de Seguridad Pública, guió la
+    creación del programa de Elecciones Justas del Distrito en 2019, que iguala las contribuciones de
+    bajo monto de los residentes de DC en una proporción de 5 a 1 para que los candidatos puedan
+    postularse sin dinero de corporaciones ni de PAC. Allen es autor de la Ley STEER, una ley
+    pionera en el país que otorga al Procurador General la autoridad de demandar a los conductores
+    peligrosos sin importar en qué estado esté registrado su vehículo y permite al DMV instalar
+    limitadores de velocidad en los autos de los infractores reincidentes. Ayudó a guiar a DC,
+    Maryland y Virginia hacia una nueva fórmula de financiamiento de la WMATA que evitó recortes
+    drásticos del servicio de Metro, y fue uno de los tres arquitectos de la Enmienda Hearts and
+    Homes de 2021, que amplió el financiamiento del cuidado infantil, duplicó el Crédito Tributario
+    por Ingreso del Trabajo (EITC) y financió más de 1,000 vales de vivienda, pagados con un modesto
+    aumento de impuestos a los residentes que ganan más de $250,000. También redactó la ley que
+    faculta al MPD y a la Administración de Bebidas Alcohólicas y Cannabis para cerrar las tiendas de
+    cannabis sin licencia, y el programa Safe at Home que financia modificaciones en el hogar para
+    que las personas mayores puedan envejecer en su propia casa. Allen describe su enfoque de la
+    seguridad pública como «both / and» («ambos / y»): combinar leyes sólidas y rendición de cuentas
+    con inversiones en prevención de la violencia y segundas oportunidades. Fue un crítico constante
+    del financiamiento público de un nuevo estadio de los Commanders en RFK, aunque finalmente votó a
+    favor del acuerdo tras conseguir cambios. Las preocupaciones de los críticos de que era «blando
+    con la delincuencia» durante su tiempo al frente del comité judicial impulsaron un fallido
+    intento de revocatoria en 2024. Cuenta con el respaldo de una amplia coalición de grupos
+    progresistas, sindicatos y la Asociación de Realtors de DC.
+  positions:
+    - question_id: crime_public_health
+      quote: "Eso significa lograr el equilibrio correcto: perseguir tanto leyes sólidas y la certeza de la rendición de cuentas, como hacer inversiones específicas en la prevención del delito y en romper los ciclos de violencia que van más allá de lo que la aplicación de la ley puede ofrecer."
+      explanation: "Describe su enfoque de seguridad pública como «both / and» («ambos / y»): combinar leyes sólidas con inversiones específicas en la prevención del delito y en romper los ciclos de violencia «que van más allá de lo que la aplicación de la ley puede ofrecer». Enfatiza llegar a quienes tienen más probabilidad de usar un arma, crear oportunidades reales para las personas que regresan del encarcelamiento y proteger los derechos de las víctimas en la ley."
+
+    - question_id: crime_more_police
+      explanation: "Plantea la seguridad pública con una óptica de «both / and» en lugar de priorizar la contratación de oficiales como la solución principal, equilibrando una aplicación firme de la ley y la rendición de cuentas con inversiones en prevención. Para responder a los críticos que lo llamaron blando con la delincuencia, señala que apoyó las zonas de toque de queda para adolescentes y votó a favor de un proyecto de ley que aumenta la detención preventiva de las personas acusadas de delitos violentos, pero no coloca la ampliación significativa de las filas del MPD como su principal prioridad de seguridad pública."
+
+    - question_id: youth_curfew_support
+      quote: "Responde que apoyó las zonas de toque de queda para adolescentes para prevenir las «tomas de adolescentes» (teen takeovers) de zonas como Navy Yard y votó a favor de un proyecto de ley que aumenta la detención preventiva de las personas acusadas de delitos violentos."
+      explanation: "Apoyó las zonas de toque de queda para adolescentes para prevenir las «tomas de adolescentes» de zonas como Navy Yard y votó a favor de la Ley de Enmienda del Toque de Queda Juvenil, tratando los toques de queda como una herramienta dentro de una combinación más amplia de seguridad pública. Ha recalcado que la ciudad debe acompañar cualquier toque de queda con programación juvenil y alternativas significativas."
+
+    - question_id: youth_curfew_programming
+      quote: "Esta ciudad ha carecido de imaginación y creatividad para llegar a las mismas personas que le preocupan. Creo que la enmienda del concejal Crawford cambia esto al exigir que la ciudad ofrezca y promueva alternativas cada vez que quiera usar esta herramienta."
+      explanation: "Sostiene que los toques de queda no tienen sentido sin alternativas sólidas. Presentó un proyecto de ley para ampliar los horarios de los centros recreativos del DPR a los sábados y domingos, elogió la programación de los Centros Recreativos Greenleaf y Randall, y defendió una enmienda al toque de queda que exige que la ciudad ofrezca y promueva programación juvenil siempre que esté en vigor una zona de toque de queda."
+
+    - question_id: education_mental_health_schools
+      quote: "Charles ha luchado para garantizar que cada escuela tenga el personal docente y de apoyo para atender a los estudiantes según sus necesidades."
+      explanation: "Ha luchado para garantizar que cada escuela tenga el personal docente y de apoyo para atender a los estudiantes según sus necesidades, incluyendo aumentar las subvenciones de tiempo fuera del horario escolar y asegurar más de $1,000 millones para la modernización de las escuelas del Ward 6. Su planteamiento se centra en el personal de apoyo y los recursos en general más que en una garantía específica de un clínico de salud conductual."
+
+    - question_id: parks_rec_funding
+      quote: "Cuando se le presiona, hemos visto al DPR organizar experiencias significativas y positivas."
+      explanation: "Presentó legislación para ampliar los horarios de los centros recreativos del DPR a los fines de semana y ha presionado a la ciudad para que invierta en programación de enriquecimiento juvenil en los centros recreativos. Es autor del programa Safe at Home que financia modificaciones en el hogar para que las personas mayores puedan envejecer en su casa, lo que refleja un apoyo constante a la ampliación de la recreación y los servicios para personas mayores."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Significa aprobar leyes que reduzcan la velocidad de los conductores para que los niños puedan caminar a la escuela y la gente se sienta lo suficientemente cómoda para ir al trabajo en bicicleta o a pie."
+      explanation: "Califica el buen transporte y las calles seguras como «fundamentales para el éxito del Distrito», apoyando el financiamiento y la supervisión para mantener fiables los trenes y autobuses y aprobando leyes para reducir la velocidad de los conductores y que la gente se sienta segura andando en bicicleta y caminando. Es autor de la Ley STEER sobre seguridad vial y lideró el rescate del financiamiento de la WMATA por parte de DC."
+
+    - question_id: home_rule_dc_resist
+      quote: "El coraje es contagioso, por eso no temo seguir denunciando las mentiras, las difamaciones y los ataques."
+      explanation: "Insta a una postura firme contra la interferencia federal, diciendo que «este es el momento del liderazgo» y que DC debe «defender nuestros valores y salir como una comunidad más fuerte del otro lado». Plantea a la administración Trump y a un Congreso hostil como amenazas a la autonomía de DC que deben combatirse públicamente en lugar de apaciguarse."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Eso incluye ayudar a crear, y luego duplicar, el Crédito Tributario sobre la Propiedad para Pequeños Comerciantes, crear un programa de subvenciones para instalar seguridad dentro de los negocios locales, y enfrentarse a las grandes empresas que intentan estafar a los negocios locales."
+      explanation: "Ayudó a crear y luego duplicar el Crédito Tributario sobre la Propiedad para Pequeños Comerciantes, creó un programa de subvenciones para seguridad dentro de las tiendas, y se opuso a los cargos por deslizamiento de tarjetas (swipe fees) y a los esquemas abusivos de las aplicaciones de entrega. Presentó la Ley RESALE para impedir que los grandes revendedores inflen los precios de las entradas locales. Ha redactado varias leyes para facilitar que los negocios locales abran y prosperen."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "Todo esto se pagó con un pequeño aumento en la tasa impositiva para las personas de altos ingresos."
+      explanation: "Fue coautor de la Enmienda Hearts and Homes de 2021 —que amplió el financiamiento del cuidado infantil, duplicó el Crédito Tributario por Ingreso del Trabajo (EITC) y financió más de 1,000 vales de vivienda— pagada con un aumento de impuestos a los residentes que ganan más de $250,000. Esos ingresos financiaron el Fondo de Equidad Salarial para Educadores de la Primera Infancia, lo que demuestra su apoyo a aumentar los impuestos a los altos ingresos para financiar servicios."
+
+    - question_id: housing_upzoning
+      quote: "Ese trabajo incluye unirse a los defensores para presionar a la Oficina de Zonificación a fin de facilitar mucho más la construcción de viviendas en callejón (alley homes), que pueden añadir una densidad suave y encanto a los vecindarios de DC."
+      explanation: "Presionó a la Oficina de Zonificación para facilitar la construcción de viviendas en callejón que añaden «densidad suave», y dice que el Ward 6 ha construido más viviendas asequibles de nueva construcción que cualquier otro lugar de la ciudad. Cuenta con el respaldo de DC YIMBYs, en consonancia con el apoyo a legalizar más tipos de vivienda en toda la ciudad."
+
+    - question_id: housing_production_trust_fund
+      quote: "En cada oportunidad, Charles ha abogado por que se añadan más viviendas asequibles a un proyecto siempre que el Distrito tenga la capacidad de influir para lograrlo."
+      explanation: "Ha abogado por más viviendas asequibles en cada oportunidad y ayudó a financiar más de 1,000 nuevos vales de vivienda a través de la Enmienda Hearts and Homes. Su trayectoria de priorizar el financiamiento de vivienda asequible apunta a un apoyo a las herramientas de financiamiento de vivienda asequible del Distrito, aunque sus materiales enfatizan la producción asequible en general más que el Fondo Fiduciario para la Producción de Vivienda por su nombre."
+
+    - question_id: environment_renewable_energy
+      quote: "Charles es, sin lugar a dudas, el defensor más fuerte del Concejo de dar pasos audaces hacia el uso de fuentes de energía limpia y renovable para más de nuestras actividades cotidianas."
+      explanation: "Se autodescribe como el defensor más fuerte del Concejo de pasos audaces en energía limpia. Su Ley de Hogares Saludables (Healthy Homes Act) ayuda a las familias de bajos ingresos a electrificarse —reemplazando hornos de gas, calentadores de agua y calefacción por electrodomésticos eléctricos modernos alimentados con energía solar— para que la transición a la energía limpia no se limite a quienes pueden pagarla. También promueve la protección de la cubierta arbórea urbana y el acceso a los ríos."
+
+    - question_id: housing_topa_restore
+      explanation: "Votó «sí» en múltiples proyectos de ley de TOPA durante la Sesión 21, incluida la Ley de Aclaración de la Oferta de Venta de Buena Fe de la TOPA de 2015 (B 21-0147), su Ley de Enmienda Temporal (B 21-0223) y su versión de Emergencia de Revisión por el Congreso (B 21-0306), lo que demuestra un apoyo constante al marco de derechos de compra de los inquilinos de DC a lo largo de su gestión en el Concejo."
+
+- id: gloria-nauden
+  short_bio: >
+    Residente del Ward 6 desde hace tres décadas, excomisionada de la ANC (ANC6A) y CEO interina de
+    Philanthropy DMV. Estratega de desarrollo económico comunitario que ha ayudado a casi 1,000
+    pequeños negocios de DC a acceder a capital y dirigió la Comisión de Artes y Humanidades de DC.
+    Se postula con un enfoque en la seguridad pública, la asequibilidad, los pequeños negocios y las
+    escuelas sólidas, y un gobierno municipal más receptivo. Reconstruiría el MPD hasta su dotación
+    completa mientras amplía los programas de empleo juvenil y de prevención de la violencia.
+  long_bio: |
+    Gloria Nauden (57 años) ha vivido en el Ward 6 durante más de 30 años, criando a su familia,
+    construyendo su carrera y sirviendo como comisionada asesora vecinal (ANC6A-02) en representación
+    del lado de Capitol Hill de H Street. Hija de un condecorado veterano afroamericano del Ejército
+    de los EE. UU. y de una madre coreana que juntos construyeron casi una decena de pequeños
+    negocios, creció trabajando en los restaurantes y el lavadero de autos de la familia. Nauden
+    comenzó su carrera en Black Entertainment Television durante sus años de inicio y más tarde
+    dirigió la Comisión de Artes y Humanidades de DC, donde amplió el acceso al financiamiento de las
+    artes en un 77% y creó Art All Night. Como vicepresidenta de City First Bank —una destacada
+    Institución Financiera de Desarrollo Comunitario (CDFI) a nivel nacional— ayudó a impulsar el
+    crecimiento de activos y a ampliar el acceso al capital para los negocios locales, y lideró la
+    transformación del banco en el primer banco certificado como Corporación B (B Corporation) de los
+    Estados Unidos. Actualmente se desempeña como CEO interina de Philanthropy DMV y dirige el DC
+    Community Development Consortium Institute. A lo largo de su carrera ha ayudado a casi 1,000
+    pequeños negocios de DC a obtener capital, subvenciones y apoyo administrativo. Su campaña
+    —construida en torno al principio «Escuchar. Colaborar. Cumplir.»— se enfoca en comunidades más
+    seguras, la asequibilidad, los pequeños negocios y las escuelas sólidas, y un gobierno municipal
+    que cumpla. En seguridad pública, pide un Departamento de Policía Metropolitana con dotación
+    completa, junto con prevención, oportunidades y consecuencias claras. En respuesta a los recientes
+    incidentes de «tomas de adolescentes», lanzó la Semana de Servicio Comunitario de Spring Break,
+    conectando a los estudiantes con exposición laboral, participación cívica y servicio. Ha criticado
+    al titular Charles Allen por lo que describe como una participación limitada con los organizadores
+    del Ward 6 fuera de Capitol Hill.
+  positions:
+    - question_id: crime_more_police
+      quote: "Eso significa un Departamento de Policía Metropolitana (MPD) con dotación completa, con oficiales visibles y comprometidos con la comunidad."
+      explanation: "Pide reconstruir el MPD hasta su nivel de dotación completa, con oficiales visibles y comprometidos, y fortalecer la policía de proximidad y la coordinación entre las agencias de seguridad pública. The 51st informa que aumentaría la dotación del MPD a la vez que amplía los programas de empleo juvenil."
+
+    - question_id: crime_public_health
+      quote: "La seguridad pública también requiere prevención, oportunidades y expectativas claras."
+      explanation: "Apoya la prevención de la violencia con base comunitaria, los programas ampliados de empleo juvenil y los esfuerzos de intervención temprana junto con la aplicación de la ley. Plantea la seguridad duradera como algo que requiere prevención y oportunidades, pero lo combina con «consecuencias claras y apropiadas» y una fuerza policial con dotación completa más que con un marco principalmente de salud pública."
+
+    - question_id: youth_curfew_support
+      quote: "Tenemos que asegurarnos de que se aplique con claridad en todos los vecindarios. Si es en toda la ciudad y con un horario, creo que es una buena idea."
+      explanation: "Apoya un toque de queda juvenil siempre que se implemente de manera equitativa y basada en datos: aplicado de forma constante en todos los vecindarios, en toda la ciudad y con un horario, con informes regulares sobre si los incidentes realmente están disminuyendo."
+
+    - question_id: youth_curfew_programming
+      quote: "Cuando los jóvenes tienen vías reales, junto con estructura, apoyo y estándares claros y consistentes, tienen éxito."
+      explanation: "Lanzó la Semana de Servicio Comunitario de Spring Break en respuesta a las tomas de adolescentes, conectando a los estudiantes con exposición laboral, mentoría y participación cívica, y se compromete a luchar por su financiamiento público y su expansión si es elegida. Ampliaría los programas de empleo juvenil y la intervención temprana como una estrategia central de seguridad pública."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Reducir la burocracia para facilitar la apertura y el crecimiento de un negocio."
+      explanation: "Reduciría la burocracia para facilitar la apertura y el crecimiento de un negocio, ampliaría el acceso al capital y al apoyo técnico, y fortalecería los corredores comerciales. Tras haber ayudado a casi 1,000 pequeños negocios de DC, su énfasis está en reducir las barreras burocráticas y mejorar condiciones como la limpieza, la iluminación y la seguridad más que en recortes de impuestos específicos."
+
+    - question_id: housing_production_trust_fund
+      quote: "Usar alianzas para traer más vivienda al mercado."
+      explanation: "Ampliaría las oportunidades de vivienda asequible y de propiedad de vivienda, garantizaría que los nuevos desarrollos incluyan una asequibilidad real, y usaría alianzas público-privadas para traer más vivienda al mercado. Su enfoque en la vivienda asequible sugiere un apoyo a las herramientas de financiamiento de vivienda asequible del Distrito, aunque sus materiales enfatizan las alianzas más que el Fondo Fiduciario para la Producción de Vivienda por su nombre."
+
+    - question_id: housing_upzoning
+      quote: "Está a favor de reducir los costos para aumentar la producción de vivienda."
+      explanation: "Según The 51st, está a favor de reducir los costos para aumentar la producción de vivienda. Su plataforma pide garantizar que los nuevos desarrollos incluyan una «asequibilidad real» y usar alianzas para traer más vivienda al mercado: en general a favor de ampliar la oferta de vivienda, aunque sin una posición explícita sobre poner fin a la zonificación exclusiva para viviendas unifamiliares."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Está a favor de… añadir opciones de transporte para los residentes."
+      explanation: "Según The 51st, apoya añadir opciones de transporte para los residentes. También ha pedido mayor transparencia y supervisión de los costos en aumento, incluidas las facturas de servicios públicos, como parte de su agenda más amplia de asequibilidad. Su posición sobre el transporte es de apoyo general a opciones ampliadas más que un plan detallado de construcción de carriles de bicicleta y de autobús."
+
+    - question_id: parks_rec_funding
+      quote: "Ampliar los programas de empleo juvenil y los esfuerzos de intervención temprana."
+      explanation: "Ampliaría los programas de empleo juvenil y los esfuerzos de intervención temprana y ha organizado programación comunitaria que conecta a los jóvenes con el servicio y la participación cívica. A favor de la recreación y la programación juvenil como parte de su agenda de seguridad pública y comunitaria, aunque sus materiales no detallan un plan presupuestario del DPR."
+
+    - question_id: environment_electricity_affordability
+      quote: "Gloria impulsará una mayor transparencia y una supervisión más fuerte, incluida una mirada más cercana al aumento de los costos de los servicios públicos."
+      explanation: "Nauden nombra el aumento de las facturas de servicios públicos como una carga creciente para los residentes del Ward 6 y impulsaría una mayor transparencia y una supervisión más fuerte de los costos en aumento de los servicios públicos, abordando el ángulo de la supervisión y la regulación más que los programas de eficiencia. A favor de actuar sobre la asequibilidad de los servicios públicos, con énfasis en la supervisión y la transparencia más que en un mecanismo específico de reducción de tarifas."
+
+- id: michael-murphy
+  short_bio: >
+    Litigante en Bailey & Glasser LLP y residente de Capitol Hill desde hace 30 años que se postula
+    con un enfoque en la transparencia y la seguridad pública. Fue el primero en alegar públicamente
+    que el MPD manipuló las estadísticas de delitos violentos, y ha construido su campaña en torno a
+    datos de delincuencia honestos, la reconstrucción del MPD, la rendición de cuentas y las
+    oportunidades para los jóvenes, aprobaciones de vivienda más rápidas y el financiamiento pleno de
+    las primarias abiertas que los votantes aprobaron en la Iniciativa 83. Quiere más oficiales de
+    policía y revisar la Ley de Rehabilitación Juvenil (Youth Rehabilitation Act).
+  long_bio: |
+    Michael «Mike» Murphy es litigante en Bailey & Glasser LLP, con una trayectoria en demandas
+    colectivas contra grandes corporaciones y trabajo pro bono, incluida la representación de Two
+    Rivers Public Charter School. Abogado de segunda carrera que se graduó cum laude de la facultad de
+    derecho de The Catholic University of America, anteriormente apoyó a los comités nacionales de
+    negociación de la Hermandad Internacional de Teamsters y trabajó como asistente legal en la
+    Oficina del Asesor Jurídico (Corporation Counsel) de DC. Se desempeñó como director ejecutivo
+    interino del Drum Major Institute, una organización sin fines de lucro fundada sobre los
+    principios del Dr. Martin Luther King, Jr. Residente de Capitol Hill, casado desde hace casi 30
+    años y con dos hijos, disfruta de la escalada en bloque (bouldering), el ciclismo y de organizar
+    conciertos de sala. Murphy entró a la contienda centrando la seguridad pública y la transparencia
+    gubernamental. Lideró una investigación de varios meses que alegaba discrepancias entre los
+    informes de delincuencia de DC y del FBI y fue el primero en afirmar públicamente, en junio de
+    2025, que el MPD estaba manipulando las estadísticas de delitos violentos, presionando al Concejo
+    a realizar la supervisión que había evitado. Argumenta que la ciudad ha dado a los residentes una
+    imagen deshonesta de sus desafíos de seguridad y que la confianza no puede reconstruirse sin
+    transparencia. Su plataforma pide datos de delincuencia honestos y alineados con los informes del
+    FBI, reconstruir un MPD con la dotación más baja en 50 años a la vez que se responsabiliza a su
+    liderazgo, y rendición de cuentas juvenil combinada con oportunidades —incluyendo reformar la Ley
+    de Rehabilitación Juvenil, arreglar los sistemas de ausentismo escolar y crear un Cuerpo de
+    Servicio y Carrera de DC inspirado en programas de Maryland. Propone un «plazo límite de 120 días»
+    para las conversiones de oficinas a viviendas y permisos más rápidos para liberar la oferta de
+    vivienda, un modelo de compensación de dos vías para la Iniciativa 82, y el financiamiento pleno
+    de las primarias abiertas y el voto por orden de preferencia que los votantes aprobaron en la
+    Iniciativa 83, junto con límites de mandato. Cuenta con el respaldo de la excomisionada de la ANC
+    del Ward 6 y defensora de los derechos de las víctimas Denise Rucker Krepp.
+  positions:
+    - question_id: crime_more_police
+      quote: "La fuerza está en su nivel de dotación más bajo en 50 años. Los oficiales están agotados, los tiempos de respuesta se retrasan y la policía de proximidad es imposible sin una dotación adecuada. Michael apoya reconstruir el MPD a la vez que se responsabiliza a su liderazgo."
+      explanation: "Califica la dotación del MPD como la más baja en 50 años y apoya reconstruir la fuerza a la vez que se responsabiliza al liderazgo por un despliegue eficiente y centrado en la comunidad. The 51st informa que quiere más oficiales de policía, combinando una mayor dotación con la exigencia de datos de delincuencia honestos y supervisión."
+
+    - question_id: youth_curfew_programming
+      quote: "Dale a los jóvenes oportunidades reales, estructura real y apoyo real, y verás cómo baja la delincuencia mientras sube la esperanza."
+      explanation: "Propone un Cuerpo de Servicio y Carrera de DC con aprendizajes para jóvenes y una opción de año de servicio remunerado, un sistema unificado de alerta temprana de ausentismo escolar, y mentoría a través de socios como Urban Alliance. Plantea las oportunidades y la estructura —«mentoría, no solo aplicación de la ley»— como algo central para reducir la delincuencia juvenil."
+
+    - question_id: crime_public_health
+      quote: "El enfoque de Michael es simple: dale a los jóvenes oportunidades reales, estructura real y apoyo real, y verás cómo baja la delincuencia mientras sube la esperanza."
+      explanation: "Apoya herramientas orientadas a la prevención —mentoría, vías hacia la fuerza laboral y servicios de apoyo para las familias— como una forma de reducir la delincuencia, a la vez que las combina con consecuencias más fuertes para los delitos violentos y la reconstrucción del MPD. Su énfasis mezcla la intervención basada en oportunidades con la rendición de cuentas más que un marco principalmente de salud pública."
+
+    - question_id: housing_upzoning
+      quote: "Debemos aumentar la oferta donde más tiene sentido: liberar terrenos subutilizados a lo largo de las líneas de Metro, modernizar los requisitos de callejones y estacionamiento para permitir más unidades (ADU) y ampliar la densificación donde el impacto en la comunidad sea mínimo."
+      explanation: "Pide una «densidad inteligente»: liberar terrenos subutilizados a lo largo de las líneas de Metro, modernizar las reglas de callejones y estacionamiento para permitir más ADU, y ampliar la densificación donde el impacto en la comunidad sea mínimo. Apoya un «plazo límite de 120 días» para las conversiones de oficinas a viviendas y permisos más rápidos para que la vivienda de «escala intermedia» sea financieramente viable."
+
+    - question_id: housing_production_trust_fund
+      quote: "Michael aboga por una inversión pública sólida en vales de vivienda y subsidios dirigidos a los residentes de ingresos extremadamente bajos (ELI) para cerrar la brecha que el mercado deja atrás."
+      explanation: "Argumenta que la nueva construcción de alta gama no llega a las familias de bajos ingresos con suficiente rapidez, por lo que el mercado «no servirá naturalmente a nuestros vecinos más vulnerables». Aboga por una inversión pública sólida en vales de vivienda y subsidios dirigidos a los residentes de ingresos extremadamente bajos: a favor del financiamiento público de vivienda asequible, aunque no nombra específicamente el Fondo Fiduciario para la Producción de Vivienda."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Aumentar las ciclovías protegidas donde sea apropiado."
+      explanation: "Crearía rutas de autobús más fiables, desarrollaría corredores peatonales más seguros y aumentaría las ciclovías protegidas «donde sea apropiado», junto con una gestión más inteligente del espacio de acera (curb management). Plantea la movilidad como un asunto de seguridad pública y equidad, con un apoyo matizado más que máximo a la infraestructura de bicicletas y autobuses."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Conseguir la inspección de tu auto, solicitar una licencia comercial o visitar tu centro recreativo local no debería ser tarea complicada."
+      explanation: "Argumenta que tareas simples como solicitar una licencia comercial se ven obstaculizadas por una burocracia obsoleta y pide «soluciones simples para problemas simples» para animar a los vecinos a invertir en la comunidad. Su énfasis está en reducir la burocracia y las barreras para abrir un negocio más que en recortes de impuestos específicos."
+
+    - question_id: parks_rec_funding
+      quote: "Visitar tu centro recreativo local no debería ser tarea complicada."
+      explanation: "Dice que visitar un centro recreativo local debería ser sencillo y apoya las instalaciones recreativas juveniles como parte de su visión de reurbanización de RFK y de su agenda de oportunidades para los jóvenes. En general a favor del acceso a la recreación, aunque sus materiales no detallan un aumento presupuestario específico del DPR."
+
+    - question_id: home_rule_dc_resist
+      quote: "Necesitamos una representación en el Concejo que tenga la credibilidad para reunirse con miembros de todo el espectro ideológico en el Congreso."
+      explanation: "Enfatiza la credibilidad y las relaciones bipartidistas necesarias para negociar con miembros de todo el espectro ideológico en el Congreso, y reprocha a Allen haber elaborado legislación que provocó votos de desaprobación del Congreso. Se inclina hacia un compromiso pragmático y la negociación de acuerdos para proteger el autogobierno más que hacia una postura principalmente de confrontación, litigio y resistencia."
+
+    - question_id: labor_worker_protections
+      quote: "Para los restaurantes de servicio rápido y de alto volumen, un salario mínimo único y universal puede brindar estabilidad y previsibilidad. Bajo este modelo, los trabajadores reciben un piso salarial garantizado y las propinas vuelven a su propósito original."
+      explanation: "Murphy respalda un salario mínimo único y universal para los trabajadores de restaurantes —un piso salarial garantizado con las propinas por encima—, alineándose con la dirección de One Fair Wage / Iniciativa 82 de eliminar el salario mínimo reducido con propinas. A favor de protecciones salariales más fuertes, planteadas en torno a la estabilidad para los trabajadores y las empresas."
