@@ -1,0 +1,196 @@
+# Spanish overlay for Ward 5 candidates. Only translatable text; ids/question_ids match
+# content/candidates/ward5.yaml. Names, sources and endorser names stay in English.
+# Ninguno de estos candidatos publicó un sitio en español; toda la biografía, las
+# explicaciones y las citas son traducción nuestra del contenido editorial en inglés.
+# Véase /resources/methodology.
+- id: zachary-parker
+  short_bio: >
+    Concejal titular del Ward 5 y el primer miembro del Concejo negro y abiertamente gay en la
+    historia de DC. Exprofesor de matemáticas de séptimo grado y presidente de la Junta Estatal de
+    Educación de DC (2021). Logró el Crédito Tributario por Hijos del Distrito ($1,000 por cada
+    niño menor de 18 años), contribuyó a una caída del 35% en la delincuencia violenta, preside el
+    Comité de Asuntos Juveniles y aseguró protecciones laborales adicionales en el acuerdo del
+    estadio de los Commanders.
+  long_bio: |
+    Zachary Parker es educador, servidor público y líder transformador dedicado a construir
+    comunidades donde todos los residentes puedan prosperar. Obtuvo una licenciatura en ciencias de
+    la Universidad Northwestern y una maestría en artes de Columbia University, Teachers College, y
+    comenzó su carrera como profesor de matemáticas de séptimo grado antes de dedicar casi una
+    década a apoyar a líderes escolares de DC para mejorar el aprendizaje de los estudiantes. En
+    2018, los residentes del Ward 5 lo eligieron para la Junta Estatal de Educación de DC, donde fue
+    elegido presidente por unanimidad en 2021. En 2022, los vecinos del Ward 5 lo eligieron para el
+    Concejo de DC, donde es el único miembro abiertamente gay y el primer miembro negro abiertamente
+    gay en la historia del Concejo. Se le considera un miembro progresista del Concejo, aunque no de
+    manera dogmática. En su primer mandato desarrolló y financió el Crédito Tributario por Hijos del
+    Distrito, convirtiendo a DC en la primera ciudad del país en ofrecer un crédito tributario local
+    por hijos de $1,000 por cada niño menor de 18 años, lo que se proyecta que reducirá la pobreza
+    infantil en alrededor de un 25%. Aseguró protecciones y beneficios laborales adicionales en el
+    acuerdo del estadio de los Commanders en RFK. Contribuyó a una caída del 35% en la delincuencia
+    violenta en el Ward 5 entre 2023 y 2024 (la disminución más pronunciada de la ciudad) y a una
+    caída de aproximadamente el 15% en 2025. Como presidente del Comité de Asuntos Juveniles, aprobó
+    y financió el Tablero de Servicios de Salud Conductual Infantil, aprobó la Ley de Mejora Escolar
+    (School Improvement Amendment Act) e introdujo el Plan C.A.R.E. for Youth, de 16 proyectos de
+    ley, que aborda desde un mayor pago para los empleos de verano hasta la reducción del ausentismo
+    escolar. Aseguró $1 millón para el Centro LGBTQ+ de DC, estableció dos nuevos parques en
+    Lamond-Riggs y Carver-Langston, impulsó el Centro Recreativo de Fort Lincoln y consiguió casi
+    $500,000 en subvenciones para apoyar a los pequeños negocios a lo largo de Rhode Island Avenue.
+    Es un orgulloso miembro de la fraternidad Alpha Phi Alpha, Incorporated.
+  positions:
+    - question_id: crime_public_health
+      quote: "Zach aborda la seguridad de manera integral, no simplemente ampliando la aplicación de la ley, sino invirtiendo en empleos, servicios de salud conductual y alianzas vecinales."
+      explanation: "Contribuyó a una caída del 35% en la delincuencia violenta en el Ward 5 mediante enfoques integrales que no priorizan la aplicación de la ley, invirtiendo en salud conductual, empleos y alianzas comunitarias. Impulsó inversiones específicas de mitigación de opioides en Ivy City para que los recursos de tratamiento, prevención y respuesta comunitaria lleguen a los vecindarios más afectados."
+
+    - question_id: youth_curfew_support
+      quote: "Incluso los legisladores bien intencionados pueden causar daño cuando recurren a «soluciones rápidas» para problemas complicados. Una de esas soluciones es encerrar a los jóvenes sin abordar las causas de fondo de su comportamiento."
+      explanation: "Se opone a los enfoques punitivos de solución rápida para la delincuencia juvenil, argumentando que «contradicen la investigación concluyente sobre lo que se necesita para ayudar a los jóvenes a tener éxito: justicia restaurativa, atención con enfoque en el trauma y acceso a una educación de calidad y a oportunidades económicas». Plantea que la seguridad duradera proviene de sanar el trauma, apoyar a las familias e invertir en las comunidades, más que de medidas que priorizan la aplicación de la ley como los toques de queda."
+
+    - question_id: youth_curfew_programming
+      quote: "Ampliar el acceso al aprendizaje basado en el trabajo y a la educación técnica y profesional. Aumentar el pago para los participantes del programa de liderazgo de empleo juvenil del Distrito."
+      explanation: "Introdujo el Plan C.A.R.E. for Youth, de 16 proyectos de ley —desarrollado con jóvenes afectados, familias, grupos de defensa y empleados de agencias— para abordar las brechas en la justicia juvenil y el bienestar infantil. El paquete amplía el aprendizaje basado en el trabajo y la educación técnica y profesional, aumenta el pago para los participantes del programa de empleo juvenil, busca mejorar la asistencia escolar y garantiza la continuidad educativa de los jóvenes que están bajo custodia o que salen de ella."
+
+    - question_id: education_mental_health_schools
+      quote: "Aprobó y financió el Tablero de Servicios de Salud Conductual Infantil para ayudar a las familias a acceder a la atención y al apoyo más rápido."
+      explanation: "Aprobó y financió el Tablero de Servicios de Salud Conductual Infantil para ayudar a las familias a acceder más rápido a la atención de salud conductual. Reforzó la supervisión de los sistemas de bienestar infantil y rehabilitación, ayudó a ampliar los servicios educativos para los jóvenes encarcelados y abordó las vacantes de trabajadores sociales para que los jóvenes en acogida reciban el apoyo que merecen."
+
+    - question_id: parks_rec_funding
+      quote: "Estableció dos nuevos parques en Lamond-Riggs y Carver-Langston. Impulsó proyectos comunitarios largamente estancados como el Centro Recreativo de Fort Lincoln."
+      explanation: "Estableció dos nuevos parques en Lamond-Riggs y Carver-Langston, e impulsó el largamente estancado Centro Recreativo de Fort Lincoln. Revivió tradiciones comunitarias como el Día del Ward 5. Amplió la cubierta arbórea del Ward 5 asociándose con organizaciones como Casey Trees para reducir el calor y la contaminación."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Copresentó la Ley STEER para responsabilizar a los conductores imprudentes de otros estados, logró cerrar la brecha de la calle 8 en el Metropolitan Branch Trail para proteger a ciclistas y peatones, y ha abogado por un diseño vial más seguro para frenar la conducción imprudente."
+      explanation: "Copresentó la Ley STEER para responsabilizar a los conductores imprudentes de otros estados, logró cerrar la brecha de la calle 8 en el Metropolitan Branch Trail para proteger a ciclistas y peatones, y abogó por un diseño vial más seguro para frenar la conducción imprudente en todo el Ward 5."
+
+    - question_id: home_rule_dc_resist
+      quote: "Los vecinos están perdiendo empleos, la inestabilidad de la vivienda y el desplazamiento afectan al Distrito, y el derecho de DC al autogobierno está amenazado. A través de todo ello, Zach se ha mantenido firme contra el exceso federal."
+      explanation: "Se mantuvo firme contra el exceso federal sobre el autogobierno de DC durante su primer mandato. Luchó para que el acuerdo de reurbanización de RFK respaldara sólidos estándares laborales y creara empleos sindicales para los residentes de DC, defendiendo los intereses de la comunidad local frente a la presión externa."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Aprobó legislación que reduce las tarifas de permisos para las cervecerías. Consiguió casi $500,000 en subvenciones para apoyar a los pequeños negocios a lo largo de Rhode Island Avenue."
+      explanation: "Aprobó legislación que reduce las tarifas de permisos para las cervecerías, consiguió casi $500,000 en subvenciones para apoyar a los pequeños negocios a lo largo de Rhode Island Avenue mediante un esfuerzo de revitalización plurianual, y apoyó la creación de Station DC, un centro tecnológico transformador en Union Market. Promovió inversiones en tiendas de comestibles en Lamond Riggs, Brookland y el Reservoir District."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "El CTC devolverá dinero a los bolsillos de las familias y se proyecta que reducirá la pobreza infantil en alrededor de un 25% en DC."
+      explanation: "Desarrolló y financió el Crédito Tributario por Hijos del Distrito, que ofrece $1,000 por cada niño menor de 18 años a las familias trabajadoras —una política redistributiva financiada a través de la estructura de ingresos progresiva del Distrito. Su enfoque en inversiones específicas para familias trabajadoras y de bajos ingresos refleja un apoyo al uso progresivo del sistema tributario."
+
+    - question_id: crime_police_in_schools
+      quote: "El liderazgo eficaz significa resistir la tentación de recurrir a soluciones superficiales y comprometerse con el trabajo más profundo: sanar el trauma, apoyar a las familias e invertir en las comunidades."
+      explanation: "Aboga por la justicia restaurativa, la atención con enfoque en el trauma y la ampliación de la educación por encima de la aplicación punitiva de la ley para los jóvenes. Su legislación C.A.R.E. for Youth enfatiza la consejería, el apoyo y la rehabilitación en lugar de los enfoques basados en la policía, en consonancia con preferir personal de salud mental y trabajadores sociales por encima de la policía en las escuelas."
+
+    - question_id: food_access_public_grocery
+      quote: "Promovió inversiones en tiendas de comestibles en Lamond Riggs, Brookland y el Reservoir District."
+      explanation: "Parker ha promovido llevar tiendas de comestibles a vecindarios desatendidos del Ward 5, incluidos Lamond-Riggs, Brookland y el Reservoir District. Apoya la intervención activa de la ciudad para ampliar el acceso a los alimentos, trabajando principalmente para atraer e invertir en opciones de supermercados más que proponiendo una tienda de propiedad pública."
+
+    - question_id: labor_worker_protections
+      quote: "Aseguró protecciones y beneficios laborales adicionales en el acuerdo del estadio de los Commanders en RFK."
+      explanation: "Parker aseguró protecciones laborales adicionales y garantías de empleos sindicales en el acuerdo del estadio de los Commanders y aumentó el pago para los participantes del programa de empleo juvenil del Distrito. A favor de fortalecer las protecciones de los trabajadores, como lo demuestra su trayectoria en el Concejo."
+
+- id: bernita-carmichael
+  short_bio: >
+    Nativa de Washington, DC, profesional de gestión de riesgos empresariales (Enterprise Risk
+    Management) y miembro veterana del Partido Demócrata de DC. Propone su paquete de «Legislación
+    para el Futuro del Ward 5»: estándares más altos de CBA para los desarrolladores, revitalización
+    de los corredores comerciales y desarrollo de la fuerza laboral. Quiere construir 36,000
+    unidades de vivienda al año en toda la ciudad (20,000 asequibles). Participa en el emparejamiento
+    de pequeños donantes del Programa de Elecciones Justas de DC.
+  long_bio: |
+    Bernita Carmichael es una orgullosa nativa de Washington, DC. Nacida en el Walter Reed Army
+    Medical Center en el Ward 4 y criada en Brightwood y Riggs Park, es graduada de Phelps High
+    School y de la Universidad del Distrito de Columbia. Como hija de un médico militar de la Guerra
+    del Golfo, aprendió desde temprano el valor del servicio comunitario. Con más de 15 años de
+    experiencia en el gobierno de DC, obtuvo la primera acreditación para el Departamento de
+    Correcciones de DC bajo la Ley de Mejora de la Cárcel de DC de 2004 y mejoró las capacidades de
+    respuesta a emergencias de los Centros de Cuidado Infantil de DC en la OSSE. Posee credenciales
+    como inspectora de incendios pro-board y como instructora de seguridad y salud ocupacional para
+    la industria general. Líder cívica, Carmichael se desempeña actualmente como Comitéwoman del
+    Partido Demócrata de DC y miembro del Consejo de Liderazgo del Ward 5. Organizó la conferencia
+    virtual de la Federación Nacional de Mujeres Demócratas durante la COVID-19, fue delegada
+    At-Large por el presidente Biden en 2020, y movilizó cinco autobuses desde el Ward 5 en apoyo de
+    la vicepresidenta Kamala Harris en 2024. También es miembro activa de la Junior League of
+    Washington. Su campaña participa en el Programa de Elecciones Justas de DC, donde las
+    contribuciones de los donantes de DC se igualan en una proporción de 5 a 1. Su propuesta central
+    es la «Legislación para el Futuro del Ward 5», un paquete de proyectos de ley que aumentaría los
+    estándares de los Acuerdos de Beneficios Comunitarios (CBA) negociados entre los desarrolladores
+    y los residentes cuando se construyen grandes proyectos, impulsaría la revitalización de los
+    corredores comerciales del Ward 5 y ofrecería más desarrollo de la fuerza laboral y
+    oportunidades de empleo para los nativos de Washington. En vivienda, ha fijado la ambiciosa meta
+    de construir 36,000 unidades al año en toda la ciudad, 20,000 de ellas para residentes de
+    ingresos bajos y moderados. (Para contexto, la alcaldesa Bowser construyó aproximadamente 36,000
+    unidades en cinco años). Sus otras prioridades incluyen aumentar la propiedad de vivienda
+    asequible, la defensa de las personas mayores y el fortalecimiento del ecosistema empresarial
+    local y global del Ward 5.
+  positions:
+    - question_id: crime_public_health
+      quote: "Ampliar el financiamiento de los programas de interruptores de violencia y de las organizaciones de mensajeros creíbles que operan en el Ward 5. Asociarse con Cure the Streets, ONSE y organizaciones sin fines de lucro locales."
+      explanation: "Ampliaría el financiamiento de los programas de interruptores de violencia y las organizaciones de mensajeros creíbles; se asociaría con Cure the Streets, ONSE y organizaciones sin fines de lucro locales; y crearía centros de Intervención Comunitaria contra la Violencia específicos del Ward 5 en Edgewood, Trinidad y Langdon. También apoya inversiones de CPTED (iluminación, cámaras, mantenimiento de parques) y la prevención de la violencia juvenil mediante programas de mentoría en las escuelas secundarias del Ward 5."
+
+    - question_id: housing_rent_stabilization
+      explanation: "Apoya fortalecer las protecciones de los inquilinos, incluida la aplicación de la TOPA, ampliar la asistencia de emergencia para el alquiler de los hogares del Ward 5 a través de organizaciones comunitarias, y trabajar con el DHCD para incluir más edificios del Ward 5 bajo convenios de Unidades de Vivienda Asequible (ADU). Se centra en mecanismos de aplicación y asistencia más que en ampliar explícitamente la cobertura a los edificios más nuevos."
+
+    - question_id: housing_topa_restore
+      quote: "Fortalecer la aplicación de la Ley de Oportunidad de Compra para Inquilinos (TOPA) en el Ward 5."
+      explanation: "Pide explícitamente fortalecer la aplicación de la TOPA en el Ward 5. También apoya ampliar la asistencia de emergencia para el alquiler a través de organizaciones comunitarias y trabajar con el DHCD para incluir más edificios del Ward 5 bajo convenios de ADU. Se centra en la aplicación de las protecciones existentes más que en la restauración completa de la cobertura de la TOPA que fue recortada."
+
+    - question_id: housing_production_trust_fund
+      quote: "Abogar por asignaciones dedicadas del Fondo Fiduciario para la Producción de Vivienda (HPTF) de DC para el Ward 5."
+      explanation: "Abogaría por asignaciones dedicadas del HPTF de DC para el Ward 5 y apoyaría el desarrollo de ingresos mixtos de propiedad gubernamental en parcelas de terreno propiedad de DC en todo el Ward 5. Pide un mínimo de 30 a 60% de unidades asequibles (a AMI de 30 a 80%) en todos los nuevos grandes desarrollos y promueve la vivienda para la fuerza laboral destinada a maestros, policías y la comunidad médica."
+
+    - question_id: youth_curfew_programming
+      quote: "Aumentar la difusión del Programa de Empleo Juvenil de Verano Marion Barry para incrementar la participación. Financiar programas extraescolares y de mentoría en las escuelas secundarias Dunbar, Cardozo y Coolidge que atienden a los jóvenes del Ward 5."
+      explanation: "Aumentaría la difusión del Programa de Empleo Juvenil de Verano Marion Barry, financiaría programas extraescolares y de mentoría en las escuelas secundarias del Ward 5, y abogaría por mejoras en los centros recreativos durante su primer mandato. Plantea la programación juvenil como una estrategia central de seguridad pública junto con la interrupción de la violencia."
+
+    - question_id: parks_rec_funding
+      quote: "Abogar por mejoras en los centros recreativos del Ward 5 durante el primer mandato."
+      explanation: "Abogaría por mejoras en los centros recreativos del Ward 5 durante el primer mandato, financiaría programas extraescolares y de mentoría en las escuelas secundarias del Ward 5, e invertiría en mejorar y ampliar la programación de los centros de bienestar para personas mayores del Ward 5 en colaboración con el DPR y el DACL."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Establecer un Navegador de Pequeños Negocios del Ward 5, un enlace dedicado del DSLBD integrado en el distrito. Crear un programa de Subvenciones para la Activación de Escaparates del Ward 5 en colaboración con el programa DC Main Street."
+      explanation: "Establecería un Navegador de Pequeños Negocios del Ward 5 (un enlace dedicado del DSLBD integrado en el distrito), crearía un programa de Subvenciones para la Activación de Escaparates del Ward 5, y abogaría por programas piloto de estabilización de rentas comerciales para los pequeños negocios en los principales corredores. Enfatiza el apoyo de navegación y subvenciones junto con su llamado a atraer negocios globales y de manufactura para llevar empleos al Ward 5."
+
+    - question_id: education_mental_health_schools
+      quote: "Apoyar el aumento de la proporción de consejeros de salud mental escolar en todas las Escuelas Públicas de DC del Ward 5."
+      explanation: "Apoyaría aumentar la proporción de consejeros de salud mental escolar en todas las DCPS del Ward 5, financiaría programación terapéutica extraescolar en colaboración con el DYRS para estudiantes y padres, y crearía alianzas con programas de psicología de HBCU y universidades para clínicas de formación que atiendan a los jóvenes del Ward 5. También apoya establecer un Centro Comunitario de Salud Mental del Ward 5 con consejería sin cita previa, apoyo entre pares y estabilización de crisis."
+
+    - question_id: crime_more_police
+      quote: "Aumentar la presencia policial en las estaciones de Metro del Ward 5. Abogar por estrategias de despliegue del MPD que prioricen los puntos críticos del Ward 5, particularmente a lo largo de los corredores de NY y Rhode Island Ave."
+      explanation: "Abogaría por estrategias de despliegue del MPD que prioricen los puntos críticos de delincuencia del Ward 5 y aumentaría la presencia policial en las estaciones de Metro del Ward 5. Combina esto con medidas de rendición de cuentas —transparencia de las cámaras corporales, supervisión independiente del uso de la fuerza y un Enlace de Policía Comunitaria del Ward 5—, planteando el despliegue policial como una parte de una combinación más amplia de seguridad pública junto con la interrupción de la violencia."
+
+    - question_id: housing_upzoning
+      quote: "También quiere construir 36,000 unidades de vivienda al año, 20,000 de ellas para residentes de ingresos bajos y moderados."
+      explanation: "Ha fijado una meta de producción de vivienda extremadamente ambiciosa de 36,000 unidades al año en toda la ciudad, 20,000 de ellas para residentes de ingresos bajos y moderados. Para contexto, la alcaldesa Bowser construyó aproximadamente 36,000 unidades en cinco años. Alcanzar ese ritmo requeriría ampliar drásticamente la capacidad de zonificación y la densidad en todo el Distrito. Su Legislación para el Futuro del Ward 5 también pide mayores estándares de Acuerdos de Beneficios Comunitarios en los grandes desarrollos, combinando la densidad con protecciones comunitarias más sólidas."
+
+    - question_id: labor_worker_protections
+      quote: "Apoyar la aplicación de la Ley de Salario Digno de DC para garantizar que todos los contratistas del gobierno paguen a sus empleados un salario digno."
+      explanation: "Carmichael haría cumplir la Ley de Salario Digno de DC para que los contratistas del gobierno paguen un salario digno y crearía vías de desarrollo de la fuerza laboral y de contratación local para los residentes del Ward 5. A favor de protecciones más fuertes para los trabajadores, con énfasis en la aplicación del salario digno y el acceso al empleo."
+
+- id: bridget-french
+  short_bio: >
+    Residente de DC desde hace veinte años y profesional de políticas de energía limpia que ayudó a
+    lanzar los primeros programas de energía de DC a través de la DC Sustainable Energy Utility.
+    Anunció su candidatura en marzo de 2026. Se enfoca en reducir las facturas mensuales de los
+    residentes (especialmente los costos de servicios públicos), facilitar la apertura y operación
+    de pequeños negocios y mejorar los servicios gubernamentales para las familias. «No necesitamos
+    más programas; necesitamos que los que ya financiamos funcionen de verdad en conjunto».
+  long_bio: |
+    Bridget French (42 años) ha hecho de DC su hogar durante casi 20 años. Creció en una familia
+    trabajadora en Fort Lauderdale, donde sus padres tenían un pequeño negocio. Tras la universidad,
+    sirvió como voluntaria del Cuerpo de Paz en Honduras, trabajando con comunidades para proteger
+    los recursos naturales y apoyar oportunidades económicas sostenibles. Al inicio de su carrera,
+    trabajó en algunos de los primeros programas de energía de DC a través de la DC Sustainable
+    Energy Utility, ayudando a lanzar iniciativas que redujeron los costos para residentes y negocios
+    de toda la ciudad. Hoy trabaja con responsables de decisiones de todo el país para impulsar
+    soluciones energéticas prácticas y rentables, con un enfoque en reducir costos y mejorar la vida
+    de las personas mediante una buena política energética. Ella y su esposo viven en el Ward 5 con
+    sus dos perros de rescate. Su plataforma se centra en tres temas: reducir los costos cotidianos
+    (con especial énfasis en las facturas de servicios públicos), hacer que los programas de DC para
+    jóvenes y familias funcionen de verdad en conjunto mediante una mejor coordinación y rendición de
+    cuentas entre las agencias («No necesitamos más programas; necesitamos que los que ya financiamos
+    funcionen de verdad en conjunto»), y ayudar a los pequeños negocios del Ward 5 a mantenerse
+    abiertos, crecer y contratar localmente.
+  positions:
+    - question_id: econ_small_business_tax_relief
+      quote: "Me enfocaré en facilitar la apertura, operación y sostenimiento de un negocio, para que nuestros corredores comerciales sigan vibrantes y nuestra economía local siga fuerte."
+      explanation: "La plataforma destaca «Negocios Locales Prósperos» como una prioridad central: «Los pequeños negocios son la columna vertebral del Ward 5, pero muchos tienen dificultades por el aumento de los costos y las barreras al crecimiento». Se enfocaría en reducir las barreras para operar un negocio y mantener vibrantes los corredores comerciales más que en propuestas específicas de recorte de impuestos."
+
+    - question_id: environment_renewable_energy
+      quote: "Trabajo con responsables de decisiones de todo el país para impulsar soluciones energéticas prácticas y rentables."
+      explanation: "Trabajó en los primeros programas de energía de DC a través de la DC Sustainable Energy Utility, ayudando a lanzar iniciativas que redujeron los costos para residentes y negocios. Su plataforma energética se enmarca en torno a soluciones «prácticas y rentables» que reducen las facturas de los hogares, lo que sugiere un apoyo a la inversión en energía renovable principalmente como un mecanismo de reducción de costos más que como una transición agresiva impulsada por mandatos."
