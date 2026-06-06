@@ -1,0 +1,148 @@
+# Spanish overlay for Mayoral candidates. Only translatable text; ids/question_ids
+# match content/candidates/mayor.yaml. Names, sources and endorser names stay in
+# English. Candidates not listed here fall back to English.
+#
+# La biografía de Janeese y sus citas (quote) provienen del sitio en español de su
+# campaña (janeese4dc.com). Los "one-pagers" detallados en inglés no se tradujeron al
+# español, así que para los temas que el sitio en español no cubre, el campo "quote" se
+# omite y muestra la cita textual original en inglés; la "explanation" editorial sí se
+# traduce en todos los casos. Véase /resources/methodology.
+- id: janeese-lewis-george
+  short_bio: >
+    Concejala del Distrito 4 y washingtoniana de nacimiento con seis años en el Concejo de
+    DC. Graduada en Derecho de la Universidad Howard; exfiscal general adjunta de DC.
+  long_bio: |
+    Janeese Lewis George (38 años) ha representado al Distrito 4 en el Concejo de DC desde
+    2021. Washingtoniana de nacimiento, obtuvo su licenciatura en ciencias políticas en la
+    Universidad St. John's y su doctorado en Derecho (J.D.) en la Universidad Howard.
+    Trabajó como abogada, fiscal de distrito adjunta en Filadelfia y fiscal general adjunta
+    de Washington, D.C. antes de asumir un cargo electo.
+
+    Sus plataformas de campaña incluyen: cuidado infantil universal y asequible (cada
+    familia con un tope del 7% del ingreso familiar); un plan de asequibilidad de servicios
+    públicos de 10 puntos que responsabiliza a Pepco y amplía la energía solar comunitaria;
+    Dignified Homes DC (vivienda de ingresos mixtos propiedad de DC con rentas estables); la
+    modernización de la estabilización de rentas; carriles exclusivos para autobuses y
+    ciclovías protegidas; sitios de inyección segura; un Centro de Transición de Fuerza
+    Laboral Federal de respuesta rápida para empleados federales desplazados; y un plan
+    integral de seguridad pública que equilibra la aplicación de la ley con el enfoque de
+    salud pública de la Ley NEAR. Se opone a los toques de queda para adolescentes y votó a
+    favor del ómnibus Secure DC de 2024. Ha sido muy crítica con la administración Bowser
+    por no hacer lo suficiente para resistir la intromisión federal. Cuenta con el respaldo
+    de Free DC, el Working Families Party y DC DSA.
+  positions:
+    - question_id: youth_curfew_support
+      explanation: "Lewis George se ha opuesto públicamente a los toques de queda para adolescentes."
+
+    - question_id: youth_curfew_programming
+      explanation: "Apoya la inversión en programación fuera del horario escolar, empleos y servicios de salud mental para los jóvenes."
+
+    - question_id: crime_public_health
+      explanation: "Apoya tratar la violencia como un problema de salud pública; respalda el enfoque de la Ley NEAR. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 defendió a los socios de interrupción de la violencia como la Oficina de Seguridad y Compromiso del Vecindario (ONSE) y Cure the Streets, y sostuvo que deberían financiarse con subvenciones plurianuales (de tres años) en lugar de subvenciones mínimas y puntuales «que solo les permiten organizar un asado», para que las organizaciones puedan retener personal y planificar."
+
+    - question_id: crime_secure_dc
+      explanation: "Votó a favor de la legislación ómnibus Secure DC de 2024."
+
+    - question_id: crime_more_police
+      explanation: "Apoya contratar más oficiales del MPD para restaurar los niveles de dotación de personal. En 2019 tuiteó sobre la desinversión, pero desde entonces ha votado para financiar los presupuestos del MPD durante seis años en el Concejo. Sus declaraciones de 2019 se usan con frecuencia en su contra en anuncios de ataque."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Anular la orden del MPD que permite a nuestros oficiales colaborar con el ICE, compartir información y transferir personas a su custodia."
+      explanation: "Apoya los valores santuario de DC y se opone a la cooperación del MPD con el ICE y el control migratorio federal."
+
+    - question_id: housing_topa_restore
+      quote: "Ayudará a las familias a acceder a la compra de una vivienda, fortaleciendo la Ley de Oportunidad de Compra para Inquilinos, que ayudó a su propia familia a comprar la casa en la que viven ahora."
+      explanation: "La plataforma de campaña promete explícitamente, bajo «Ampliar la propiedad de vivienda», restaurar los derechos de compra de los inquilinos fortaleciendo la poderosa ley contra el desplazamiento de DC, la Ley de Oportunidad de Compra para Inquilinos (TOPA), respaldando directamente restaurar y fortalecer la TOPA. Su plataforma de vivienda más amplia es firmemente pro-inquilino, e incluye poner fin al «modelo de negocio de los caseros negligentes» y financiar las conversiones a cooperativas."
+
+    - question_id: housing_dopa
+      explanation: "Propone modificar la DOPA para exigir que el alcalde aclare por qué un edificio determinado debería venderse a desarrolladores en lugar de que la Ciudad lo desarrolle ella misma, citando la falta de vivienda sostenida y profundamente asequible que resulta de esa práctica."
+
+    - question_id: environment_data_centers
+      explanation: "Sugiere que limitará la construcción de nuevos centros de datos implementando más restricciones para responsabilizarlos por el aumento de los costos de los servicios públicos."
+
+    - question_id: sanitation_rats
+      explanation: "Como concejala, Lewis George ha presentado un proyecto de ley para establecer un panel de acceso público para el seguimiento de la actividad de las ratas, incluyendo estimaciones de población y tendencias geoespaciales en tratamientos y solicitudes de servicio. También busca mejorar la coordinación entre el DPW y el DPH en caso de que el DPW se encuentre con ratas al retirar los botes de basura residenciales."
+
+    - question_id: fiscal_progressive_taxation
+      explanation: "Propone medidas de recaudación progresiva, incluyendo impuestos a la propiedad sobre los espacios comerciales vacíos por largo tiempo y un descuento del 15% para los negocios certificados de beneficio social. Su plataforma prioriza proteger los programas de vivienda, cuidado infantil y educación en lugar de recortarlos, aunque no plantea grandes aumentos de impuestos corporativos como su principal herramienta para la brecha presupuestaria."
+
+    - question_id: home_rule_dc_resist
+      quote: "Colaborará con el delegado de DC y con el Fiscal General Brian Schwalb para proteger el autogobierno local."
+      explanation: "Ha sido muy crítica con la administración Bowser por no hacer lo suficiente para resistir la intromisión federal, y plantea el uso agresivo de herramientas legales y la defensa pública para proteger la autonomía presupuestaria de DC como un contraste definitorio con la alcaldesa actual. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 se comprometió a «usar todas las herramientas legales que tenemos para defendernos» junto con el Fiscal General Brian Schwalb, citando haber sido «la única miembro del Concejo en la corte con Eleanor Holmes Norton» cuando la administración intentó tomar el control del jefe de policía de DC: «y ganamos porque usamos nuestras herramientas legales»."
+
+    - question_id: federal_workers_advocate
+      explanation: "Lewis George se compromete a «establecer un Centro de Transición de Fuerza Laboral Federal de respuesta rápida para empleados y contratistas federales desplazados, incluyendo alianzas con universidades para recapacitar y apoyar la transición hacia empleos docentes en DC y otros empleos demandados». También ha sido muy crítica con la administración Bowser por no resistir suficientemente la intromisión federal."
+
+    - question_id: harm_reduction_safe_injection
+      explanation: "Lewis George apoya la apertura de sitios de inyección segura, calificando las sobredosis de opioides como «una de las crisis de salud pública más urgentes» que enfrenta DC. En 2023 solicitó $15 millones en el presupuesto del año fiscal 2024 para abrir dos centros de prevención de sobredosis."
+
+    - question_id: childcare_universal
+      quote: "Todas las familias podrán optar a la asistencia para el cuidado infantil y no gastarán más del 7% de sus ingresos familiares en este servicio, con muchas familias pagando menos y algunas sin pagar nada."
+      explanation: "La plataforma «Cuidado Infantil para Todos» de Lewis George propone un cuidado infantil universal y asequible: todas las familias serán elegibles para recibir asistencia, con un tope del 7% del ingreso familiar (menos de $600 al mes para familias que ganan menos de $100,000). Plan de tres partes: ampliar el subsidio a todas las familias, aumentar la oferta mediante la ubicación de programas en escuelas y microsubvenciones, y garantizar salarios comparables a los de los maestros de DCPS a través del Fondo de Equidad Salarial."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Janeese hará que los autobuses de las rutas más transitadas de DC sean más rápidos y fiables añadiendo carriles exclusivos para autobuses y optimizando las paradas."
+      explanation: "La plataforma promete añadir carriles exclusivos para autobuses en las rutas más transitadas de DC e implementar ciclovías protegidas con apoyo comunitario en toda la ciudad, incluyendo el Sendero Shepherd Branch en los Distritos 7 y 8 y una ciclovía protegida noreste-noroeste. También promete hacer los autobuses gratuitos para los beneficiarios de SNAP y explorar un mayor apoyo al transporte público."
+
+    - question_id: environment_renewable_energy
+      explanation: "El plan de asequibilidad de servicios públicos de 10 puntos de Lewis George incluye ampliar sustancialmente la energía solar comunitaria en todos los edificios gubernamentales disponibles, estacionamientos escolares, parques infantiles y terrenos gubernamentales vacíos; incentivar la energía solar de balcón para inquilinos; implementar contratos de desempeño de ahorro de energía (ESPC) en escuelas y edificios gubernamentales; y ampliar la Ley de Expansión de Sombra Solar (Solar Shade Expansion Amendment Act)."
+
+    - question_id: education_community_schools
+      explanation: "La plataforma afirma explícitamente: «Invertir en y ampliar las subvenciones de Escuelas Comunitarias y ampliar los exitosos servicios de visitas domiciliarias para conectar con las familias». Su pilar «Apoyar al niño en su totalidad» refleja el modelo de escuelas comunitarias, agregando apoyo de orientación para cuidadores y esfuerzos simplificados contra el ausentismo escolar."
+
+    - question_id: housing_social_model
+      quote: "Construirá viviendas sociales (viviendas públicas para familias de ingresos mixtos) y reinvertirá los alquileres para reducir costos, no para aumentar las ganancias."
+      explanation: "La plataforma promete «Lanzar Dignified Homes DC construyendo vivienda de ingresos mixtos propiedad de DC con rentas estables, asegurando que las inversiones en vivienda pública prioricen a los residentes por encima de las ganancias». Este es un modelo explícito de vivienda social con propiedad pública y diseño de ingresos mixtos. Su artículo de opinión de junio de 2026 en Greater Greater Washington reitera el compromiso de establecer un programa de vivienda social de propiedad del Distrito y de ingresos mixtos con rentas estables."
+
+    - question_id: housing_rent_stabilization
+      explanation: "La plataforma pide «Estabilizar la renta modernizando la estabilización de rentas para que los inquilinos tengan costos de vivienda predecibles y los proveedores de vivienda tengan pautas claras». Su enfoque es «modernizar» más que ampliar explícitamente a los edificios posteriores a 1975, pero está firmemente a favor de la estabilización de rentas como herramienta de protección a los inquilinos."
+
+    - question_id: housing_production_trust_fund
+      explanation: "La plataforma pide «Exigir rendición de cuentas por las inversiones en vivienda vinculándolas a resultados medibles y priorizando a los residentes con mayor necesidad», además de lanzar Dignified Homes DC. En su artículo de opinión de junio de 2026 en Greater Greater Washington dice que se apoyaría en «mecanismos de financiamiento que ya existen, como los fondos del Housing Production Trust Fund o los fondos federales», advirtiendo a la vez que «nuestros desafíos de oferta de vivienda, sin embargo, son mayores de lo que podemos resolver solo con subsidios»: respalda el HPTF como herramienta existente en lugar de pedir aumentarlo significativamente (un +1, no un +2)."
+
+    - question_id: parks_rec_funding
+      quote: "Ampliará los programas extraescolares en los ocho distritos escolares."
+      explanation: "La plataforma promete «Invertir en espacios seguros extraescolares y de fin de semana en horario nocturno donde los jóvenes puedan socializar y divertirse», «Ampliar la programación extraescolar y de verano en cada distrito» y crear centros comunitarios en los 8 distritos. Implica apoyo a la programación de tipo DPR, pero no nombra explícitamente al DPR ni pide un aumento presupuestario."
+
+    - question_id: housing_upzoning
+      quote: "Construirá más viviendas eliminando barreras, permitiendo más tipos de viviendas en más lugares y construyendo cerca de vías de transporte público."
+      explanation: "La plataforma promete construir más viviendas «Permitiendo más vivienda en toda la ciudad mediante la eliminación de restricciones de zonificación obsoletas, para que se puedan construir más viviendas y más tipos de viviendas en todo DC, particularmente cerca de los corredores de transporte», junto con permisos simplificados para acelerar la producción. En un artículo de opinión de junio de 2026 en Greater Greater Washington va más allá, comprometiéndose a construir 72,000 viviendas en cinco años (el doble de la meta de la administración actual) legalizando «pequeños edificios de apartamentos de hasta seis unidades en todo el Distrito», flexibilizando los requisitos de retiro y patio lateral, eliminando los requisitos de estacionamiento en toda la ciudad y reescribiendo el Plan Integral para deshacer la zonificación unifamiliar excluyente en los vecindarios más acomodados del Distrito."
+
+    - question_id: transit_fare_free_buses
+      quote: "Los autobuses serán gratuitos para los residentes de DC inscritos en el programa de asistencia alimentaria SNAP, y explorará otras formas de ampliar el apoyo financiero para el transporte público."
+      explanation: "Apoya el transporte gratuito focalizado en lugar de un servicio universal sin tarifa: «Los autobuses serán gratuitos para los residentes de DC inscritos en el programa de asistencia alimentaria SNAP», y «explorará otras formas de ampliar el apoyo financiero para el transporte público»."
+
+    - question_id: transit_congestion_pricing
+      quote: "Publicará el estudio del DDOT sobre la tarificación de las congestiones de tráfico, que se completó pero nunca se publicó, en las 48 horas siguientes a su toma de posesión, y colaborará con las jurisdicciones circundantes para implementarlo."
+      explanation: "Impulsó la publicación del estudio de tarificación por congestión del DDOT (comprometiéndose a hacerlo dentro de las 48 horas de asumir el cargo, lo que llevó a la alcaldesa Bowser a publicarlo). Como alcaldesa «revisará cuidadosamente y, de ser necesario, actualizará el estudio y trabajará con los miembros de la comunidad, los funcionarios del Distrito y los de las jurisdicciones circundantes para considerar su implementación»: abierta a ello, pero comprometida primero con el estudio y el proceso comunitario."
+
+    - question_id: childcare_birth_to_three
+      quote: "Ubicará programas para bebés y niños pequeños en edificios escolares subutilizados e instalaciones propiedad del Distrito."
+      explanation: "Su plan «Cuidado Infantil para Todos» amplía el subsidio a todas las familias (con un tope del 7% del ingreso) y ubica programas para bebés y niños pequeños en escuelas e instalaciones del Distrito: amplía con fuerza el cuidado de bebés y niños pequeños, pero a través de un tope de asequibilidad basado en los ingresos en lugar de una garantía gratuita y universal desde el nacimiento hasta los tres años."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Brindará más ayuda a las pequeñas empresas que enfrentan el aumento de los alquileres, ampliando los créditos fiscales y poniendo a disposición más espacios."
+      explanation: "Apoya un alivio focalizado para los pequeños negocios —ampliar el crédito tributario sobre la propiedad para pequeños negocios de DC, garantías de arrendamiento, un descuento del 15% para negocios certificados de beneficio social y una campaña «Compra Local»— y a la vez aumentar los impuestos a la propiedad sobre los espacios comerciales vacíos por largo tiempo. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 respondió «sí» a un mayor apoyo financiero directo, pidiendo simplificar los permisos y licencias (citando negocios del Distrito 4 que esperaron dos años), consolidar la ayuda a pequeños negocios bajo una sola agencia y abrir edificios vacíos y deteriorados a jóvenes emprendedores, artistas y cocinas fantasma como vía hacia un local físico."
+
+    - question_id: transit_traffic_cameras
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, George respondió «no» a ampliar más cámaras de control de tráfico."
+
+    - question_id: food_access_public_grocery
+      explanation: "George ha hecho del acceso a los alimentos un eje central, proponiendo una tienda de comestibles de propiedad pública al este del Anacostia y priorizando el desarrollo del Distrito que lleve tiendas de comestibles y servicios comerciales a los desatendidos Distritos 5, 7 y 8. Apoya firmemente la intervención directa de la ciudad para eliminar los desiertos alimentarios."
+
+    - question_id: environment_electricity_affordability
+      explanation: "La plataforma «Servicios Públicos Asequibles para Todos» de George es un plan de 10 puntos para reducir las facturas, que comienza señalando que Pepco ha «aumentado las tarifas cada uno de los últimos tres años» y que la Comisión de Servicios Públicos les falló a los residentes. Nombraría comisionados de la PSC que centren el impacto comunitario en la aprobación de tarifas, protegería a los residentes de los aumentos de Pepco y Washington Gas, y reduciría las facturas de los hogares de bajos ingresos."
+
+    - question_id: econ_business_activity_tax
+      explanation: "George ha propuesto un nuevo impuesto a la actividad comercial sobre las firmas de servicios profesionales de altos ingresos —como bufetes de abogados, cabilderos y consultores— como una forma progresiva de financiar servicios como el cuidado infantil universal asequible, un contraste distintivo con McDuffie, quien se opone. Lo apoya firmemente."
+
+    - question_id: labor_worker_protections
+      quote: "Amplié la Licencia Familiar Remunerada porque, cuando mi papá se enfermó, me tomé un tiempo libre para cuidarlo, y todo el mundo debería poder hacer lo mismo por las personas que amamos."
+      explanation: "Como concejala, George amplió la Licencia Familiar Remunerada, aumentó los salarios de los educadores de la primera infancia, puso fin al salario por debajo del mínimo para los trabajadores de restaurantes y reforzó las protecciones laborales, y se compromete a exigir sólidos estándares laborales en los contratos de DC y a ampliar las protecciones para los trabajadores de la economía gig. Apoya firmemente la ampliación de las protecciones de los trabajadores."
+
+    - question_id: homelessness_housing_first
+      explanation: "George plantea la vivienda estable como base de la seguridad y financiaría programas de vivienda de transición y un modelo de ingresos mixtos de propiedad pública, «Dignified Homes DC», enfatizando la vivienda con servicios de apoyo por encima de la aplicación de la ley. Apoya un enfoque orientado a Housing First."
+
+    - question_id: education_impact_osse
+      quote: "Trabajará con el Washington Teachers' Union para reformar la evaluación docente de las Escuelas Públicas de DC y enfocarla en el crecimiento."
+      explanation: "George trabajaría con el Washington Teachers' Union para reformar el sistema de evaluación docente IMPACT y enfocarlo en el crecimiento, y ha pedido una Oficina del Superintendente Estatal de Educación (OSSE) independiente. Apoya firmemente ambas mitades de esta pregunta."

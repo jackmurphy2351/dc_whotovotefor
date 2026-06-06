@@ -1,11 +1,13 @@
-from flask import Blueprint, abort, current_app, render_template
+from flask import Blueprint, abort, render_template
+
+from ..i18n import get_content
 
 bp = Blueprint("elections", __name__)
 
 
 @bp.route("/election/<slug>")
 def election(slug: str):
-    content = current_app.config["CONTENT"]
+    content = get_content()
     elec = content.elections.get(slug)
     if not elec:
         abort(404)
@@ -15,7 +17,7 @@ def election(slug: str):
 
 @bp.route("/candidate/<election_slug>/<candidate_id>")
 def candidate(election_slug: str, candidate_id: str):
-    content = current_app.config["CONTENT"]
+    content = get_content()
     elec = content.elections.get(election_slug)
     if not elec:
         abort(404)

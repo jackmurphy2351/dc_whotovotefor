@@ -1,0 +1,111 @@
+# Spanish overlay for Ward 1 candidates. Only translatable text; ids/question_ids
+# match content/candidates/ward1.yaml. Names, sources and endorser names stay in
+# English. Candidates not listed here fall back to English.
+#
+# La biografía y las posiciones de Jackie provienen del sitio en español de su campaña
+# (jackieforward1.com/es). Algunas cifras difieren de la versión en inglés porque la
+# propia campaña las presenta de manera distinta en cada idioma (p. ej. la edad de
+# llegada o los montos de los fondos para inmigrantes). La divergencia es intencional;
+# no se debe "reconciliar" en/es. Véase /resources/methodology.
+- id: jackie-reyes-yanes
+  short_bio: >
+    Nacida en El Salvador; llegó a DC en 1990 siendo una madre adolescente que vivió
+    en situación de calle. Llegó a ser Directora Ejecutiva de la Oficina de la Alcaldía
+    para Asuntos Latinos (2015) y Directora de la Oficina de Asuntos Comunitarios de la
+    Alcaldía (2021, la primera latina). Aseguró $10 millones para la defensa legal de
+    inmigrantes. De ser elegida, sería la primera latina electa al Concejo de DC.
+    Plataforma: subvenciones para pequeños negocios, cuidado infantil, ampliación del
+    HPAP y seguridad comunitaria.
+  long_bio: |
+    Jackie Reyes Yanes (48 años) nació en El Salvador y llegó a Washington, DC en 1990
+    a los 13 años. Como madre adolescente que vivió en situación de calle, comprendió
+    de primera mano las barreras que enfrentan las familias de bajos ingresos y las
+    recién llegadas. Su padre compró más tarde la casa familiar en los años noventa
+    trabajando como lavaplatos, una experiencia que ella evoca con frecuencia: «Esa
+    puerta debe permanecer abierta para la próxima generación».
+
+    Su carrera comenzó en el Latin American Youth Center, donde desarrolló experiencia
+    en manejo de datos, alcance comunitario y coordinación de programas para jóvenes y
+    familias. Más adelante trabajó en la Oficina de Relaciones y Servicios Comunitarios
+    del alcalde Fenty y luego como Directora de Asuntos Latinos y Alcance Comunitario
+    para el fallecido concejal del Ward 1 Jim Graham. En 2015, la alcaldesa Bowser la
+    nombró Directora Ejecutiva de la Oficina de la Alcaldía para Asuntos Latinos (MOLA),
+    donde amplió el presupuesto de la agencia, lanzó el Programa de Subvenciones para
+    Servicios Legales de Justicia Migratoria (asegurando $10 millones para la defensa
+    legal de inmigrantes) y desempeñó un papel central en la expansión de STAY DC para
+    ayudar a miles de familias a permanecer en sus hogares durante las crisis. Durante
+    la COVID-19 lideró campañas multilingües de educación sobre vacunas y clínicas
+    móviles de vacunación en comunidades de difícil acceso. En octubre de 2021 fue
+    nombrada Directora de la Oficina de Asuntos Comunitarios de la Alcaldía —la primera
+    latina en ocupar el cargo—, supervisando múltiples oficinas de asuntos comunitarios
+    y sirviendo como puente entre los residentes y la Alcaldía.
+
+    Hitos destacados: figuró en el libro de 2017 «Sí Puede: 26 Successful Salvadorans
+    in the Diaspora»; lideró la delegación de 2018 que culminó en el Acuerdo de Ciudades
+    Hermanas entre Washington, DC y San Salvador; y en 2024 ayudó a liderar al equipo
+    que estableció un Récord Guinness por la pupusa más grande del mundo. Fue incluida
+    en el «100 Powermeter» de El Tiempo Latino. Cuenta con el respaldo de la concejal
+    At-Large Anita Bonds y de GCAAR.
+
+    De ser elegida, sería la primera latina en la historia electa al Concejo de DC.
+    Enmarca su campaña explícitamente en torno a esa importancia histórica junto con una
+    plataforma de cinco puntos: subvenciones para pequeños negocios ($5,000–$50,000,
+    multilingües, con decisiones rápidas); un Centro de Soluciones del Vecindario con
+    20 Embajadores Comunitarios remunerados (10 adultos mayores, 10 jóvenes) y una
+    garantía de respuesta en 72 horas; la ampliación del HPAP a $30 millones con un
+    límite de ingresos de $150,000; cuidado infantil asequible desde el nacimiento hasta
+    los 36 meses con un salario mínimo de $22 por hora para los educadores; y seguridad
+    comunitaria mediante auditorías completas del alumbrado público, espacios públicos
+    activados y empleo juvenil garantizado. Apoya explícitamente un toque de queda para
+    jóvenes como medida temporal de protección, mientras invierte en programación como
+    solución a largo plazo.
+  positions:
+    - question_id: housing_rent_stabilization
+      quote: "Cerrar los vacíos legales que algunos propietarios usan para evadir las reglas de estabilización de renta de DC. No más desalojos por renovaciones. No más declaraciones de vacancia de mala fe. Tu renta es tu renta."
+      explanation: "Se compromete a cerrar los vacíos legales que los propietarios usan para eludir la estabilización de rentas: nada de desalojos por renovación ni de declaraciones de vacancia de mala fe. No pide específicamente ampliar la cobertura a los edificios construidos después de 1975; su enfoque está en fortalecer la aplicación de las protecciones existentes."
+
+    - question_id: mpd_ice_cooperation
+      explanation: "Toda su carrera se ha centrado en proteger a las comunidades inmigrantes: aseguró $10 millones para el Programa de Subvenciones para Servicios Legales de Justicia Migratoria de DC, amplió la estabilidad de vivienda de STAY DC para familias inmigrantes y lideró el alcance multilingüe sobre vacunas en comunidades de difícil acceso. Según The 51st, se pronuncia abiertamente contra la colaboración del MPD con ICE y los agentes federales de inmigración."
+
+    - question_id: education_mental_health_schools
+      quote: "Necesitamos más en el aula… más consejeros, más terapeutas, más bibliotecarios, más enfermeras: eso es lo que se necesita en este momento."
+      explanation: "En el foro educativo del Ward 1 de la WTU, cuando se le pidió nombrar una función de la oficina central que recortaría y un puesto escolar que financiaría, dijo que «sacaría al intermediario» y redirigiría el dinero hacia apoyos en las escuelas: «más consejeros, más terapeutas, más bibliotecarios, más enfermeras: eso es lo que se necesita en este momento». En la conversación sobre la retención de docentes también respaldó los apoyos de salud mental y los recursos de bienestar. Apoya ampliar el personal de salud conductual en las escuelas, aunque no se comprometió a un clínico dedicado en cada escuela."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Me gustaría trabajar con ustedes para cerrar las brechas, identificar las brechas del Ward 1 en la red de ciclovías, y también para asegurar que trabajemos muy de cerca con el DOT."
+      explanation: "En el foro de transporte del Bike, Walk & Bus PAC respaldó completar la red de ciclovías del Ward 1 —«cerrar las brechas, identificar las brechas del Ward 1 en la red de ciclovías»— y se comprometió a financiar plenamente Vision Zero, trabajando de cerca con el DOT para evitar que los proyectos sean desplazados del distrito. Se muestra a favor, pero enfatiza la participación comunitaria, la señalización clara y bilingüe, y el «compartir las calles» (señalando que los ciclistas deberían usar las ciclovías en lugar de las aceras) más que una expansión agresiva de carriles."
+
+    - question_id: transit_fare_free_buses
+      quote: "Estoy más a favor de hacerlo parcial, como en las horas pico… no queremos decir que todo sea gratis y luego terminar en un déficit presupuestario."
+      explanation: "Apoya ampliar el transporte gratuito, pero no de manera universal: partiendo del programa de viaje gratuito para niños, prefiere hacer los autobuses gratuitos «de forma parcial, como en las horas pico» para las familias trabajadoras que viajan al trabajo y en turnos nocturnos, a la espera de un estudio serio —en lugar de gratuitos para todos los pasajeros—, advirtiendo que hacer «todo gratis» arriesga un déficit presupuestario. Es una posición matizada y focalizada, más que un apoyo a los autobuses gratuitos universales."
+
+    - question_id: housing_upzoning
+      quote: "No tenemos que crear más vivienda, tenemos que ampliar lo que ya tenemos."
+      explanation: "En el foro de transporte del Bike, Walk & Bus PAC, cuando se le preguntó sobre el desarrollo orientado al transporte, no respaldó construir nueva vivienda cerca del transporte: «No tenemos que crear más vivienda, tenemos que ampliar lo que ya tenemos». En cambio, se enfocaría en rehabilitar los apartamentos vacíos y deteriorados existentes (citando Columbia Heights) y en fortalecer el control de rentas (sin cambios desde 1985), trabajando con la Oficina de Planificación sobre lo que ya está en proceso. Un contraste notable con los otros candidatos del Ward 1, que respaldan la densificación para añadir vivienda cerca del transporte."
+
+    - question_id: childcare_universal
+      quote: "Cuidado infantil asequible y de alta calidad para cada niño y niña de Ward 1, sin importar el ingreso familiar. Sin listas de espera. Sin excepciones."
+      explanation: "Pide «cuidado infantil asequible y de alta calidad para cada niño y niña de Ward 1, sin importar el ingreso familiar: sin listas de espera, sin excepciones» desde el nacimiento hasta los 36 meses. Incluye suplementos salariales para los educadores de al menos $22 por hora. Ampliaría la elegibilidad para los subsidios hasta el 150% del AMI y construiría nuevas instalaciones de cuidado infantil en propiedades públicas y privadas subutilizadas."
+
+    - question_id: childcare_birth_to_three
+      quote: "El cuidado infantil no debería costar $2,500 al mes. Tú trabajas duro por tu familia. Este Distrito debería trabajar igual de duro por ti."
+      explanation: "Promesa central de su plataforma: «Cuidado infantil asequible y de alta calidad desde el nacimiento hasta los 36 meses… para cada niño y niña de Ward 1, sin importar el ingreso familiar. Sin listas de espera. Sin excepciones». La combina con suplementos salariales para los educadores de al menos $22 por hora y nuevas instalaciones para bebés y niños pequeños en espacios públicos y privados."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "El Programa de Activación de Pequeños Negocios de Jackie pone dinero real, hasta $50,000 en subvenciones directas, detrás de cada negocio del Ward 1 que lo necesite."
+      explanation: "Encabeza su plataforma con «NO MÁS IMPUESTOS PARA NUESTROS NEGOCIOS LOCALES» y se describe como «la única candidata enfocada en hacer crecer nuestra economía sin aumentar impuestos, invirtiendo en nuestros emprendedores locales». Propone un fondo de subvenciones de Activación de Pequeños Negocios dedicado al Ward 1 ($5,000–$50,000), un centro integral de soluciones para negocios y un Derecho Preferente de Compra para pequeños negocios en los locales comerciales vacíos."
+
+    - question_id: youth_curfew_support
+      quote: "Desafortunadamente, en este momento, un toque de queda para jóvenes menores de 18 años es necesario para proteger a nuestras comunidades y mantener seguro el Distrito."
+      explanation: "Declara explícitamente: «Desafortunadamente, en este momento, un toque de queda para jóvenes menores de 18 años es necesario para proteger a nuestras comunidades y mantener seguro el Distrito». Lo plantea como una medida temporal de protección, acompañada de inversión en empleo y programación juvenil."
+
+    - question_id: youth_curfew_programming
+      quote: "Un adolescente con trabajo, salario y mentor es la estrategia de prevención del crimen más efectiva que tenemos."
+      explanation: "Acompaña su apoyo al toque de queda con empleos garantizados de verano y después de clases para cada joven del Ward 1 que quiera uno, programación durante todo el año en parques y plazas (cine, mercados, ligas deportivas) y el Cuerpo de Embajadores Comunitarios remunerado que une a adultos mayores con jóvenes de 18 a 24 años. Afirma que «un adolescente con trabajo, salario y mentor es la estrategia de prevención del crimen más efectiva que tenemos»."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "Soy la única candidata enfocada en hacer crecer nuestra economía sin aumentar impuestos, invirtiendo en nuestros emprendedores locales."
+      explanation: "Encabeza su plataforma con «NO MÁS IMPUESTOS PARA NUESTROS NEGOCIOS LOCALES» y se presenta como «la única candidata enfocada en hacer crecer nuestra economía sin aumentar impuestos, invirtiendo en nuestros emprendedores locales». Prefiere los programas de subvenciones y la activación económica por encima de los aumentos de impuestos, aunque su enfoque en contra de los impuestos se dirige principalmente a los negocios locales."
+
+    - question_id: home_rule_dc_resist
+      explanation: "Su carrera se ha centrado en proteger a las comunidades inmigrantes de DC del daño federal: aseguró $10 millones para el Programa de Subvenciones para Servicios Legales de Justicia Migratoria y se opone a la colaboración del MPD con los agentes federales de inmigración. Es protectora de los residentes inmigrantes, pero su plataforma se enfoca en la prestación de servicios y la defensa legal más que en una postura de confrontación más amplia hacia la Casa Blanca."

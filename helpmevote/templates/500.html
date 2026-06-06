@@ -1,15 +1,14 @@
 {% extends "base.html" %}
-{% block title %}Something went wrong — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.error") }} — {{ t("site.name") }}{% endblock %}
 {% block description %}An unexpected error occurred. Your quiz answers are safe on your own device.{% endblock %}
 
 {% block content %}
 <div class="error-page">
-  <h1>Something went wrong</h1>
-  <p>An unexpected error occurred on our end. Nothing you entered was collected or
-  stored on a server — your quiz answers live only in a cookie on your own device.</p>
-  <p>Please try again in a moment.</p>
+  <h1>{{ t("error.500_title") }}</h1>
+  <p>{{ t("error.500_text") }}</p>
+  <p>{{ t("error.500_text2") }}</p>
   <p class="error-actions">
-    <a href="{{ url_for('main.index') }}" class="btn btn-primary">← Back to elections</a>
+    <a href="{{ url_for('main.index') }}" class="btn btn-primary">{{ t("error.back_elections") }}</a>
   </p>
 </div>
 {% endblock %}

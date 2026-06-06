@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ current_lang() }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,20 +18,25 @@
 <body>
   <header class="site-header">
     <div class="container">
-      <a href="{{ url_for('main.index') }}" class="site-logo">Help Me Vote DC 2026!</a>
+      <a href="{{ url_for('main.index') }}" class="site-logo">{{ t("site.name") }}</a>
       <nav>
-        <a href="{{ url_for('main.index') }}">Elections</a>
-        <a href="{{ url_for('resources.index') }}">Resources</a>
-        <a href="{{ url_for('main.about') }}">About</a>
+        <a href="{{ url_for('main.index') }}">{{ t("nav.elections") }}</a>
+        <a href="{{ url_for('resources.index') }}">{{ t("nav.resources") }}</a>
+        <a href="{{ url_for('main.about') }}">{{ t("nav.about") }}</a>
+        <span class="lang-switcher" aria-label="{{ t('lang.aria') }}">
+          {% for lng in supported_languages %}
+          {% if lng == current_lang() %}<span class="lang-current">{{ t("lang.name." + lng) }}</span>{% else %}<a href="{{ switch_lang_url(lng) }}" rel="nofollow">{{ t("lang.name." + lng) }}</a>{% endif %}
+          {% endfor %}
+        </span>
       </nav>
     </div>
   </header>
 
   <div class="primary-notice">
     <div class="container">
-      <strong>These are Democratic Primary elections.</strong>
-      In DC, winning the primary is effectively winning the general election.
-      <a href="{{ url_for('resources.topic', topic='primary_vs_general') }}">Learn why →</a>
+      <strong>{{ t("primary_notice.strong") }}</strong>
+      {{ t("primary_notice.text") }}
+      <a href="{{ url_for('resources.topic', topic='primary_vs_general') }}">{{ t("primary_notice.link") }}</a>
     </div>
   </div>
 
@@ -42,11 +47,11 @@
   <footer class="site-footer">
     <div class="container">
       <p>
-        Open source under <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="noopener">AGPL-3.0</a>.
-        <a href="https://github.com/jackmurphy2351/dc_whotovotefor">View source on GitHub</a>.
+        {{ t("footer.license_pre") }} <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="noopener">AGPL-3.0</a>.
+        <a href="https://github.com/jackmurphy2351/dc_whotovotefor">{{ t("footer.viewsource") }}</a>.
       </p>
-      <p>Not affiliated with any campaign or political organization.</p>
-      <p><a href="{{ url_for('resources.topic', topic='privacy') }}">Privacy — we don't collect your data</a></p>
+      <p>{{ t("footer.not_affiliated") }}</p>
+      <p><a href="{{ url_for('resources.topic', topic='privacy') }}">{{ t("footer.privacy") }}</a></p>
     </div>
   </footer>
 

@@ -1,0 +1,13 @@
+# Spanish overlay for elections. Only translatable text; slugs match content/elections.yaml.
+- slug: ward1
+  title: "Concejal del Ward 1"
+  short_description: >
+    Cinco demócratas compiten para reemplazar a la concejal saliente Brianne Nadeau
+    en las primarias del 16 de junio.
+  whats_at_stake: |
+    El Ward 1 abarca Columbia Heights, Mt. Pleasant, Adams Morgan, Petworth, Shaw
+    y partes de U Street. El distrito tiene una gran comunidad latina, un importante
+    inventario de vivienda asequible y presiones continuas de gentrificación. La
+    concejal saliente Brianne Nadeau ha respaldado a Rashida Brown. Cinco demócratas
+    están en las primarias, y el voto por orden de preferencia (ranked choice voting)
+    se aplica por primera vez en junio de 2026.

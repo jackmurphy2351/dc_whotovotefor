@@ -1,0 +1,259 @@
+# Canonical English UI chrome. Flat dotted keys, looked up via the t() Jinja
+# helper. Other languages live in content/<lang>/ui.yaml and fall back to these.
+
+# --- Brand & navigation ---
+site.name: "Help Me Vote DC 2026!"
+nav.elections: "Elections"
+nav.resources: "Resources"
+nav.about: "About"
+
+# --- Language switcher ---
+lang.aria: "Language"
+lang.name.en: "English"
+lang.name.es: "Español"
+
+# --- Primary-election notice (base.html) ---
+primary_notice.strong: "These are Democratic Primary elections."
+primary_notice.text: "In DC, winning the primary is effectively winning the general election."
+primary_notice.link: "Learn why →"
+
+# --- Footer ---
+footer.license_pre: "Open source under"
+footer.viewsource: "View source on GitHub"
+footer.not_affiliated: "Not affiliated with any campaign or political organization."
+footer.privacy: "Privacy — we don't collect your data"
+
+# --- Shared bits ---
+common.sources: "Sources"
+common.sources_inline: "Sources:"
+common.accessed: "Accessed"
+common.full_profile: "Full profile →"
+
+# --- Stance labels: quiz agree/disagree scale ---
+stance.strongly_disagree: "Strongly disagree"
+stance.disagree: "Disagree"
+stance.skip: "Skip / No opinion"
+stance.agree: "Agree"
+stance.strongly_agree: "Strongly agree"
+
+# --- Stance labels: candidate supports/opposes scale ---
+stance.strongly_opposes: "Strongly opposes"
+stance.opposes: "Opposes"
+stance.neutral: "Neutral"
+stance.supports: "Supports"
+stance.strongly_supports: "Strongly supports"
+stance.unknown_position: "Unknown / no public position"
+
+# --- Agreement pills (results / methodology) ---
+agree.agree: "Agree"
+agree.partial: "Partial"
+agree.disagree: "Disagree"
+
+# --- Endorsement category headers (controlled vocabulary) ---
+"endorsement.category.Labor unions": "Labor unions"
+"endorsement.category.Elected/Appointed Officials": "Elected/Appointed Officials"
+"endorsement.category.Advocacy & community organizations": "Advocacy & community organizations"
+"endorsement.category.Individuals & public figures": "Individuals & public figures"
+"endorsement.category.Newspapers & editorial boards": "Newspapers & editorial boards"
+
+# --- Fair Elections badges ---
+badge.fair_elections: "Fair Elections ✓"
+badge.fair_elections_full: "Participating in DC Fair Elections Program ✓"
+badge.not_fair_elections: "Not in DC Fair Elections Program"
+badge.limited: "Limited data"
+
+# --- Home page (index.html) ---
+index.title: "Choose an Election"
+index.hero_lead: "DC's June 16 Democratic Primary elections will shape the District for years. Pick an election below to learn about the candidates and find out who best matches your values."
+index.how_title: "How it works"
+index.how_1: "Choose an election race that applies to you."
+index.how_2: "Answer questions about issues you care about."
+index.how_3: "Take the quiz to see which candidates align most with your values."
+index.sources_note_strong: "All candidate positions link directly to sources"
+index.sources_note_rest: "— campaign pages, official DC government sites, and verified news coverage. No unsourced claims. Every candidate's full set of positions is listed on their profile page."
+index.short_on_time: "Short on time?"
+index.all_races_cta: "Answer the questions once and see your matches for every race →"
+index.explore: "Explore →"
+index.take_quiz: "Take the quiz"
+
+# --- Election page (election.html) ---
+election.primary_label: "Democratic Primary"
+election.whats_at_stake: "What's at stake"
+election.take_quiz: "Take the quiz →"
+election.candidates: "Candidates"
+election.candidates_note: "Each candidate's full set of positions is listed on their profile page."
+
+# --- Candidate page (candidate.html) ---
+candidate.endorsements: "Endorsements"
+candidate.official_site: "Official campaign site →"
+candidate.positions_title: "Positions on the issues"
+candidate.positions_note: "All positions are sourced directly from the candidate's campaign materials, official questionnaire responses, or verified news coverage. Stances are rated on a scale from <strong>Strongly opposes (−2)</strong> to <strong>Strongly supports (+2)</strong>. A stance of <em>Unknown</em> means no public position has been found."
+candidate.general_sources: "General sources"
+candidate.take_quiz_race: "Take the quiz for this race →"
+
+# --- Quiz: question step (quiz.html) ---
+quiz.progress: "Question {current} of {total}"
+quiz.background: "Background context"
+quiz.your_position: "Your position"
+quiz.back: "← Back"
+quiz.next: "Next →"
+quiz.see_results: "See my results →"
+quiz.choose_questions_link: "← Choose questions"
+quiz.start_over: "Start over"
+quiz.all_races: "All Races"
+
+# --- Quiz: question selection (quiz_start.html) ---
+quiz_start.breadcrumb: "Choose questions"
+quiz_start.lead: "Choose the questions you'd like to answer."
+quiz_start.intro: "Every question is selected by default. Uncheck any topics or individual questions you'd rather skip — a shorter quiz is fine. Your match is calculated only from the questions you keep and answer with an opinion."
+quiz_start.error_strong: "Pick at least one question."
+quiz_start.error_text: "Select the questions you want to answer before starting the quiz."
+quiz_start.select_all: "Select all"
+quiz_start.deselect_all: "Deselect all"
+quiz_start.of: "of"
+quiz_start.selected_word: "selected"
+quiz_start.start: "Start quiz →"
+quiz_start.category_other: "Other"
+quiz_start.question_singular: "question"
+quiz_start.question_plural: "questions"
+
+# --- Quiz: no questions (quiz_no_questions.html) ---
+quiz_none.text: "No quiz questions are available for this election yet. Check back soon, or"
+quiz_none.link: "read about the candidates"
+
+# --- Results: single race (results.html) ---
+results.breadcrumb: "Your Results"
+results.heading_prefix: "Your results:"
+results.note: "Candidates are ranked by how well their known positions match yours."
+results.how_calculated: "How is this calculated?"
+results.no_answers_strong: "No answers recorded."
+results.no_answers_text: "You haven't answered any questions yet."
+results.take_quiz: "Take the quiz →"
+results.back_all: "← Your results for every race"
+results.limited_title: "Limited information available"
+results.limited_text: "We have a documented stance for these candidates on too few of your answered questions to rank them confidently. Their match shown below is based only on those few questions — it is not comparable to the candidates above."
+results.match: "match"
+results.coverage: "based on {compared} of {answered} questions"
+results.no_data: "no data"
+results.no_stance_one: "no known stance on your {n} answered question"
+results.no_stance_many: "no known stance on your {n} answered questions"
+results.compare: "How you compare, question by question"
+results.your_answer: "Your answer"
+results.no_known_position: "No known position"
+results.all_races_results: "← All races results"
+results.retake: "Retake the quiz"
+results.explore_another: "Explore another race"
+
+# --- Results: every race (results_all.html) ---
+results_all.breadcrumb: "Your Results"
+results_all.heading: "Your results across every race"
+results_all.note: "For each race, here are the candidates whose known positions best match yours."
+results_all.full_results: "Full results →"
+results_all.race_note: "Not enough of your answered questions overlap with this race yet to rank its candidates confidently."
+results_all.see_breakdown: "See the full breakdown →"
+results_all.start_over: "Start over"
+
+# --- Resources index (resources/index.html) ---
+resources.index_title: "Resources"
+resources.index_lead: "Background information on DC elections, policies, and political context."
+
+# --- Resource page titles ---
+resources.title.primary_vs_general: "Why the Democratic Primary Is Effectively the General Election in DC"
+resources.title.ranked_choice: "Ranked Choice Voting / Initiative 83"
+resources.title.topa: "TOPA & DOPA: Tenant Purchase Rights"
+resources.title.fair_elections: "The DC Fair Elections Program"
+resources.title.dc_council: "How the DC Council Works"
+resources.title.delegate_statehood: "The Non-Voting Delegate & DC Statehood"
+resources.title.special_elections: "How Special Elections Work"
+resources.title.methodology: "How We Assign Candidate Stances"
+resources.title.privacy: "Privacy & Your Data"
+
+# --- Error pages ---
+error.404_title: "Page not found"
+error.404_text: "We couldn't find the page you were looking for. It may have moved, or the link might be incorrect."
+error.back_elections: "← Back to elections"
+error.browse_resources: "Browse resources"
+error.500_title: "Something went wrong"
+error.500_text: "An unexpected error occurred on our end. Nothing you entered was collected or stored on a server — your quiz answers live only in a cookie on your own device."
+error.500_text2: "Please try again in a moment."
+
+# --- Page <title> tags ---
+title.choose_election: "Choose an Election"
+title.quiz: "Quiz"
+title.choose_questions: "Choose questions"
+title.results: "Your Results"
+title.results_all: "Your Results: Every Race"
+title.resources: "Resources"
+title.about: "About"
+title.not_found: "Page not found"
+title.error: "Something went wrong"
+
+# --- About page (about.html) ---
+about.page_title: "About This Site"
+about.what_is_title: "What is this?"
+about.what_is_body: >
+  is a free, open-source voter guide for Washington, DC's June 16, 2026 Democratic Primary elections. It helps you compare candidates based on the issues you actually care about, using a 5-point Likert scale.
+about.sourcing_title: "How are candidate positions sourced?"
+about.sourcing_p1: >
+  Every candidate position must be linked directly to a primary source — the candidate's own campaign website, an official questionnaire response, or a verified news article. No position is listed without a citation. We do not editorialize about which positions are "correct."
+about.sourcing_p2: >
+  Where a candidate's position is unknown — because they haven't addressed an issue publicly — we mark it as "Unknown" rather than guessing or inferring.
+about.advisories_title: "Endorsement advisories"
+about.advisories_p1: >
+  This site displays endorsement advisories (such as "Free DC: do not rank candidate X") as third-party opinions with a direct link to the source. These are not this site's own recommendations — they are factual reports of what named organizations have said.
+about.methodology_title: "Methodology"
+about.methodology_intro: >
+  Every answer uses a 5-point scale: <em>strongly disagree</em>, <em>disagree</em>, <em>neutral</em>, <em>agree</em>, <em>strongly agree</em>. For each question you answer, we compare your position to the candidate's and look at how many steps apart they are on that scale.
+about.two_things_title: "Two things you'll see, and why they can differ"
+about.two_things_body: >
+  Each compared question shows a <strong>label</strong> — the headline <span class="agree-pill agree-yes">Agree</span>, <span class="agree-pill agree-partial">Partial</span>, or <span class="agree-pill agree-no">Disagree</span> — and also feeds the candidate's overall <strong>match&nbsp;percentage</strong>. These measure different things, so they can disagree:
+about.label_rule_lead: >
+  <strong>The label is a coarse headline: which side are you on?</strong> It uses simple, intuitive rules:
+about.label_rule_agree: >
+  <strong>Agree</strong> — the same position.
+about.label_rule_partial: >
+  <strong>Partial</strong> — one step apart: you're on the <em>same side</em> and differ only in intensity (for example, <em>strongly agree</em> vs. <em>agree</em>).
+about.label_rule_disagree: >
+  <strong>Disagree</strong> — two or more steps apart. Opposite sides, or one of you is neutral while the other is committed, counts as disagreement — not "partial" agreement.
+about.percentage_rule: >
+  <strong>The percentage is the fine print: how far apart are you, exactly?</strong> It scales smoothly with the gap — 100% for an identical answer down to 0% for the polar opposite — and the final match percentage is the average of those values across every question you answered where the candidate has a known public stance. Keeping it graded is what lets a candidate who is only <em>mildly</em> off your views rank above one who is <em>diametrically</em> opposed.
+about.label_pct_diff: >
+  Because of this, you may see a <span class="agree-pill agree-no">Disagree</span> label on a question that still contributed a partial amount (say, 50%) to the percentage. That's intended: you can land on opposite sides yet not be maximally far apart.
+about.worked_examples_title: "Worked examples"
+about.worked_examples_intro: >
+  Here is exactly how each case looks, from an identical answer to a complete opposite — the cards below render just like the question-by-question breakdown on your results page:
+about.example_line_one: "{n} step apart · contributes {pct} to the match"
+about.example_line_many: "{n} steps apart · contributes {pct} to the match"
+about.candidate_col: "Candidate"
+about.skip_note: >
+  Questions you skip — and questions where the candidate has no known public stance — are excluded entirely. They get no label and never count toward the percentage.
+about.insufficient_note: >
+  A candidate with no known stances on any of your answered questions is shown as "Insufficient data" rather than scored at 0%.
+about.coverage_note: >
+  Because a percentage can be misleading when it rests on only a handful of questions, every result also shows its <strong>coverage</strong> — for example, "based on 5 of 29 questions." A candidate could score 100% on the five questions we have positions for while their views on the other 24 remain unknown.
+about.limited_note: >
+  To keep that from being mistaken for a strong overall match, candidates we have documented on too few of your answered questions are grouped separately under <strong>"Limited information available"</strong> and sorted below the well-documented candidates, regardless of their percentage. We never guess or fill in a candidate's missing positions — they are simply ranked with less confidence until more sourced information is available.
+about.opensource_title: "Open source"
+about.opensource_pre: "This site is released under the"
+about.opensource_license: "AGPL-3.0 license"
+about.opensource_post: >
+  All source code and candidate data are publicly available. Contributions, corrections, and issue reports are welcome.
+about.disclaimer_title: "Disclaimer"
+about.disclaimer_pre: >
+  This site is an independent civic project and is not affiliated with any candidate, campaign, political party, or government agency. If you have any comments, suggestions for improvement, or concerns, please email me at
+about.disclaimer_post: "or open an issue on GitHub."
+
+# --- Date formatting ---
+date.long_format: "{month} {day}, {year}"
+date.month.1: "January"
+date.month.2: "February"
+date.month.3: "March"
+date.month.4: "April"
+date.month.5: "May"
+date.month.6: "June"
+date.month.7: "July"
+date.month.8: "August"
+date.month.9: "September"
+date.month.10: "October"
+date.month.11: "November"
+date.month.12: "December"

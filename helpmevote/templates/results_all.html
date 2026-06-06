@@ -1,24 +1,24 @@
 {% extends "base.html" %}
-{% block title %}Your Results: Every Race — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.results_all") }} — {{ t("site.name") }}{% endblock %}
 
 {% block content %}
 <nav class="breadcrumb">
-  <a href="{{ url_for('main.index') }}">Elections</a> › Your Results
+  <a href="{{ url_for('main.index') }}">{{ t("nav.elections") }}</a> › {{ t("results_all.breadcrumb") }}
 </nav>
 
 <div class="results-header">
-  <h1>Your results across every race</h1>
+  <h1>{{ t("results_all.heading") }}</h1>
   <p class="results-note">
-    For each race, here are the candidates whose known positions best match yours.
-    <a href="{{ url_for('main.about') }}">How is this calculated?</a>
+    {{ t("results_all.note") }}
+    <a href="{{ url_for('main.about') }}">{{ t("results.how_calculated") }}</a>
   </p>
 </div>
 
 {% if all_zero %}
 <div class="alert alert-warning">
-  <strong>No answers recorded.</strong>
-  You haven't answered any questions yet.
-  <a href="{{ url_for('quiz.quiz', slug='all') }}">Take the quiz →</a>
+  <strong>{{ t("results.no_answers_strong") }}</strong>
+  {{ t("results.no_answers_text") }}
+  <a href="{{ url_for('quiz.quiz', slug='all') }}">{{ t("results.take_quiz") }}</a>
 </div>
 {% else %}
 
@@ -27,16 +27,15 @@
   <div class="results-race-header">
     <h2>{{ elec.title }}</h2>
     <a href="{{ url_for('quiz.results', slug=elec.slug) }}" class="btn btn-ghost btn-small">
-      Full results →
+      {{ t("results_all.full_results") }}
     </a>
   </div>
 
   {% set any_sufficient = ranked | selectattr('sufficient_data') | list | length > 0 %}
   {% if not any_sufficient %}
   <p class="results-race-note">
-    Not enough of your answered questions overlap with this race yet to rank its
-    candidates confidently.
-    <a href="{{ url_for('quiz.results', slug=elec.slug) }}">See the full breakdown →</a>
+    {{ t("results_all.race_note") }}
+    <a href="{{ url_for('quiz.results', slug=elec.slug) }}">{{ t("results_all.see_breakdown") }}</a>
   </p>
   {% endif %}
 
@@ -53,20 +52,20 @@
             </a>
           </h3>
           {% if not sc.sufficient_data %}
-          <span class="badge badge-limited">Limited data</span>
+          <span class="badge badge-limited">{{ t("badge.limited") }}</span>
           {% endif %}
           {% if cand.in_fair_elections %}
-          <span class="badge badge-fair-elections">Fair Elections ✓</span>
+          <span class="badge badge-fair-elections">{{ t("badge.fair_elections") }}</span>
           {% endif %}
         </div>
         <div class="result-score-block">
           {% if sc.match_percent is not none %}
           <div class="match-percent">{{ sc.match_percent | round | int }}%</div>
-          <div class="match-label">match</div>
-          <div class="match-coverage">based on {{ sc.compared_count }} of {{ sc.answered_count }} questions</div>
+          <div class="match-label">{{ t("results.match") }}</div>
+          <div class="match-coverage">{{ t("results.coverage").format(compared=sc.compared_count, answered=sc.answered_count) }}</div>
           {% else %}
           <div class="match-percent match-unknown">—</div>
-          <div class="match-label">no data</div>
+          <div class="match-label">{{ t("results.no_data") }}</div>
           {% endif %}
         </div>
       </div>
@@ -83,8 +82,8 @@
 {% endfor %}
 
 <div class="results-actions">
-  <a href="{{ url_for('quiz.quiz', slug='all') }}" class="btn btn-secondary">Retake the quiz</a>
-  <a href="{{ url_for('quiz.reset', slug='all') }}" class="btn btn-ghost">Start over</a>
+  <a href="{{ url_for('quiz.quiz', slug='all') }}" class="btn btn-secondary">{{ t("results.retake") }}</a>
+  <a href="{{ url_for('quiz.reset', slug='all') }}" class="btn btn-ghost">{{ t("results_all.start_over") }}</a>
 </div>
 
 {% endif %}

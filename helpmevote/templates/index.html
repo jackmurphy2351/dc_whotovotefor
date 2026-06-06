@@ -1,35 +1,31 @@
 {% extends "base.html" %}
-{% block title %}Help Me Vote DC 2026! — Choose an Election{% endblock %}
+{% block title %}{{ t("site.name") }} — {{ t("index.title") }}{% endblock %}
 
 {% block content %}
 <div class="page-hero">
-  <h1>Help Me Vote DC 2026!</h1>
+  <h1>{{ t("site.name") }}</h1>
   <p class="lead">
-    DC's June 16 Democratic Primary elections will shape the District for years.
-    Pick an election below to learn about the candidates and find out who best matches your values.
+    {{ t("index.hero_lead") }}
   </p>
 </div>
 
 <section class="how-it-works">
-  <h2>How it works</h2>
+  <h2>{{ t("index.how_title") }}</h2>
   <ol>
-    <li>Choose an election race that applies to you.</li>
-    <li>Answer questions about issues you care about.</li>
-    <li>Take the quiz to see which candidates align most with your values.</li>
+    <li>{{ t("index.how_1") }}</li>
+    <li>{{ t("index.how_2") }}</li>
+    <li>{{ t("index.how_3") }}</li>
   </ol>
   <p>
-    <strong>All candidate positions link directly to sources</strong> — campaign pages,
-    official DC government sites, and verified news coverage.
-    No unsourced claims. Every candidate's full set of positions is listed on their
-    profile page.
+    <strong>{{ t("index.sources_note_strong") }}</strong> {{ t("index.sources_note_rest") }}
   </p>
 </section>
 
 <section class="all-races-cta">
   <p>
-    <strong>Short on time?</strong>
+    <strong>{{ t("index.short_on_time") }}</strong>
     <a href="{{ url_for('quiz.start', slug='all') }}">
-      Answer the questions once and see your matches for every race →
+      {{ t("index.all_races_cta") }}
     </a>
   </p>
 </section>
@@ -41,10 +37,10 @@
     <p class="election-description">{{ election.short_description }}</p>
     <div class="election-actions">
       <a href="{{ url_for('elections.election', slug=election.slug) }}" class="btn btn-primary">
-        Explore →
+        {{ t("index.explore") }}
       </a>
       <a href="{{ url_for('quiz.start', slug=election.slug) }}" class="btn btn-secondary">
-        Take the quiz
+        {{ t("index.take_quiz") }}
       </a>
     </div>
   </div>

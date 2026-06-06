@@ -3,18 +3,18 @@
 
 {% block content %}
 <nav class="breadcrumb">
-  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('main.index') }}">{{ t("nav.elections") }}</a> ›
   <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
   {{ candidate.name }}
 </nav>
 
 <div class="candidate-profile-header">
   <h1>{{ candidate.name }}</h1>
-  <p class="candidate-race">{{ election.title }} — Democratic Primary, June 16, 2026</p>
+  <p class="candidate-race">{{ election.title }} — {{ t("election.primary_label") }}, {{ election.election_date | localdate }}</p>
   {% if candidate.in_fair_elections %}
-  <a href="{{ url_for('resources.topic', topic='fair_elections') }}" class="badge badge-fair-elections">Participating in DC Fair Elections Program ✓</a>
+  <a href="{{ url_for('resources.topic', topic='fair_elections') }}" class="badge badge-fair-elections">{{ t("badge.fair_elections_full") }}</a>
   {% else %}
-  <a href="{{ url_for('resources.topic', topic='fair_elections') }}" class="badge badge-no-fair-elections">Not in DC Fair Elections Program</a>
+  <a href="{{ url_for('resources.topic', topic='fair_elections') }}" class="badge badge-no-fair-elections">{{ t("badge.not_fair_elections") }}</a>
   {% endif %}
 </div>
 
@@ -33,16 +33,16 @@
 <section class="candidate-bio-section">
   <p class="candidate-long-bio">{{ candidate.long_bio }}</p>
   {% if candidate.campaign_url %}
-  <p><a href="{{ candidate.campaign_url }}" rel="noopener" class="btn btn-ghost">Official campaign site →</a></p>
+  <p><a href="{{ candidate.campaign_url }}" rel="noopener" class="btn btn-ghost">{{ t("candidate.official_site") }}</a></p>
   {% endif %}
 </section>
 
 {% if candidate.endorsements %}
 <section class="endorsements-section">
-  <h2>Endorsements ({{ candidate.endorsement_count }})</h2>
+  <h2>{{ t("candidate.endorsements") }} ({{ candidate.endorsement_count }})</h2>
   {% for group in candidate.endorsements %}
   <div class="endorsement-group">
-    <h3>{{ group.category }}</h3>
+    <h3>{{ t("endorsement.category." + group.category) }}</h3>
     <ul>
       {% for item in group.items %}
       <li>{{ item }}</li>
@@ -55,15 +55,14 @@
 
 {% if candidate.positions %}
 <section class="positions-section">
-  <h2>Positions on the issues</h2>
+  <h2>{{ t("candidate.positions_title") }}</h2>
   <p class="positions-note">
-    All positions are sourced directly from the candidate's campaign materials, official
-    questionnaire responses, or verified news coverage. Stances are rated on a scale from
-    <strong>Strongly opposes (−2)</strong> to <strong>Strongly supports (+2)</strong>.
-    A stance of <em>Unknown</em> means no public position has been found.
+    {{ t("candidate.positions_note") | safe }}
   </p>
 
-  {% set stance_labels = {-2: "Strongly opposes", -1: "Opposes", 0: "Neutral", 1: "Supports", 2: "Strongly supports"} %}
+  {% set stance_labels = {
+    -2: t("stance.strongly_opposes"), -1: t("stance.opposes"), 0: t("stance.neutral"),
+    1: t("stance.supports"), 2: t("stance.strongly_supports")} %}
   {% set stance_classes = {-2: "stance-strongly-opposes", -1: "stance-opposes", 0: "stance-neutral", 1: "stance-supports", 2: "stance-strongly-supports"} %}
 
   {% for pos in candidate.positions %}
@@ -80,14 +79,14 @@
       {{ stance_labels.get(pos.stance, pos.stance) }}
     </div>
     {% else %}
-    <div class="position-stance stance-unknown">Unknown / no public position</div>
+    <div class="position-stance stance-unknown">{{ t("stance.unknown_position") }}</div>
     {% endif %}
     {% if pos.explanation %}
     <p class="position-explanation">{{ pos.explanation }}</p>
     {% endif %}
     {% if pos.sources %}
     <p class="position-sources">
-      Sources:
+      {{ t("common.sources_inline") }}
       {% for src in pos.sources %}
       <a href="{{ src.url }}" rel="noopener" class="source-link">[{{ src.title }}]</a>{% if not loop.last %},{% endif %}
       {% endfor %}
@@ -101,10 +100,10 @@
 
 {% if candidate.sources %}
 <section class="page-sources">
-  <h2>General sources</h2>
+  <h2>{{ t("candidate.general_sources") }}</h2>
   <ol>
     {% for src in candidate.sources %}
-    <li><a href="{{ src.url }}" rel="noopener">{{ src.title }}</a> — {{ src.publisher }}. Accessed {{ src.accessed }}.</li>
+    <li><a href="{{ src.url }}" rel="noopener">{{ src.title }}</a> — {{ src.publisher }}. {{ t("common.accessed") }} {{ src.accessed }}.</li>
     {% endfor %}
   </ol>
 </section>
@@ -112,7 +111,7 @@
 
 <div class="quiz-cta">
   <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-primary">
-    Take the quiz for this race →
+    {{ t("candidate.take_quiz_race") }}
   </a>
 </div>
 {% endblock %}

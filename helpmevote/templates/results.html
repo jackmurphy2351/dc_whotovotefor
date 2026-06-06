@@ -1,46 +1,45 @@
 {% extends "base.html" %}
-{% block title %}Your Results: {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.results") }}: {{ election.title }} — {{ t("site.name") }}{% endblock %}
 
 {% block content %}
 <nav class="breadcrumb">
-  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('main.index') }}">{{ t("nav.elections") }}</a> ›
   <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
-  Your Results
+  {{ t("results.breadcrumb") }}
 </nav>
 
 <div class="results-header">
-  <h1>Your results: {{ election.title }}</h1>
+  <h1>{{ t("results.heading_prefix") }} {{ election.title }}</h1>
   <p class="results-note">
-    Candidates are ranked by how well their known positions match yours.
-    <a href="{{ url_for('main.about') }}">How is this calculated?</a>
+    {{ t("results.note") }}
+    <a href="{{ url_for('main.about') }}">{{ t("results.how_calculated") }}</a>
   </p>
 </div>
 
 {% if all_zero %}
 <div class="alert alert-warning">
-  <strong>No answers recorded.</strong>
-  You haven't answered any questions yet.
-  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}">Take the quiz →</a>
+  <strong>{{ t("results.no_answers_strong") }}</strong>
+  {{ t("results.no_answers_text") }}
+  <a href="{{ url_for('quiz.quiz', slug=election.slug) }}">{{ t("results.take_quiz") }}</a>
 </div>
 {% else %}
 
 <p class="results-back">
-  <a href="{{ url_for('quiz.results', slug='all') }}">← Your results for every race</a>
+  <a href="{{ url_for('quiz.results', slug='all') }}">{{ t("results.back_all") }}</a>
 </p>
 
 <div class="results-list">
-  {% set stance_labels = {-2: "Strongly opposes", -1: "Opposes", 0: "Neutral", 1: "Supports", 2: "Strongly supports"} %}
+  {% set stance_labels = {
+    -2: t("stance.strongly_opposes"), -1: t("stance.opposes"), 0: t("stance.neutral"),
+    1: t("stance.supports"), 2: t("stance.strongly_supports")} %}
 
   {% for sc in ranked %}
   {% set cand = sc.candidate %}
   {% if not sc.sufficient_data and (loop.first or ranked[loop.index0 - 1].sufficient_data) %}
   <div class="results-tier-divider">
-    <h2>Limited information available</h2>
+    <h2>{{ t("results.limited_title") }}</h2>
     <p>
-      We have a documented stance for these candidates on too few of your
-      answered questions to rank them confidently. Their match shown below is
-      based only on those few questions — it is not comparable to the candidates
-      above.
+      {{ t("results.limited_text") }}
     </p>
   </div>
   {% endif %}
@@ -54,21 +53,21 @@
           </a>
         </h2>
         {% if not sc.sufficient_data %}
-        <span class="badge badge-limited">Limited data</span>
+        <span class="badge badge-limited">{{ t("badge.limited") }}</span>
         {% endif %}
         {% if cand.in_fair_elections %}
-        <span class="badge badge-fair-elections">Fair Elections ✓</span>
+        <span class="badge badge-fair-elections">{{ t("badge.fair_elections") }}</span>
         {% endif %}
       </div>
       <div class="result-score-block">
         {% if sc.match_percent is not none %}
         <div class="match-percent">{{ sc.match_percent | round | int }}%</div>
-        <div class="match-label">match</div>
-        <div class="match-coverage">based on {{ sc.compared_count }} of {{ sc.answered_count }} questions</div>
+        <div class="match-label">{{ t("results.match") }}</div>
+        <div class="match-coverage">{{ t("results.coverage").format(compared=sc.compared_count, answered=sc.answered_count) }}</div>
         {% else %}
         <div class="match-percent match-unknown">—</div>
-        <div class="match-label">no data</div>
-        <div class="match-coverage">no known stance on your {{ sc.answered_count }} answered question{{ "s" if sc.answered_count != 1 }}</div>
+        <div class="match-label">{{ t("results.no_data") }}</div>
+        <div class="match-coverage">{{ plural(sc.answered_count, "results.no_stance_one", "results.no_stance_many").format(n=sc.answered_count) }}</div>
         {% endif %}
       </div>
     </div>
@@ -93,14 +92,14 @@
 
     {% if sc.details %}
     <details class="answer-breakdown">
-      <summary>How you compare, question by question</summary>
+      <summary>{{ t("results.compare") }}</summary>
       <div class="answer-detail-list">
         {% for d in sc.details %}
         <div class="answer-detail">
           <p class="answer-detail-prompt">{{ d.prompt }}</p>
           <div class="answer-detail-compare">
             <div class="answer-col answer-col-you">
-              <span class="answer-col-label">Your answer</span>
+              <span class="answer-col-label">{{ t("results.your_answer") }}</span>
               <span class="answer-stance">{{ stance_labels[d.user_stance] }}</span>
             </div>
             <div class="answer-col answer-col-cand">
@@ -108,15 +107,15 @@
               {% if d.candidate_stance is not none %}
               <span class="answer-stance">{{ stance_labels[d.candidate_stance] }}</span>
               {% else %}
-              <span class="answer-stance answer-stance-unknown">No known position</span>
+              <span class="answer-stance answer-stance-unknown">{{ t("results.no_known_position") }}</span>
               {% endif %}
             </div>
             {% if d.agreement_label == "agree" %}
-            <span class="agree-pill agree-yes">Agree</span>
+            <span class="agree-pill agree-yes">{{ t("agree.agree") }}</span>
             {% elif d.agreement_label == "partial" %}
-            <span class="agree-pill agree-partial">Partial</span>
+            <span class="agree-pill agree-partial">{{ t("agree.partial") }}</span>
             {% elif d.agreement_label == "disagree" %}
-            <span class="agree-pill agree-no">Disagree</span>
+            <span class="agree-pill agree-no">{{ t("agree.disagree") }}</span>
             {% endif %}
           </div>
           {% set excerpt = d.quote or d.explanation %}
@@ -138,7 +137,7 @@
 
     <div class="result-card-footer">
       <a href="{{ url_for('elections.candidate', election_slug=election.slug, candidate_id=cand.id) }}"
-         class="btn btn-ghost">Full profile →</a>
+         class="btn btn-ghost">{{ t("common.full_profile") }}</a>
     </div>
   </div>
   {% endfor %}
@@ -146,13 +145,13 @@
 
 <div class="results-actions">
   <a href="{{ url_for('quiz.results', slug='all') }}" class="btn btn-secondary">
-    ← All races results
+    {{ t("results.all_races_results") }}
   </a>
   <a href="{{ url_for('quiz.quiz', slug=election.slug) }}" class="btn btn-ghost">
-    Retake the quiz
+    {{ t("results.retake") }}
   </a>
   <a href="{{ url_for('main.index') }}" class="btn btn-ghost">
-    Explore another race
+    {{ t("results.explore_another") }}
   </a>
 </div>
 

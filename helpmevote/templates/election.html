@@ -3,28 +3,28 @@
 
 {% block content %}
 <nav class="breadcrumb">
-  <a href="{{ url_for('main.index') }}">Elections</a> › {{ election.title }}
+  <a href="{{ url_for('main.index') }}">{{ t("nav.elections") }}</a> › {{ election.title }}
 </nav>
 
 <div class="election-header">
   <h1>{{ election.title }}</h1>
-  <p class="election-date">Democratic Primary — June 16, 2026</p>
+  <p class="election-date">{{ t("election.primary_label") }} — {{ election.election_date | localdate }}</p>
 </div>
 
 <section class="whats-at-stake">
-  <h2>What's at stake</h2>
+  <h2>{{ t("election.whats_at_stake") }}</h2>
   <p>{{ election.whats_at_stake }}</p>
 </section>
 
 <div class="quiz-cta">
   <a href="{{ url_for('quiz.start', slug=election.slug) }}" class="btn btn-primary btn-large">
-    Take the quiz →
+    {{ t("election.take_quiz") }}
   </a>
 </div>
 
 <section class="candidates-section">
-  <h2>Candidates</h2>
-  <p class="section-note">Each candidate's full set of positions is listed on their profile page.</p>
+  <h2>{{ t("election.candidates") }}</h2>
+  <p class="section-note">{{ t("election.candidates_note") }}</p>
   <div class="candidates-grid">
     {% for candidate in candidates %}
     <div class="candidate-card">
@@ -37,8 +37,8 @@
         {% if candidate.in_fair_elections %}
         <a href="{{ url_for('resources.topic', topic='fair_elections') }}"
            class="badge badge-fair-elections"
-           title="Participating in DC Fair Elections Program — what's this?">
-          Fair Elections ✓
+           title="{{ t('badge.fair_elections_full') }}">
+          {{ t("badge.fair_elections") }}
         </a>
         {% endif %}
       </div>
@@ -59,10 +59,10 @@
 
       {% if candidate.endorsements %}
       <details class="endorsements">
-        <summary>Endorsements ({{ candidate.endorsement_count }})</summary>
+        <summary>{{ t("candidate.endorsements") }} ({{ candidate.endorsement_count }})</summary>
         {% for group in candidate.endorsements %}
         <div class="endorsement-group">
-          <h4>{{ group.category }}</h4>
+          <h4>{{ t("endorsement.category." + group.category) }}</h4>
           <ul>
             {% for item in group.items %}
             <li>{{ item }}</li>
@@ -74,7 +74,7 @@
       {% endif %}
 
       <a href="{{ url_for('elections.candidate', election_slug=election.slug, candidate_id=candidate.id) }}"
-         class="btn btn-ghost">Full profile →</a>
+         class="btn btn-ghost">{{ t("common.full_profile") }}</a>
     </div>
     {% endfor %}
   </div>
@@ -82,7 +82,7 @@
 
 {% if election.sources %}
 <section class="page-sources">
-  <h3>Sources</h3>
+  <h3>{{ t("common.sources") }}</h3>
   <ul>
     {% for src in election.sources %}
     <li><a href="{{ src.url }}" rel="noopener">{{ src.title }}</a> — {{ src.publisher }}</li>

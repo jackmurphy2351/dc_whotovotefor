@@ -1,0 +1,118 @@
+# Spanish overlay for questions. Only translatable text; ids match content/questions.yaml.
+- id: housing_rent_stabilization
+  prompt: "DC debería ampliar la estabilización de rentas para cubrir más viviendas, incluyendo los edificios construidos después de 1975."
+  explanation: >
+    La ley de estabilización de rentas de DC cubre actualmente la mayoría de las
+    unidades en edificios construidos antes de 1978 con 5 o más unidades. Ampliarla
+    protegería a decenas de miles de inquilinos adicionales, pero sus críticos
+    argumentan que podría desalentar la nueva construcción.
+
+- id: mpd_ice_cooperation
+  prompt: "El MPD no debería ayudar a ICE ni a otras agencias federales en operaciones de control migratorio dentro de DC."
+  explanation: >
+    DC tiene políticas de valores santuario que limitan la cooperación del MPD con
+    el control migratorio federal. Bajo la administración Trump, ha aumentado la
+    presión sobre la policía local para que ayude a ICE. Los candidatos difieren
+    marcadamente en este tema.
+
+- id: education_mental_health_schools
+  prompt: "Cada escuela pública de DC debería contar con un clínico de salud conductual dedicado en su personal."
+  explanation: >
+    Quienes lo defienden argumentan que tener profesionales de salud mental en cada
+    escuela puede reducir los incidentes de conducta, mejorar la asistencia y brindar
+    intervención temprana antes de que se desarrollen las crisis.
+
+- id: transit_bike_bus_lanes
+  prompt: "DC debería construir más ciclovías protegidas y carriles exclusivos para autobuses."
+  explanation: >
+    DC ha ampliado su red de ciclovías protegidas en los últimos años, pero el
+    progreso ha sido desigual. Los carriles para autobuses en corredores como Georgia
+    Ave y la calle 14 podrían reducir significativamente los tiempos de viaje de miles
+    de pasajeros.
+
+- id: transit_fare_free_buses
+  prompt: "Los autobuses de DC deberían ser gratuitos para todos los pasajeros."
+  explanation: >
+    La ley "Metro for D.C." financia el servicio gratuito de Metrobus dentro del
+    Distrito, aunque WMATA se ha resistido a su plena implementación. Los candidatos
+    difieren sobre si los autobuses deben ser gratuitos para todos, gratuitos solo
+    para residentes de bajos ingresos o inscritos en SNAP, o seguir cobrando tarifa
+    con otras medidas de asequibilidad.
+
+- id: housing_upzoning
+  prompt: "DC debería legalizar los apartamentos y la vivienda de \"escala intermedia\" (dúplex, tríplex y pequeños edificios multifamiliares) en toda la ciudad, eliminando las restricciones de zonificación exclusivas para viviendas unifamiliares."
+  explanation: >
+    El próximo Plan Integral y el Mapa de Uso Futuro del Suelo de DC (el proceso
+    dc2050) decidirán cuánta vivienda nueva deben acomodar los distintos vecindarios.
+    Algunos candidatos quieren poner fin a la zonificación unifamiliar excluyente y
+    permitir densidad cerca de los corredores de transporte; otros priorizan la
+    protección de los inquilinos o el carácter del vecindario por encima de la
+    densificación.
+
+- id: childcare_universal
+  prompt: "DC debería ampliar el cuidado infantil subsidiado hasta convertirlo en un programa universal —disponible para todos los residentes de DC sin importar sus ingresos— ampliando el Programa de Mejora y Expansión de Pre-K (PKEEP)."
+  explanation: >
+    El Programa de Mejora y Expansión de Pre-K (PKEEP) de DC ofrece actualmente
+    pre-kínder gratuito y de alta calidad para niños de tres y cuatro años. Varios
+    candidatos apoyan ampliar los subsidios para cubrir el cuidado de bebés y niños
+    pequeños, haciendo que el cuidado infantil sea asequible de manera universal para
+    todos los residentes de DC.
+
+- id: childcare_birth_to_three
+  prompt: "DC debería garantizar cuidado infantil gratuito y de alta calidad desde el nacimiento hasta los tres años —sin listas de espera— para las familias del Distrito."
+  explanation: >
+    La Ley Birth-to-Three for All DC de 2018 estableció la meta de un cuidado
+    asequible para bebés y niños pequeños, pero el financiamiento se ha quedado atrás.
+    Algunos candidatos garantizarían cuidado gratuito desde el nacimiento y eliminarían
+    la lista de espera del subsidio de cuidado infantil; otros prefieren un tope de
+    asequibilidad basado en los ingresos (por ejemplo, que ninguna familia pague más
+    del 7-10% de sus ingresos) o medidas focalizadas en lugar de una garantía universal
+    y gratuita.
+
+- id: econ_small_business_tax_relief
+  prompt: "DC debería reducir los impuestos y las tarifas a los pequeños negocios locales —y ofrecer alivios como el crédito tributario sobre la propiedad para pequeños comerciantes— para ayudarlos a abrir, sobrevivir y crecer."
+  explanation: >
+    Los pequeños negocios enfrentan altas rentas comerciales, tarifas y una de las
+    tasas de fracaso en el primer año más altas del país. Algunos candidatos proponen
+    reducir los impuestos y tarifas a los negocios y ampliar créditos como el Crédito
+    Tributario sobre la Propiedad para Pequeños Comerciantes; otros priorizan recaudar
+    ingresos de las grandes corporaciones o reducir la burocracia en lugar de recortar
+    impuestos.
+
+- id: youth_curfew_support
+  prompt: "DC debería aplicar un toque de queda para menores como herramienta para reducir la delincuencia juvenil."
+  explanation: >
+    DC ha tenido legislación de toque de queda juvenil durante años. Sus partidarios
+    argumentan que los toques de queda pueden reducir la delincuencia juvenil y
+    proteger a los jóvenes; sus opositores dicen que criminalizan el comportamiento
+    normal de los jóvenes, afectan de manera desproporcionada a la juventud negra y no
+    son efectivos sin una sólida programación alternativa.
+
+- id: youth_curfew_programming
+  prompt: "Todo toque de queda juvenil debe ir acompañado de una inversión sustancial en programación alternativa —empleos, centros recreativos, servicios de salud mental— para los jóvenes."
+  explanation: >
+    Incluso los candidatos que apoyan los toques de queda suelen argumentar que son
+    solo una medida a corto plazo y que deben acompañarse de una ampliación de la
+    programación fuera del horario escolar, horarios extendidos en los centros
+    recreativos y oportunidades de empleo juvenil.
+
+- id: fiscal_progressive_taxation
+  prompt: "DC debería aumentar los impuestos a las grandes corporaciones y a los residentes más ricos para cerrar la brecha presupuestaria del Distrito."
+  explanation: >
+    El presupuesto del año fiscal 2026 de DC propuso recortes profundos al Fondo
+    Fiduciario para la Producción de Vivienda, a los parques y a los programas de
+    cuidado infantil en medio de un importante déficit presupuestario. Los candidatos
+    difieren sobre si proteger esos programas recaudando ingresos de las grandes
+    corporaciones y los residentes de altos ingresos, o mantener los impuestos sin
+    cambios y equilibrar el presupuesto mediante la contención del gasto y el
+    crecimiento económico.
+
+- id: home_rule_dc_resist
+  prompt: "DC debería responder a la interferencia de la administración Trump en el gobierno de la ciudad con una postura pública y firme —presentando demandas, aprobando legislación protectora y negándose a cumplir directivas federales ilegales— en lugar de recurrir a la diplomacia discreta o a acuerdos pragmáticos."
+  explanation: >
+    Más allá del MPD y el control migratorio, la administración Trump ha recortado el
+    presupuesto recaudado localmente por DC, ha propuesto tomar el control de agencias
+    de la ciudad e interferido con las leyes locales. Los candidatos van desde quienes
+    quieren una postura agresiva y de confrontación —mediante litigios, legislación y
+    defensa pública— hasta quienes prefieren un compromiso pragmático con el Congreso y
+    la Casa Blanca para proteger los intereses de DC.

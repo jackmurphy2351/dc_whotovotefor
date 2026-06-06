@@ -1,25 +1,26 @@
 {% extends "base.html" %}
-{% block title %}Quiz: {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.quiz") }}: {{ election.title }} — {{ t("site.name") }}{% endblock %}
 
 {% block content %}
+{% set progress_text = t("quiz.progress").format(current=step + 1, total=total) %}
 <nav class="breadcrumb">
-  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('main.index') }}">{{ t("nav.elections") }}</a> ›
   {% if election.slug == 'all' %}
   {{ election.title }} ›
   {% else %}
   <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
   {% endif %}
-  Quiz
+  {{ t("title.quiz") }}
 </nav>
 
 <div class="quiz-header">
   <h1>{{ election.title }}</h1>
-  <div class="quiz-progress" role="progressbar" aria-label="Quiz progress"
+  <div class="quiz-progress" role="progressbar" aria-label="{{ t('title.quiz') }}"
        aria-valuenow="{{ step + 1 }}" aria-valuemin="1" aria-valuemax="{{ total }}"
-       aria-valuetext="Question {{ step + 1 }} of {{ total }}">
+       aria-valuetext="{{ progress_text }}">
     <div class="quiz-progress-bar" style="width: {{ ((step + 1) / total * 100) | int }}%"></div>
   </div>
-  <p class="quiz-progress-label">Question {{ step + 1 }} of {{ total }}</p>
+  <p class="quiz-progress-label">{{ progress_text }}</p>
 </div>
 
 <form method="post" action="{{ url_for('quiz.quiz_post', slug=election.slug) }}" class="quiz-form">
@@ -34,11 +35,11 @@
 
     {% if question.explanation %}
     <details class="question-context">
-      <summary>Background context</summary>
+      <summary>{{ t("quiz.background") }}</summary>
       <p>{{ question.explanation }}</p>
       {% if question.sources %}
       <p class="question-sources">
-        Sources:
+        {{ t("common.sources_inline") }}
         {% for src in question.sources %}
         <a href="{{ src.url }}" rel="noopener">[{{ src.title }}]</a>{% if not loop.last %},{% endif %}
         {% endfor %}
@@ -48,14 +49,14 @@
     {% endif %}
 
     <fieldset class="stance-fieldset">
-      <legend>Your position</legend>
+      <legend>{{ t("quiz.your_position") }}</legend>
       <div class="stance-options-row">
         {% set stance_options = [
-          (-2, "Strongly disagree", "stance-strong-disagree"),
-          (-1, "Disagree",          "stance-disagree"),
-          ("skip", "Skip / No opinion", "stance-skip"),
-          (1,  "Agree",             "stance-agree"),
-          (2,  "Strongly agree",    "stance-strong-agree"),
+          (-2, t("stance.strongly_disagree"), "stance-strong-disagree"),
+          (-1, t("stance.disagree"),          "stance-disagree"),
+          ("skip", t("stance.skip"), "stance-skip"),
+          (1,  t("stance.agree"),             "stance-agree"),
+          (2,  t("stance.strongly_agree"),    "stance-strong-agree"),
         ] %}
         {% for val, label, cls in stance_options %}
         <label for="stance-{{ val }}" class="stance-option {{ cls }}{% if val == 'skip' %}{% if saved_stance is none %} selected{% endif %}{% else %}{% if saved_stance == val %} selected{% endif %}{% endif %}">
@@ -72,21 +73,21 @@
   <div class="quiz-navigation">
     {% if step > 0 %}
     <a href="{{ url_for('quiz.quiz', slug=election.slug, step=step-1) }}"
-       class="btn btn-ghost">← Back</a>
+       class="btn btn-ghost">{{ t("quiz.back") }}</a>
     {% endif %}
 
     {% if step < total - 1 %}
-    <button type="submit" class="btn btn-primary">Next →</button>
+    <button type="submit" class="btn btn-primary">{{ t("quiz.next") }}</button>
     {% else %}
-    <button type="submit" class="btn btn-primary btn-large">See my results →</button>
+    <button type="submit" class="btn btn-primary btn-large">{{ t("quiz.see_results") }}</button>
     {% endif %}
   </div>
 </form>
 
 <p class="quiz-reset">
-  <a href="{{ url_for('quiz.start', slug=election.slug) }}">← Choose questions</a>
+  <a href="{{ url_for('quiz.start', slug=election.slug) }}">{{ t("quiz.choose_questions_link") }}</a>
   &nbsp;·&nbsp;
-  <a href="{{ url_for('quiz.reset', slug=election.slug) }}">Start over</a>
+  <a href="{{ url_for('quiz.reset', slug=election.slug) }}">{{ t("quiz.start_over") }}</a>
 </p>
 {% endblock %}
 

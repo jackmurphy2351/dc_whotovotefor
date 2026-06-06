@@ -1,0 +1,258 @@
+# Spanish UI chrome. Mirrors content/en/ui.yaml; missing keys fall back to English.
+
+# --- Brand & navigation ---
+site.name: "Help Me Vote DC 2026!"
+nav.elections: "Elecciones"
+nav.resources: "Recursos"
+nav.about: "Acerca de"
+
+# --- Language switcher ---
+lang.aria: "Idioma"
+lang.name.en: "English"
+lang.name.es: "Español"
+
+# --- Primary-election notice ---
+primary_notice.strong: "Estas son elecciones primarias del Partido Demócrata."
+primary_notice.text: "En DC, ganar la primaria equivale prácticamente a ganar la elección general."
+primary_notice.link: "Conoce por qué →"
+
+# --- Footer ---
+footer.license_pre: "Código abierto bajo"
+footer.viewsource: "Ver el código fuente en GitHub"
+footer.not_affiliated: "No está afiliado a ninguna campaña ni organización política."
+footer.privacy: "Privacidad: no recopilamos tus datos"
+
+# --- Shared bits ---
+common.sources: "Fuentes"
+common.sources_inline: "Fuentes:"
+common.accessed: "Consultado el"
+common.full_profile: "Perfil completo →"
+
+# --- Stance labels: quiz agree/disagree scale ---
+stance.strongly_disagree: "Muy en desacuerdo"
+stance.disagree: "En desacuerdo"
+stance.skip: "Omitir / Sin opinión"
+stance.agree: "De acuerdo"
+stance.strongly_agree: "Muy de acuerdo"
+
+# --- Stance labels: candidate supports/opposes scale ---
+stance.strongly_opposes: "Se opone firmemente"
+stance.opposes: "Se opone"
+stance.neutral: "Neutral"
+stance.supports: "Apoya"
+stance.strongly_supports: "Apoya firmemente"
+stance.unknown_position: "Desconocida / sin posición pública"
+
+# --- Agreement pills ---
+agree.agree: "De acuerdo"
+agree.partial: "Parcial"
+agree.disagree: "En desacuerdo"
+
+# --- Endorsement category headers ---
+"endorsement.category.Labor unions": "Sindicatos"
+"endorsement.category.Elected/Appointed Officials": "Funcionarios electos/designados"
+"endorsement.category.Advocacy & community organizations": "Organizaciones de defensa y comunitarias"
+"endorsement.category.Individuals & public figures": "Personas y figuras públicas"
+"endorsement.category.Newspapers & editorial boards": "Periódicos y consejos editoriales"
+
+# --- Fair Elections badges ---
+badge.fair_elections: "Elecciones Justas ✓"
+badge.fair_elections_full: "Participa en el Programa de Elecciones Justas de DC ✓"
+badge.not_fair_elections: "No participa en el Programa de Elecciones Justas de DC"
+badge.limited: "Datos limitados"
+
+# --- Home page ---
+index.title: "Elige una elección"
+index.hero_lead: "Las elecciones primarias del Partido Demócrata de DC del 16 de junio moldearán el Distrito por años. Elige una elección a continuación para conocer a los candidatos y descubrir quién se ajusta mejor a tus valores."
+index.how_title: "Cómo funciona"
+index.how_1: "Elige una contienda electoral que te corresponda."
+index.how_2: "Responde preguntas sobre los temas que te importan."
+index.how_3: "Haz el cuestionario para ver qué candidatos se alinean mejor con tus valores."
+index.sources_note_strong: "Todas las posiciones de los candidatos enlazan directamente con sus fuentes"
+index.sources_note_rest: "— páginas de campaña, sitios oficiales del gobierno de DC y cobertura periodística verificada. Sin afirmaciones sin fuente. El conjunto completo de posiciones de cada candidato aparece en su página de perfil."
+index.short_on_time: "¿Tienes poco tiempo?"
+index.all_races_cta: "Responde las preguntas una sola vez y ve tus coincidencias en cada contienda →"
+index.explore: "Explorar →"
+index.take_quiz: "Hacer el cuestionario"
+
+# --- Election page ---
+election.primary_label: "Primaria del Partido Demócrata"
+election.whats_at_stake: "Qué está en juego"
+election.take_quiz: "Hacer el cuestionario →"
+election.candidates: "Candidatos"
+election.candidates_note: "El conjunto completo de posiciones de cada candidato aparece en su página de perfil."
+
+# --- Candidate page ---
+candidate.endorsements: "Respaldos"
+candidate.official_site: "Sitio oficial de campaña →"
+candidate.positions_title: "Posiciones sobre los temas"
+candidate.positions_note: "Todas las posiciones provienen directamente de los materiales de campaña del candidato, de respuestas oficiales a cuestionarios o de cobertura periodística verificada. Las posturas se califican en una escala de <strong>Se opone firmemente (−2)</strong> a <strong>Apoya firmemente (+2)</strong>. Una postura <em>Desconocida</em> significa que no se ha encontrado una posición pública."
+candidate.general_sources: "Fuentes generales"
+candidate.take_quiz_race: "Haz el cuestionario para esta contienda →"
+
+# --- Quiz: question step ---
+quiz.progress: "Pregunta {current} de {total}"
+quiz.background: "Contexto"
+quiz.your_position: "Tu posición"
+quiz.back: "← Atrás"
+quiz.next: "Siguiente →"
+quiz.see_results: "Ver mis resultados →"
+quiz.choose_questions_link: "← Elegir preguntas"
+quiz.start_over: "Empezar de nuevo"
+quiz.all_races: "Todas las contiendas"
+
+# --- Quiz: question selection ---
+quiz_start.breadcrumb: "Elegir preguntas"
+quiz_start.lead: "Elige las preguntas que te gustaría responder."
+quiz_start.intro: "Todas las preguntas están seleccionadas por defecto. Desmarca los temas o las preguntas individuales que prefieras omitir; un cuestionario más corto está bien. Tu coincidencia se calcula solo a partir de las preguntas que conservas y respondes con una opinión."
+quiz_start.error_strong: "Elige al menos una pregunta."
+quiz_start.error_text: "Selecciona las preguntas que quieres responder antes de comenzar el cuestionario."
+quiz_start.select_all: "Seleccionar todo"
+quiz_start.deselect_all: "Deseleccionar todo"
+quiz_start.of: "de"
+quiz_start.selected_word: "seleccionadas"
+quiz_start.start: "Comenzar el cuestionario →"
+quiz_start.category_other: "Otros"
+quiz_start.question_singular: "pregunta"
+quiz_start.question_plural: "preguntas"
+
+# --- Quiz: no questions ---
+quiz_none.text: "Aún no hay preguntas disponibles para esta elección. Vuelve pronto, o"
+quiz_none.link: "lee sobre los candidatos"
+
+# --- Results: single race ---
+results.breadcrumb: "Tus resultados"
+results.heading_prefix: "Tus resultados:"
+results.note: "Los candidatos se ordenan según qué tan bien coinciden sus posiciones conocidas con las tuyas."
+results.how_calculated: "¿Cómo se calcula esto?"
+results.no_answers_strong: "No hay respuestas registradas."
+results.no_answers_text: "Aún no has respondido ninguna pregunta."
+results.take_quiz: "Hacer el cuestionario →"
+results.back_all: "← Tus resultados de todas las contiendas"
+results.limited_title: "Información limitada disponible"
+results.limited_text: "Tenemos una postura documentada para estos candidatos en muy pocas de las preguntas que respondiste como para ordenarlos con confianza. La coincidencia que se muestra a continuación se basa solo en esas pocas preguntas y no es comparable con la de los candidatos anteriores."
+results.match: "coincidencia"
+results.coverage: "basado en {compared} de {answered} preguntas"
+results.no_data: "sin datos"
+results.no_stance_one: "sin postura conocida en tu {n} pregunta respondida"
+results.no_stance_many: "sin postura conocida en tus {n} preguntas respondidas"
+results.compare: "Cómo te comparas, pregunta por pregunta"
+results.your_answer: "Tu respuesta"
+results.no_known_position: "Sin posición conocida"
+results.all_races_results: "← Resultados de todas las contiendas"
+results.retake: "Volver a hacer el cuestionario"
+results.explore_another: "Explorar otra contienda"
+
+# --- Results: every race ---
+results_all.breadcrumb: "Tus resultados"
+results_all.heading: "Tus resultados en cada contienda"
+results_all.note: "Para cada contienda, estos son los candidatos cuyas posiciones conocidas coinciden mejor con las tuyas."
+results_all.full_results: "Resultados completos →"
+results_all.race_note: "Aún no hay suficiente coincidencia entre las preguntas que respondiste y esta contienda como para ordenar a sus candidatos con confianza."
+results_all.see_breakdown: "Ver el desglose completo →"
+results_all.start_over: "Empezar de nuevo"
+
+# --- Resources index ---
+resources.index_title: "Recursos"
+resources.index_lead: "Información de contexto sobre las elecciones, las políticas y el panorama político de DC."
+
+# --- Resource page titles ---
+resources.title.primary_vs_general: "Por qué la primaria demócrata es, en la práctica, la elección general en DC"
+resources.title.ranked_choice: "Voto por orden de preferencia / Iniciativa 83"
+resources.title.topa: "TOPA y DOPA: derechos de compra de los inquilinos"
+resources.title.fair_elections: "El Programa de Elecciones Justas de DC"
+resources.title.dc_council: "Cómo funciona el Concejo de DC"
+resources.title.delegate_statehood: "El delegado sin voto y la estadidad de DC"
+resources.title.special_elections: "Cómo funcionan las elecciones especiales"
+resources.title.methodology: "Cómo asignamos las posturas de los candidatos"
+resources.title.privacy: "Privacidad y tus datos"
+
+# --- Error pages ---
+error.404_title: "Página no encontrada"
+error.404_text: "No pudimos encontrar la página que buscabas. Es posible que se haya movido o que el enlace sea incorrecto."
+error.back_elections: "← Volver a las elecciones"
+error.browse_resources: "Explorar recursos"
+error.500_title: "Algo salió mal"
+error.500_text: "Ocurrió un error inesperado de nuestra parte. Nada de lo que ingresaste fue recopilado ni almacenado en un servidor: tus respuestas del cuestionario viven solo en una cookie en tu propio dispositivo."
+error.500_text2: "Inténtalo de nuevo en un momento."
+
+# --- Page <title> tags ---
+title.choose_election: "Elige una elección"
+title.quiz: "Cuestionario"
+title.choose_questions: "Elegir preguntas"
+title.results: "Tus resultados"
+title.results_all: "Tus resultados: cada contienda"
+title.resources: "Recursos"
+title.about: "Acerca de"
+title.not_found: "Página no encontrada"
+title.error: "Algo salió mal"
+
+# --- About page ---
+about.page_title: "Acerca de este sitio"
+about.what_is_title: "¿Qué es esto?"
+about.what_is_body: >
+  es una guía electoral gratuita y de código abierto para las elecciones primarias del Partido Demócrata de Washington, DC del 16 de junio de 2026. Te ayuda a comparar candidatos según los temas que de verdad te importan, usando una escala Likert de 5 puntos.
+about.sourcing_title: "¿Cómo se obtienen las posiciones de los candidatos?"
+about.sourcing_p1: >
+  Cada posición de un candidato debe estar enlazada directamente a una fuente primaria: el sitio web de campaña del propio candidato, una respuesta oficial a un cuestionario o un artículo periodístico verificado. Ninguna posición se publica sin una cita. No editorializamos sobre cuáles posiciones son «correctas».
+about.sourcing_p2: >
+  Cuando la posición de un candidato es desconocida —porque no ha abordado públicamente un tema— la marcamos como «Desconocida» en lugar de adivinar o inferir.
+about.advisories_title: "Avisos sobre respaldos"
+about.advisories_p1: >
+  Este sitio muestra avisos sobre respaldos (como «Free DC: no clasifiques al candidato X») como opiniones de terceros con un enlace directo a la fuente. No son recomendaciones propias de este sitio: son informes objetivos de lo que han dicho organizaciones con nombre propio.
+about.methodology_title: "Metodología"
+about.methodology_intro: >
+  Cada respuesta usa una escala de 5 puntos: <em>muy en desacuerdo</em>, <em>en desacuerdo</em>, <em>neutral</em>, <em>de acuerdo</em>, <em>muy de acuerdo</em>. Para cada pregunta que respondes, comparamos tu posición con la del candidato y observamos cuántos pasos de diferencia hay entre ambas en esa escala.
+about.two_things_title: "Dos cosas que verás, y por qué pueden diferir"
+about.two_things_body: >
+  Cada pregunta comparada muestra una <strong>etiqueta</strong> —el titular <span class="agree-pill agree-yes">De acuerdo</span>, <span class="agree-pill agree-partial">Parcial</span> o <span class="agree-pill agree-no">En desacuerdo</span>— y también alimenta el <strong>porcentaje&nbsp;de coincidencia</strong> general del candidato. Estas miden cosas distintas, así que pueden no concordar:
+about.label_rule_lead: >
+  <strong>La etiqueta es un titular general: ¿de qué lado estás?</strong> Usa reglas simples e intuitivas:
+about.label_rule_agree: >
+  <strong>De acuerdo</strong> — la misma posición.
+about.label_rule_partial: >
+  <strong>Parcial</strong> — un paso de diferencia: están del <em>mismo lado</em> y solo difieren en intensidad (por ejemplo, <em>muy de acuerdo</em> frente a <em>de acuerdo</em>).
+about.label_rule_disagree: >
+  <strong>En desacuerdo</strong> — dos o más pasos de diferencia. Estar en lados opuestos, o que uno sea neutral mientras el otro está comprometido, cuenta como desacuerdo, no como acuerdo «parcial».
+about.percentage_rule: >
+  <strong>El porcentaje es la letra pequeña: ¿exactamente cuán distantes están?</strong> Escala de forma gradual con la diferencia —100% para una respuesta idéntica hasta 0% para la opuesta extrema— y el porcentaje de coincidencia final es el promedio de esos valores en cada pregunta que respondiste y en la que el candidato tiene una postura pública conocida. Mantenerlo gradual es lo que permite que un candidato que solo está <em>levemente</em> alejado de tus opiniones se ubique por encima de uno <em>diametralmente</em> opuesto.
+about.label_pct_diff: >
+  Por esto, puedes ver una etiqueta de <span class="agree-pill agree-no">En desacuerdo</span> en una pregunta que aun así aportó una cantidad parcial (digamos, 50%) al porcentaje. Es intencional: pueden estar en lados opuestos y, aun así, no estar lo más distantes posible.
+about.worked_examples_title: "Ejemplos prácticos"
+about.worked_examples_intro: >
+  Así se ve exactamente cada caso, desde una respuesta idéntica hasta una completamente opuesta; las tarjetas a continuación se muestran igual que el desglose pregunta por pregunta de tu página de resultados:
+about.example_line_one: "{n} paso de diferencia · aporta {pct} a la coincidencia"
+about.example_line_many: "{n} pasos de diferencia · aporta {pct} a la coincidencia"
+about.candidate_col: "Candidato"
+about.skip_note: >
+  Las preguntas que omites —y aquellas en las que el candidato no tiene una postura pública conocida— se excluyen por completo. No reciben etiqueta y nunca cuentan para el porcentaje.
+about.insufficient_note: >
+  Un candidato sin posturas conocidas en ninguna de las preguntas que respondiste se muestra como «Datos insuficientes» en lugar de calificarse con 0%.
+about.coverage_note: >
+  Como un porcentaje puede ser engañoso cuando se basa en apenas un puñado de preguntas, cada resultado también muestra su <strong>cobertura</strong>; por ejemplo, «basado en 5 de 29 preguntas». Un candidato podría obtener 100% en las cinco preguntas para las que tenemos posiciones, mientras sus opiniones sobre las otras 24 siguen siendo desconocidas.
+about.limited_note: >
+  Para evitar que esto se confunda con una coincidencia general alta, los candidatos sobre los que tenemos documentación en muy pocas de las preguntas que respondiste se agrupan por separado bajo <strong>«Información limitada disponible»</strong> y se ordenan por debajo de los candidatos bien documentados, sin importar su porcentaje. Nunca adivinamos ni rellenamos las posiciones faltantes de un candidato: simplemente se clasifican con menos confianza hasta que haya más información con fuentes disponible.
+about.opensource_title: "Código abierto"
+about.opensource_pre: "Este sitio se publica bajo la"
+about.opensource_license: "licencia AGPL-3.0"
+about.opensource_post: >
+  Todo el código fuente y los datos de los candidatos están disponibles públicamente. Se agradecen las contribuciones, correcciones e informes de problemas.
+about.disclaimer_title: "Aviso legal"
+about.disclaimer_pre: >
+  Este sitio es un proyecto cívico independiente y no está afiliado a ningún candidato, campaña, partido político ni agencia gubernamental. Si tienes comentarios, sugerencias de mejora o inquietudes, escríbeme a
+about.disclaimer_post: "o abre un issue en GitHub."
+
+# --- Date formatting (Spanish: "16 de junio de 2026") ---
+date.long_format: "{day} de {month} de {year}"
+date.month.1: "enero"
+date.month.2: "febrero"
+date.month.3: "marzo"
+date.month.4: "abril"
+date.month.5: "mayo"
+date.month.6: "junio"
+date.month.7: "julio"
+date.month.8: "agosto"
+date.month.9: "septiembre"
+date.month.10: "octubre"
+date.month.11: "noviembre"
+date.month.12: "diciembre"

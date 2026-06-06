@@ -1,9 +1,9 @@
 {% extends "base.html" %}
-{% block title %}Resources — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.resources") }} — {{ t("site.name") }}{% endblock %}
 
 {% block content %}
-<h1>Resources</h1>
-<p class="lead">Background information on DC elections, policies, and political context.</p>
+<h1>{{ t("resources.index_title") }}</h1>
+<p class="lead">{{ t("resources.index_lead") }}</p>
 
 <ul class="resource-list">
   {% for topic in topics %}

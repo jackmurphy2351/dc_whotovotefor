@@ -1,15 +1,14 @@
 {% extends "base.html" %}
-{% block title %}Page not found — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.not_found") }} — {{ t("site.name") }}{% endblock %}
 {% block description %}That page doesn't exist. Find DC candidate match guides on the home page.{% endblock %}
 
 {% block content %}
 <div class="error-page">
-  <h1>Page not found</h1>
-  <p>We couldn't find the page you were looking for. It may have moved, or the link
-  might be incorrect.</p>
+  <h1>{{ t("error.404_title") }}</h1>
+  <p>{{ t("error.404_text") }}</p>
   <p class="error-actions">
-    <a href="{{ url_for('main.index') }}" class="btn btn-primary">← Back to elections</a>
-    <a href="{{ url_for('resources.index') }}" class="btn btn-ghost">Browse resources</a>
+    <a href="{{ url_for('main.index') }}" class="btn btn-primary">{{ t("error.back_elections") }}</a>
+    <a href="{{ url_for('resources.index') }}" class="btn btn-ghost">{{ t("error.browse_resources") }}</a>
   </p>
 </div>
 {% endblock %}

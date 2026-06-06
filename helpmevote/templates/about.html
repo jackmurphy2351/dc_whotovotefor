@@ -1,114 +1,69 @@
 {% extends "base.html" %}
-{% block title %}About — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.about") }} — {{ t("site.name") }}{% endblock %}
 
 {% block content %}
-<h1>About This Site</h1>
+<h1>{{ t("about.page_title") }}</h1>
 
 <section>
-  <h2>What is this?</h2>
+  <h2>{{ t("about.what_is_title") }}</h2>
   <p>
-    <strong>Help Me Vote DC 2026!</strong> is a free, open-source voter guide for Washington, DC's
-    June 16, 2026 Democratic Primary elections. It helps you compare candidates based on the issues
-    you actually care about, using a 5-point Likert scale.
+    <strong>{{ t("site.name") }}</strong> {{ t("about.what_is_body") }}
   </p>
 </section>
 
 <section>
-  <h2>How are candidate positions sourced?</h2>
-  <p>
-    Every candidate position must be linked directly to a primary source — the candidate's own
-    campaign website, an official questionnaire response, or a verified news article. No position
-    is listed without a citation. We do not editorialize about which positions are "correct."
-  </p>
-  <p>
-    Where a candidate's position is unknown — because they haven't addressed an issue publicly —
-    we mark it as "Unknown" rather than guessing or inferring.
-  </p>
+  <h2>{{ t("about.sourcing_title") }}</h2>
+  <p>{{ t("about.sourcing_p1") }}</p>
+  <p>{{ t("about.sourcing_p2") }}</p>
 </section>
 
 <section>
-  <h2>Endorsement advisories</h2>
-  <p>
-    This site displays endorsement advisories (such as "Free DC: do not rank candidate X")
-    as third-party opinions with a direct link to the source. These are not this site's own
-    recommendations — they are factual reports of what named organizations have said.
-  </p>
+  <h2>{{ t("about.advisories_title") }}</h2>
+  <p>{{ t("about.advisories_p1") }}</p>
 </section>
 
 <section>
-  <h2>Methodology</h2>
-  <p>
-    Every answer uses a 5-point scale: <em>strongly disagree</em>, <em>disagree</em>,
-    <em>neutral</em>, <em>agree</em>, <em>strongly agree</em>. For each question you answer,
-    we compare your position to the candidate's and look at how many steps apart they are on
-    that scale.
-  </p>
+  <h2>{{ t("about.methodology_title") }}</h2>
+  <p>{{ t("about.methodology_intro") | safe }}</p>
 
-  <h3>Two things you'll see, and why they can differ</h3>
-  <p>
-    Each compared question shows a <strong>label</strong> — the headline
-    <span class="agree-pill agree-yes">Agree</span>,
-    <span class="agree-pill agree-partial">Partial</span>, or
-    <span class="agree-pill agree-no">Disagree</span> — and also feeds the candidate's overall
-    <strong>match&nbsp;percentage</strong>. These measure different things, so they can disagree:
-  </p>
+  <h3>{{ t("about.two_things_title") }}</h3>
+  <p>{{ t("about.two_things_body") | safe }}</p>
   <ul>
     <li>
-      <strong>The label is a coarse headline: which side are you on?</strong>
-      It uses simple, intuitive rules:
+      {{ t("about.label_rule_lead") | safe }}
       <ul>
-        <li><strong>Agree</strong> — the same position.</li>
-        <li>
-          <strong>Partial</strong> — one step apart: you're on the <em>same side</em> and differ
-          only in intensity (for example, <em>strongly agree</em> vs. <em>agree</em>).
-        </li>
-        <li>
-          <strong>Disagree</strong> — two or more steps apart. Opposite sides, or one of you is
-          neutral while the other is committed, counts as disagreement — not "partial" agreement.
-        </li>
+        <li>{{ t("about.label_rule_agree") | safe }}</li>
+        <li>{{ t("about.label_rule_partial") | safe }}</li>
+        <li>{{ t("about.label_rule_disagree") | safe }}</li>
       </ul>
     </li>
-    <li>
-      <strong>The percentage is the fine print: how far apart are you, exactly?</strong>
-      It scales smoothly with the gap — 100% for an identical answer down to 0% for the polar
-      opposite — and the final match percentage is the average of those values across every
-      question you answered where the candidate has a known public stance. Keeping it graded is
-      what lets a candidate who is only <em>mildly</em> off your views rank above one who is
-      <em>diametrically</em> opposed.
-    </li>
+    <li>{{ t("about.percentage_rule") | safe }}</li>
   </ul>
-  <p>
-    Because of this, you may see a <span class="agree-pill agree-no">Disagree</span> label on a
-    question that still contributed a partial amount (say, 50%) to the percentage. That's
-    intended: you can land on opposite sides yet not be maximally far apart.
-  </p>
+  <p>{{ t("about.label_pct_diff") | safe }}</p>
 
-  <h3>Worked examples</h3>
-  <p>
-    Here is exactly how each case looks, from an identical answer to a complete opposite — the
-    cards below render just like the question-by-question breakdown on your results page:
-  </p>
+  <h3>{{ t("about.worked_examples_title") }}</h3>
+  <p>{{ t("about.worked_examples_intro") }}</p>
 
   <div class="answer-detail-list methodology-examples">
     {% set examples = [
-      ("Strongly agree", "Strongly agree", 0, "yes", "Agree", "100%"),
-      ("Strongly agree", "Agree", 1, "partial", "Partial", "75%"),
-      ("Agree", "Disagree", 2, "no", "Disagree", "50%"),
-      ("Strongly agree", "Disagree", 3, "no", "Disagree", "25%"),
-      ("Strongly agree", "Strongly disagree", 4, "no", "Disagree", "0%")
+      (t("stance.strongly_agree"), t("stance.strongly_agree"), 0, "yes", t("agree.agree"), "100%"),
+      (t("stance.strongly_agree"), t("stance.agree"), 1, "partial", t("agree.partial"), "75%"),
+      (t("stance.agree"), t("stance.disagree"), 2, "no", t("agree.disagree"), "50%"),
+      (t("stance.strongly_agree"), t("stance.disagree"), 3, "no", t("agree.disagree"), "25%"),
+      (t("stance.strongly_agree"), t("stance.strongly_disagree"), 4, "no", t("agree.disagree"), "0%")
     ] %}
     {% for you, cand, gap, cls, label, pct in examples %}
     <div class="answer-detail">
       <p class="answer-detail-prompt">
-        {{ gap }} step{{ "s" if gap != 1 }} apart &middot; contributes {{ pct }} to the match
+        {{ plural(gap, "about.example_line_one", "about.example_line_many").format(n=gap, pct=pct) }}
       </p>
       <div class="answer-detail-compare">
         <div class="answer-col answer-col-you">
-          <span class="answer-col-label">Your answer</span>
+          <span class="answer-col-label">{{ t("results.your_answer") }}</span>
           <span class="answer-stance">{{ you }}</span>
         </div>
         <div class="answer-col answer-col-cand">
-          <span class="answer-col-label">Candidate</span>
+          <span class="answer-col-label">{{ t("about.candidate_col") }}</span>
           <span class="answer-stance">{{ cand }}</span>
         </div>
         <span class="agree-pill agree-{{ cls }}">{{ label }}</span>
@@ -117,46 +72,25 @@
     {% endfor %}
   </div>
 
+  <p>{{ t("about.skip_note") }}</p>
+  <p>{{ t("about.insufficient_note") }}</p>
+  <p>{{ t("about.coverage_note") | safe }}</p>
+  <p>{{ t("about.limited_note") | safe }}</p>
+</section>
+
+<section>
+  <h2>{{ t("about.opensource_title") }}</h2>
   <p>
-    Questions you skip — and questions where the candidate has no known public stance — are
-    excluded entirely. They get no label and never count toward the percentage.
-  </p>
-  <p>
-    A candidate with no known stances on any of your answered questions is shown as
-    "Insufficient data" rather than scored at 0%.
-  </p>
-  <p>
-    Because a percentage can be misleading when it rests on only a handful of
-    questions, every result also shows its <strong>coverage</strong> — for
-    example, "based on 5 of 29 questions." A candidate could score 100% on the
-    five questions we have positions for while their views on the other 24 remain
-    unknown.
-  </p>
-  <p>
-    To keep that from being mistaken for a strong overall match, candidates we
-    have documented on too few of your answered questions are grouped separately
-    under <strong>"Limited information available"</strong> and sorted below the
-    well-documented candidates, regardless of their percentage. We never guess or
-    fill in a candidate's missing positions — they are simply ranked with less
-    confidence until more sourced information is available.
+    {{ t("about.opensource_pre") }}
+    <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="noopener">{{ t("about.opensource_license") }}</a>.
+    {{ t("about.opensource_post") }}
   </p>
 </section>
 
 <section>
-  <h2>Open source</h2>
+  <h2>{{ t("about.disclaimer_title") }}</h2>
   <p>
-    This site is released under the
-    <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="noopener">AGPL-3.0 license</a>.
-    All source code and candidate data are publicly available.
-    Contributions, corrections, and issue reports are welcome.
-  </p>
-</section>
-
-<section>
-  <h2>Disclaimer</h2>
-  <p>
-    This site is an independent civic project and is not affiliated with any candidate,
-    campaign, political party, or government agency. If you have any comments, suggestions for improvement, or concerns, please email me at <a href="mailto:dcvoting_quiz_feedback@pm.me">dcvoting_quiz_feedback@pm.me</a> or open an issue on GitHub.
+    {{ t("about.disclaimer_pre") }} <a href="mailto:dcvoting_quiz_feedback@pm.me">dcvoting_quiz_feedback@pm.me</a> {{ t("about.disclaimer_post") }}
   </p>
 </section>
 {% endblock %}

@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 # Run dev server (http://127.0.0.1:5000)
 FLASK_ENV=development .venv/bin/python app.py
 
-# Run all tests (45 tests; data_loader + scoring + quiz selection)
+# Run all tests (96 tests; data_loader + scoring + quiz selection + routes + translations)
 .venv/bin/python -m pytest
 
 # Run a single test
@@ -101,7 +101,9 @@ When editing YAML, run the dev server or `pytest` to catch violations immediatel
 - `main.py` — `/`, `/about`
 - `elections.py` — `/election/<slug>`, `/candidate/<election_slug>/<candidate_id>`
 - `quiz.py` — `/quiz/<slug>/start` (GET/POST question-selection screen, grouped by issue with per-category + per-question checkboxes; stores `quiz_selected_<slug>`), `/quiz/<slug>` (GET stepped, POST advances), `/results/<slug>`, `/quiz/<slug>/reset`. The stepped quiz, progress, and results scoring all run over `_active_questions()` — the election's questions filtered to the user's selection (or all questions when none is stored). The selection screen is the quiz's entry point from the election page.
-- `resources.py` — `/resources`, `/resources/<topic>` (hardcoded topic allowlist in `TOPIC_ORDER` / `TOPIC_TITLES`; one entry is `methodology`, the public stance-grading explainer)
+- `resources.py` — `/resources`, `/resources/<topic>` (hardcoded topic allowlist in `TOPIC_ORDER` / `TOPIC_SLUGS`; titles come from `ui.yaml` under `resources.title.<topic>`; one entry is `methodology`, the public stance-grading explainer)
+
+All four blueprints are mounted under a `/<lang_code>/` prefix (see i18n below); only `root_bp` in `main.py` (`/`, `/robots.txt`, `/sitemap.xml`) is unprefixed.
 
 ## Content conventions
 
@@ -111,6 +113,24 @@ When editing YAML, run the dev server or `pytest` to catch violations immediatel
 - **Advisories** are named third-party voter-guidance quotes (e.g. "Free DC: do not rank X"), always attributed to an organization, never editorial.
 - **Source dates** (`accessed:`) parse via `date.fromisoformat`. Quote them as `YYYY-MM-DD`.
 
+## Internationalization (i18n)
+
+English is canonical; other languages are **text-only overlays with per-field English fallback**, so a translation can never break referential integrity or drift structurally. `SUPPORTED_LANGUAGES` lives in `helpmevote/i18n.py` (`("en", "es")` today; add `"am"` etc. there). There is **no Flask-Babel** — both content and UI chrome use the same YAML-overlay paradigm.
+
+**Two translation layers:**
+1. **Content** (candidate bios/positions, questions, issues, elections, resource markdown). English stays in `content/` root; each other language gets `content/<lang>/` mirroring only the *translatable text fields*, keyed by the same stable IDs:
+   - `content/<lang>/elections.yaml` — `[{slug, title, short_description, whats_at_stake}]`
+   - `content/<lang>/issues.yaml` — `[{id, label, description}]`
+   - `content/<lang>/questions.yaml` — `[{id, prompt, explanation}]`
+   - `content/<lang>/candidates/<race>.yaml` — `[{id, short_bio, long_bio, positions:[{question_id, explanation, quote}], advisories:[{organization, text}]}]`
+   - `content/<lang>/resources/<topic>.md` — full translated markdown
+   Files, records, and individual fields may all be **partial** — anything missing falls back to English. **Never** put `name`, `stance`, `sources`, `campaign_url`, `applies_to_elections`, `election_date`, or endorser `items` in an overlay; those stay single-sourced in English. Endorsement category headers and the date format/month names are UI chrome (below), not content.
+2. **UI chrome** (~140 template strings). `content/en/ui.yaml` is canonical; `content/<lang>/ui.yaml` mirrors it. Templates call `{{ t("dotted.key") }}`; `localdate` filter formats dates from `date.long_format` + `date.month.<n>`; `plural(n, sing_key, plural_key)` covers the few pluralized strings. A missing key renders the key itself (visible in QA).
+
+**Mechanics.** `load_all_content(content_dir, lang="en")` builds the validated English `AppContent` (`_load_english`), then `_apply_overlay` rebuilds frozen dataclasses with `dataclasses.replace` (validation runs **English-only**, never on the merged result). `create_app` stashes `CONTENT` (English, authoritative for the default language), `CONTENT_BY_LANG`, and `UI_BY_LANG`. Routes read `get_content()` (honors `g.lang`); never read `current_app.config["CONTENT"]` directly in a route. URLs are `/<lang_code>/…` via an `any(...)` converter plus `url_value_preprocessor`/`url_defaults`, so existing `url_for(...)` calls need no `lang_code` argument. The header EN/ES toggle is `switch_lang_url(lang)`.
+
+**Adding a translation:** drop the relevant `content/<lang>/…` overlay file(s) and/or `ui.yaml` keys — no code change. `tests/test_translations.py` hard-fails on overlay IDs/fields that don't exist in English (catches typos) and on stance/source drift, but only reports missing translations. Run `pytest` after editing overlays.
+
 ## Deployment
 
-`Procfile` + `render.yaml` target Render's free tier (`gunicorn app:app`). `SECRET_KEY` and `FLASK_ENV=production` must be set in production env.
+`Procfile` + `render.yaml` target Render's free tier (`gunicorn app:app`). `SECRET_KEY` and `FLASK_ENV=production` must be set in production env. No build step for translations — overlays are plain YAML/markdown read at startup.

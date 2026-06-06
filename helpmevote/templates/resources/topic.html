@@ -1,9 +1,9 @@
 {% extends "base.html" %}
-{% block title %}{{ resource.title }} — Resources — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ resource.title }} — {{ t("title.resources") }} — {{ t("site.name") }}{% endblock %}
 
 {% block content %}
 <nav class="breadcrumb">
-  <a href="{{ url_for('resources.index') }}">Resources</a> › {{ resource.title }}
+  <a href="{{ url_for('resources.index') }}">{{ t("nav.resources") }}</a> › {{ resource.title }}
 </nav>
 
 <article class="resource-article">
@@ -13,12 +13,12 @@
 
 {% if resource.meta.sources %}
 <section class="page-sources">
-  <h2>Sources</h2>
+  <h2>{{ t("common.sources") }}</h2>
   <ol>
     {% for src in resource.meta.sources %}
     <li>
       <a href="{{ src.url }}" rel="noopener">{{ src.title }}</a>
-      — {{ src.publisher }}. Accessed {{ src.accessed }}.
+      — {{ src.publisher }}. {{ t("common.accessed") }} {{ src.accessed }}.
     </li>
     {% endfor %}
   </ol>

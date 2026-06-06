@@ -1,31 +1,29 @@
 {% extends "base.html" %}
-{% block title %}Choose questions: {{ election.title }} — Help Me Vote DC 2026!{% endblock %}
+{% block title %}{{ t("title.choose_questions") }}: {{ election.title }} — {{ t("site.name") }}{% endblock %}
 
 {% block content %}
 <nav class="breadcrumb">
-  <a href="{{ url_for('main.index') }}">Elections</a> ›
+  <a href="{{ url_for('main.index') }}">{{ t("nav.elections") }}</a> ›
   {% if election.slug == 'all' %}
   {{ election.title }} ›
   {% else %}
   <a href="{{ url_for('elections.election', slug=election.slug) }}">{{ election.title }}</a> ›
   {% endif %}
-  Choose questions
+  {{ t("quiz_start.breadcrumb") }}
 </nav>
 
 <div class="quiz-header">
   <h1>{{ election.title }}</h1>
-  <p class="lead">Choose the questions you'd like to answer.</p>
+  <p class="lead">{{ t("quiz_start.lead") }}</p>
   <p class="select-intro">
-    Every question is selected by default. Uncheck any topics or individual
-    questions you'd rather skip — a shorter quiz is fine. Your match is calculated
-    only from the questions you keep and answer with an opinion.
+    {{ t("quiz_start.intro") }}
   </p>
 </div>
 
 {% if error %}
 <div class="alert alert-warning">
-  <strong>Pick at least one question.</strong>
-  Select the questions you want to answer before starting the quiz.
+  <strong>{{ t("quiz_start.error_strong") }}</strong>
+  {{ t("quiz_start.error_text") }}
 </div>
 {% endif %}
 
@@ -34,13 +32,13 @@
 
   <div class="select-toolbar">
     <div class="select-bulk">
-      <button type="button" class="btn btn-ghost btn-small" data-select-all>Select all</button>
-      <button type="button" class="btn btn-ghost btn-small" data-deselect-all>Deselect all</button>
+      <button type="button" class="btn btn-ghost btn-small" data-select-all>{{ t("quiz_start.select_all") }}</button>
+      <button type="button" class="btn btn-ghost btn-small" data-deselect-all>{{ t("quiz_start.deselect_all") }}</button>
     </div>
     <p class="select-counter" aria-live="polite">
-      <span data-selected-count>{{ selected | length }}</span> of {{ total }} selected
+      <span data-selected-count>{{ selected | length }}</span> {{ t("quiz_start.of") }} {{ total }} {{ t("quiz_start.selected_word") }}
     </p>
-    <button type="submit" class="btn btn-primary btn-small" data-start-btn>Start quiz →</button>
+    <button type="submit" class="btn btn-primary btn-small" data-start-btn>{{ t("quiz_start.start") }}</button>
   </div>
 
   {% for issue, questions in groups %}
@@ -49,7 +47,7 @@
       <label for="category-toggle-{{ loop.index }}" class="select-category-label">
         <input type="checkbox" id="category-toggle-{{ loop.index }}" data-category-toggle
                {% if questions | rejectattr('id', 'in', selected) | list | length == 0 %}checked{% endif %}>
-        <span>{{ issue.label if issue else "Other" }} ({{ questions | length }} question{{ "s" if questions | length != 1 }})</span>
+        <span>{{ issue.label if issue else t("quiz_start.category_other") }} ({{ questions | length }} {{ plural(questions | length, "quiz_start.question_singular", "quiz_start.question_plural") }})</span>
       </label>
     </legend>
 
@@ -66,7 +64,7 @@
   {% endfor %}
 
   <div class="quiz-navigation">
-    <button type="submit" class="btn btn-primary btn-large" data-start-btn>Start quiz →</button>
+    <button type="submit" class="btn btn-primary btn-large" data-start-btn>{{ t("quiz_start.start") }}</button>
   </div>
 </form>
 {% endblock %}

@@ -1,0 +1,56 @@
+# Spanish overlay for issues. Only translatable text; ids match content/issues.yaml.
+- id: housing
+  label: "Vivienda y asequibilidad"
+  description: >
+    Cómo debe DC abordar su grave escasez de vivienda, incluyendo la estabilización
+    de rentas, los derechos de compra de los inquilinos (TOPA/DOPA), los modelos de
+    vivienda social y el Fondo Fiduciario para la Producción de Vivienda (Housing
+    Production Trust Fund).
+
+- id: mpd_ice
+  label: "MPD y control migratorio federal"
+  description: >
+    Si el Departamento de Policía Metropolitana (MPD) de DC debe cooperar con ICE u
+    otros agentes federales en operaciones de control migratorio.
+
+- id: education
+  label: "Educación y servicios para jóvenes"
+  description: >
+    Financiamiento para las escuelas públicas de DC (DCPS y charter), las escuelas
+    comunitarias, la educación de la primera infancia y la programación para jóvenes
+    fuera del horario escolar.
+
+- id: transit
+  label: "Transporte, bicicletas y calles"
+  description: >
+    Inversión en transporte público, infraestructura protegida para bicicletas y
+    seguridad peatonal.
+
+- id: childcare
+  label: "Cuidado infantil y primera infancia"
+  description: >
+    Si DC debe ampliar el cuidado infantil subsidiado —incluso mediante programas
+    universales basados en el Programa de Mejora y Expansión de Pre-K (PKEEP)— para
+    que el cuidado infantil sea asequible para todos los residentes del Distrito.
+
+- id: economic_development
+  label: "Desarrollo económico"
+  description: >
+    Políticas para atraer negocios, apoyar a los trabajadores locales y mantener un
+    presupuesto saludable del Distrito —incluyendo respuestas a la desocupación de
+    inmuebles comerciales y la recuperación del centro de la ciudad.
+
+- id: youth_curfew
+  label: "Toques de queda para jóvenes"
+  description: >
+    Si DC debe aplicar un toque de queda para menores como herramienta para reducir
+    la delincuencia juvenil, y qué programación alternativa debe acompañar dicha
+    política.
+
+- id: home_rule
+  label: "Autogobierno e interferencia federal"
+  description: >
+    Cómo debe DC defender su autonomía presupuestaria y legislativa frente a la
+    interferencia del Congreso, y resistir los intentos federales de tomar el control
+    de instituciones locales como el Departamento de Policía Metropolitana o de
+    desplegar la Guardia Nacional y agentes federales en la ciudad.

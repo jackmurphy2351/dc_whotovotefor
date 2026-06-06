@@ -71,6 +71,16 @@ hedged ("modernize," "review," "explore," "supports… but…"), we record it as
   on-point bill can sustain a strong stance even when the campaign site is silent; an
   off-point bill never does.
 
+## Translations and language
+
+When a candidate's content is available in more than one language, each language's text
+is taken from that candidate's **own materials in that language** — their English campaign
+page for the English version, their Spanish page for the Spanish version. Where a
+campaign's own pages differ between languages — a date, a dollar figure, a turn of phrase
+— our pages reflect that difference rather than silently "correcting" one version against
+the other. Candidate names, citation titles, and the sources themselves stay in their
+original language.
+
 ## How to push back
 
 These judgments are made by a human-supervised review against the sources cited on each

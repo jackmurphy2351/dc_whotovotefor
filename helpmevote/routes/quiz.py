@@ -3,7 +3,6 @@ import types
 from flask import (
     Blueprint,
     abort,
-    current_app,
     redirect,
     render_template,
     request,
@@ -11,6 +10,7 @@ from flask import (
     url_for,
 )
 
+from helpmevote.i18n import get_content, translate_ui
 from helpmevote.scoring import match_score, rank_candidates
 
 bp = Blueprint("quiz", __name__)
@@ -40,7 +40,7 @@ def _save_answers(answers: dict) -> None:
 def _resolve_election(content, slug: str):
     """Return the Election for ``slug``, or a synthetic stand-in for ALL_SLUG."""
     if slug == ALL_SLUG:
-        return types.SimpleNamespace(slug=ALL_SLUG, title="All Races")
+        return types.SimpleNamespace(slug=ALL_SLUG, title=translate_ui("quiz.all_races"))
     return content.elections.get(slug)
 
 
@@ -82,7 +82,7 @@ def _grouped_questions(content, slug: str) -> list:
 
 @bp.route("/quiz/<slug>/start")
 def start(slug: str):
-    content = current_app.config["CONTENT"]
+    content = get_content()
     elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
@@ -107,7 +107,7 @@ def start(slug: str):
 
 @bp.post("/quiz/<slug>/start")
 def start_post(slug: str):
-    content = current_app.config["CONTENT"]
+    content = get_content()
     elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
@@ -132,7 +132,7 @@ def start_post(slug: str):
 
 @bp.route("/quiz/<slug>")
 def quiz(slug: str):
-    content = current_app.config["CONTENT"]
+    content = get_content()
     elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
@@ -163,7 +163,7 @@ def quiz(slug: str):
 
 @bp.post("/quiz/<slug>")
 def quiz_post(slug: str):
-    content = current_app.config["CONTENT"]
+    content = get_content()
     elec = _resolve_election(content, slug)
     if not elec:
         abort(404)
@@ -187,7 +187,7 @@ def quiz_post(slug: str):
 
 @bp.route("/results/<slug>")
 def results(slug: str):
-    content = current_app.config["CONTENT"]
+    content = get_content()
     if slug == ALL_SLUG:
         return _results_all(content)
 

@@ -873,6 +873,12 @@
           publisher: "Aparna Raj Campaign"
           accessed: 2026-06-04
 
+# Bio/positions below are quoted from Jackie's own English campaign site
+# (jackieforward1.com). Her Spanish site (jackieforward1.com/es) presents a few facts
+# differently — e.g. age on arrival (12 vs 13) and the immigrant-fund dollar amounts.
+# The Spanish overlay (content/es/candidates/ward1.yaml) mirrors the Spanish site
+# verbatim. Both are authoritative-source quotes, so the en/es divergence is intentional
+# — do NOT "reconcile" the two against each other. See /resources/methodology.
 - id: jackie-reyes-yanes
   name: "Jackie Reyes Yanes"
   election_slug: ward1
