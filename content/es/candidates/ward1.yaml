@@ -109,3 +109,507 @@
 
     - question_id: home_rule_dc_resist
       explanation: "Su carrera se ha centrado en proteger a las comunidades inmigrantes de DC del daño federal: aseguró $10 millones para el Programa de Subvenciones para Servicios Legales de Justicia Migratoria y se opone a la colaboración del MPD con los agentes federales de inmigración. Es protectora de los residentes inmigrantes, pero su plataforma se enfoca en la prestación de servicios y la defensa legal más que en una postura de confrontación más amplia hacia la Casa Blanca."
+
+# Rashida Brown y Miguel Trindade Deramo: la biografía y algunas citas provienen del sitio
+# en español de sus campañas; las secciones marcadas «{No contiene texto en español}»
+# (en Rashida: pequeños negocios e impuestos / autogobierno; en Miguel: todas sus posiciones)
+# y los candidatos Terry Lynch y Aparna Raj (sin sitio en español) son traducción nuestra
+# de su contenido editorial en inglés. Véase /resources/methodology.
+- id: rashida-brown
+  short_bio: >
+    Trabajadora social, graduada de Howard y comisionada de la ANC durante 10 años que entregó
+    456 unidades de vivienda (60% asequibles) a través de Park Morton y Bruce Monroe. Directora
+    de políticas en la OSSE de DC, donde creó My Child Care DC y Thrive by Five; 25 años en
+    política de la primera infancia. Cofundadora de Georgia Avenue Thrive. Calificación de 10/10
+    de GLAA DC. Respaldada por la concejal saliente Brianne Nadeau.
+  long_bio: |
+    Rashida Brown (47 años) creció en una familia trabajadora de la ciudad de Nueva York: su
+    padre era conductor del metro en el tren A que pasaba por Harlem, un orgulloso miembro del
+    Sindicato de Trabajadores del Transporte (Local 100) y, más tarde, dirigió el negocio
+    familiar de tejados. Cuando le diagnosticaron cáncer, su madre tuvo tres empleos para cubrir
+    la hipoteca, los gastos médicos de él y los programas extraescolares de Rashida. Esas
+    experiencias forjaron su convicción de que las dificultades que enfrentó estaban lejos de ser
+    únicas. Asistió a la Universidad Howard gracias a una beca posible por el duro trabajo de sus
+    padres, y se graduó con un título en trabajo social. Ha vivido en DC desde 2000 y en Park
+    View durante 15 años.
+
+    Ha dedicado 25 años a la política de infancia y familia. Como directora de políticas en la
+    Oficina del Superintendente de Educación Secundaria (OSSE) de DC, impulsó el programa de
+    mejora de Pre-K, ayudó a desarrollar y lanzar My Child Care DC, y lanzó Thrive by Five.
+    Ayudó a llevar el modelo del Fondo de Equidad Salarial a Colorado y aseguró una colaboración
+    de $2 millones con el Departamento de Desarrollo de la Primera Infancia de ese estado. Como
+    cabildera federal registrada, ayudó a aprobar la renovación de la Ley de Subvenciones en
+    Bloque para el Cuidado y el Desarrollo Infantil. Ha asesorado a municipios de todo el país.
+
+    Durante sus 10 años como comisionada de la ANC 1E, cofundó Georgia Avenue Thrive —una
+    iniciativa impulsada por la comunidad que usa las artes, el desarrollo económico y la
+    dinamización comunitaria (no la actuación policial) para hacer más seguro el corredor de
+    Lower Georgia Ave— y lideró la lucha por Park Morton y Bruce Monroe, entregando 456 unidades
+    de vivienda, el 60% de ellas asequibles. Ella misma es beneficiaria del Programa de
+    Asistencia para la Compra de Vivienda (HPAP) y conoce de primera mano la importancia de estos
+    programas. Impulsó proyectos de prioridad para autobuses en Georgia Avenue y el Columbia
+    Heights Crosstown, consiguió ciclovías protegidas en las calles Kenyon, Warder y Park Place,
+    y se graduó de la Academia de Participación Ciudadana de DC, patrullando junto al MPD para
+    comprender de primera mano la policía de proximidad.
+
+    GLAA DC le otorgó una calificación de 10/10, una de solo cuatro candidatos en todas las
+    primarias de DC en recibir una puntuación perfecta. Cuenta con el respaldo de la concejal
+    saliente Brianne Nadeau, el Working Families Party, Greater Greater Washington, Sierra Club,
+    DC YIMBYs, 32BJ SEIU y LIUNA, entre otros. Su plataforma: ampliar la estabilización de rentas
+    a los edificios anteriores a 1985 (cerrando la laguna de los acuerdos voluntarios), restaurar
+    la TOPA para todos los edificios, proteger el HPTF con reservas obligatorias para unidades
+    profundamente asequibles, implementar el tope del 10% del costo de cuidado infantil de
+    Birth-to-Three con ingresos dedicados, ampliar drásticamente el financiamiento de la
+    interrupción de la violencia (citando reducciones del 30–60% de la violencia con armas a gran
+    escala), oponerse a los toques de queda juveniles y a la ampliación de la detención preventiva.
+  positions:
+    - question_id: housing_rent_stabilization
+      quote: "Rashida cerrará la laguna de los acuerdos voluntarios que permite a los propietarios eludir las protecciones, eliminará la exención por rehabilitación sustancial de la que se abusa para excluir unidades del control de alquileres, y ampliará la cobertura a los edificios construidos antes de 1985."
+      explanation: "Ampliará la cobertura de la estabilización de rentas a los edificios construidos antes de 1985 (la ley actual solo cubre los anteriores a 1975), cerrará la laguna de los acuerdos voluntarios que permite a los propietarios eludir las protecciones, y eliminará la exención por rehabilitación sustancial de la que se abusa para excluir unidades del control de alquileres. Señala que 75,000 familias dependen del control de alquileres, la mayor herramienta de vivienda asequible de DC."
+
+    - question_id: housing_topa_restore
+      quote: "Como concejala del Ward 1, Rashida luchará contra cualquier intento de debilitar los derechos de los inquilinos y trabajará para ampliar las protecciones que permiten a los residentes de larga duración permanecer en sus hogares."
+      explanation: "Se opone a cualquier debilitamiento de los derechos de compra de los inquilinos y luchará contra todo intento de revertirlos. Restablecerá la TOPA para los edificios de 2 a 4 unidades, revertirá las exenciones para viviendas unifamiliares y eliminará las exenciones del centro de la ciudad. Apoyó la cooperativa de Kenyon Street como demostración del poder de la TOPA cuando los inquilinos cuentan con recursos y apoyo."
+
+    - question_id: housing_production_trust_fund
+      quote: "Rashida luchará para que estos fondos se destinen exclusivamente a la producción y conservación de vivienda asequible, con reservas obligatorias para unidades profundamente asequibles (0-30% del AMI)."
+      explanation: "Protegerá el HPTF de ser saqueado para cubrir déficits presupuestarios, con reservas obligatorias para unidades profundamente asequibles (0–30% del AMI). También apoya la legislación de 2026 de la concejal Nadeau para reemplazar y reformar el HPTF con un mecanismo de financiamiento más moderno y sólido."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Defenderá proyectos ambiciosos de prioridad para el autobús: soluciones audaces como un corredor exclusivo para el transporte público a través del centro de Columbia Heights y un carril central para el transporte público en Georgia Avenue."
+      explanation: "Impulsó los proyectos de prioridad para autobuses de Georgia Avenue y el Columbia Heights Crosstown como comisionada de la ANC; amplió las ciclovías protegidas en las calles Kenyon, Warder y Park Place; defendería un corredor exclusivo para el transporte público a través del centro de Columbia Heights y un carril central en Georgia Avenue. Quiere frecuencias de 5 a 8 minutos en las rutas más transitadas del Ward 1 y autobuses gratuitos. En el foro de transporte del Bike, Walk & Bus PAC subrayó que ha «convertido los planes en pavimento», citando las ciclovías protegidas que logró construir en las calles Irving, Kenyon y Warder, y se comprometió a extender la ciclovía protegida de Kenyon Street a través de la calle 16 como su principal prioridad de transporte."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Rashida apoyará legislación de emergencia que prohíba explícitamente a cualquier empleado del gobierno de DC —especialmente al MPD— cooperar con ICE, salvo cuando lo exija la ley federal."
+      explanation: "Apoyará legislación de emergencia que prohíba explícitamente a cualquier empleado del gobierno de DC —especialmente al MPD— cooperar con ICE. Impulsará sanciones, incluido el despido, para los oficiales que violen las protecciones santuario, eliminará cualquier presupuesto del MPD destinado a la cooperación federal y celebrará audiencias de supervisión de emergencia para documentar cada interacción con ICE."
+
+    - question_id: education_mental_health_schools
+      quote: "Rashida ampliará los servicios de salud mental en los centros educativos, los programas de apoyo entre iguales y los enfoques centrados en la recuperación que abordan las causas de fondo en lugar de los síntomas."
+      explanation: "Ampliará los servicios de salud mental en las escuelas, los programas de apoyo entre pares y los enfoques centrados en la recuperación; apoya ampliar los equipos de respuesta a crisis de salud mental para atender las emergencias psiquiátricas en lugar de la policía armada; pide evaluar los avances en salud mental escolar. En el foro educativo del Ward 1 de la WTU reforzó la idea de financiar puestos a nivel escolar, nombrando trabajadores sociales, profesores de arte, bibliotecarios y profesores de música como los puestos que financiaría redirigiendo dinero de la oficina central."
+
+    - question_id: education_mayoral_control
+      quote: "Esto es lo que necesitamos: una junta escolar electa con autoridad presupuestaria y poderes clave sobre las responsabilidades… que seleccione a nuestro canciller (chancellor)."
+      explanation: "En el foro educativo del Ward 1 de la WTU pidió «una junta escolar electa con autoridad presupuestaria y poderes clave… que seleccione a nuestro canciller», además de consejos educativos por distrito con poder vinculante (no asesor) y de trasladar la supervisión educativa del Comité del Pleno a un comité de educación dedicado. Respaldó la legislación del concejal Zachary Parker que otorga más autoridad a la Junta Estatal como un primer «paso incremental». Apoya directamente trasladar la autoridad del control municipal hacia la Junta Estatal de Educación electa."
+
+    - question_id: crime_public_health
+      quote: "Rashida se esforzará por ampliar considerablemente la financiación de los programas de interrupción de la violencia de la Oficina de Seguridad y Participación Vecinal, que abordan la violencia como una crisis de salud pública. Estos programas reducen la violencia con armas de fuego entre un 30% y un 60% cuando se aplican adecuadamente a gran escala."
+      explanation: "Ampliará drásticamente la financiación de los programas de interrupción de la violencia de la ONSE (citando una reducción del 30–60% de la violencia con armas cuando se aplican adecuadamente a gran escala); financiará personal civil de respuesta a crisis de salud mental; y ampliará el alcance de servicios humanos en los corredores comerciales para personas con trastornos por consumo de sustancias, todo basado en su década al frente del modelo de seguridad pública por dinamización comunitaria de Georgia Avenue Thrive."
+
+    - question_id: crime_secure_dc
+      quote: "La derogación del código fue puro teatro político; no tenía nada que ver con la seguridad pública."
+      explanation: "Se opondrá a la ampliación de la detención preventiva y votará «no» a la creación de nuevos delitos con penas más severas. Califica la anulación del Código Penal Revisado por el Congreso en 2024 como «puro teatro político, no sobre la seguridad pública», y votará para volver a aprobar la RCCA cuando los demócratas recuperen el Congreso."
+
+    - question_id: youth_curfew_support
+      quote: "Criminalizar a los jóvenes por el mero hecho de estar en espacios públicos no genera seguridad, sino que crea antecedentes penales que destruyen futuros."
+      explanation: "Se opone explícitamente a los toques de queda juveniles: «Criminalizar a los jóvenes por el mero hecho de estar en espacios públicos no genera seguridad, sino que crea antecedentes penales que destruyen futuros». Como trabajadora social, asesoró a jóvenes que atravesaban estos sistemas y vio cómo criminalizar el comportamiento normal de los adolescentes los empuja más adentro de ellos. Señala que los toques de queda perjudican de manera desproporcionada a los jóvenes negros y de color, ya sobrevigilados."
+
+    - question_id: youth_curfew_programming
+      quote: "Rashida trabajará para ampliar el empleo juvenil de verano y convertirlo en oportunidades durante todo el año, con salarios dignos y trayectorias profesionales."
+      explanation: "Ampliará el empleo juvenil de verano a oportunidades durante todo el año con salarios dignos y trayectorias profesionales; financiará centros recreativos, bibliotecas y espacios comunitarios con horarios ampliados; e invertirá en interruptores de violencia de «mensajero creíble» como mentores juveniles. A través de Georgia Avenue Thrive, dinamizó espacios con noches de cine, fiestas de barrio y eventos liderados por jóvenes."
+
+    - question_id: parks_rec_funding
+      quote: "Rashida financiará centros recreativos, bibliotecas y espacios comunitarios con horarios ampliados, que ofrecerán actividades estructuradas, mentoría y relaciones positivas con adultos."
+      explanation: "Financiará centros recreativos, bibliotecas y espacios comunitarios con horarios ampliados para actividades estructuradas y mentoría. Dinamizó personalmente espacios comunitarios a través de Georgia Avenue Thrive con programación juvenil, y ve la inversión en «espacios seguros abiertos hasta tarde» como una estrategia central de seguridad pública."
+
+    - question_id: childcare_universal
+      quote: "Ninguna familia debería destinar más del 10% de sus ingresos al cuidado infantil. Rashida establecerá fuentes de ingresos específicas —en lugar de asignaciones anuales vulnerables— para hacerlo realidad."
+      explanation: "Implementará el tope del 10% del ingreso para los costos de cuidado infantil de Birth-to-Three con fuentes de ingresos dedicadas —no asignaciones anuales vulnerables— y eliminará la lista de espera del subsidio de cuidado infantil. Tiene 25 años en política de la primera infancia, incluida la creación de My Child Care DC, Thrive by Five, y haber ayudado a llevar el modelo del Fondo de Equidad Salarial para Educadores de la Primera Infancia a Colorado."
+
+    - question_id: childcare_birth_to_three
+      quote: "Esto implica ampliar los criterios de acceso a las ayudas, garantizar que las tarifas de reembolso reflejen los costos reales y crear subvenciones para centros con el fin de aumentar el número de plazas para bebés y niños pequeños en barrios desfavorecidos."
+      explanation: "Implementará la «promesa del 10%» de Birth-to-Three para que ninguna familia pague más del 10% de sus ingresos en cuidado infantil, estableciendo fuentes de ingresos dedicadas, ampliando los criterios de acceso a las ayudas, garantizando que las tarifas de reembolso reflejen los costos reales, creando subvenciones para centros con el fin de aumentar las plazas para bebés y niños pequeños en barrios desfavorecidos, y eliminando la lista de espera del subsidio de cuidado infantil."
+
+    - question_id: transit_fare_free_buses
+      quote: "Financiar autobuses gratuitos."
+      explanation: "Se compromete explícitamente a «financiar autobuses gratuitos», señalando que el Concejo los financió una vez pero la WMATA se negó a implementarlos en el Distrito. Trabajaría para cambiar la dinámica en la junta de la WMATA y dar a DC más autoridad para una política de transporte audaz. En el foro del Bike, Walk & Bus PAC reafirmó que es «partidaria de ello», a favor de una fuente de financiamiento dedicada fuera del presupuesto regular y de un enfoque universal, señalando a la vez problemas de implementación del programa de viaje gratuito para niños que corregiría."
+
+    - question_id: transit_congestion_pricing
+      quote: "Rashida trabajará para garantizar que el uso del coche no sea subvencionado por los residentes que no lo usan."
+      explanation: "Apoya explícitamente la tarificación vial para que el uso del coche no sea subvencionado por los residentes que no conducen: aumentaría el precio de los permisos de estacionamiento residencial, eliminaría los requisitos mínimos de estacionamiento cerca del transporte, implementaría reducciones de carriles en las arterias, haría algunas calles libres de coches y buscaría la reciprocidad regional para la vigilancia automatizada del tráfico."
+
+    - question_id: housing_upzoning
+      quote: "El Distrito 1 tiene capacidad para albergar más viviendas para más personas, al igual que otros distritos."
+      explanation: "Pide «legalizar los apartamentos en todo el distrito» y aboga por un Plan Integral / Mapa de Uso Futuro del Suelo mucho más sólido que el borrador, para que cada ward —no solo unos pocos— acomode más vivienda. Promueve ajustes de zonificación y de otro tipo que faciliten construir más unidades para bajar los precios."
+
+    - question_id: crime_police_in_schools
+      explanation: "Enfatiza los apoyos no policiales dentro y alrededor de las escuelas: ampliaría los servicios de salud mental escolar, el apoyo entre pares y los enfoques centrados en la recuperación, y se aseguraría de que los equipos de respuesta a crisis de salud mental —no la policía armada— atiendan las emergencias psiquiátricas. Plantea que la seguridad duradera proviene de invertir en las personas, no en la actuación policial."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Dará prioridad a la Ley de Ampliación del Crédito Tributario sobre la Propiedad para Pequeños Comerciantes de 2025 para apoyar a los pequeños comercios y restaurantes, muchos de ellos de propiedad inmigrante y familiar."
+      explanation: "Daría prioridad a la Ley de Ampliación del Crédito Tributario sobre la Propiedad para Pequeños Comerciantes para apoyar a los pequeños comercios y restaurantes (muchos de propiedad inmigrante), apoyaría la estabilización de rentas comerciales y los modelos de propiedad comunitaria, y «aumentaría los impuestos y cerraría las lagunas para las grandes corporaciones… ofreciendo a la vez algo de alivio a los negocios más pequeños para que prosperen»."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "Aumentar los impuestos y cerrar las lagunas para las grandes corporaciones, de modo que paguen su parte justa, ofreciendo a la vez algo de alivio a los negocios más pequeños para que prosperen."
+      explanation: "Pide explícitamente «aumentar los impuestos y cerrar las lagunas para las grandes corporaciones, ofreciendo a la vez algo de alivio a los negocios más pequeños para que prosperen», planteando la tributación corporativa progresiva como una fuente clave de ingresos para las inversiones en vivienda, cuidado infantil y seguridad pública."
+
+    - question_id: home_rule_dc_resist
+      quote: "Como concejala, seguirá oponiéndose y alzando la voz contra la interferencia federal en cada oportunidad. Rashida sabe que la aquiescencia siempre es un enfoque fallido."
+      explanation: "Presentará legislación de emergencia que prohíba explícitamente a cualquier empleado del gobierno de DC cooperar con el control migratorio federal, celebrará audiencias de supervisión de emergencia para documentar cada interacción con ICE, y eliminará cualquier presupuesto del MPD destinado a la cooperación federal: una respuesta legislativa firme y proactiva a la interferencia federal."
+
+    - question_id: homelessness_housing_first
+      quote: "También impulsará políticas de «la vivienda primero» con servicios integrales para promover mejores vías de salida para nuestros vecinos sin hogar…"
+      explanation: "Brown impulsaría políticas de «la vivienda primero» (Housing First) con servicios integrales, financiaría plenamente los vales de Vivienda de Apoyo Permanente y de Complemento de Alquiler Local con un máximo de 30 días de tramitación, y restablecería la financiación de los refugios no colectivos, rechazando explícitamente «hacinar a las personas». Apoya firmemente un enfoque de Housing First."
+
+- id: terry-lynch
+  short_bio: >
+    Residente de Mt. Pleasant desde hace 40 años (66 años), exalumno de Georgetown y donante de
+    riñón en vida (2020). Comenzó su carrera en los refugios del CCNV con Mitch Snyder; fundó
+    Calvary Women's Services y cofundó el Washington Area Community Investment Fund. Campaña
+    centrada en la calidad de vida: pequeños negocios, control del estacionamiento, reforma de la
+    policía de proximidad, parques y servicios para personas mayores.
+  long_bio: |
+    Terry Lynch (66 años) ha vivido en DC desde 1977 y en Mt. Pleasant durante 40 años. Exalumno
+    de la Universidad de Georgetown, comenzó su carrera dirigiendo refugios para personas sin
+    hogar junto a Mitch Snyder y Carol Fennelly en el CCNV, y luego fundó Calvary Women's
+    Services, un refugio específicamente para mujeres sin hogar. Cofundó el Washington Area
+    Community Investment Fund, que financia vivienda asequible, desarrollo de pequeños negocios y
+    servicios comunitarios. En la década de 1990 fue uno de los primeros defensores de la reforma
+    de zonificación que llevó vivienda, comercio y artes al centro de DC, una labor que emprendió
+    junto al futuro avalador Bill Lightfoot. Sirvió en el Grupo de Trabajo de Bibliotecas del
+    alcalde Williams, como directivo de la PTA introduciendo deportes y actividades en las
+    escuelas de DC, y como Comisionado Estatal de Deportes de DC. En 2020 donó un riñón en la
+    Clínica Mayo.
+
+    Lynch lleva lo que describe como una campaña «persona por persona» —no de respaldos de grupos
+    de interés, sino de los residentes y de los pequeños negocios de propiedad minoritaria y
+    femenina del Ward 1 a los que dice haber servido durante décadas. Entre sus avaladores están
+    Miss Pixie's, Fleet Feet, The Raven, Bukom Cafe, Dos Gringos y Tamashaa. Su activismo cívico
+    le valió el título de «el hombre más molesto de DC» por parte de Washingtonian; según se
+    informa, presenta entre 20,000 y 25,000 solicitudes 311 al año mediante caminatas diarias por
+    los ocho wards.
+
+    Su campaña se desencadenó originalmente por la oposición de la concejal saliente Brianne
+    Nadeau al acuerdo del estadio RFK, que Lynch calificó de «la gota que colmó el vaso» dados los
+    empleos de construcción y permanentes que generaría. Su plataforma se centra en la calidad de
+    vida: calles más limpias, mantener abiertos los pequeños negocios, el control del
+    estacionamiento (quiere extender las restricciones de la Zona 1 a 24/7 y autoridad de remolque
+    inmediato para los infractores), mejores servicios municipales, más parques y espacios
+    recreativos, servicios para personas mayores y más programación juvenil. Ha pedido públicamente
+    al Procurador General que realice una revisión integral del MPD, citando preocupaciones por el
+    uso de la fuerza con jóvenes y por la cooperación de la policía de DC con agentes federales
+    para detener residentes.
+  positions:
+    - question_id: housing_social_model
+      explanation: "Prefiere actuar sobre las propiedades vacías y deterioradas antes que construir nueva vivienda social. Quiere una política de «úsala o piérdela» para recuperar las propiedades no restauradas en un plazo de 3 años."
+
+    - question_id: parks_rec_funding
+      quote: "Proteger y ampliar los parques y los espacios recreativos."
+      explanation: "La plataforma de campaña incluye explícitamente «proteger y ampliar los parques y los espacios recreativos» y «buscar más actividades extraescolares y de fin de semana para los jóvenes» como prioridades, pero no ofrece compromisos de financiamiento ni propuestas de programas específicos."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Saben que lucharé por ellos, que no me rendiré y que los ayudaré a mantenerse abiertos y a prosperar."
+      explanation: "Se postula como el candidato de los pequeños negocios de propiedad minoritaria y femenina del Ward 1, decenas de los cuales lo han avalado. Promete «ayudarlos a mantenerse abiertos y a prosperar» y detener la pérdida de pequeños negocios, citando «el exceso de regulación, la pérdida de estacionamiento y el aumento de costos» como los principales desafíos, enfatizando la reducción de la carga regulatoria más que los recortes de impuestos."
+
+    - question_id: home_rule_dc_resist
+      quote: "A menudo escucho que la policía de DC coopera con agentes federales para detener residentes."
+      explanation: "Ha pedido públicamente al Procurador General que realice una revisión integral del MPD, citando preocupaciones por la cooperación de la policía de DC con agentes federales para detener residentes. Se opone a la cooperación MPD/federal por motivos de rendición de cuentas, aunque su plataforma se centra en la reforma de la policía de proximidad más que en una resistencia política más amplia a la administración Trump."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Hay que ser un intermediario justo, sentar a todos a la mesa, escuchar a todos y proponer las soluciones que realmente funcionan frente a las que no."
+      explanation: "En el foro de transporte del Bike, Walk & Bus PAC apoyó completar la red de ciclovías del Ward 1 actuando como un «intermediario justo» —sentando a la mesa a vecinos, negocios, ANC y al DOT— y él mismo usa las ciclovías protegidas de la calle 14 y Columbia Road. En la ronda rápida respaldó las cámaras automáticas de control de tráfico en corredores peligrosos, con los ingresos financiando infraestructura de bicicleta, peatonal y de autobús. Su prioridad general de transporte, sin embargo, es la aplicación de la ley contra los conductores peligrosos (coches, ciclomotores y bicicletas eléctricas), que considera la mayor amenaza para la seguridad."
+
+    - question_id: transit_fare_free_buses
+      quote: "Francamente, soy de clase media. No debería recibir transporte gratuito… otros no necesitan que sea gratis."
+      explanation: "En el foro del Bike, Walk & Bus PAC se opuso a los autobuses gratuitos universales, argumentando que las tarifas deberían basarse en los ingresos: «Soy de clase media; no debería recibir transporte gratuito… debería pagar lo que realmente cuesta». Está abierto a explorar tarifas reducidas o incluso gratuitas para pasajeros de bajos ingresos y estudiantes, pero rechaza los autobuses gratuitos para todos, recalcando que el Distrito debe «ser muy astuto en lo presupuestario» para que el gasto en transporte no desplace los programas extraescolares para jóvenes."
+
+    - question_id: housing_upzoning
+      quote: "Me comprometo a traer al menos 5,000 unidades más al ward… la revitalización que deberíamos haber tenido hace bastante tiempo."
+      explanation: "En el foro del Bike, Walk & Bus PAC fue una voz firme a favor del desarrollo orientado al tránsito, recordando cómo a principios de la década de 1990 ayudó a redactar el código y argumentó ante la Comisión de Zonificación para exigir vivienda en 90 manzanas del centro. Se comprometió a traer «al menos 5,000 unidades más» al Ward 1 y a revitalizar Georgia Avenue, U Street y la calle 14 con densidad de uso mixto. Firmemente a favor de la oferta y de la densidad cerca del transporte, aunque enmarcado en torno a la revitalización de corredores más que a poner fin explícitamente a la zonificación unifamiliar."
+
+    - question_id: homelessness_housing_first
+      explanation: "Lynch comenzó su carrera dirigiendo refugios para personas sin hogar con Mitch Snyder y Carol Fennelly del CCNV y fundó el Calvary Shelter for Homeless Women, y cuenta con el respaldo de antiguos defensores de los servicios para personas sin hogar. Su trayectoria refleja un profundo compromiso con los servicios para personas sin hogar y los refugios con apoyo, alineándose con un enfoque de servicios primero más que de aplicación de la ley, aunque sus materiales enfatizan la provisión de refugios más que una política específica de Housing First."
+
+- id: aparna-raj
+  short_bio: >
+    Organizadora de inquilinos, miembro sindical e hija queer de inmigrantes que ha hecho de
+    Columbia Heights su hogar durante una década. Voluntaria de la DSA; sirvió en el Comité de
+    Justicia de Vivienda y Zonificación de la ANC 1A. Trabaja para una organización sin fines de
+    lucro de políticas progresistas. La candidata que más fondos recaudó en la contienda del Ward
+    1. Plataforma integral: cuidado infantil gratuito, ampliación del tope de rentas, $125
+    millones al año para vivienda asequible, propiedad pública de los servicios públicos y el fin
+    de la cooperación MPD-ICE.
+  long_bio: |
+    Aparna Raj (32 años) es organizadora de inquilinos, miembro sindical y mujer queer de color
+    que ha vivido en Columbia Heights durante una década con su esposo Stuart y su perro Frank.
+    Describe su motivación en términos personales: su madre llegó a EE. UU. como inmigrante y
+    trabajó en el comercio minorista por el salario mínimo sin poder tomar días por enfermedad;
+    su padre perdió su empleo en 2009 y la familia tuvo dificultades para llegar a fin de mes; y,
+    a medida que sus padres envejecen, se cierne la posibilidad de que una emergencia médica los
+    lleve a la bancarrota. Esas experiencias la llevaron a ser voluntaria de Metro DC DSA, a
+    través de la cual organizó por los derechos de los inquilinos (incluso junto a los inquilinos
+    de Marbury Plaza), trabajó para defender y ampliar las protecciones de los inquilinos frente
+    al lobby inmobiliario, y se organizó contra Trump. Antes trabajó en una organización sin fines
+    de lucro que abordaba la inseguridad alimentaria en DC y ahora trabaja para Local Progress.
+    Sirvió en el Comité de Justicia de Vivienda y Zonificación de la ANC 1A. Como miembro
+    sindical, formó parte del comité de negociación de su unidad y participó en piquetes junto a
+    trabajadores de restaurantes, conductores de autobús y mecánicos.
+
+    Ha recaudado más dinero que cualquier otro candidato del Ward 1, alcanzando el tope de
+    financiamiento del Programa de Elecciones Justas. Su plataforma de vivienda es la más detallada
+    de la contienda: ampliaría la estabilización de rentas a todos los edificios construidos
+    después de 1975 (con el objetivo de una cobertura universal en la reautorización de 2030),
+    restauraría la TOPA para todos los residentes de DC, asignaría $125 millones al año al Fondo
+    Fiduciario para la Producción de Vivienda, y pondría a prueba la vivienda social inspirada en
+    el condado de Montgomery y Seattle. En cuidado infantil, garantizaría atención gratuita y
+    financiada con fondos públicos desde los 3 meses hasta los 3 años, sin verificación de
+    ingresos, pagada con impuestos a las grandes corporaciones. Su plataforma energética pide una
+    reforma de la PSC (reducir el retorno garantizado de Pepco a ~6%), financiar plenamente Solar
+    for All y los programas de electrificación de viviendas, y, en última instancia, la transición
+    a la propiedad pública de los servicios públicos de DC. Tiene una plataforma detallada de
+    control de ratas que incluye botes inteligentes a prueba de roedores, un «Zar de las Ratas» de
+    DC para coordinar al DPW y a DC Health, y una expansión del compostaje. En derechos laborales,
+    extendería el derecho a la huelga a los trabajadores del sector público e introduciría una Ley
+    de Derecho a Organizarse de DC. En transporte, construiría carriles exclusivos para autobuses,
+    aumentaría la frecuencia y cerraría las brechas de la red de bicicletas. Apoya poner fin a la
+    cooperación del MPD con ICE, fortalecer la Ley de Valores Santuario y financiar servicios
+    legales públicos y gratuitos de inmigración. El Ward 1 es de mayoría hispanohablante en muchas
+    cuadras; Raj está aprendiendo español activamente y se ha comprometido a ofrecer comunicaciones
+    con los electores totalmente traducidas.
+  positions:
+    - question_id: housing_rent_stabilization
+      quote: "Aparna impulsará la estabilización de rentas para todos los inquilinos de edificios multifamiliares cuando el Concejo de DC reautorice la estabilización de rentas en 2030."
+      explanation: "Ampliaría la estabilización de rentas a las propiedades construidas después de 1975 e impulsaría la cobertura universal de todos los edificios multifamiliares en la reautorización de 2030. Quiere revertir las disposiciones dañinas de la Ley RENTAL y financiar abogados para inquilinos a través del programa Access to Justice."
+
+    - question_id: housing_topa_restore
+      quote: "Como concejala, Aparna luchará por restaurar la TOPA para todos los residentes del Distrito y garantizar que los programas que han hecho exitosa la TOPA estén adecuadamente financiados y bien administrados, para que los residentes puedan ejercer eficazmente sus derechos de TOPA."
+      explanation: "Pide explícitamente restaurar la TOPA para todos los residentes del Distrito —incluidas las viviendas unifamiliares, los edificios de 2 a 4 unidades y la nueva construcción del centro que fueron excluidos en los recortes recientes— y fortalecer el Programa de Primer Derecho de Compra (First Right Purchase) para las cooperativas de capital limitado."
+
+    - question_id: housing_production_trust_fund
+      quote: "Impulsará que se asignen $125 millones al año al Fondo Fiduciario para la Producción de Vivienda, y abogará por fijar metas de producción cada cinco años para garantizar que DC produzca vivienda asequible al ritmo que necesitamos."
+      explanation: "Pide explícitamente asignar $125 millones al año al HPTF, con metas de producción quinquenales y una supervisión rigurosa del DHCD. Exigiría que el HPTF priorice los proyectos de TOPA y reformaría el opaco Plan de Asignación Calificada (Qualified Allocation Plan)."
+
+    - question_id: housing_social_model
+      quote: "Aparna también trabajará para poner a prueba la vivienda social en el Distrito, un modelo de ingresos mixtos de vivienda pública de propiedad del Distrito y controlada por los inquilinos."
+      explanation: "Pondría a prueba vivienda social de propiedad del Distrito y controlada por los inquilinos, inspirada en la HOC del condado de Montgomery y en Seattle, construida con mano de obra sindical y con altos estándares ambientales, abierta a residentes de todos los niveles de ingreso."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Aparna presionará al DDOT para construir rápidamente más carriles de autobús, para que nuestros autobuses circulen más rápido y enfrenten menos retrasos por el tráfico. Los carriles de autobús pueden ahorrar a los trabajadores de DC un 15% de su tiempo de viaje."
+      explanation: "Construiría carriles exclusivos para autobuses (citando un ahorro del 15% en el tiempo de viaje), aumentaría la frecuencia de los autobuses a un mínimo de 12 minutos, ampliaría el horario de los carriles existentes y cerraría las brechas de conectividad de la red de bicicletas para hacer posible circular de forma segura de este a oeste por el Ward 1. En el foro de transporte del Bike, Walk & Bus PAC nombró la conectividad este-oeste como una prioridad máxima, argumentó que «la pintura no es protección» al impulsar que las ciclovías de la calle 14 sean físicamente protegidas, y pidió más refugios de autobús (señalando que se concentran en wards más blancos y acomodados)."
+
+    - question_id: transit_fare_free_buses
+      quote: "Creo que los autobuses deberían ser un bien público gratuito, del mismo modo que consideramos las bibliotecas y los parques un bien público."
+      explanation: "En el foro del Bike, Walk & Bus PAC dijo que «los autobuses deberían ser un bien público gratuito, del mismo modo que consideramos las bibliotecas y los parques un bien público» —la posición del sindicato del transporte (ATU Local 689) que la avaló— porque la aplicación del cobro de tarifas pone en peligro a los conductores y las tarifas son una fuente de financiamiento poco fiable. Financiaría los autobuses gratuitos mediante un impuesto al valor del suelo (que, según ella, podría recaudar hasta $1,000 millones), se comprometería a confirmar solo a miembros de la junta de la WMATA que apoyen los autobuses gratuitos, y lucharía por un programa piloto de autobús gratuito."
+
+    - question_id: transit_congestion_pricing
+      quote: "También lucharía para que el DOT publique el estudio de tarificación por congestión que ha estado reteniendo… y posiblemente lo apoyaría."
+      explanation: "En el foro del Bike, Walk & Bus PAC, al preguntársele cómo debería el Concejo desalentar el uso del coche, dijo que «lucharía para que el DOT publique el estudio de tarificación por congestión que ha estado reteniendo» y que «posiblemente apoyaría» la tarificación por congestión, combinándola con un transporte más barato y frecuente, mejores refugios de autobús y programas para enseñar a los niños a andar en bicicleta. A favor, pero de manera tentativa («posiblemente»)."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Aparna luchará por fortalecer la Ley de Valores Santuario, empezando por prohibir que el MPD participe de cualquier forma en el control migratorio, incluyendo patrullas conjuntas, vigilancia e inteligencia, y apoyo operativo."
+      explanation: "Pondría fin a la colaboración del MPD con ICE, incluidas las patrullas conjuntas, la vigilancia y el intercambio de inteligencia; fortalecería la Ley de Valores Santuario con consecuencias exigibles para los funcionarios que la incumplan; prohibiría a las fuerzas del orden usar máscaras; y financiaría servicios legales públicos y gratuitos de inmigración."
+
+    - question_id: education_community_schools
+      quote: "Aparna trabajará con las Escuelas Públicas de DC para ampliar el número de escuelas comunitarias en el Distrito y brindar espacios seguros para que todos los estudiantes prosperen."
+      explanation: "Pide explícitamente ampliar el modelo de escuelas comunitarias en DC, citando la expansión de Baltimore de 50 a 130 escuelas comunitarias (2018–2022) y su reducción documentada de la violencia escolar. Trabajaría con las DCPS para brindar servicios de apoyo integral a los estudiantes y las familias."
+
+    - question_id: education_mental_health_schools
+      quote: "En cambio, el financiamiento de la salud conductual escolar debería aumentar para satisfacer las necesidades de los estudiantes de hoy."
+      explanation: "Aumentaría el financiamiento de los servicios de salud conductual escolar, oponiéndose al recorte de $2.3 millones a la salud conductual escolar del presupuesto del año fiscal 2026. Apoya ampliar el número de consejeros, trabajadores sociales y enfermeras escolares; financia unidades móviles de crisis de salud; y amplía el programa de Clínicas Comunitarias Certificadas de Salud Conductual. En el foro educativo del Ward 1 de la WTU subrayó que «no todas las escuelas tienen un consejero… no todas las escuelas tienen una enfermera escolar»."
+
+    - question_id: education_mayoral_control
+      quote: "Lucharé para poner la oficina del superintendente estatal de educación bajo el control de la junta estatal de educación, que es como funciona en la mayoría de los estados."
+      explanation: "En el foro educativo del Ward 1 de la WTU se comprometió a «democratizar nuestro sistema escolar» y poner a la OSSE bajo el control de la Junta Estatal de Educación electa —«que es como funciona en la mayoría de los estados»— para que los miembros de la Junta Estatal (a menudo docentes actuales o anteriores) ganen más poder de decisión. También sometería a las escuelas charter públicas a los mismos estándares de rendición de cuentas y transparencia que las DCPS. Apoya directamente poner fin al control municipal en favor de la junta electa."
+
+    - question_id: crime_public_health
+      quote: "Aparna luchará por invertir en y fortalecer la prevención de la violencia con armas en DC, incluyendo el programa piloto «Cure the Streets» y el programa de interrupción de la violencia con base hospitalaria de la ciudad."
+      explanation: "Ampliaría los programas de interrupción de la violencia «Cure the Streets» y de intervención comunitaria contra la violencia; consolidaría el mosaico de respuestas a crisis no policiales de DC en un único programa coordinado para llamadas de salud mental, consumo de sustancias y personas sin hogar; e invertiría en operadores paramédicos del 911 para canalizar las emergencias de salud mental hacia los respondedores apropiados."
+
+    - question_id: youth_curfew_programming
+      quote: "Aparna también luchará por financiar plenamente los programas extraescolares y de fin de semana, y revitalizar el Programa de Empleo Juvenil de Verano Marion Barry, que prepara a los jóvenes para el éxito a largo plazo."
+      explanation: "Financiaría plenamente los programas extraescolares y de fin de semana, revitalizaría el Programa de Empleo Juvenil de Verano Marion Barry, y ampliaría los horarios de los centros recreativos con la programación que los jóvenes quieren. Plantea la inversión en programación juvenil como prevención del delito: «está demostrado que la educación de la primera infancia reduce la delincuencia adolescente»."
+
+    - question_id: parks_rec_funding
+      quote: "Aparna resistirá los recortes a bibliotecas, centros recreativos y espacios públicos, y luchará por invertir en horarios más amplios y por mejorar la infraestructura física de las instalaciones y la accesibilidad."
+      explanation: "Resistiría los recortes a los centros recreativos y los espacios públicos y lucharía por invertir en horarios más amplios y en mejorar la infraestructura física. Propone específicamente ampliar los horarios de los centros recreativos con programación para jóvenes, y aboga por traer los parques del Ward 1 mantenidos a nivel federal bajo el control del DPR."
+
+    - question_id: childcare_universal
+      quote: "Aparna luchará por lograr una educación de la primera infancia gratuita, financiada con fondos públicos y de alta calidad para todas las familias de DC, desde los tres meses hasta los tres años."
+      explanation: "Garantizaría cuidado infantil gratuito y financiado con fondos públicos para cada niño de DC desde los 3 meses hasta los 3 años —sin verificación de ingresos, sin tarifas, sin precipicio de beneficios— financiando plenamente la infraestructura existente del programa Birth to Three. Lo pagaría con impuestos a las grandes corporaciones y a los ultrarricos, y protegería y ampliaría el Fondo de Equidad Salarial para Educadores de la Primera Infancia."
+
+    - question_id: sanitation_rats
+      quote: "En el Concejo, Aparna impulsará la creación de un «Zar de las Ratas» de DC encargado de liderar una respuesta multiagencia contra las ratas y coordinar el trabajo del DPW, DC Health y otras agencias para controlar la población de ratas."
+      explanation: "Tiene una plataforma detallada y multifacética contra las ratas: reemplazar los botes de basura públicos de tapa abierta por botes inteligentes a prueba de roedores con sensores de compactación; botes de basura domésticos a prueba de plagas con tapas con seguro; nombrar un «Zar de las Ratas» de DC para coordinar al DPW y a DC Health; ampliar el compostaje a los restaurantes; explorar programas piloto de control de natalidad de ratas; y reforzar la responsabilidad de los propietarios por las infestaciones crónicas. Señala que el Ward 1 reporta la mayor cantidad de ratas del Distrito año tras año."
+
+    - question_id: environment_renewable_energy
+      quote: "Aparna apoya financiar plenamente el programa, que reduciría las facturas de 100,000 familias de DC."
+      explanation: "Financiaría plenamente Solar for All (reduciendo las facturas de 100,000 familias), financiaría plenamente el Programa de Electrificación Asequible de Viviendas, reformaría las tarifas de interconexión solar, reduciría el retorno garantizado para inversionistas de Pepco del 9.5% a ~6%, y defendería los Estándares de Desempeño de Eficiencia de Edificios de DC. En última instancia quiere la transición de los servicios públicos de DC a la propiedad pública, citando facturas más bajas y mejor fiabilidad en las más de 2,000 empresas municipales del país."
+
+    - question_id: environment_public_power
+      quote: "Aparna cree que DC debería hacer la transición a la propiedad pública de sus servicios públicos."
+      explanation: "Explícitamente: «Aparna cree que DC debería hacer la transición a la propiedad pública de sus servicios públicos». Argumenta que la regulación a través de la PSC no ha logrado frenar a los monopolios de propiedad de inversionistas, y señala las más de 2,000 empresas municipales del país (incluido todo el estado de Nebraska) cuyos clientes pagan alrededor de un 13% menos. Ve la energía pública como la vía para bajar las facturas, cumplir las metas climáticas y crear empleos sindicales."
+
+    - question_id: housing_upzoning
+      quote: "Como concejala, Aparna luchará para que sea legal construir apartamentos en todas partes de DC."
+      explanation: "«Hará legal construir apartamentos en todas partes de DC», citando Portland y Cambridge, y específicamente densificaría los corredores de transporte como Georgia Ave y la calle 14. Modificaría el Mapa de Uso Futuro del Suelo para poner fin a la zonificación excluyente, permitiría una «densidad de bajo impacto» (dúplex, tríplex, séxplex) reduciendo los tamaños mínimos de lote y los retiros, flexibilizaría las reglas de las viviendas en callejón, y reduciría o eliminaría los mínimos de estacionamiento cerca del transporte. En el foro del Bike, Walk & Bus PAC calificó el desarrollo orientado al tránsito de «obvio», expresando un firme apoyo a la densificación cerca de las estaciones de Metro."
+
+    - question_id: childcare_birth_to_three
+      quote: "Bajo el plan de Aparna, todas las familias de DC serían elegibles, sin verificación de ingresos, sin precipicios de beneficios y sin tarifas."
+      explanation: "Garantizaría cuidado infantil gratuito y financiado con fondos públicos para cada niño de DC desde los 3 meses hasta los 3 años —sin verificación de ingresos, sin tarifas, sin precipicio de beneficios— financiando plenamente la infraestructura existente de Birth to Three, pagada con impuestos a las grandes corporaciones y a los ultrarricos."
+
+    - question_id: crime_police_in_schools
+      quote: "Eso empieza por invertir en buenas escuelas para todos, incluyendo consejeros, trabajadores sociales, enfermeras y otro personal de apoyo."
+      explanation: "Invertiría en «buenas escuelas para todos», incluyendo consejeros, trabajadores sociales, enfermeras y otro personal de apoyo para que los estudiantes tengan adultos de confianza, y apoya trasladar las respuestas de salud mental, consumo de sustancias y verificación de bienestar de la policía hacia respondedores civiles capacitados. Enfatiza los apoyos no policiales en lugar de una presencia policial en las escuelas."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "Pagará el cuidado infantil gratuito con impuestos a las grandes empresas y a los ultrarricos."
+      explanation: "Financia explícitamente sus plataformas de cuidado infantil universal y vivienda asequible con «impuestos a las grandes corporaciones y a los ultrarricos», planteando la tributación corporativa progresiva como la alternativa a los recortes de servicios o a los subsidios condicionados a los ingresos."
+
+    - question_id: home_rule_dc_resist
+      quote: "Aparna luchará por prohibir la actuación policial encubierta en DC, prohibiendo que todas las fuerzas del orden del Distrito usen máscaras, además de exigirles que muestren nombres y números de placa."
+      explanation: "Fortalecería la Ley de Valores Santuario con consecuencias exigibles para los funcionarios que la incumplan, prohibiría a las fuerzas del orden usar máscaras, y financiaría servicios legales públicos y gratuitos de inmigración: una postura legislativa firme contra el exceso federal dirigido a las comunidades inmigrantes de DC."
+
+    - question_id: environment_electricity_affordability
+      quote: "Reducir el retorno garantizado de Pepco sobre la inversión: … Aparna luchará por reducir el margen de Pepco a una tasa más razonable, como el 6%. Esto reduciría de inmediato las facturas eléctricas residenciales."
+      explanation: "La plataforma de Raj centra una agenda de «crisis de asequibilidad energética»: exigir una supervisión más estricta de la PSC sobre los aumentos de tarifas, recortar el retorno garantizado del 9.5% de Pepco hacia el 6%, prohibir que los servicios públicos usen fondos de los contribuyentes para cabildear, crear salvaguardas contra los cortes de servicio, y, en última instancia, avanzar hacia la propiedad pública. Apoya firmemente una acción agresiva para reducir las facturas eléctricas."
+
+    - question_id: labor_worker_protections
+      quote: "Defender salarios dignos: Aparna apoya convertir el salario mínimo de DC en un verdadero salario digno: $25 por hora. Aparna también luchará por restaurar la Iniciativa 82…"
+      explanation: "Miembro sindical y exrepresentante del comité de negociación, Raj respalda un salario mínimo digno de $25, restaurar el aumento del salario con propinas de la Iniciativa 82, financiar plenamente el Fondo de Equidad Salarial del cuidado infantil, una nueva aplicación de los derechos laborales (una versión de DC de la PAGA de California) y protecciones contra la clasificación errónea de los trabajadores gig. Apoya firmemente la ampliación de las protecciones de los trabajadores."
+
+    - question_id: homelessness_housing_first
+      quote: "La mejor manera de reducir la falta de vivienda es brindar a las personas en crisis hogares estables… Aparna luchará por ampliar los vales de vivienda para sacar a las personas de la falta de vivienda crónica…"
+      explanation: "Raj pondría fin a la falta de vivienda crónica financiando la Vivienda de Apoyo Permanente, el LRSP y la vivienda puente, reformando el Realojamiento Rápido (Rapid Rehousing) y reemplazando los vales federales perdidos con fondos locales, oponiéndose explícitamente a «los desalojos violentos de campamentos de Trump y la alcaldesa Bowser» y a la criminalización. Apoya firmemente un enfoque de Housing First."
+
+- id: miguel-trindade-deramo
+  short_bio: >
+    Actual presidente de la ANC 1B (39 años), hijo de una familia inmigrante y exprofesional de
+    inmigración / analista del DHS que ha vivido en el Ward 1 desde 2023. Organizador principal de
+    la Iniciativa 83 (RCV, 73% de los votos) y cofundador de Grow Democracy DC. Fundó el Caucus de
+    Autogobierno (Home Rule) de las ANC (más de 75 comisionados). Hogar sin coche. Plataforma de
+    políticas integral, desde vivienda hasta transporte y rendición de cuentas escolar.
+  long_bio: |
+    Miguel Trindade Deramo (39 años) ha vivido en el Ward 1 desde 2023. Es el actual presidente de
+    la ANC 1B, que representa el corredor de U Street, y se describe como hijo de una familia
+    inmigrante y exprofesional de inmigración. Su padre dedicó su carrera a ser miembro del CWA;
+    sus tíos eran electricistas del IBEW; su madre era maestra en una escuela privada no
+    sindicalizada que compraba materiales de su propio bolsillo. Vio de primera mano cómo la
+    afiliación sindical moldeó la carrera de su padre en comparación con la de su madre. Antes
+    trabajó como analista federal (Departamento de Seguridad Nacional). Él y su pareja Luis forman
+    un hogar sin coche en el Ward 1; Luis perdió su empleo cuando se cerró USAID.
+
+    Fue el organizador principal y miembro del comité directivo de la Iniciativa 83, la iniciativa
+    de voto por orden de preferencia de DC, que se aprobó con el 73% de los votos —incluyendo una
+    supermayoría en cada ward y una mayoría en cada precinto. Luego cofundó y se desempeñó como
+    primer director ejecutivo de Grow Democracy DC, una organización sin fines de lucro que prepara
+    a los votantes para participar en las primeras elecciones con RCV de DC. También lideró la
+    exitosa campaña en toda la ciudad para derrotar la Initiative Amendment Act, un proyecto de ley
+    que habría debilitado la capacidad de los votantes de proponer medidas electorales.
+
+    Como presidente de la ANC, fundó el Caucus de Autogobierno (Home Rule) (más de 75 comisionados
+    de todo DC) para coordinar acciones de autonomía, y lideró el esfuerzo para que 36 comisiones
+    aprobaran resoluciones concurrentes condenando la toma federal. Cabildeó personalmente en el
+    Capitolio con Free DC para restaurar los $1,000 millones recortados del presupuesto de DC,
+    organizó semanalmente actividades de «Conozca sus derechos» en inglés y español, y movilizó a
+    otras ANC para exigir que ICE deje de usar uniformes engañosos que dicen «POLICE». También
+    organizó Shakespeare in the Park en Malcolm X Park, fue anfitrión de la Celebración del
+    Servicio Internacional para los trabajadores de USAID desplazados, logró la instalación de un
+    bote de compostaje en la calle 14 y U, y realizó una rigurosa supervisión de la respuesta de DC
+    al colapso mortal de un edificio en V Street.
+
+    Su plataforma de vivienda pide más oferta mediante la reforma de zonificación y la
+    simplificación de permisos, restaurar la TOPA para los edificios de 2 a 4 unidades, usar la
+    DOPA de manera más agresiva, un nuevo Fondo de Preservación de Vivienda junto al HPTF, explorar
+    la vivienda social inspirada en el condado de Montgomery, y un enfoque de «la vivienda primero»
+    (Housing First) para la falta de vivienda, sin condiciones previas. En transporte, defendería
+    una ciclovía protegida continua en la calle 14, todos los corredores de prioridad para
+    autobuses del Ward 1 (U St, Florida, Georgia, 14th, Crosstown), 25 estaciones de Capital
+    Bikeshare nuevas o ampliadas y, en última instancia, autobuses gratuitos financiados con un
+    impuesto al valor del suelo. Su plataforma educativa enfatiza la salud conductual escolar
+    (especialmente preocupado por la transición del DBH), el ausentismo crónico (37% en el Ward 1)
+    e inspecciones anuales de cada escuela del Ward 1. Tiene una plataforma detallada de control de
+    ratas que incluye botes a prueba de roedores, la expansión del compostaje y ensayos de control
+    de natalidad de roedores. Se opone explícitamente a los toques de queda juveniles permanentes o
+    repetidamente extendidos, prefiriendo la programación, los centros recreativos y la
+    interrupción de la violencia.
+  positions:
+    - question_id: housing_topa_restore
+      quote: "Miguel trabajará para revertir la enmienda de último momento que exime de la TOPA a las propiedades de 2 a 4 unidades, lo que niega a miles de inquilinos la oportunidad de potencialmente convertirse en propietarios al comprar sus viviendas o de garantizar que sus propiedades sigan funcionando como vivienda asequible no subsidiada."
+      explanation: "Revertirá la enmienda de la Ley RENTAL que exime de la TOPA a las propiedades de 2 a 4 unidades (lo que, según él, «niega a miles de inquilinos la oportunidad de potencialmente convertirse en propietarios») y trabajará para acortar la exención de 15 años de la TOPA para los edificios nuevos. En una entrevista con DC Beat calificó la TOPA de «ley emblemática» que «cuando funciona, cumple» y ha evitado el desplazamiento de residentes del Ward 1, diciendo que la prioridad es «hacer que funcione muy bien»."
+
+    - question_id: housing_rent_stabilization
+      quote: "Explorar reformas a la estabilización de rentas bajo la Ley de Vivienda de Alquiler de 1985, incluyendo ampliar el inventario de propiedades multifamiliares existentes sujetas a esa ley, garantizando a la vez que los topes de renta no perjudiquen la viabilidad financiera de operar esas propiedades ante el aumento de costos como seguros, servicios públicos y mantenimiento."
+      explanation: "Apoya explorar la ampliación de la estabilización de rentas a más propiedades multifamiliares existentes, pero con cuidado de que los topes de renta no perjudiquen la viabilidad financiera de operar esas propiedades ante el aumento de costos. Plantea la posibilidad de un plazo de aplicabilidad móvil (en lugar de fijo)."
+
+    - question_id: housing_production_trust_fund
+      quote: "Como concejal, Miguel luchará por más recursos para el Fondo Fiduciario para la Producción de Vivienda (HPTF), garantizando mediante una supervisión rigurosa que nuestra inversión se use eficazmente, y se combine con otros recursos, para crear nuevas viviendas asequibles para hogares que ganen hasta el 50% del Ingreso Medio del Área."
+      explanation: "Luchará por más recursos para el HPTF enfocados en hogares que ganen hasta el 50% del AMI, junto con una supervisión rigurosa. También propone un nuevo Fondo de Preservación de Vivienda junto al HPTF para proteger la vivienda asequible existente de su conversión a precio de mercado."
+
+    - question_id: housing_social_model
+      quote: "Asumir un papel más activo en el financiamiento y el desarrollo de diversas formas de vivienda social, que pueden incluir vivienda permanentemente asequible, de ingresos mixtos, de propiedad pública y/o sin fines de lucro."
+      explanation: "Apoyará que DC asuma un papel más activo en el financiamiento y el desarrollo de vivienda social permanentemente asequible, de ingresos mixtos, de propiedad pública y/o sin fines de lucro, con el enfoque del condado de Montgomery como posible modelo. Crearía un fondo para poner a prueba tales inversiones con un plan de crecimiento hacia una oficina dedicada o una agencia independiente."
+
+    - question_id: housing_dopa
+      quote: "Hacer un uso más frecuente de la Ley de Oportunidad de Compra del Distrito (DOPA). Como concejal, Miguel trabajará para crear una herramienta de financiamiento para las adquisiciones de DOPA."
+      explanation: "Hará un uso más frecuente de la DOPA creando una herramienta de financiamiento para las adquisiciones de DOPA, realizando supervisión para asegurar que el DHCD tenga la capacidad de asumir más propiedades, y explorando alianzas con organizaciones de vivienda asequible afines para adquirir y administrar propiedades de DOPA."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Desde su primera campaña a la ANC, Miguel ha abogado por una ciclovía protegida continua en la calle 14, desde Columbia Heights hasta el centro."
+      explanation: "Defenderá carriles de prioridad para autobuses en los corredores de U Street, Florida, Georgia, la calle 14 y el Columbia Heights Crosstown; una ciclovía protegida continua en la calle 14 desde Columbia Heights hasta el centro; 25 estaciones de Capital Bikeshare nuevas o ampliadas; y frecuencias de autobús de 10 minutos o mejores en los principales corredores del Ward 1. Ya consiguió dos ampliaciones de estaciones de bikeshare como presidente de la ANC. En el foro del Bike, Walk & Bus PAC destacó haber logrado una estación de bikeshare ampliada y una estación nueva en Malcolm X Park en un año en que el presupuesto del DOT para nuevas estaciones era de $0, además de su impulso para rediseñar los cruces peatonales de la calle 14 y unir las ciclovías de las calles 11 y 14."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Miguel no apoya la cooperación del MPD con ICE."
+      explanation: "Presentará legislación para enmendar la Ley de Valores Santuario y ampliar las prohibiciones de intercambio de información a las personas detenidas (no solo bajo custodia), añadir requisitos de informes trimestrales del MPD, crear protecciones en lugares sensibles (escuelas, hospitales, clínicas) y prohibir las máscaras a las fuerzas del orden. Lideró a 36 ANC para que aprobaran resoluciones exigiendo que ICE se quite las máscaras y deje de usar uniformes que dicen «POLICE»; organizó actividades semanales de «Conozca sus derechos» con Free DC; y testificó en la audiencia de derechos humanos del Concejo preguntando «¿de qué sirve la Ley de Valores Santuario si no se aplica?»."
+
+    - question_id: education_community_schools
+      quote: "Miguel apoya consolidar y ampliar el Modelo de Escuelas Conectadas (Connected Schools) de las DCPS, que permite a las escuelas participantes funcionar como centros de recursos para los estudiantes y sus familias, ofreciendo acceso a recursos relacionados con el empleo, la vivienda, la asistencia jurídica, la salud y más."
+      explanation: "Apoya «consolidar y ampliar el Modelo de Escuelas Conectadas de las DCPS, que permite a las escuelas participantes funcionar como centros de recursos para los estudiantes y sus familias, ofreciendo acceso a recursos relacionados con el empleo, la vivienda, la asistencia jurídica, la salud y más»."
+
+    - question_id: education_mental_health_schools
+      quote: "Defenderá financiar plenamente y ampliar el programa de Salud Conductual Escolar, que integra a clínicos con licencia de organizaciones comunitarias (CBO) en las escuelas para brindar intervenciones tempranas destinadas a evitar las crisis."
+      explanation: "Defenderá financiar plenamente y ampliar el programa de Salud Conductual Escolar, que integra clínicos con licencia en las escuelas; garantizará que las escuelas cuenten con suficientes enfermeras, consejeros y trabajadores sociales; y asegurará que cualquier transición de las CBO al DBH se planifique meticulosamente para que los servicios no se interrumpan. Señala que los proveedores locales de confianza del Ward 1, como Mary's Center, quedarían descontinuados bajo la propuesta de transición actual."
+
+    - question_id: crime_public_health
+      quote: "Miguel reforzará los programas de interrupción de la violencia, insistiendo en que las inversiones se basen en investigación y análisis de datos rigurosos."
+      explanation: "Patrocinó dos resoluciones de la ANC para mantener o aumentar la inversión de DC en interrupción de la violencia; reforzará los programas de interrupción de la violencia en todos los niveles, incluida la construcción de paz basada en la TCC en las escuelas, vinculando los programas escolares con los del vecindario; y apoya Pathways 2 Peace para los jóvenes con mayor riesgo de violencia con armas. Enfatiza que las inversiones deben basarse en investigación y datos rigurosos."
+
+    - question_id: youth_curfew_support
+      quote: "Fundamentalmente, Miguel no está a favor de los toques de queda juveniles; no apoya un toque de queda permanente ni extenderlo repetidamente como las únicas soluciones."
+      explanation: "Afirma: «Fundamentalmente, Miguel no está a favor de los toques de queda juveniles; no apoya un toque de queda permanente ni extenderlo repetidamente como las únicas soluciones». Quiere evitar interacciones innecesarias entre los jóvenes y la policía o el sistema de justicia penal. Como presidente de la ANC de U Street, prefiere los centros recreativos, los mercados nocturnos y la programación por encima de la aplicación de la ley. En una entrevista con DC Beat calificó el toque de queda de «curita» que no sana la herida subyacente y reprochó al Concejo «patear el problema hacia adelante» en lugar de abordar las causas de fondo."
+
+    - question_id: youth_curfew_programming
+      quote: "Miguel dará forma a la ley y a la supervisión para presionar al alcalde a reactivar el Consejo Asesor Juvenil y a impulsar programación co-liderada por jóvenes, incluso con escuelas, centros recreativos, agencias de DC y negocios de entretenimiento."
+      explanation: "Presionará al alcalde para reactivar el inactivo Consejo Asesor Juvenil; apoyará ampliar la capacidad de cupos del programa Out-of-School Time; defenderá el Programa de Empleo Juvenil de Verano Marion Barry y el Programa de Pasantías de Secundaria; y ampliará las alianzas de la ciudad para crear eventos para todas las edades, espacios seguros en los centros recreativos y programación liderada por jóvenes. Plantea explícitamente la programación como la alternativa a los toques de queda."
+
+    - question_id: parks_rec_funding
+      quote: "Cuenta con Miguel para ser un defensor de los espacios públicos, por pequeños que sean."
+      explanation: "Plantea los centros recreativos como infraestructura esencial de seguridad juvenil (espacios seguros para las reuniones de jóvenes como alternativa a los toques de queda) y apoya ampliar la capacidad de cupos del programa Out-of-School Time. Organizó limpiezas mensuales de Malcolm X Park, llevó Shakespeare in the Park a Malcolm X, y construyó alianzas con Washington Parks & People y el Servicio de Parques Nacionales para atraer recursos al parque."
+
+    - question_id: childcare_universal
+      quote: "Como concejal, Miguel garantizará que nuestro conjunto de programas de primera infancia, incluidos el Pre-K universal, el Programa de Subsidio de Cuidado Infantil y el Fondo de Equidad Salarial, tenga una base financiera sólida para ayudar a las familias a acceder a servicios asequibles de cuidado infantil."
+      explanation: "Cubrirá el déficit de financiamiento de la Ley Birth-to-Three for ALL DC (actualmente gravemente subfinanciada) para que las familias no paguen más del 10% de sus ingresos en cuidado infantil para las edades de 0 a 3 años, lo que beneficiaría a más de 12,000 bebés y niños pequeños. Protegerá el Fondo de Equidad Salarial y el programa de subsidio de cuidado infantil; también le interesan las reformas de zonificación para permitir el cuidado infantil en los pisos superiores de edificios comerciales."
+
+    - question_id: childcare_birth_to_three
+      quote: "Miguel también trabajará para cubrir el déficit brindando apoyo financiero para el cuidado infantil asequible para las edades de 0 a 3 años."
+      explanation: "Trabajará para extender el apoyo de la primera infancia de la ciudad para «cubrir el déficit brindando cuidado infantil para las edades de 0 a 3 años», financiando plenamente la subfinanciada Ley Birth-to-Three for ALL DC para que las familias no paguen más del 10% de sus ingresos, lo que, según él, beneficiaría a más de 12,000 bebés y niños pequeños."
+
+    - question_id: housing_upzoning
+      quote: "También necesitamos hacer cambios al Plan Integral para facilitar una mayor densidad, como la vivienda de «escala intermedia» (missing middle) o de «densidad suave»."
+      explanation: "Defenderá la reforma de zonificación para permitir más vivienda, citando a Minneapolis y Austin: flexibilizar los requisitos de estacionamiento y retiro, elevar los topes de altura restrictivos, construir sobre el comercio de poca altura existente en los corredores comerciales, y enmendar el Plan Integral para facilitar la vivienda de «escala intermedia» / «densidad suave». En una entrevista con DC Beat se llamó «el candidato más pro-vivienda de mi contienda», argumentando que la propia zonificación de DC —y no la Ley federal de Altura— limita el crecimiento y presionando para «abrir las puertas a edificios más altos» en corredores con buen transporte como las calles 14 y U."
+
+    - question_id: transit_fare_free_buses
+      quote: "Nuestra visión de transporte debe ser ambiciosa e incluir esfuerzos para que el servicio de autobús en DC sea gratuito."
+      explanation: "Apoya avanzar hacia autobuses gratuitos en el Distrito, lo que propone financiar mediante un impuesto al valor del suelo, como parte de una plataforma de transporte que también incluye corredores de prioridad para autobuses, una ciclovía protegida continua en la calle 14 y un Capital Bikeshare ampliado. En el foro del Bike, Walk & Bus PAC reafirmó su firme apoyo, pero advirtió que debe hacerse «de la manera correcta» —asegurando primero una fuente de financiamiento dedicada, fiable y plurianual— y sin sacrificar la frecuencia y la fiabilidad que los pasajeros más valoran. Se opuso al anterior intercambio de eliminar el K Street Transitway para pagar los autobuses gratuitos."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Trabajará para alinear los incentivos a fin de preservar y hacer crecer la «escala intermedia», el tipo de negocios que entrelazan los vecindarios: restaurantes de propiedad local, tiendas de barrio y servicios."
+      explanation: "Adopta una visión amplia de la asequibilidad y quiere «alinear los incentivos para preservar y hacer crecer la escala intermedia» —restaurantes de propiedad local, tiendas de barrio y servicios, los más en riesgo de quedar fuera por los precios— y proteger el Crédito Tributario por Ingreso del Trabajo (EITC) y el Crédito Tributario por Hijos de DC. Enfatiza la preservación de los pequeños negocios locales y la reactivación de programas como las streateries más que recortes generalizados de impuestos a los negocios."
+
+    - question_id: sanitation_rats
+      quote: "Los bufés de ratas al aire libre del Distrito, formalmente conocidos como botes de basura —los metálicos negros que se ven en muchas esquinas— deben ser reemplazados por un modelo a prueba de roedores para una gestión eficaz de los residuos."
+      explanation: "Tiene una plataforma de cuatro puntos contra las ratas: (1) reemplazar los botes de basura al aire libre por botes cerrados a prueba de roedores; (2) ampliar el compostaje de un programa piloto a uno permanente, incluyendo los apartamentos; (3) una aplicación más estricta de la ley contra el vertido ilegal de basura en los callejones por parte de restaurantes y propietarios; (4) innovar con ensayos de control de natalidad de roedores. Logró la instalación del primer bote de compostaje del Ward 1 en la calle 14 y U. Apoya la RAT Amendment Act y la RATSS Act. Evita explícitamente los raticidas por el daño a la fauna silvestre."
+
+    - question_id: home_rule_dc_resist
+      quote: "Miguel lideró el llamado a que ICE y otros agentes federales dejen de ocultar su identidad y de usar uniformes engañosos que dicen «POLICE». Los agentes de ICE no son nuestra policía."
+      explanation: "Fundó el Caucus de Autogobierno (Home Rule) de las ANC (más de 75 comisionados), lideró a 36 comisiones para que aprobaran resoluciones concurrentes condenando la toma federal, cabildeó personalmente en el Capitolio con Free DC para restaurar los $1,000 millones recortados del presupuesto de DC, organizó actividades semanales de «Conozca sus derechos» en inglés y español, y movilizó a las ANC para exigir que ICE deje de usar uniformes engañosos que dicen «POLICE»: una trayectoria de resistencia firme y pública a la interferencia federal. En una entrevista con DC Beat instó al alcalde y al Concejo a «inclinarse un poco más» en la defensa de la autonomía de DC y reprochó la respuesta «suave» de la ciudad a la ofensiva federal de inmigración que golpeó más fuerte al Ward 1."
+
+    - question_id: environment_electricity_affordability
+      quote: "Apoyar un proyecto de ley en el Concejo para abolir los cargos basura (junk fees) sobre los servicios públicos en los espacios compartidos de los edificios residenciales, y pedir una investigación de la OAG sobre esta práctica."
+      explanation: "Trindade Deramo respalda legislación para abolir los cargos basura sobre los servicios públicos en los espacios residenciales compartidos y una investigación del Procurador General sobre la práctica: una postura regulatoria y de aplicación sobre la facturación y los costos de los servicios públicos. A favor de reducir los costos de servicios de los residentes, aunque de forma más específica que una campaña amplia contra los aumentos de tarifas de los monopolios."
+
+    - question_id: labor_worker_protections
+      quote: "Garantizar salarios justos y dignos es esencial para apoyar a los trabajadores de DC en medio de una crisis de asequibilidad. Al hacerlo, debemos ser reflexivos sobre aumentar los salarios de una manera que no perturbe involuntariamente nuestra economía local…"
+      explanation: "Trindade Deramo apoya mejores protecciones para los trabajadores y un salario mínimo más alto (y ha usado su rol en la ANC para la supervisión de la seguridad laboral), pero prefiere una implementación gradual, escalonada y de estilo Seattle, negociada con los sindicatos y las empresas para evitar la pérdida de empleos. Apoya protecciones más fuertes con un enfoque cauteloso hacia los mandatos salariales."
+
+    - question_id: homelessness_housing_first
+      quote: "Miguel apoyará un enfoque de «la vivienda primero» (Housing First) más eficaz y basado en datos, sin condiciones previas para acceder a la vivienda."
+      explanation: "Trindade Deramo plantea la falta de vivienda como «un problema de vivienda», respaldando explícitamente un enfoque de Housing First sin condiciones previas, más vivienda de apoyo permanente y un alejamiento de los refugios colectivos, y condenando «el desalojo irreflexivo de campamentos». Apoya firmemente."

@@ -81,6 +81,11 @@ campaign's own pages differ between languages — a date, a dollar figure, a tur
 the other. Candidate names, citation titles, and the sources themselves stay in their
 original language.
 
+Where a campaign has published **no** materials in a given language, we provide our own
+faithful translation of the candidate's English content. In that case a direct quote is
+rendered as an accurate translation of the candidate's words rather than their verbatim
+original.
+
 ## How to push back
 
 These judgments are made by a human-supervised review against the sources cited on each

@@ -9,6 +9,7 @@ from pathlib import Path
 
 import pytest
 import yaml
+from markupsafe import escape
 
 from helpmevote import create_app
 from helpmevote.i18n import SUPPORTED_LANGUAGES
@@ -150,13 +151,25 @@ def test_spanish_candidate_page_is_translated(client):
     assert "Posiciones sobre los temas" in body  # translated section heading
 
 
-def test_spanish_falls_back_to_english_for_untranslated_candidate(client):
-    # Rashida Brown has no Spanish overlay entry → English bio shown, no 500.
-    resp = client.get("/es/candidate/ward1/rashida-brown")
+def test_spanish_falls_back_to_english_for_untranslated_candidate(client, english):
+    # Pick any candidate with no es overlay entry; their English long_bio should
+    # render under /es (per-field fallback) while the chrome stays Spanish.
+    es_ids = set()
+    for path in (_CONTENT_DIR / "es" / "candidates").glob("*.yaml"):
+        for c in _load(path):
+            es_ids.add(c["id"])
+    target = next(
+        (c for c in english.candidates_by_id.values()
+         if c.id not in es_ids and c.long_bio.strip()),
+        None,
+    )
+    if target is None:
+        pytest.skip("all candidates are translated — no fallback case to test")
+    resp = client.get(f"/es/candidate/{target.election_slug}/{target.id}")
     assert resp.status_code == 200
-    # long_bio (rendered on the profile) is English; chrome around it is Spanish.
-    assert b"subway conductor on the A train" in resp.data
-    assert b"Posiciones sobre los temas" in resp.data
+    assert b"Posiciones sobre los temas" in resp.data  # chrome is Spanish
+    snippet = str(escape(target.long_bio.strip().splitlines()[0][:50]))
+    assert snippet.encode() in resp.data  # English bio shown via fallback
 
 
 def test_spanish_about_page_is_translated(client):

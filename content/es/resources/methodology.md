@@ -83,6 +83,11 @@ frase—, nuestras páginas reflejan esa diferencia en lugar de "corregir" en si
 con la otra. Los nombres de los candidatos, los títulos de las citas y las fuentes mismas se
 mantienen en su idioma original.
 
+Cuando una campaña **no** ha publicado materiales en un idioma determinado, ofrecemos
+nuestra propia traducción fiel del contenido en inglés del candidato. En ese caso, una
+cita directa se presenta como una traducción exacta de las palabras del candidato y no
+como su original textual.
+
 ## Cómo objetar
 
 Estos juicios los realiza una revisión supervisada por personas contra las fuentes citadas en la
