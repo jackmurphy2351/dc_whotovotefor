@@ -251,3 +251,492 @@
 
     - question_id: education_impact_osse
       explanation: "McDuffie defiende el marco de apoyo y rendición de cuentas docente del Distrito y se ha opuesto a esfuerzos anteriores para hacer a OSSE independiente del alcalde, prefiriendo mantener la rendición de cuentas educativa con el ejecutivo. Se opone a reformar a fondo IMPACT y a la independencia de OSSE."
+
+# Los siguientes candidatos a la alcaldía no publicaron un sitio en español; toda la biografía,
+# las explicaciones y las citas son traducción nuestra del contenido editorial en inglés.
+# Véase /resources/methodology.
+- id: gary-goodweather
+  short_bio: >
+    Veterano del Ejército de los EE. UU. (capitán); más de 30 años en liderazgo empresarial y
+    organizacional; licenciatura en Ciencias Políticas de Bucknell y MBA en Finanzas de Johns
+    Hopkins. Residente del área de DC desde hace más de 20 años.
+  long_bio: |
+    Gary Goodweather (51 años) es un veterano del Ejército de los EE. UU. que alcanzó el rango de
+    capitán antes de recibir una baja honorable en 2004. Tiene una licenciatura en Ciencias
+    Políticas de la Universidad Bucknell y un MBA en Finanzas de la Universidad Johns Hopkins. Con
+    más de 30 años de experiencia en gestión empresarial y organizacional, ha trabajado con agencias
+    del gobierno de DC y con el poder legislativo. Su plataforma se organiza en torno a cuatro
+    iniciativas insignia: - Fare-Free DC: eliminar las tarifas de Metrobus y Metrorail para los
+    residentes de DC, ahorrando a los usuarios habituales unos $1,000 al año - Power DC: energía
+    solar en edificios públicos, créditos en la factura por energía solar comunitaria, energía
+    geotérmica y recuperación de calor de las alcantarillas para reducir las facturas de servicios
+    públicos - Rat Free DC: contenedores de basura a prueba de roedores, tratamiento de madrigueras
+    con hielo seco, mayor recolección de basura y un programa comunitario de Capitanes de Cuadra
+    contra las Ratas (Rat Block Captain) - Capital Corps: un programa estructurado de servicio cívico
+    que conecta a los residentes con capacitación, mentoría y carreras en salud, educación,
+    tecnología y seguridad pública; incluye una Vía Juvenil (Youth Track) con programas extraescolares
+    y un clínico de salud mental y una enfermera dedicados en cada escuela. Apoya la vivienda social y
+    los fideicomisos de tierras comunitarias (community land trusts) para una asequibilidad
+    permanente, y una postura firme de autogobierno / santuario: se prohibiría a las agencias de DC
+    cooperar con el control migratorio sin una orden judicial, y las escuelas, hospitales y casas de
+    culto serían designadas como espacios protegidos.
+  positions:
+    - question_id: transit_bike_bus_lanes
+      quote: "Mi administración ampliará el acceso a un transporte público confiable, fortalecerá la infraestructura para andar en bicicleta y caminar, y acelerará la transición a los vehículos eléctricos y a sistemas de transporte más limpios."
+      explanation: "Propone Fare-Free DC (eliminar las tarifas de Metrobus y Metrorail para los residentes de DC) y pide ampliar el acceso al transporte, la infraestructura para bicicletas y peatones, y la transición a los vehículos eléctricos como parte de su plataforma de Sostenibilidad."
+
+    - question_id: crime_public_health
+      quote: "Mi administración ampliará los servicios de atención médica y de salud mental con base comunitaria para abordar las causas de fondo del trauma y la violencia."
+      explanation: "Apoya «programas comunitarios de prevención e intervención de la violencia que detengan el crimen antes de que comience» y ampliar los servicios de salud mental para abordar las causas de fondo del trauma y la violencia, junto con la inversión en la aplicación de la ley. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 vinculó el crimen con la pobreza y propuso un cuerpo cívico en toda la ciudad, desarrollo de la fuerza laboral y apoyo de salud mental, pero añadió una advertencia de rendición de cuentas, diciendo que «si la métrica es puramente la interrupción de la violencia… no está funcionando muy bien» y que como alcalde recortaría los programas ineficaces y ampliaría los efectivos."
+
+    - question_id: crime_more_police
+      quote: "A través de mi administración, reconstruiremos el Departamento de Policía Metropolitana (MPD) ofreciendo una compensación competitiva y una capacitación integral, incluyendo intervención especializada en crisis de salud mental."
+      explanation: "Pide reconstruir el MPD ofreciendo una compensación competitiva, capacitación integral que incluya intervención en crisis de salud mental, incentivos de vivienda y exenciones del impuesto a la propiedad para ayudar a los oficiales a vivir en las comunidades a las que sirven. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 hizo de un MPD con dotación completa su primer paso de seguridad pública, contrastando los aproximadamente «3,100 oficiales de hoy» con un nivel de dotación completa de «unos 5,000» y argumentando que un departamento con poco personal en realidad le cuesta más a la ciudad."
+
+    - question_id: youth_curfew_support
+      quote: "Cuando se tiene un toque de queda, en mi opinión necesita tener tres componentes. El número uno es que debe tener un alcance de tiempo limitado. El número dos es un plan muy claro de cómo se mantiene seguros a los jóvenes y a la población en general. Y el tercero, y el más importante, es un plan de salida."
+      explanation: "No se opone a los toques de queda juveniles en sí, pero es claro en que deben ser limitados."
+
+    - question_id: youth_curfew_programming
+      quote: "[Los jóvenes de DC] quieren un lugar de propósito y pertenencia. Eso es lo que ofrecerá la vía juvenil del Capital Corps —mi programa de desarrollo de la fuerza laboral—, incluida la mentoría."
+      explanation: "Subraya la necesidad de programación juvenil y de abordar las causas subyacentes, incluidas la pobreza y la falta de servicios de salud mental."
+
+    - question_id: housing_social_model
+      quote: "apoyar la vivienda permanentemente asequible mediante herramientas como los fideicomisos de tierras comunitarias y la vivienda social."
+      explanation: "Se compromete explícitamente a «apoyar la vivienda permanentemente asequible mediante herramientas como los fideicomisos de tierras comunitarias (community land trusts) y la vivienda social» como parte de su plataforma de vivienda."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Garantizar que ningún residente tenga miedo de llamar a la policía, enviar a su hijo a la escuela, visitar un hospital o acceder a los servicios de la ciudad por su estatus migratorio."
+      explanation: "Su plataforma de Democracia se compromete explícitamente a «fortalecer las protecciones de santuario prohibiendo que las agencias de DC cooperen con el control migratorio sin una orden judicial y evitando el uso de recursos locales para actividades migratorias federales». Las escuelas, hospitales y casas de culto se designan como espacios protegidos."
+
+    - question_id: education_community_schools
+      quote: "Una administración de Goodweather ampliará los programas extraescolares y de verano con tutoría, enriquecimiento y espacios seguros para los jóvenes."
+      explanation: "Apoya que las escuelas funcionen como centros comunitarios: programas extraescolares y de verano, centros recreativos nocturnos con personal de mentores, una enfermera y un clínico de salud mental de tiempo completo en cada escuela, y una Vía Juvenil del Capital Corps que conecte la educación con las vías hacia la fuerza laboral."
+
+    - question_id: education_mental_health_schools
+      quote: "Cada escuela tendrá una enfermera de tiempo completo y un clínico de salud mental para que los estudiantes reciban la atención que necesitan para tener éxito."
+      explanation: "Afirma explícitamente: «Cada escuela tendrá una enfermera de tiempo completo y un clínico de salud mental para que los estudiantes reciban la atención que necesitan para tener éxito»."
+
+    - question_id: environment_renewable_energy
+      quote: "Esto incluye ampliar las instalaciones solares en los edificios públicos, asociarse con agencias federales para crear programas de energía solar comunitaria que brinden créditos en la factura a los residentes, y escalar sistemas innovadores como la energía geotérmica y la recuperación de calor de las alcantarillas que reducen drásticamente los costos de calefacción y refrigeración."
+      explanation: "Power DC es una iniciativa insignia de su plataforma: ampliar la energía solar en los edificios públicos, programas de energía solar comunitaria con créditos en la factura, energía geotérmica y recuperación de calor de las alcantarillas para reducir las facturas de servicios públicos y la dependencia de los mercados energéticos regionales."
+
+    - question_id: parks_rec_funding
+      quote: "Los centros recreativos nocturnos ofrecerán espacios supervisados con personal de mentores."
+      explanation: "Pide «centros recreativos nocturnos con personal de mentores» y programas extraescolares y de verano ampliados con tutoría y enriquecimiento. La inversión en el DPR se plantea como una iniciativa de seguridad y oportunidad más que como una plataforma de parques independiente."
+
+    - question_id: sanitation_rats
+      quote: "Exigiremos contenedores de basura a prueba de ratas, aumentaremos la frecuencia de recolección de basura, ampliaremos métodos de mitigación comprobados como el tratamiento de madrigueras con hielo seco, y mejoraremos el seguimiento de datos para focalizar las zonas problemáticas."
+      explanation: "Rat Free DC es una iniciativa insignia de su plataforma: trasladar el control de roedores al DPW, exigir contenedores de basura a prueba de roedores en toda la ciudad, aumentar la frecuencia de recolección de basura, escalar el tratamiento de madrigueras con hielo seco, mejorar el seguimiento de datos y lanzar un programa comunitario de Capitanes de Cuadra contra las Ratas."
+
+    - question_id: home_rule_dc_resist
+      quote: "Litigaremos cuando sea necesario, construiremos coaliciones para elevar el costo político de la interferencia, y prepararemos estrategias legales y mediáticas antes de que las amenazas se materialicen."
+      explanation: "Defend DC es una iniciativa insignia: se compromete a prohibir que las agencias de DC cooperen con el control migratorio sin una orden judicial y a designar las escuelas, hospitales y casas de culto como espacios protegidos. Su plataforma es firme en proteger a los residentes de DC del exceso federal, pero la plantea como medidas defensivas y defensa enérgica más que como una resistencia política explícitamente confrontativa. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, su respuesta sobre el Congreso se inclinó hacia lo pragmático, llamando al gobierno federal «nuestro socio», advirtiendo que violar los «siete pecados capitales» fiscales de DC invita a una junta de control, y argumentando que DC debe construir un «gobierno local seguro de sí mismo» que sea fácil para hacer negocios a fin de atraer los dólares federales que merece."
+
+    - question_id: housing_topa_restore
+      quote: "La TOPA también recae de manera desproporcionada sobre los pequeños propietarios con retrasos de hasta 420 días en las ventas de edificios."
+      explanation: "El plan Affordable DC de Goodweather critica explícitamente la TOPA, citando un estudio del DC Policy Center que muestra que el 95% de las transacciones de TOPA terminan con el edificio siguiendo como alquiler en lugar de producir propiedad para los inquilinos. También señala que la TOPA carga a los pequeños propietarios con retrasos de hasta 420 días. Propone reemplazar la TOPA con programas de conversión a cooperativas, una Ley de Construcción de Vivienda de DC (DC Homebuilding Act) y alianzas de colaboración entre inquilinos y propietarios."
+
+    - question_id: housing_production_trust_fund
+      quote: "Auditoría de la Agencia de Vivienda de DC en los primeros 100 días, examinando cómo se han asignado los dólares del Fondo Fiduciario para la Producción de Vivienda, qué proyectos se entregaron y cuáles no."
+      explanation: "Goodweather apoya mantener y desplegar adecuadamente el Fondo Fiduciario para la Producción de Vivienda, pero pide una auditoría forense en los primeros 100 días para examinar cómo se han asignado los dólares y qué proyectos se entregaron. Su meta de 50,000 viviendas / 36,000 unidades asequibles requiere una inversión continua sustancial del HPTF, pero enfatiza la rendición de cuentas por encima de simplemente aumentar el fondo."
+
+    - question_id: childcare_universal
+      quote: "Cuerpo de Desarrollo de la Primera Infancia (Early Childhood Development Corps): apoya guarderías, aulas de pre-K y centros de aprendizaje temprano en toda la ciudad."
+      explanation: "Goodweather se compromete a defender el Fondo de Equidad Salarial para los trabajadores del cuidado infantil y a ampliar los cupos de Pre-K 3 y Pre-K 4. Su Capital Corps incluye una rama de Cuerpo de Desarrollo de la Primera Infancia que apoya guarderías y centros de aprendizaje temprano. Su enfoque amplía el acceso y la capacidad de la fuerza laboral en lugar de plantear el cuidado infantil como un programa de derecho universal."
+
+    - question_id: federal_workers_advocate
+      quote: "Apoyo económico de respuesta rápida cuando las interrupciones de la fuerza laboral federal afecten a D.C."
+      explanation: "El plan Defend DC de Goodweather enumera explícitamente «apoyo económico de respuesta rápida cuando las interrupciones de la fuerza laboral federal afecten a D.C.». Su Ley RISE incluye una vía de transición de la fuerza laboral federal hacia carreras en tecnología y adyacentes a la IA, y recapacitación gratuita en IA en las bibliotecas para los trabajadores federales desplazados. Se compromete a «abogar con firmeza por políticas federales que reflejen las protecciones de la Ley RISE»."
+
+    - question_id: transit_fare_free_buses
+      quote: "Fare-Free DC elimina las tarifas de todo el servicio de Metrobus y Metrorail para los residentes de DC."
+      explanation: "«Fare-Free DC» es una de sus cuatro iniciativas insignia: eliminar las tarifas de Metrobus y Metrorail para los residentes de DC, lo que, según dice, ahorraría a los usuarios habituales aproximadamente $1,000 al año."
+
+    - question_id: housing_rent_stabilization
+      quote: "Si la estabilización de rentas está en vigor, debería aplicarse a todos."
+      explanation: "En un cuestionario de líderes de inquilinos del Ward 3, Goodweather dijo NO a restringir la estabilización de rentas solo a los inquilinos de bajos ingresos («Si la estabilización de rentas está en vigor, debería aplicarse a todos») y SÍ a limitar las rentas con vales al máximo estabilizado («Los propietarios solo deberían poder recibir el monto de renta estabilizado»). Sus respuestas afirman un amplio apoyo al sistema de estabilización de rentas existente; no aborda directamente ampliarlo a los edificios construidos después de 1975."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "DC trata a sus dueños de negocios… como villanos… más con sanciones que promoviéndonos. Y… una de las cosas más importantes que vamos a cambiar es que vamos a facilitar el hacer negocios en Washington DC."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Goodweather —un dueño de pequeño negocio— respondió «sí» a brindar más apoyo financiero directo a los pequeños negocios, prometiendo un fondo de capital de riesgo que combine capital inicial con mentoría, y pidió renovar por completo el proceso de permisos y licencias de DC, diciendo que la ciudad trata a los dueños de negocios «como villanos» con sanciones en lugar de apoyo. A favor de aliviar las cargas sobre los pequeños negocios, mediante inversión directa y reducción de la burocracia más que recortes de impuestos específicamente."
+
+    - question_id: environment_electricity_affordability
+      quote: "Power DC ataca ambos problemas: generamos más energía localmente para que DC compre menos en el volátil mercado mayorista de PJM, y responsabilizamos a Pepco por cada dólar que cobra."
+      explanation: "El plan «Power DC» de Goodweather comienza señalando que la factura promedio de Pepco de un hogar de DC subió $31 al mes desde 2023 y que la Comisión de Servicios Públicos aprobó $123 millones en aumentos de tarifas para 2025-2026. Responsabilizaría a Pepco por los cargos de distribución y generaría más energía local para reducir las facturas. Apoya firmemente una acción agresiva para reducir los costos de electricidad."
+
+    - question_id: food_access_public_grocery
+      quote: "Al combinar la innovación con la participación comunitaria, podemos fortalecer los sistemas alimentarios locales, reducir los desiertos alimentarios y ofrecer opciones más saludables para las familias de toda la ciudad."
+      explanation: "La plataforma de Goodweather hace de la reducción de los desiertos alimentarios un objetivo explícito, enfatizando los sistemas alimentarios locales, comestibles frescos y asequibles, y productos cultivados localmente en cada vecindario. Apoya la intervención de la ciudad en el acceso a los alimentos, aunque planteada en torno a los sistemas alimentarios locales más que a una tienda de comestibles de propiedad pública específicamente."
+
+    - question_id: education_impact_osse
+      quote: "Reformar el sistema de evaluación docente de DC con verdadera participación de los maestros, y restaurar el derecho a negociar cómo se evalúa a los maestros. IMPACT se diseñó sin una participación significativa de los maestros."
+      explanation: "Goodweather reformaría a fondo el sistema de evaluación docente IMPACT con verdadera participación de los maestros y restauraría la negociación colectiva sobre los criterios de evaluación. Respalda firmemente la mitad de esta pregunta sobre la reforma de IMPACT; no aborda específicamente hacer a OSSE independiente del alcalde."
+
+- id: ernest-johnson
+  short_bio: >
+    Residente de Columbia Heights; corredor de bienes raíces, notario público y graduado de una
+    maestría en Análisis de Gobierno de Harvard. Fundador de Friends of the Frank Reeves Center;
+    organizador durante ocho años de la Back-2-School Block Party. Miembro del Consejo de Aprendizaje
+    (Apprenticeship Council) de DC. Tiene una condena previa.
+  long_bio: |
+    Ernest E. Johnson (78 años) es un washingtoniano de toda la vida y residente de Columbia Heights
+    que asistió a Banneker Junior High (escuela pública de DC), obtuvo una licenciatura en ciencias
+    de la Universidad de Maryland y completó una maestría en Análisis de Gobierno en la Universidad
+    de Harvard. Es corredor de bienes raíces y notario público con licencia, y sirve en el Consejo de
+    Aprendizaje de DC y en el Consejo Asesor del 3.er Distrito. Como fundador de la organización sin
+    fines de lucro Friends of the Frank Reeves Center (501c4), Johnson ha organizado la
+    Back-2-School Block Party durante ocho años, proporcionando mochilas, útiles escolares y cortes de
+    cabello gratuitos a los estudiantes de las escuelas primarias Raymond y Tubman, que su
+    organización adoptó en 2013. Ha defendido el uso de terrenos públicos para el beneficio
+    comunitario —incluyendo vivienda asequible y un museo del Black Broadway— en lugar del desarrollo
+    de lujo, y se opone a los regalos de activos públicos como el acuerdo del estadio RFK. Ha pedido
+    una «participación comunitaria» del 26% en los Washington Commanders. Ha sido abierto sobre tener
+    una condena previa en su juventud, planteando su candidatura como prueba de que «la redención es
+    real». Su plataforma se centra en tres pilares. En educación: un currículo de fundamentos primero
+    (lectura basada en fonética para el 3.er grado, dominio de la aritmética, escritura cursiva) en
+    los primeros grados, pasando luego a STEM obligatorio, vías de formación vocacional con
+    certificaciones de la industria y alianzas con empleadores, y programas de preparación
+    universitaria, con una meta del 95% de competencia lectora en 3.er grado y 95% de tasa de
+    graduación para 2029. En seguridad pública: policía de proximidad en cada ward, cámaras
+    corporales, capacitación en desescalada, programas de interrupción de la violencia, ampliación de
+    los tribunales de drogas, tratamiento de salud mental y de adicciones en el sistema
+    penitenciario, e intervención juvenil mediante programas extraescolares, deportes y mentoría. En
+    ingresos: una iniciativa de empleo «Beautify DC» que emplee a personas mayores y jóvenes, gravar
+    las propiedades de alto valor actualmente exentas, y peajes para quienes vienen de los suburbios
+    en las principales arterias hacia el Distrito.
+  positions:
+    - question_id: housing_topa_restore
+      explanation: "Apoya las protecciones a los inquilinos y ha luchado por la vivienda asequible a través de su trabajo en su organización sin fines de lucro. Su plataforma de campaña prioriza el beneficio comunitario por encima de las ganancias de los desarrolladores en los terrenos públicos."
+
+    - question_id: crime_public_health
+      quote: "Ampliación de los tribunales de drogas para los infractores no violentos."
+      explanation: "La plataforma incluye programas de interrupción de la violencia en zonas de alto riesgo, ampliación de los tribunales de drogas para infractores no violentos, servicios de tratamiento de salud mental y de adicciones en el sistema penitenciario, e intervención juvenil mediante mentoría y formación laboral, junto con reformas de la policía de proximidad y una mayor persecución de los infractores reincidentes. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 dijo que quiere que los interruptores de violencia «se gradúen del programa», advirtió que depender de los ciudadanos que regresan del encarcelamiento no es una carrera a largo plazo dado su trauma, y pidió una mejor gestión de la violencia en la cárcel de DC y en las instalaciones para jóvenes."
+
+    - question_id: parks_rec_funding
+      quote: "Programas extraescolares en zonas de alta criminalidad."
+      explanation: "Su plataforma de intervención juvenil pide «programas extraescolares en zonas de alta criminalidad, oportunidades deportivas y recreativas, y formación en resolución de conflictos y liderazgo», lo que implica apoyo a una programación de tipo parques y recreación, aunque no se nombra explícitamente al DPR."
+
+    - question_id: transit_congestion_pricing
+      quote: "Instalar peajes en las principales arterias de quienes vienen de los suburbios hacia el Distrito."
+      explanation: "Su plan «Aumentar los Ingresos Sin Subir los Impuestos» propone «instalar peajes en las principales arterias de quienes vienen de los suburbios hacia el Distrito», un enfoque de tarificación vial dirigido a quienes vienen de fuera del Distrito, de la misma familia que la tarificación por congestión."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "Gravar las propiedades de alto valor que actualmente están exentas."
+      explanation: "Su plan de ingresos propone «gravar las propiedades de alto valor actualmente exentas» para financiar los servicios de la ciudad y su iniciativa de empleo Beautify DC, una ampliación focalizada de la base tributaria sobre la propiedad de alto valor. Lo combina con una fuerte oposición a los aumentos generalizados de impuestos: en el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 insistió repetidamente en que «no necesitamos subir los impuestos», argumentando que la brecha presupuestaria debería cerrarse auditando a los desarrolladores y poniendo fin al «desperdicio, fraude y abuso» en lugar de con nuevos gravámenes. Registrado como un +1 matizado sobre gravar la propiedad de alto valor; nótese el énfasis del debate contra los aumentos generales de impuestos."
+
+    - question_id: crime_more_police
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Johnson nombró «abordar la escasez del MPD» como uno de los problemas serios de seguridad pública que abordaría como alcalde, lo que indica apoyo a restaurar la dotación policial. Una mención breve más que un compromiso detallado de contratación, equilibrada por su énfasis en la interrupción de la violencia, la intervención juvenil y la rendición de cuentas de los desarrolladores."
+
+    - question_id: mpd_ice_cooperation
+      quote: "No voy a financiar la ciudad santuario. No puedo en buena conciencia seguir financiando la ciudad santuario."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Johnson dijo que no «financiaría la ciudad santuario», planteándolo como un mal uso del dinero (alojamiento en hoteles para inmigrantes a $250 la noche mientras, según él, residentes negros mueren en la lista de espera de vivienda asequible). Esa oposición a la política de santuario lo coloca en contra de la postura de no cooperación de la pregunta, aunque la planteó en términos fiscales/de prioridades y no abordó directamente la cooperación operativa del MPD con ICE; registrado como una oposición moderada, no fuerte."
+
+    - question_id: transit_bike_bus_lanes
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Johnson respondió un rotundo «no, no y no» a más carriles de autobús, más cámaras de control de tráfico y reducir el estacionamiento para dar paso a las ciclovías, una oposición firme y generalizada."
+
+    - question_id: transit_traffic_cameras
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Johnson respondió «no» a ampliar las cámaras de control de tráfico."
+
+    - question_id: econ_rfk_stadium
+      quote: "Voy a revocar ese acuerdo, a renegociarlo. Los contribuyentes de EE. UU. van a ser dueños del 26% del equipo."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Johnson calificó el acuerdo de $1,300 millones de RFK/Commanders como un mal acuerdo que «revocaría» y renegociaría para que el público obtenga una participación de propiedad del 26% y un acuerdo de venta conjunta (tag-along). Se opone firmemente al acuerdo tal como está estructurado."
+
+- id: vincent-orange
+  short_bio: >
+    Abogado, contador público (CPA) y político de DC con larga trayectoria. Licenciatura en
+    Administración de Empresas / Comunicaciones (Universidad del Pacífico), Doctorado en Derecho de
+    Howard, LLM en Tributación de Georgetown; certificados ejecutivos de la Harvard Kennedy School.
+    Exdirector ejecutivo (CEO) de la Cámara de Comercio de DC; vicepresidente regional en PEPCO.
+    Autor de más de 30 leyes promulgadas en DC, incluido el salario mínimo de $15.
+  long_bio: |
+    Vincent Orange (69 años) es abogado y contador público certificado cuyas credenciales académicas
+    incluyen una licenciatura en Administración de Empresas y una licenciatura en Comunicaciones de la
+    Universidad del Pacífico, un Doctorado en Derecho de la Facultad de Derecho de la Universidad
+    Howard, un LLM en Tributación del Georgetown University Law Center y certificados ejecutivos de la
+    Harvard Kennedy School en liderazgo gubernamental superior y gestión de crisis. A los 14 años fue
+    seleccionado como becario de A Better Chance para asistir a la Fountain Valley College
+    Preparatory en Colorado, graduándose en el 5.º lugar de la Promoción de 1975. En el sector
+    privado se desempeñó como presidente y CEO de la Cámara de Comercio de DC (2016–2020, elevando la
+    Cámara del puesto n.º 5 al n.º 1 a nivel nacional), vicepresidente regional de Asuntos
+    Gubernamentales y Política Pública en PEPCO, Tax Senior en Arthur Andersen y director financiero
+    del National Children's Center. En el cargo electo se desempeñó como concejal del Ward 5 (8 años)
+    y concejal At-Large (2 mandatos), presidiendo el Comité de Operaciones Gubernamentales (23
+    agencias) y el Comité de Asuntos de Negocios, del Consumidor y Regulatorios (34 agencias). Fue el
+    comitéman nacional demócrata de DC durante la administración Obama (2006–2014). Ha sido autor o ha
+    promulgado más de 30 leyes de DC, incluido el salario mínimo de $15 con indexación al IPC, la
+    expansión del empleo juvenil MBSYEP, las mejoras estatutarias a las CBE, la Ley de Libros de
+    Texto a Tiempo (Textbooks-on-Time Act) y la Ley Ómnibus del Ballpark. Recibió el Día de Vincent
+    Orange (13 de abril de 2025), un Premio Biden a la Trayectoria de Vida (2023), y fue incluido en
+    la Washington DC Hall of Fame Society (2018). Su «Plan Orange» es un plan de gobierno de 10 puntos
+    centrado en la ejecución por encima de la ideología: educación desde el pre-K hasta vías
+    postsecundarias garantizadas; un toque de queda juvenil combinado con mandatos de aprendizaje;
+    restaurar el MPD a ~4,100 oficiales; disciplina fiscal y restauración del crédito AAA; ampliación
+    de la propiedad de vivienda con vivienda para la fuerza laboral y casas pequeñas (tiny homes)
+    para residentes que ganan $50,000 o menos; crecimiento económico sin aumentos de impuestos;
+    trabajar de manera pragmática con el Congreso y la Casa Blanca; y el voto por orden de
+    preferencia como herramienta para un liderazgo de consenso. Apoya la estadidad de DC y la
+    preservación del autogobierno.
+  positions:
+    - question_id: youth_curfew_support
+      quote: "Toque de queda: las personas menores de 18 años deben estar fuera de las calles de DC de domingo a jueves, de 11:00 p. m. a 6:00 a. m., con excepciones definidas."
+      explanation: "El Plan Orange establece explícitamente: «Toque de queda: las personas menores de 18 años deben estar fuera de las calles de DC de domingo a jueves, de 11:00 p. m. a 6:00 a. m., con excepciones definidas». Este es uno de los diez pilares nombrados en su plan de gobierno."
+
+    - question_id: youth_curfew_programming
+      quote: "Exigir programas de aprendizaje juvenil en todas las agencias de DC y las agencias intergubernamentales."
+      explanation: "Orange combina su toque de queda con medidas de oportunidad juvenil: «Exigir programas de aprendizaje juvenil en todas las agencias de DC y las agencias intergubernamentales» y escalar los aprendizajes para igualar al MBSYEP. El planteamiento es rendición de cuentas más oportunidad laboral, más que la inversión más amplia en recreación/salud mental que describe la pregunta."
+
+    - question_id: crime_more_police
+      quote: "Restaurar y mantener una fuerza policial jurada de aproximadamente 4,100 oficiales."
+      explanation: "El Plan Orange pide explícitamente «restaurar y mantener una fuerza policial jurada de aproximadamente 4,100 oficiales», planteándolo como fundamental para la calidad de vida de los residentes y para la economía de visitantes de DC. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 lo precisó, prometiendo recuperar «1,400» puestos de oficiales presupuestados pero sin cubrir y asignarlos a la policía «de patrulla a pie, en bicicleta y comunitaria», a la vez que prometía estándares de rendición de cuentas para los oficiales y un nuevo jefe."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "Estimular la actividad económica para hacer crecer los ingresos en lugar de subir los impuestos."
+      explanation: "«Crecimiento Económico Sin Subir los Impuestos» es un pilar explícito de la plataforma: se compromete a estimular la actividad económica para hacer crecer los ingresos en lugar de subir los impuestos, hacer circular los dólares de DC localmente a través de las Empresas Certificadas (CBE) y lograr disciplina fiscal y la restauración del crédito AAA. Rechaza explícitamente la premisa de que DC deba subir los impuestos para financiar servicios. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 reiteró que «no tenemos un problema de dinero, tenemos un problema de gestión», proponiendo una «comisión de alineación de ingresos» para rastrear los superávits (por ejemplo, los ingresos de las cámaras de tráfico y de la licencia familiar remunerada) y redirigirlos en lugar de subir los impuestos."
+
+    - question_id: home_rule_dc_resist
+      quote: "Trabajar de manera pragmática con los socios federales para avanzar en metas compartidas."
+      explanation: "«Trabajar de manera pragmática con el Congreso y la Casa Blanca» es uno de sus diez pilares de plataforma. Plantea el compromiso pragmático como el camino realista para promover los intereses de DC dada la autoridad constitucional federal sobre el Distrito, priorizando la negociación de acuerdos por encima de la confrontación, aun cuando apoya la estadidad de DC y la preservación del autogobierno. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 resumió la postura citando a John F. Kennedy —«No negociaré con miedo, pero no temeré negociar»—, a la vez que calificó el autogobierno, la autonomía de DC y la estadidad como «no negociables»."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Hacer circular los dólares de DC dentro del Distrito fortaleciendo las Empresas Certificadas (CBE) y los negocios locales."
+      explanation: "Su pilar del Plan Orange «Crecimiento Económico Sin Subir los Impuestos» se compromete a «estimular la actividad económica para hacer crecer los ingresos en lugar de subir los impuestos», hacer circular los dólares de DC localmente fortaleciendo las Empresas Certificadas y los negocios locales, y apoyar la inversión en pequeños negocios: una postura pro-pequeños negocios y sin aumento de impuestos. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 se llamó «el campeón de los pequeños negocios», citando el crecimiento del gasto en CBE de $0 a $481 millones como presidente del Comité de Operaciones Gubernamentales y prometiendo alcanzar «$2,000 millones» en gasto en CBE en el año fiscal 2027 como alcalde."
+
+    - question_id: housing_topa_restore
+      explanation: "Votó «sí» a la Ley de Aclaración de la Oferta de Venta de Buena Fe de la TOPA de 2015 (B 21-0147) en primera y última lectura durante su mandato como concejal At-Large, y fue autor de la Ley de Enmienda del Programa de Asistencia para Solicitudes de TOPA de 2016 (B 21-0739) para ayudar a los inquilinos a ejercer sus derechos de compra, apoyando el marco de derechos de compra de los inquilinos de DC."
+
+    - question_id: housing_production_trust_fund
+      quote: "Voy a tomar esos $100 millones y voy a construir 1,000 unidades de inmediato, y voy a hacer que las construyan… empresas certificadas para que esos $100 millones circulen aquí en la ciudad."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Orange destacó haber destinado $100 millones al año al Fondo Fiduciario para la Producción de Vivienda durante su gestión en el Concejo y se comprometió a desplegar esos $100 millones para construir 1,000 unidades (para socorristas, personas mayores, trabajadores de salario mínimo y graduados) a través de Empresas Certificadas. A favor de financiar y usar el HPTF, aunque lo planteó en torno a desplegar los ~$100 millones existentes más que a aumentarlo significativamente."
+
+    - question_id: crime_public_health
+      quote: "La violencia no es una epidemia. Una epidemia es la COVID… No tenemos una epidemia de violencia en el Distrito de Columbia. Tenemos actividad delictiva que debemos abordar."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Orange rechazó explícitamente el enfoque de salud pública sobre la violencia, diciendo que «no es una epidemia» sino «actividad delictiva». Su enfoque combina la aplicación de la ley (restaurar ~1,400 oficiales) con programas de oportunidad —UDC sin matrícula, aprendizajes juveniles en las agencias y un programa de «incarceration to incorporation» para los ciudadanos que regresan del encarcelamiento— en lugar del modelo de interrupción de la violencia / salud pública que describe la pregunta. Se opone al enfoque a la vez que respalda la prevención mediante oportunidades."
+
+    - question_id: transit_bike_bus_lanes
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Orange respondió un rotundo «no, no y no» a más carriles de autobús, más cámaras de control de tráfico y reducir el estacionamiento para dar paso a las ciclovías, una oposición firme y generalizada."
+
+    - question_id: transit_traffic_cameras
+      quote: "No. No, y no."
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Orange respondió «no» en todos los casos a los carriles de autobús, las cámaras de control de tráfico y la reducción del estacionamiento para ciclovías, oponiéndose a la ampliación de las cámaras automatizadas de tráfico."
+
+    - question_id: environment_electricity_affordability
+      explanation: "Exejecutivo de asuntos gubernamentales de PEPCO, Orange ha dicho que DC debería aprovechar las solicitudes de tarifas pendientes de la empresa ante los reguladores para reducir las tarifas de los residentes, abordando el proceso de tarifas del monopolio regulado en lugar de tratar las facturas como fijas. A favor de actuar para reducir los costos de electricidad."
+
+    - question_id: econ_business_activity_tax
+      quote: "Estimular la actividad económica para hacer crecer los ingresos en lugar de subir los impuestos."
+      explanation: "Un pilar central del Plan Orange es «Crecimiento Económico Sin Subir los Impuestos»: hacer crecer los ingresos estimulando la actividad económica en lugar de imponer nuevos impuestos. Un nuevo impuesto a la actividad comercial sobre las firmas de servicios profesionales contradice directamente ese enfoque. Se opone firmemente."
+
+- id: rini-sampath
+  short_bio: >
+    Directora de una empresa de ciberseguridad, 31 años; residente de U Street. Expresidenta del
+    cuerpo estudiantil de la USC (la primera plancha íntegramente de mujeres). Construyó tres
+    herramientas cívicas de tecnología: la aplicación 311 «DC Fix It», un tablero de transparencia
+    presupuestaria y un conserje de permisos para pequeños negocios. Plataforma de «arreglar lo
+    básico» y de ejecución primero. No calificó para las Elecciones Justas de DC.
+  long_bio: |
+    Rini Sampath (31 años) es directora de una empresa de ciberseguridad que nació en Theni, India,
+    emigró a los Estados Unidos a los siete años y ha vivido en el vecindario de U Street durante más
+    de una década. En la Universidad del Sur de California (USC) fue elegida presidenta del cuerpo
+    estudiantil como parte de la primera plancha íntegramente de mujeres. Desde entonces ha trabajado
+    como contratista federal mejorando los programas gubernamentales y los servicios a los
+    ciudadanos, como organizadora de campo, y gestionando programas de organizaciones sin fines de
+    lucro de educación superior. Su campaña se lanzó tras la tormenta de nieve de febrero de 2026,
+    que expuso lo que ella calificó como un fracaso de los servicios básicos de la ciudad: vecinos
+    varados, personas con discapacidad incapaces de salir de sus hogares, trabajadores perdiendo
+    ingresos. No calificó para el programa de financiamiento público de DC y se postuló sin respaldo
+    de intereses especiales. Para demostrar su filosofía de gobierno, su equipo construyó tres
+    prototipos cívicos de tecnología antes del día de la elección: «DC Fix It» (una aplicación 311
+    rediseñada con reportes geolocalizados, visibilidad de las solicitudes de los vecinos y
+    seguimiento de solicitudes), un tablero público de transparencia presupuestaria, y un Conserje de
+    Permisos para Pequeños Negocios para ayudar a los emprendedores a navegar el proceso de licencias
+    y permisos de DC. Su plataforma cubre cinco áreas. En vivienda: fijar una meta de producción que
+    supere el punto de referencia anterior de 36,000 unidades, eliminar los mínimos de estacionamiento
+    cerca del transporte, tomar medidas enérgicas contra los cargos de alquiler abusivos, proteger el
+    Fondo Fiduciario para la Producción de Vivienda. En seguridad pública: abordar el problema de las
+    horas extras de más de $75 millones del MPD mediante la estabilización de la dotación; una
+    revisión operativa completa del ecosistema de seguridad pública; programas de interrupción de la
+    violencia basados en evidencia; ampliar Late Night Hype y el MBSYEP. En educación: enfrentar la
+    tasa del 40% de ausentismo crónico mediante la coordinación entre agencias (DCPS, OSSE,
+    proveedores de salud, alcance familiar); hacer de la alfabetización temprana una prioridad máxima
+    (solo el 26% de los estudiantes de 4.º grado de DC leen de manera competente); ampliar los cupos
+    extraescolares en los Wards 7 y 8; revivir el Consejo Asesor Juvenil de DC como un programa de
+    liderazgo remunerado. En estadidad: convertir la estadidad de DC en una prioridad nacional
+    demócrata; sin intercambio de datos entre el MPD e ICE; una auditoría completa de los contactos
+    del gobierno de DC con la aplicación de la ley federal. En transporte: reenfocar Vision Zero en la
+    ejecución con un tablero público de proyectos; prioridad para autobuses y ciclovías protegidas
+    donde sea apropiado; mejor seguimiento de las reparaciones.
+  positions:
+    - question_id: transit_bike_bus_lanes
+      quote: "Apoyaré mejores carriles de autobús, una aplicación más clara contra el bloqueo de las zonas de autobús, la prioridad de señales para el transporte, paradas de autobús seguras y cómodas, y una comunicación en tiempo real en la que los pasajeros realmente puedan confiar."
+      explanation: "La plataforma de transporte apoya la prioridad para autobuses, la prioridad de señales para el transporte, las ciclovías protegidas «donde sea apropiado» y mejores carriles de autobús con la aplicación contra el bloqueo de las zonas de autobús. El matiz «donde sea apropiado» refleja un criterio geográfico; en general, la postura es claramente de apoyo. En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 respondió «sí» tanto a los carriles de autobús como a las ciclovías (y «no» a las cámaras de velocidad)."
+
+    - question_id: childcare_universal
+      explanation: "Sampath prefiere flexibilizar las regulaciones del cuidado infantil en lugar de ampliar los programas de subsidio universal, un enfoque de ejecución y desregulación que contrasta con las propuestas de cuidado infantil universal y asequible."
+
+    - question_id: mpd_ice_cooperation
+      quote: "No debería haber intercambio de datos entre el MPD e ICE, ni recursos locales usados para facilitar acciones de aplicación basadas en el miedo que socaven la confianza de la comunidad."
+      explanation: "Su plataforma de estadidad afirma explícitamente: «No debería haber intercambio de datos entre el MPD e ICE, ni recursos locales usados para facilitar acciones de aplicación basadas en el miedo que socaven la confianza de la comunidad». También se compromete a una auditoría completa de cada punto de contacto entre el gobierno de DC y las agencias de aplicación de la ley federales."
+
+    - question_id: housing_production_trust_fund
+      quote: "Protegeré el Fondo Fiduciario para la Producción de Vivienda y el Programa Local de Complemento de Alquiler, a la vez que exigiré una mejor transparencia sobre los plazos de ocupación y los resultados para que los dólares públicos conduzcan a colocaciones reales de vivienda."
+      explanation: "La plataforma afirma explícitamente: «Protegeré el Fondo Fiduciario para la Producción de Vivienda y el Programa Local de Complemento de Alquiler, a la vez que exigiré una mejor transparencia sobre los plazos de ocupación y los resultados para que los dólares públicos conduzcan a colocaciones reales de vivienda». El planteamiento es de protección y rendición de cuentas más que de ampliación significativa."
+
+    - question_id: crime_public_health
+      quote: "Auditaré los programas de interrupción de la violencia para asegurar que sean basados en evidencia, con rendición de cuentas y coordinados con las escuelas, las familias, las instituciones de fe y las organizaciones comunitarias."
+      explanation: "La plataforma de seguridad pública se compromete a «auditar los programas de interrupción de la violencia para asegurar que sean basados en evidencia, con rendición de cuentas y coordinados con las escuelas, las familias, las instituciones de fe y las organizaciones comunitarias». Combina una actuación policial profesional, la prevención basada en evidencia y la oportunidad juvenil sin un marco puramente de aplicación de la ley. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 propuso reinvertir los «$75 millones» de horas extras del MPD en programas de desvío, asistencia legal y programas preventivos para que «el encarcelamiento no sea la opción constante», a la vez que elogió a grupos como Peace for DC y señaló un fraude (los $400,000 en gastos personales de un contratista) como la razón por la que se necesitan auditorías."
+
+    - question_id: parks_rec_funding
+      quote: "Fortaleceré la programación extraescolar y nocturna, incluidas iniciativas como Late Night Hype, para que los jóvenes residentes tengan espacios estructurados y seguros durante las horas de alto riesgo."
+      explanation: "La plataforma se compromete a fortalecer la programación extraescolar y nocturna, incluida «Late Night Hype», para que los jóvenes residentes tengan «espacios estructurados y seguros durante las horas de alto riesgo», y a ampliar el MBSYEP con una mejor coincidencia de empleos y seguimiento de resultados a largo plazo. Apoya la inversión de tipo parques/recreación principalmente a través de una óptica de seguridad y oportunidad juvenil."
+
+    - question_id: education_mental_health_schools
+      quote: "Mi agenda educativa comienza por arreglar lo básico que los estudiantes necesitan todos los días: edificios escolares seguros y funcionales, dotación de personal estable, buena asistencia, transporte confiable, apoyo de salud mental y aulas donde el aprendizaje pueda ocurrir de manera consistente."
+      explanation: "La plataforma educativa identifica las «necesidades de salud mental no atendidas» como un factor clave de la tasa del 40% de ausentismo crónico y pide conectar a los estudiantes en riesgo con proveedores de salud mediante la coordinación entre agencias. Apoya el apoyo de salud mental como parte de una estrategia de servicios integrales, aunque no exige específicamente un clínico dedicado en cada escuela."
+
+    - question_id: education_community_schools
+      quote: "Como alcaldesa, fortaleceré y coordinaré mejor los esfuerzos de asistencia existentes de la ciudad reuniendo a las DCPS, las escuelas charter, la WMATA, la OSSE, los proveedores de salud y los equipos de alcance familiar para identificar antes a los estudiantes en riesgo e intervenir más rápido."
+      explanation: "La plataforma educativa pide «reunir a las DCPS, las escuelas charter, la WMATA, la OSSE, los proveedores de salud y los equipos de alcance familiar para identificar antes a los estudiantes en riesgo e intervenir más rápido», un enfoque coordinado de servicios integrales alineado con el modelo de escuelas comunitarias, aunque no se nombra el programa específico."
+
+    - question_id: housing_upzoning
+      quote: "Apoyo modernizar la zonificación, legalizar los edificios residenciales de escalera única de hasta ocho pisos donde sea apropiado, y eliminar los mínimos de estacionamiento innecesarios cerca del transporte."
+      explanation: "La plataforma de vivienda apoya «modernizar la zonificación, legalizar los edificios residenciales de escalera única (single-stair) de hasta ocho pisos donde sea apropiado, y eliminar los mínimos de estacionamiento innecesarios cerca del transporte» para reducir los costos de construcción y crear vivienda transitable a pie y apta para familias, a favor de la reforma de la densidad, con matices de «donde sea apropiado». En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 argumentó que DC debería «construir más» a la vez que arrienda las unidades más rápido, rechazando la «narrativa falsa» de que la ciudad no puede a la vez construir más y proteger a los inquilinos."
+
+    - question_id: childcare_birth_to_three
+      explanation: "Prefiere flexibilizar las regulaciones del cuidado infantil para reducir los costos en lugar de una garantía gratuita y universal de cero a tres años, un enfoque de ejecución y desregulación que contrasta con los candidatos que proponen un cuidado de bebés y niños pequeños universal y financiado con fondos públicos."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "DC debería ser la ciudad más fácil de Estados Unidos para iniciar un negocio y mantenerlo abierto."
+      explanation: "Construyó un prototipo de Conserje de Permisos para Pequeños Negocios y se compromete a hacer de DC «la ciudad más fácil de Estados Unidos para iniciar un negocio y mantenerlo abierto», recortando la burocracia, las tarifas y los retrasos detrás de la tasa de fracaso de negocios en el primer año más alta del país, enfocada en reducir la burocracia y las tarifas más que en recortar los impuestos a los negocios específicamente. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 dijo que su equipo acababa de lanzar un conserje de permisos para pequeños negocios y pidió apoyar a los dueños perjudicados por las acciones de la ciudad (por ejemplo, la construcción que mata el tráfico peatonal de los escaparates)."
+
+    - question_id: home_rule_dc_resist
+      quote: "Apoyo usar todas las herramientas legales disponibles, incluidos los litigios y la legislación local de emergencia cuando sea necesario, para proteger a los residentes de las maniobras políticas y garantizar la previsibilidad en el gobierno de la ciudad."
+      explanation: "Se compromete a que no haya intercambio de datos entre el MPD e ICE y a una auditoría completa de cada contacto entre el gobierno de DC y las agencias de aplicación de la ley federales. Su postura de proteger a los residentes de DC es firme, pero su filosofía de ejecución primero enfatiza medidas defensivas focalizadas más que una postura política ampliamente confrontativa. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 hizo de la estadidad la «misión número uno», pidiendo una «campaña concertada» con personas influyentes y líderes para convencer a un Partido Demócrata que, según dijo, todavía no respalda verdaderamente la estadidad de DC, una estrategia de persuasión más que una postura de litigio/negativa."
+
+    - question_id: fiscal_progressive_taxation
+      quote: "Por eso me opongo a cualquier tipo de impuesto a la actividad comercial que efectivamente expulse a los negocios de nuestra ciudad."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Sampath dijo que se opone a «cualquier tipo de impuesto a la actividad comercial que efectivamente expulse a los negocios», prefiriendo cerrar la brecha presupuestaria recortando el fraude, logrando que las agencias rindan, persiguiendo los ~$180 millones que el CFO retiene por el «decoupling» y atrayendo negocios para hacer crecer los ingresos fiscales. Una inclinación contra aumentar los impuestos a los negocios; se centró en los impuestos a la actividad comercial específicamente más que en todos los impuestos a los ricos."
+
+    - question_id: transit_traffic_cameras
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Sampath respondió «no a las cámaras de velocidad»."
+
+    - question_id: econ_rfk_stadium
+      quote: "El estadio RFK nunca vino con un verdadero plan de equidad y debemos asegurarnos de que eso suceda."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Sampath reprochó la reurbanización de RFK porque «nunca vino con un verdadero plan de equidad», pidiendo que eso se corrija. Crítica del acuerdo tal como está estructurado."
+
+    - question_id: homelessness_housing_first
+      quote: "Preservaré y fortaleceré el Programa de Asistencia de Emergencia para el Alquiler, el Programa de Prevención de la Falta de Vivienda y Project Reconnect para que una dificultad financiera temporal no se convierta en un desplazamiento permanente."
+      explanation: "Sampath preservaría y fortalecería el Programa de Asistencia de Emergencia para el Alquiler, el Programa de Prevención de la Falta de Vivienda y Project Reconnect para mantener a las personas con vivienda, planteando la falta de vivienda en torno a la prevención y los servicios de apoyo más que a la aplicación de la ley. A favor de un enfoque de servicios primero."
+
+- id: hope-solomon
+  short_bio: >
+    Nacida y criada en DC; egresada de las Escuelas Públicas de DC. Trabajó dentro del FBI
+    identificando fallas del sistema. Negocio familiar desde 1977; dueña de pequeño negocio.
+    Plataforma de «hacer bien lo básico»: basura, ratas, nieve, permisos, 911. «DOGE'd» de su puesto
+    federal en febrero de 2026. Campaña íntegramente de voluntarios.
+  long_bio: |
+    Hope Solomon (42 años) nació y se crió en Washington, DC y asistió a las Escuelas Públicas de DC.
+    La tienda de ropa formal para hombres de sus padres ha sido parte de la ciudad desde 1977, donde
+    dice que aprendió «cómo se ve el trabajo de verdad, cómo tratar a las personas con dignidad y lo
+    difícil que es mantener vivo un pequeño negocio cuando la ciudad que depende de ti no siempre te
+    lo facilita». Pasó años trabajando dentro del FBI y junto a las agencias federales de aplicación
+    de la ley, identificando fallas del sistema y corrigiéndolas, «no maquillándolas». Perdió su
+    puesto federal en febrero de 2026 en medio de las reducciones de personal de la era DOGE de la
+    administración Trump y lanzó su campaña a la alcaldía poco después, describiéndola en parte como
+    «su forma oficial de quejarse» tanto del estado de la ciudad como del exceso federal. Su
+    plataforma se construye en torno a la competencia por encima de los nuevos programas. Plantea su
+    candidatura como una priorización de la ejecución por encima de la ideología: «No me postulo para
+    inventar problemas que resolver. Me postulo para arreglar los que ya vivimos todos los días:
+    basura, ratas, remoción de nieve, seguridad pública, permisos, respuesta del 911. Hacer bien lo
+    básico primero». Solo apoya agregar programas que «realmente funcionen, estén pagados y muestren
+    resultados», y es explícita sobre los límites presupuestarios en lugar de prometer nuevos gastos.
+    Llevó una campaña íntegramente de voluntarios con una recaudación mínima (aproximadamente $3,500
+    a marzo de 2026) y no calificó para el programa de financiamiento público de DC. Es explícitamente
+    positiva sobre el voto por orden de preferencia, diciendo que «abre la puerta a una competencia
+    real, ideas reales y rendición de cuentas real» para que los votantes puedan «votar por quien
+    creen, no contra quien temen».
+  positions:
+    - question_id: fiscal_progressive_taxation
+      quote: "Soy clara sobre los límites. Honesta sobre el presupuesto. Enfocada en los resultados, no en los titulares."
+      explanation: "Es explícita sobre «los límites presupuestarios en lugar de prometer nuevos gastos» y plantea su plataforma en torno a arreglar los servicios existentes de la ciudad en lugar de ampliar programas que requieran nuevos ingresos. Su candidatura se basa en la premisa de que DC debería «hacer bien lo básico primero» en lugar de agregar nuevos programas financiados con impuestos. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 argumentó que DC debería recaudar ingresos haciendo crecer la economía —recuperando los negocios que «cruzaron el río» y llenando el ~20% de desocupación de oficinas en el centro— en lugar de mediante nuevos impuestos."
+
+    - question_id: sanitation_rats
+      quote: "Sabes lo que es ver a las ratas apoderarse de los parques y las aceras mientras el Ayuntamiento lo trata como ruido de fondo."
+      explanation: "Nombra explícitamente a las ratas como una de las fallas centrales que arreglaría como alcaldesa: «Sabes lo que es ver a las ratas apoderarse de los parques y las aceras mientras el Ayuntamiento lo trata como ruido de fondo». Enumeradas junto con la basura, la remoción de nieve y la seguridad pública como lo básico descompuesto que debe arreglarse primero. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 retomó el tema en su cierre: «cuando estamos luchando contra las ratas, ¿por qué no se pueden rellenar las madrigueras de ratas? No más ratas»."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Conoces el golpe en el estómago de ver cerrar los restaurantes y bares del vecindario, asfixiados por el crimen, las altas rentas, la Iniciativa 82 y una burocracia que nunca parece decir que sí."
+      explanation: "Creció en un pequeño negocio familiar y lamenta que los restaurantes y bares del vecindario estén «asfixiados por el crimen, las altas rentas, la Iniciativa 82 y una burocracia que nunca parece decir que sí», con «dueños de pequeños negocios enterrados en papeleo mientras los grandes desarrolladores se saltan la fila», a favor de aliviar la carga sobre los pequeños negocios, planteada en torno a las tarifas y la burocracia. En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026 propuso reformar las juntas de los Distritos de Mejoramiento Comercial (BID) para que sean «50/50» entre pequeños negocios y desarrolladores, de modo que los pequeños negocios tengan voz real y control del presupuesto, e instó a los vecindarios a iniciar Main Streets."
+
+    - question_id: crime_more_police
+      quote: "Financiar plenamente el departamento de policía… cuando haces trabajar a la gente horas extras, la moral está muy baja… tenemos que volver a [la policía de proximidad]. Eso es educación y capacitación. Eso es lo que necesitamos financiar."
+      explanation: "En el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Solomon pidió «financiar plenamente el departamento de policía», reducir la dependencia de las horas extras que agotan a los oficiales, y restaurar la policía comunitaria de barrio, citando la rotación y el agotamiento de los oficiales como un problema para los dueños de tiendas y los residentes. Apoya financiar y estabilizar la dotación policial, con énfasis en la capacitación y la policía de proximidad más que en una meta de contratación específica."
+
+    - question_id: transit_bike_bus_lanes
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Solomon dividió la pregunta: «sí a los autobuses, todos deberían tener acceso a eso», pero dijo que «necesitamos estacionamiento para que las comunidades de negocios prosperen», oponiéndose a reducir el estacionamiento para dar paso a las ciclovías. Registrado como mixto: a favor del servicio de autobús, protectora del estacionamiento por encima de las ciclovías."
+
+    - question_id: home_rule_dc_resist
+      explanation: "Al preguntársele sobre la relación del Distrito con el Congreso en el debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Solomon enfatizó la «personalidad»: ser «valiente», recurriendo a su experiencia en el Capitolio y en seguridad nacional para negociar directamente con la Casa Blanca y el Congreso, y afirmó que apoya la estadidad. Planteó el enfoque en torno a la negociación directa más que comprometerse con el litigio o con negarse a cumplir directivas federales, situándose entre la confrontación y la diplomacia pragmática. Registrado como mixto."
+
+    - question_id: transit_traffic_cameras
+      explanation: "En la ronda rápida del debate de la alcaldía del Programa de Elecciones Justas del 30 de abril de 2026, Solomon respondió «no a las cámaras»."
+
+    - question_id: labor_worker_protections
+      quote: "…ver cerrar los restaurantes y bares del vecindario, asfixiados por el crimen, las altas rentas, la Iniciativa 82 y una burocracia que nunca parece decir que sí."
+      explanation: "Solomon, dueña de un pequeño negocio, enumera la Iniciativa 82 (que elimina gradualmente el salario mínimo reducido con propinas) entre las presiones de costos que cierran los restaurantes y bares del vecindario, lo que señala escepticismo hacia los mandatos salariales y laborales que elevan los costos de los empleadores. Se inclina en contra de ampliar aún más esos requisitos."
+
+- id: yaida-ford
+  short_bio: >
+    Candidata a la alcaldía por escrito (write-in) y abogada de derechos civiles. Dos décadas de
+    litigios contra el DOJ, el MPD, la WMATA y la Autoridad de Vivienda de DC en nombre de
+    trabajadores y familias. Defensora de personas mayores, agricultora urbana y activista por la
+    justicia alimentaria.
+  long_bio: |
+    Yaida Ford es candidata por escrito (write-in) a la alcaldía de Washington, D.C. No calificó para
+    la boleta de las primarias demócratas del 16 de junio de 2026. Ford es abogada de derechos
+    civiles cuya carrera comenzó en 2005 como asistente del juez Harold Cushenberry en la División
+    Penal del Tribunal Superior de DC. Pasó cuatro años en la Legal Aid Society de DC representando a
+    trabajadores con discapacidad que buscaban beneficios del Seguro Social, y luego se desempeñó como
+    asesora legislativa del concejal Jim Graham (Ward 1), enfocándose en la formación laboral para
+    madres de bajos ingresos. Desde que entró en la práctica privada en 2012 se ha especializado en
+    litigios de derechos civiles, ganando veredictos o acuerdos contra el DOJ de los EE. UU., el USDA
+    (10 acuerdos), el MPD, la WMATA, la Policía de Parques de los EE. UU., la Autoridad de Vivienda de
+    DC, escuelas charter públicas y desarrolladores privados. Ford es becaria Marshall-Brennan que
+    enseñó alfabetización constitucional en Dunbar High School y becaria Abramson. Su trabajo de
+    defensa de personas mayores incluye ayudar a parejas de ancianos a evitar ejecuciones
+    hipotecarias tras préstamos abusivos, proteger a propietarios mayores victimizados por fraudes de
+    asistencia de alquiler, y enfrentar a los caseros corporativos que descuidan el mantenimiento para
+    forzar la salida de las personas mayores. Ha demandado al Distrito por las barreras de permisos a
+    la producción urbana de alimentos, y cría gallinas en su patio, múltiples camas de jardín y
+    árboles frutales en su hogar en un desierto alimentario de DC. Su padre, Earl, fue uno de los
+    primeros hombres negros contratados como científico del suelo por el USDA a principios de la
+    década de 1970; su madre, Linda, enseñó 16 años en Head Start. Ambos padres trabajaron en los
+    campos de algodón de Luisiana para pagar la universidad, un legado de resiliencia que Ford cita
+    como la base de sus valores cívicos. Su plataforma de campaña enfatiza el empoderamiento económico
+    mediante los oficios vocacionales y la capacitación en IA, la estadidad y la autonomía local de
+    DC, la rendición de cuentas del gobierno, una política de vivienda equilibrada que proteja tanto a
+    los inquilinos como a los pequeños propietarios, la programación del DPR para los jóvenes, y una
+    policía comunitaria transparente.
+  positions:
+    - question_id: parks_rec_funding
+      quote: "El Departamento de Parques y Recreación de DC necesita incorporar actividades para nuestros adolescentes y «preadolescentes» que los mantengan ocupados y fuera de problemas."
+      explanation: "La plataforma de campaña pide explícitamente que el Departamento de Parques y Recreación de DC incorpore programación para adolescentes y «preadolescentes» (tweens) y se compromete a colaborar con líderes comunitarios, líderes de fe, entrenadores y clubes para conectar a los jóvenes con los servicios del DPR."
+
+    - question_id: crime_public_health
+      quote: "Nuestras políticas deberían abordar la causa de fondo del crimen e incentivar una fuerte participación comunitaria entre la policía local y los residentes de DC."
+      explanation: "Los valores de su campaña establecen que las políticas de seguridad pública «deberían abordar la causa de fondo del crimen e incentivar una fuerte participación comunitaria entre la policía local y los residentes de DC», a la vez que pide transparencia en la actuación policial en las comunidades de color."
+
+    - question_id: education_mayoral_control
+      quote: "Durante todo el tiempo que nuestras escuelas han estado bajo control municipal, demasiados de nuestros estudiantes, incluidos los que tienen necesidades especiales, siguen quedando rezagados."
+      explanation: "Su plataforma de Excelencia Educativa afirma: «Durante todo el tiempo que nuestras escuelas han estado bajo control municipal, demasiados de nuestros estudiantes, incluidos los que tienen necesidades especiales, siguen quedando rezagados. Yaida quiere explorar la eliminación del control municipal de nuestro sistema escolar y devolver el poder a los representantes electos de la junta estatal, a quienes les corresponde»."
+
+    - question_id: food_access_public_grocery
+      quote: "Hoy, Yaida vive en un desierto alimentario designado en Washington, D.C.… Ella… aboga por el acceso a alimentos frescos y saludables, e incluso ha demandado al Distrito para impugnar las barreras de permisos innecesarias que impiden que los residentes cultiven sus propios alimentos."
+      explanation: "Ford vive en un desierto alimentario designado y ha hecho del acceso a los alimentos una causa personal: enseña a familias urbanas a criar gallinas en el patio, aboga por el acceso a alimentos frescos y ha demandado al Distrito por las barreras de permisos a la producción de alimentos en el hogar. Apoya la acción de la ciudad sobre los desiertos alimentarios, aunque su énfasis está en la autosuficiencia de los residentes y en eliminar barreras más que en una tienda de comestibles de propiedad pública."
+
+    - question_id: education_impact_osse
+      explanation: "Ford quiere trasladar la autoridad del control municipal de las escuelas de vuelta a la Junta Estatal de Educación electa, lo que concuerda con hacer que el aparato educativo estatal sea independiente del alcalde. Apoya el impulso de independencia en la gobernanza de esta pregunta, aunque no aborda específicamente el sistema de evaluación docente IMPACT."
+
+    - question_id: homelessness_housing_first
+      quote: "DC necesita oficiales de recursos capacitados que desempeñen un papel clave en brindar alcance, construir relaciones sólidas y resolver problemas con las personas que enfrentan la falta de vivienda…"
+      explanation: "Ford propone un nuevo departamento de oficiales de recursos capacitados enfocados en el alcance, la construcción de relaciones y la resolución de problemas con las personas que enfrentan la falta de vivienda, en colaboración con organizaciones comunitarias, para «evitar que la falta de vivienda desborde las calles». Es un enfoque intermedio, basado en la participación, que no se compromete ni con la ampliación de Housing First ni con el desalojo de campamentos."
