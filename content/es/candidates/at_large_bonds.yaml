@@ -1,0 +1,323 @@
+# Spanish overlay for the At-Large (Bonds, regular) candidates. Only translatable text;
+# ids/question_ids match content/candidates/at_large_bonds.yaml. Names, sources and endorser
+# names stay in English. Ninguno de estos candidatos publicó un sitio en español; toda la
+# biografía, las explicaciones y las citas son traducción nuestra del contenido editorial en
+# inglés. Véase /resources/methodology. (Esta contienda se traduce en dos lotes; aquí los
+# primeros cinco candidatos.)
+- id: kevin-chavous
+  short_bio: >
+    Abogado (licenciatura y doctorado en Derecho de Howard); residente del Ward 7 y padre; hijo del
+    exconcejal del Ward 7 Kevin P. Chavous. Cuatro años como director de comité bajo Anita Bonds
+    (Comité de Administración Ejecutiva y Trabajo). Organizador de inquilinos bajo TOPA (pregrado);
+    pasante de derecho de vivienda en AARP (facultad de derecho); estudió en el bufete de abogados
+    más grande de Sudáfrica. Comitéman nacional del DNC; expresidente de los DC Young Democrats.
+    Respaldado por el exprocurador general Eric Holder y por Anita Bonds.
+  long_bio: |
+    Kevin B. Chavous (41 años) creció en un hogar inmerso en la política de DC: su padre, Kevin P.
+    Chavous, representó al Ward 7 en el Concejo de DC desde principios de la década de 1990 hasta
+    2005. Una experiencia formativa al visitar con su padre un complejo de vivienda pública dañado
+    por un incendio le inculcó un interés de por vida en la vivienda justa. Es un orgulloso graduado
+    de la Universidad Howard (licenciatura en ciencias políticas con honores, y luego doctorado en
+    Derecho); como estudiante de pregrado trabajó en Housing Counseling Services ayudando a inquilinos
+    de bajos ingresos a entender sus derechos y a organizarse bajo la TOPA. Durante la facultad de
+    derecho trabajó en AARP asistiendo a personas mayores que enfrentaban ejecuciones hipotecarias
+    vinculadas a problemas de impuestos a la propiedad e hipotecas inversas, y estudió en el
+    extranjero en Sudáfrica, haciendo prácticas en el bufete de abogados más grande del país, lo que
+    amplió su perspectiva sobre la justicia y la gobernanza. Tras su admisión al colegio de abogados
+    en 2012, dirigió una práctica enfocada en vivienda, asuntos de propietarios e inquilinos, bienes
+    raíces y lesiones personales. Más recientemente pasó cuatro años como director de comité y de
+    políticas del Comité de Administración Ejecutiva y Trabajo de la concejala At-Large Anita Bonds,
+    liderando la estrategia legislativa y la supervisión de agencias en los ocho wards. En la vida
+    cívica se ha desempeñado como comitéman nacional de DC ante el DNC, presidente de los DC Young
+    Democrats y miembro de la junta de la United Planning Organization. Es miembro de la Iglesia
+    Episcopal de St. Timothy y está casado con Ashley; están criando a sus hijos Kendall y Cameron en
+    el Ward 7, aunque envía a sus hijos a la escuela en el Ward 3 debido a las desigualdades de
+    recursos, una brecha que dice querer cerrar. Su plataforma se centra en calles más seguras,
+    vivienda asequible (aumentar la zonificación inclusiva al 15% del área residencial), educación
+    temprana, desarrollo de la fuerza laboral, apoyos para personas mayores, y la protección del
+    autogobierno de DC y los derechos civiles de los inmigrantes.
+  positions:
+    - question_id: education_mental_health_schools
+      explanation: "Quiere que cada escuela tenga un consejero y una enfermera sin importar la matrícula, especialmente en las zonas más golpeadas por el trauma. La plataforma pide ampliar los servicios específicos de salud mental y de respuesta a crisis para prevenir la violencia antes de que ocurra."
+
+    - question_id: mpd_ice_cooperation
+      explanation: "La plataforma se compromete a proteger los derechos civiles de las comunidades latinas e inmigrantes, mantener unidas a las familias y garantizar el acceso a representación legal. No se compromete explícitamente a detener la cooperación entre el MPD e ICE, pero plantea la protección de los inmigrantes como una prioridad de derechos civiles."
+
+    - question_id: crime_public_health
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Chavous argumentó que el pequeño número de jóvenes con mayor probabilidad de cometer delitos violentos puede identificarse mediante datos, y que DC debería dirigir los recursos directamente a ellos —un programa de formación laboral con un empleo real al final, un vale de vivienda hacia unidades vacías— a la vez que «se recorta parte de la burocracia que impide que los recursos lleguen a quienes más los necesitan». Un enfoque de prevención focalizada e inversión comunitaria para la violencia juvenil."
+
+    - question_id: crime_police_in_schools
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Chavous dijo que su «respuesta general sería no» a devolver policías armados a todas las escuelas secundarias públicas de DC, permitiendo una excepción limitada solo donde una escuela o un administrador específico lo solicite para una situación específica."
+
+    - question_id: home_rule_dc_resist
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Chavous adoptó una línea deliberadamente mesurada sobre la interferencia federal, señalando que «el presidente hace muchas amenazas [pero] cumple muy pocas», que DC «todavía controla nuestro presupuesto», y que su enfoque sería una supervisión eficaz del presupuesto de $22,000 millones y «lo que podemos hacer con el poder que tenemos hoy». Ni una postura firme de litigio/negativa ni una negociación de acuerdos explícita; registrado como mixto."
+
+    - question_id: transit_metro_funding
+      quote: "No, si los otros estados no pagan más también."
+      explanation: "En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Chavous se opuso a aumentar el financiamiento del Metro por parte de DC «si los otros estados no pagan más también», argumentando que DC no debería seguir pagando más que Maryland y Virginia cuando la mayoría de los usuarios son personas que vienen de los suburbios."
+
+    - question_id: econ_commuter_tax
+      quote: "En este momento, diría que no. Nuestros negocios están sufriendo y no queremos desalentar a la gente de venir a DC."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Chavous se opuso a un impuesto a quienes vienen de los suburbios «en este momento», advirtiendo que desalentaría a la gente de venir a DC mientras los negocios locales ya tienen dificultades."
+
+    - question_id: labor_worker_protections
+      quote: "Proteger a los trabajadores haciendo cumplir los estándares de salario, seguridad y laborales, y responsabilizando a los malos actores."
+      explanation: "La plataforma de fuerza laboral de Chavous se compromete a proteger a los trabajadores haciendo cumplir los estándares de salario, seguridad y laborales, y a fortalecer los requisitos de First Source y de contratación local. Apoya las protecciones de los trabajadores, con énfasis en la aplicación de los estándares existentes."
+
+    - question_id: homelessness_housing_first
+      quote: "Ampliar la vivienda de apoyo permanente y la asistencia de alquiler focalizada para los residentes vulnerables."
+      explanation: "La plataforma de vivienda de Chavous pide explícitamente ampliar la vivienda de apoyo permanente y la asistencia de alquiler focalizada para los residentes vulnerables. Apoya firmemente un enfoque de vivienda con servicios de apoyo."
+
+- id: dwight-davis
+  short_bio: >
+    Nacido y criado en DC; maestro de las DCPS y director de escuela primaria/secundaria; líder de
+    organizaciones sin fines de lucro. Licenciatura de Albright College; posgrados en teología
+    (divinity) y educación del Princeton Theological Seminary. Casado durante 25 años con su esposa
+    Kenya; padre de cuatro hijos. Apoya explícitamente la estadidad de DC como un derecho civil.
+  long_bio: |
+    Dwight Davis (51 años) nació y se crió en DC con sus abuelos, a quienes describe como
+    «washingtonianos de la vieja escuela». Asistió a las escuelas públicas de DC desde la primaria
+    Whittier hasta Calvin Coolidge High School, y luego jugó baloncesto en Albright College en
+    Pensilvania, una pasión que lo llevó a Colombia para jugar de manera semiprofesional y más tarde
+    a Inglaterra. Obtuvo posgrados en teología (divinity) y educación del Princeton Theological
+    Seminary (2004) antes de regresar a DC como educador de las DCPS y, más tarde, director de
+    escuela primaria y secundaria (incluida la Ron Brown College Preparatory High School). Tras más
+    de 20 años en la educación, pasó al trabajo en organizaciones sin fines de lucro y filantrópico.
+    Él y su esposa Kenya (casados durante 25 años) están criando a sus cuatro hijos en DC, navegando
+    las mismas escuelas públicas y charter que las familias que espera representar. «La educación es
+    lo mío», dice Davis. «Atraviesa todos los demás temas. Si tenemos una población educada, bajan
+    nuestras tasas de delincuencia». Traza una analogía directa entre dirigir una escuela y dirigir
+    el Concejo, equilibrando las necesidades urgentes de las aulas individuales (los wards) con la
+    equidad en toda la ciudad. Como padre de cuatro hijos, la asequibilidad es una prioridad máxima,
+    en particular la vivienda para la fuerza laboral para maestros, bomberos, enfermeras y policías.
+    También tiene una plataforma explícita de estadidad, calificando el autogobierno de DC como «un
+    derecho civil» y llamando «inaceptable» la interferencia del Congreso en los asuntos locales.
+    Apoya construir coaliciones nacionales para avanzar en la estadidad, defender la autonomía
+    presupuestaria y luchar por la plena representación con voto en el Congreso.
+  positions:
+    - question_id: education_community_schools
+      explanation: "La educación es el tema central de su plataforma: carrera como maestro de las DCPS, director de la Ron Brown College Preparatory High School y líder de organizaciones sin fines de lucro. Quiere que cada escuela de DC tenga recursos adecuados sin importar el código postal, con una sólida programación de escuela intermedia (middle school), apoyos de salud mental, alianzas familiares y vías profesionales. Aboga por un comité de educación independiente en el Concejo para conversaciones de política más sólidas, y dice que DC «no va a poder legislar su salida de un problema adaptativo», prefiriendo el diálogo con los jóvenes y el desarrollo universitario/profesional por encima de los enfoques de solo aplicación de la ley. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 pidió rodear a los estudiantes de programación a medida que pasan de la primaria a la intermedia y a la secundaria, y que el Vicealcalde de Educación conecte mejor las especialidades profesionales de la secundaria con la UDC para habilidades y certificaciones."
+
+    - question_id: crime_public_health
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Davis respondió a la pregunta sobre la violencia juvenil enfatizando intervenir «antes de que sus acciones se intensifiquen», comenzando por escuchar a los jóvenes para entender la causa de fondo, y asegurando que la programación siga a los estudiantes desde la primaria hasta la secundaria en lugar de desaparecer en los años de la escuela intermedia. Un enfoque comunitario, centrado en la prevención y las causas de fondo."
+
+    - question_id: crime_police_in_schools
+      quote: "No. Las armas no deberían estar en las escuelas."
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Davis dio un rotundo «no» a devolver policías armados a todas las escuelas secundarias públicas de DC —«las armas no deberían estar en las escuelas»—, una posición firme y sin matices."
+
+    - question_id: home_rule_dc_resist
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Davis dijo que DC necesita «una coalición de quienes lucharán con nosotros» contra la administración y debe «asegurarse de que nuestro procurador general permanezca independiente» para luchar cuando las leyes de DC sean impugnadas o anuladas, recurriendo a su experiencia como becario de políticas de Teach Plus abogando ante el Congreso. Apoya una defensa legal firme y la construcción de coaliciones, planteada en torno a las relaciones más que a una confrontación máxima."
+
+    - question_id: transit_metro_funding
+      quote: "Todos deben pagar su parte justa. No que DC asuma toda la cuenta."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Davis se opuso a que DC asuma más financiamiento del Metro, diciendo que «todos deben pagar su parte justa» en lugar de que «DC asuma toda la cuenta»."
+
+    - question_id: econ_commuter_tax
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Davis apoyó una tarifa para quienes vienen de los suburbios, argumentando que los abundantes recursos de DC (por ejemplo, los museos gratuitos) atraen a quienes vienen de los suburbios y que la tarifa «en realidad generaría más ingresos para DC»."
+
+    - question_id: housing_production_vs_affordability
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Davis rechazó el planteamiento de uno u otro —«necesitamos ambos», producir más unidades y reparar las existentes—, a la vez que enfatizó la vivienda para la fuerza laboral (para maestros, policías, bomberos) más que una elección pura entre asequibilidad profunda y precio de mercado. Registrado como mixto."
+
+- id: dyana-forester
+  short_bio: >
+    Líder sindical y excomisionada de la Autoridad de Vivienda de DC (46 años). Expresidenta del
+    Metropolitan Washington Council de la AFL-CIO; directora sénior de relaciones laborales bajo el
+    gobernador de Maryland Wes Moore. Creció en una familia trabajadora en el sureste de DC
+    (Southeast).
+  long_bio: |
+    Dyana Forester (46 años) creció en una familia trabajadora en el sureste de DC y fue madre a los
+    18 años. Construyó una carrera en la organización sindical, comenzando en Teaching for Change
+    (escuelas comunitarias y participación de los padres), luego en DC Jobs with Justice (luchando
+    por los salarios de los trabajadores de Walmart), y luego como directora de asuntos políticos y
+    comunitarios del UFCW Local 400, donde ayudó a aprobar el aumento del salario mínimo de DC y la
+    ley de licencia familiar remunerada. Fue elegida presidenta del Metropolitan Washington Council
+    de la AFL-CIO antes de convertirse en directora sénior de relaciones laborales del gobernador de
+    Maryland Wes Moore. Excomisionada de la Autoridad de Vivienda de DC, la vivienda es una prioridad
+    importante para Forester, en particular la vivienda para la fuerza laboral para maestros,
+    conductores de autobús, bomberos y policías. Cuestiona si construir más rápido es la primera
+    respuesta correcta: «¿Es esta la solución correcta para el problema que queremos arreglar? Y el
+    arreglo es: ¿cómo creamos más vivienda asequible para las familias?». Plantea su candidatura como
+    aportar una experiencia vivida de clase trabajadora a un Concejo que a menudo debate políticas
+    sin ella.
+  positions:
+    - question_id: housing_production_trust_fund
+      explanation: "Excomisionada de la Autoridad de Vivienda de DC; quiere aumentar la inversión en vivienda asequible y vivienda para la fuerza laboral. Escéptica de los enfoques de construir rápido primero; se enfoca en lo que las familias realmente pueden pagar. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 dijo que «siempre priorizará la asequibilidad», relatando que en la junta de la DCHA ella y otro comisionado votaron en contra de un proyecto cuando los desarrolladores pidieron a la junta reducir su requisito de asequibilidad profunda, porque ese terreno público «pertenece a los residentes de vivienda pública del Distrito de Columbia»."
+
+    - question_id: econ_small_business_tax_relief
+      explanation: "Líder sindical y expresidenta del Metropolitan Washington Council de la AFL-CIO cuyos pilares de campaña incluyen «el apoyo a los pequeños negocios y el crecimiento del empleo». Enfatiza simplificar los permisos y las licencias a escala para los pequeños negocios, reducir las cargas administrativas e incentivos de estabilidad de rentas comerciales para mantener a los operadores locales en sus vecindarios. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 nombró a los pequeños negocios como el sector a priorizar para los trabajadores federales desplazados, argumentando que muchos tienen las habilidades para ser emprendedores y contratistas, pero que DC carece de «la estructura para apoyarlos»."
+
+    - question_id: fiscal_progressive_taxation
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, al preguntársele qué recortaría, Forester dijo que DC debería «recortar los vacíos fiscales para las corporaciones que han venido a DC y no han rendido cuentas al Distrito de Columbia y que se están llevando nuestro dinero», cerrando las exenciones fiscales corporativas para recuperar ingresos, en consonancia con una postura de recaudación progresiva."
+
+    - question_id: crime_public_health
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Forester —sobreviviente de un delito violento— enfatizó crear oportunidades para que los jóvenes «elijan un camino diferente», citando un programa de preaprendizaje que dirigió, y el poder de la exposición y de que un adulto «crea en» los jóvenes (recordando a una maestra que creyó en ella). Un enfoque comunitario, de prevención y oportunidad, para la violencia juvenil."
+
+    - question_id: crime_police_in_schools
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Forester respondió «no» a devolver policías armados a todas las escuelas secundarias públicas de DC."
+
+    - question_id: education_community_schools
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Forester nombró «priorizar las escuelas comunitarias» como un compromiso del primer año, señalando que ayudó a aprobar una legislación de escuelas comunitarias hace años que «nunca ha sido financiada» y que ella lucharía por financiarla. Su carrera comenzó en Teaching for Change trabajando en escuelas comunitarias y participación de los padres, un compromiso concreto y de larga data con el modelo."
+
+    - question_id: home_rule_dc_resist
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Forester dijo que una razón central por la que se postula es que los líderes de DC —el Procurador General, el alcalde y el Concejo— no se han «unido para resistir a la administración y los ataques» y no han «trabajado de manera estratégica». Activista de larga data por la estadidad que dice que «la arrestaron luchando por la estadidad», pide una resistencia proactiva y coordinada en lugar de esperar, una postura firme."
+
+    - question_id: transit_metro_funding
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Forester lo calificó de «una pregunta difícil»: DC necesita financiar el Metro de manera equitativa y pagar a sus trabajadores, «pero no deberíamos recortar otros servicios para financiar el Metro». A favor del financiamiento del Metro pero en contra de la disyuntiva de recortar en otra parte; registrado como mixto."
+
+    - question_id: econ_commuter_tax
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Forester dijo que lo «consideraría con algunos matices», dividida entre las familias de DC que vienen de los suburbios de Maryland y los trabajadores de fuera del estado que obtienen ganancias en DC y se van. Registrado como mixto."
+
+    - question_id: housing_production_vs_affordability
+      quote: "Siempre priorizaré la asequibilidad."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Forester eligió enfáticamente la asequibilidad por encima de la velocidad, relatando haber votado en la junta de la Autoridad de Vivienda de DC en contra de reducir el requisito de asequibilidad profunda de un proyecto porque el terreno público «pertenece a los residentes de vivienda pública del Distrito de Columbia». El encuadre enfático más la acción concreta respaldan una postura firme."
+
+    - question_id: labor_worker_protections
+      quote: "[Dyana] desempeñó papeles clave en importantes iniciativas en toda la ciudad, incluidos el Aumento del Salario Mínimo de DC y la Licencia Familiar y Médica Remunerada."
+      explanation: "Como presidenta del Metro Washington Labor Council, Forester ayudó a liderar las campañas del aumento del salario mínimo y de la Licencia Familiar y Médica Remunerada de DC y ha construido su carrera aumentando los salarios y protegiendo a los trabajadores. Una prioridad insignia: lo apoya firmemente."
+
+- id: fred-hill
+  short_bio: >
+    Expresidente durante 10 años de la Junta de Ajuste de Zonificación (BZA) de DC (57 años); dirigió
+    una firma de contratación federal durante ~28 años. Moderado favorable a los negocios que apoya
+    agilizar la vivienda asequible financiada por la ciudad. Apoya a Kenyan McDuffie para alcalde.
+  long_bio: |
+    Fred Hill (57 años) creció en la zona rural de Poolesville, Maryland, hijo de un padre nativo
+    americano y de una madre que emigró de Sikkim, India (antiguamente un reino independiente,
+    anexado por India en 1975). Dirigió su propia firma de contratación federal durante casi tres
+    décadas, y luego se desempeñó como presidente de la Junta de Ajuste de Zonificación (BZA) de DC
+    durante diez años, un organismo que decide sobre las solicitudes de residentes y desarrolladores
+    que buscan excepciones de zonificación. Esa experiencia le dio, según dice, «una visión de toda
+    la ciudad». De ser elegido, Hill propondría que cualquier proyecto de vivienda asequible que
+    reciba financiamiento de la ciudad se agilice para evitar que los retrasos burocráticos maten los
+    proyectos; también pide más unidades de 3 o más habitaciones construidas para familias, y la
+    colaboración con el Congreso para flexibilizar la Ley federal de Altura de los Edificios a fin de
+    permitir un desarrollo más denso. Aboga por currículos de IA y educación emprendedora para los
+    jóvenes de DC y quiere hacer crecer los sectores de biotecnología y alta tecnología para
+    diversificar la economía. Moderado favorable a los negocios, argumenta que el Concejo necesita una
+    voz del sector privado: «Hay 13 miembros y casi todos vinieron de dentro del sistema. Yo vengo
+    del sector privado». Apoya a Kenyan McDuffie para alcalde, favorece una resistencia estratégica
+    —más que activista— al exceso federal, y apoya comisiones asesoras de policía y comunidad para
+    mejorar la colaboración.
+  positions:
+    - question_id: housing_production_trust_fund
+      explanation: "Agilizaría cualquier proyecto de vivienda asequible que reciba financiamiento de la ciudad para evitar los retrasos burocráticos; su experiencia en la BZA le mostró cómo mueren los proyectos en el proceso de permisos. También apoya unidades familiares de 3 o más habitaciones y trabajar con el Congreso para flexibilizar la Ley federal de Altura de los Edificios a fin de permitir un desarrollo más denso en DC. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 dijo que el «sistema de vivienda asequible está roto ahora mismo: nadie invierte en él, nadie construye», nombró el Fondo Fiduciario para la Producción de Vivienda entre las herramientas que no funcionan, y dijo que, como primer paso de supervisión, iría a la agencia de vivienda para averiguar por qué falla el flujo de financiamiento."
+
+    - question_id: housing_upzoning
+      explanation: "Expresidente durante 10 años de la Junta de Ajuste de Zonificación de DC que apoya un desarrollo más denso: pide más unidades familiares de 3 o más habitaciones y trabajar con el Congreso para flexibilizar la Ley federal de Altura de los Edificios a fin de permitir una construcción más alta y densa en DC. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 reiteró la «necesidad de densidad», vinculándola a las líneas de tren y a las líneas de autobús de alta velocidad para que se pueda construir más vivienda a lo largo del transporte."
+
+    - question_id: econ_small_business_tax_relief
+      explanation: "Moderado favorable a los negocios que dirigió una firma de contratación federal durante casi tres décadas y argumenta que el Concejo necesita una voz del sector privado. Quiere hacer crecer los sectores de biotecnología y alta tecnología para diversificar la economía de DC y reducir las barreras burocráticas para los negocios. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 propuso recortar la burocracia para los pequeños negocios —un plazo de licencias de 50 días y un plazo de certificado de ocupación de 45 días—, arrendamientos a corto plazo para llenar el espacio vacío en las plantas bajas del centro, y priorizar la IA, la ciberseguridad y la biotecnología para diversificar la economía."
+
+    - question_id: home_rule_dc_resist
+      quote: "una resistencia estratégica —más que activista— al exceso federal."
+      explanation: "Apoya una «resistencia estratégica —más que activista— al exceso federal», favoreciendo un enfoque mesurado y pragmático para defender la autonomía de DC en lugar de una postura política explícitamente confrontativa. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 instó a educar a los aliados en el Congreso de que «la privación de derechos de DC es un asunto de derechos civiles, no partidista», una defensa focalizada y coordinada con el Concejo, el Procurador General y el alcalde, y un mensaje «matizado» al Congreso de que DC «está muy bien administrado» y que no deberían empeorarlo tomando el control."
+
+    - question_id: crime_public_health
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Hill describió «dos lados» de la seguridad pública: la interrupción de la violencia basada en evidencia y los programas de justicia restaurativa centrados en la sanación, la rendición de cuentas y la participación comunitaria; la Oficina de Seguridad y Compromiso del Vecindario; los corespondedores de salud mental; un Programa de Empleo Juvenil de Verano Marion Barry ampliado; y los servicios de reinserción, combinados con la actuación policial tradicional. A favor del enfoque de salud pública/prevención como uno de dos pilares."
+
+    - question_id: crime_more_police
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Hill dijo que DC debería «financiar plenamente el MPD» y aumentar la fuerza «de vuelta de los 3,000 a los 4,000 oficiales», y luego priorizar a los oficiales en los corredores comerciales. A favor de más oficiales, presentado como una mitad de un enfoque equilibrado junto con la interrupción de la violencia y los servicios de reinserción."
+
+    - question_id: crime_police_in_schools
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Hill respondió «no» a devolver policías armados a todas las escuelas secundarias públicas de DC."
+
+    - question_id: transit_metro_funding
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Hill dijo que «averiguaría cómo financiar el Metro de una manera que no implique que hagamos otros recortes», no a favor de crear recortes para financiar el Metro. A favor del Metro pero en contra de la disyuntiva de recortar en otra parte; registrado como mixto."
+
+    - question_id: econ_commuter_tax
+      quote: "No estaría a favor."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Hill se opuso a un impuesto a quienes vienen de los suburbios, argumentando que tales tarifas «terminan perjudicando a los trabajadores de bajos ingresos» y se evaden fácilmente (estacionando fuera de la zona, alternando entre autos)."
+
+    - question_id: housing_production_vs_affordability
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Hill lo calificó de «no uno u otro» sino de «qué podría funcionar realmente desde el punto de vista financiero»: los proyectos deben «cuadrar las cuentas», DC necesita más densidad (líneas de tren y de autobús de alta velocidad), y la prioridad es tanto la nueva vivienda asequible como la retención de las unidades existentes. Registrado como mixto."
+
+- id: greg-jackson-jr
+  short_bio: >
+    Exdirector adjunto de prevención de la violencia con armas de la Casa Blanca de Biden (41 años);
+    graduado de UVA (primer presidente negro de la clase de primer año). Sobrevivió a un tiroteo en
+    Shaw en 2013. Exdirector del gabinete de Bowser. Cursa una Maestría Ejecutiva en Salud Pública en
+    Yale. Vive en Congress Heights.
+  long_bio: |
+    Greg Jackson Jr. (41 años) recibió un disparo en un tiroteo en el vecindario de Shaw en 2013 y
+    estuvo a punto de morir. «Mi tragedia puso de relieve la violencia interpersonal en los centros
+    urbanos», dice. Esa experiencia reorientó una carrera que había comenzado en la organización de
+    campañas: cofundó DC for Obama en 2007, lideró a más de 380 miembros del personal de campo del
+    DNC en Carolina del Norte para la reelección de Obama en 2012, y se desempeñó como director
+    nacional de campo del DCCC, liderando lo que él llama el mayor esfuerzo de registro de votantes en
+    unas elecciones de medio término en la historia de EE. UU. Tras el tiroteo, entró al gobierno de
+    DC como el primer director de la Oficina del Gabinete de Relaciones y Servicios Comunitarios de
+    la alcaldesa Muriel Bowser, donde supervisó la resolución de más de 2,000 inquietudes de los
+    residentes. Más tarde se unió al Departamento de Parques y Recreación como director de
+    comunicaciones y relaciones comunitarias, acuñando el lema «Where Fun Happens» del DPR y lanzando
+    la campaña FitDC. En 2019, tras perder a un amigo de la familia por la violencia armada, se
+    convirtió en director nacional de incidencia y luego director ejecutivo del Community Justice
+    Action Fund, la única organización del país de prevención de la violencia armada liderada por
+    sobrevivientes negros. En Community Justice, ayudó a asegurar $42,000 millones en financiamiento
+    federal para la prevención de la violencia armada y co-lideró la aprobación de la Ley Bipartidista
+    de Comunidades Más Seguras (Bipartisan Safer Communities Act), la primera ley federal de violencia
+    armada en 30 años. Luego fue nombrado Asistente Especial del presidente Biden y director adjunto
+    de la Oficina de Prevención de la Violencia con Armas de la Casa Blanca, donde desarrolló 54
+    acciones ejecutivas y supervisó la implementación de la nueva ley. Atribuye a estos esfuerzos una
+    reducción del 49% en los homicidios a nivel nacional en tres años. Durante este tiempo, su casa en
+    Congress Heights fue impactada 13 veces en un tiroteo cercano. Es un orgulloso graduado de UVA
+    (Promoción de 2007), donde fue el primer presidente negro de la clase de primer año, miembro de
+    Alpha Phi Alpha y vicepresidente del consejo estudiantil. Actualmente se desempeña como presidente
+    de la Rocket Foundation junto al rapero Quavo y cursa una Maestría Ejecutiva en Salud Pública en
+    Yale. Las prioridades de su plataforma son la prevención de la violencia armada, la seguridad
+    juvenil, la creación de empleo, la asequibilidad de la vivienda y la educación. Cuenta con el
+    respaldo del representante Maxwell Frost, la exgobernadora Kathleen Sebelius, Opportunity DC y The
+    Collective PAC.
+  positions:
+    - question_id: crime_public_health
+      explanation: "Sobrevivió a un tiroteo en Shaw en 2013; pasó más de 12 años en la prevención de la violencia armada, incluyendo liderar 54 acciones ejecutivas de Biden y supervisar la implementación de la Ley Bipartidista de Comunidades Más Seguras, a la que atribuye una reducción del 49% de los homicidios a nivel nacional. Su plataforma de seguridad pública encabeza con la intervención comunitaria contra la violencia, la terapia cognitivo-conductual, los servicios integrales y una Estrategia de Reducción de la Violencia de Grupos, con la aplicación de la ley como una herramienta entre muchas. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 pidió «invertir en estrategias de prevención», incluidas la salud mental y la intervención comunitaria contra la violencia (señalando que DC ha destinado solo $25 millones a ello) y centrarse en la «rendición de cuentas aguas arriba» para interceptar las armas —el 95% provenientes de fuera de DC— que hacen mortal el crimen."
+
+    - question_id: crime_more_police
+      explanation: "No pide simplemente contratar más oficiales del MPD. Su plataforma de violencia armada enfatiza la Inteligencia sobre Armas de Fuego del Crimen (Crime Gun Intelligence), una Iniciativa Regional contra el Tráfico de Armas con Virginia y Maryland, y herramientas de investigación, afirmando explícitamente «no solo patrullaje o vigilancia». Favorece estrategias focalizadas de aplicación de la ley por encima de la contratación generalizada. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 afirmó que «la aplicación de la ley es una gran parte de cómo abordamos estas crisis» y presionó a un rival sobre un recorte propuesto del 50% a la policía, señalando que se opone a los recortes profundos sin priorizar tampoco la contratación masiva."
+
+    - question_id: education_community_schools
+      explanation: "Propone explícitamente «fortalecer el modelo de escuelas comunitarias» invirtiendo en alianzas basadas en el lugar que conecten a los estudiantes y a las familias con apoyos de salud, académicos y sociales, y ampliando la colaboración con organizaciones comunitarias de confianza."
+
+    - question_id: education_mental_health_schools
+      quote: "Ampliar los programas de salud conductual cognitiva y basados en la escuela."
+      explanation: "Propone «ampliar los programas de salud conductual cognitiva y basados en la escuela», citando su impacto en DC y en ciudades similares; también propone fortalecer el clima escolar mediante inversiones en prácticas restaurativas y dirigir recursos a las escuelas donde los indicadores muestran que los estudiantes necesitan más apoyo."
+
+    - question_id: childcare_universal
+      explanation: "Se compromete a proteger la Licencia Familiar Remunerada, el Fondo de Equidad Salarial para Educadores de la Primera Infancia y el Pre-K Universal; quiere ampliar las subvenciones para instalaciones de cuidado infantil e impulsar hacia una meta en la que el cuidado infantil no cueste a las familias más del 7% de sus ingresos."
+
+    - question_id: parks_rec_funding
+      explanation: "Se desempeñó como director de comunicaciones y relaciones comunitarias del DPR, acuñando el lema «Where Fun Happens» y lanzando la campaña FitDC. Su plataforma de seguridad juvenil propone una «Iniciativa Safe Nights DC» que amplíe la recreación nocturna dirigida a los jóvenes en las zonas de alta afluencia juvenil y que fortalezca los programas fuera del horario escolar."
+
+    - question_id: youth_curfew_programming
+      explanation: "Propone una «Iniciativa Safe Nights DC» para ampliar la recreación nocturna y las actividades restaurativas para jóvenes en las zonas de alta afluencia, un Fondo de Seguridad Juvenil dirigido por jóvenes, programas ampliados fuera del horario escolar y una Red Juvenil para la Seguridad, todo centrado en la inversión en programación como la herramienta principal para reducir la violencia juvenil."
+
+    - question_id: childcare_birth_to_three
+      explanation: "Se compromete a proteger la Licencia Familiar Remunerada, el Fondo de Equidad Salarial para Educadores de la Primera Infancia y el Pre-K Universal, ampliar las subvenciones para instalaciones de cuidado infantil e impulsar hacia una meta en la que el cuidado infantil no cueste a las familias más del 7% de sus ingresos: un fuerte apoyo a la asequibilidad de la primera infancia, planteado en torno a un tope del porcentaje del ingreso más que a una garantía gratuita de cero a tres años."
+
+    - question_id: econ_small_business_tax_relief
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jackson hizo de la creación de empleo su principal prioridad presupuestaria, proponiendo «recortar las tarifas y la burocracia que afectan y que impiden que los pequeños negocios operen», incluida una «exención del primer año para los nuevos negocios», especialmente los que contratan a residentes sin títulos avanzados, junto con recortar los mandos medios en un gobierno «con exceso de jefes». A favor de recortar las tarifas y la burocracia para los pequeños negocios."
+
+    - question_id: home_rule_dc_resist
+      quote: "El poder respeta al poder, no a la lástima."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jackson argumentó que «el poder respeta al poder, no a la lástima», citando haber sido llamado a testificar ante el Congreso cuatro veces, sus relaciones bipartidistas y haber aprobado una ley bipartidista que Trump intentó derogar. «Construiría un puente entre el Concejo y el Congreso… un verdadero Concejo que tenga relaciones que puedan luchar, proteger y defender nuestros derechos»: una defensa firme buscada a través de coaliciones y relaciones federales más que solo mediante litigio/negativa."
+
+    - question_id: crime_police_in_schools
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jackson respondió «no» a devolver policías armados a todas las escuelas secundarias públicas de DC, añadiendo que DC debería priorizar los recursos para la participación de padres y maestros como «el mayor predictor del rendimiento juvenil»."
+
+    - question_id: transit_metro_funding
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jackson dijo que «no es momento de recortar servicios cruciales… para el Metro», a la vez que recalcó que muchos residentes dependen del Metro y que debe ser seguro y confiable. A favor del Metro pero en contra de la disyuntiva de recortar en otra parte; registrado como mixto."
+
+    - question_id: econ_commuter_tax
+      quote: "Estoy abierto a algunos impuestos regionales para quienes vienen de los suburbios. Creo que uno universal es algo que me encantaría investigar más."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jackson dijo que está «abierto a algunos impuestos regionales para quienes vienen de los suburbios» y que le «encantaría investigar más» uno universal."
+
+    - question_id: housing_production_vs_affordability
+      quote: "Hacer una elección entre asequibilidad y oferta, creo que es una estrategia fallida… porque la asequibilidad se impulsa con más oferta."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jackson argumentó que la elección entre asequibilidad y oferta «es una estrategia fallida… porque la asequibilidad se impulsa con más oferta», y lucharía por más oferta de viviendas asequibles tanto para alquilar como para comprar. Inclinado hacia la oferta."
+
+    - question_id: econ_business_activity_tax
+      quote: "En lugar de depender de constantes aumentos de impuestos, haremos crecer la economía de DC apoyando a los pequeños negocios…"
+      explanation: "Jackson favorece hacer crecer la economía y brindar alivio fiscal para atraer y retener negocios «en lugar de depender de constantes aumentos de impuestos». Esa filosofía de ingresos va en contra de crear un nuevo impuesto a la actividad comercial. Se inclina en contra."
+
+    - question_id: labor_worker_protections
+      quote: "Me enfocaré en proteger la Licencia Familiar Remunerada, el Fondo de Equidad Salarial para Educadores de la Primera Infancia, el Pre-K Universal…"
+      explanation: "Jackson se compromete a proteger la Licencia Familiar Remunerada y el Fondo de Equidad Salarial para Educadores de la Primera Infancia y a fortalecer las vías hacia la fuerza laboral. A favor de mantener y proteger las protecciones de los trabajadores, con menos énfasis en ampliar los mandatos."
