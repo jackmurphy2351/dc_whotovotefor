@@ -2,8 +2,7 @@
 # ids/question_ids match content/candidates/at_large_bonds.yaml. Names, sources and endorser
 # names stay in English. Ninguno de estos candidatos publicó un sitio en español; toda la
 # biografía, las explicaciones y las citas son traducción nuestra del contenido editorial en
-# inglés. Véase /resources/methodology. (Esta contienda se traduce en dos lotes; aquí los
-# primeros cinco candidatos.)
+# inglés. Véase /resources/methodology.
 - id: kevin-chavous
   short_bio: >
     Abogado (licenciatura y doctorado en Derecho de Howard); residente del Ward 7 y padre; hijo del
@@ -321,3 +320,414 @@
     - question_id: labor_worker_protections
       quote: "Me enfocaré en proteger la Licencia Familiar Remunerada, el Fondo de Equidad Salarial para Educadores de la Primera Infancia, el Pre-K Universal…"
       explanation: "Jackson se compromete a proteger la Licencia Familiar Remunerada y el Fondo de Equidad Salarial para Educadores de la Primera Infancia y a fortalecer las vías hacia la fuerza laboral. A favor de mantener y proteger las protecciones de los trabajadores, con menos énfasis en ampliar los mandatos."
+
+- id: leniquadominique-jenkins
+  short_bio: >
+    Defensora de las comunidades al este del río (East-of-the-River), excomisionada de la ANC de
+    Deanwood y autora de libros infantiles superventas en Amazon (40 años); ha trabajado en el
+    Wilson Building para dos concejales, redactando legislación y asesorando en políticas. Dirigió
+    negocios desde DC hasta África Oriental. Actualmente presidenta del gobierno estudiantil de
+    posgrado. Plataforma: alfabetización, justicia ambiental, comunidades seguras, vivienda y apoyo
+    a las personas cuidadoras.
+  long_bio: |
+    Leniqua'dominique Jenkins (40 años) llegó a Washington en 2010 como pasante no remunerada del
+    representante Alan Grayson, trabajando un segundo empleo en el comercio minorista por las noches
+    para pagar el alquiler. Obtuvo un certificado en emprendimiento en Operation Hope y lo usó para
+    lanzar Capitol Living, una agencia de cuidado en el hogar que dirigió durante diez años,
+    capacitando como asistentes de cuidado a su padre y a su hermano (que reingresaban a la sociedad
+    tras un periodo de encarcelamiento). Posteriormente construyó negocios que se extendieron hasta
+    África Oriental, y ha vivido y trabajado en África, India y España, un bagaje global que, según
+    dice, le da un modelo para una política creativa y centrada en las personas. Cumplió un mandato
+    como comisionada de la ANC en Deanwood, enfocada en la justicia ambiental, liderando recorridos
+    educativos a pie, realizando estudios de aire limpio y organizando limpiezas del río Anacostia.
+    En 2021 se postuló para el escaño At-Large contra Bonds; posteriormente trabajó dentro del Wilson
+    Building tanto para un exconcejal como para un concejal actual, ayudando a redactar legislación y
+    a asesorar en políticas. Es autora superventas de libros infantiles en Amazon, columnista de
+    políticas públicas y ha redactado material legislativo en el Capitolio. Actualmente se desempeña
+    como presidenta del Gobierno Estudiantil de Posgrado de su universidad. En lo personal, brinda
+    cuidado diario a su madre y ayuda a criar a su pequeña sobrina, lo que, según dice, fundamenta su
+    plataforma de cuidadores en la experiencia vivida. Vive al este del río Anacostia (Ward 7) y dice
+    que esas comunidades han sido «dejadas fuera de la toma de decisiones de toda la ciudad por
+    demasiado tiempo». Las prioridades de su plataforma son la alfabetización (señalando que
+    aproximadamente 119,000 adultos de DC y casi la mitad de los adultos de los Wards 7 y 8 enfrentan
+    dificultades de baja alfabetización), la justicia ambiental centrada en una Ley de Botellas
+    (Bottle Bill), la seguridad comunitaria mediante la prevención más que el castigo, la
+    asequibilidad de la vivienda y las vías hacia la propiedad de la vivienda, y una agenda de apoyo
+    a las personas cuidadoras.
+  positions:
+    - question_id: crime_public_health
+      quote: "La seguridad no se logra solo con el castigo: se crea cuando las personas tienen acceso a vivienda, educación, oportunidades y atención de salud mental."
+      explanation: "Plantea la seguridad pública explícitamente en torno a la prevención: «La seguridad no se logra solo con el castigo: se crea cuando las personas tienen acceso a vivienda, educación, oportunidades y atención de salud mental». Propone ampliar los programas juveniles, el acceso a la atención de salud mental, la prevención comunitaria de la violencia y modelos de respuesta a crisis que combinen a la policía con proveedores de servicios. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 —señalando que su padre y su hermano son ciudadanos retornados— dijo que la rendición de cuentas y la seguridad «pueden coexistir» «invirtiendo en las personas: vivienda, servicios de salud mental, formación laboral, abordando la causa de fondo de lo que motiva el delito»."
+
+    - question_id: education_mental_health_schools
+      explanation: "Apoya ampliar el acceso a la atención de salud mental para los jóvenes como parte de su plataforma de seguridad comunitaria, y vincula los déficits de alfabetización con el conducto de la escuela a la prisión (school-to-prison pipeline). No pide específicamente un clínico de salud conductual dedicado en cada escuela, planteando el apoyo de salud mental como comunitario más que específico de cada escuela."
+
+    - question_id: youth_curfew_support
+      explanation: "Se opone a los toques de queda juveniles focalizados, calificando el enfoque de «punitivo». Favorece la alfabetización, la participación cívica, la inversión comunitaria y la atención de salud mental como el camino hacia la seguridad juvenil, no las restricciones de aplicación de la ley."
+
+    - question_id: youth_curfew_programming
+      explanation: "Favorece firmemente la inversión en alternativas de programación juvenil: amplía los programas juveniles y el acceso a la atención de salud mental como las herramientas principales para la seguridad comunitaria, rechazando explícitamente un enfoque que ponga el castigo primero. Su plataforma de alfabetización también propone integrar apoyos educativos dentro de los programas de justicia juvenil y un «DC Pen Pal Project» de toda la ciudad para fortalecer las habilidades de escritura y la conciencia cívica de los jóvenes."
+
+    - question_id: housing_topa_restore
+      quote: "Definitivamente recortaría la burocracia y ampliaría la legislación de TOPA, de la que yo misma me he beneficiado."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jenkins relató haber sido desalojada injustamente alrededor de 2010, desplazando a tres generaciones de su familia, y dijo que «priorizaría la vivienda profundamente asequible», «recortaría la burocracia y ampliaría la legislación de TOPA, de la que yo misma me he beneficiado», y la extendería con alivio del impuesto a la propiedad para las personas mayores. Un compromiso firme y personalmente fundamentado de fortalecer la TOPA (Ley de Oportunidad de Compra para Inquilinos)."
+
+    - question_id: econ_small_business_tax_relief
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jenkins dijo que los dueños de pequeños negocios «no están preparados para competir por la contratación gubernamental», y se comprometió a «recortar la burocracia», hacer accesible el proceso y brindar mentoría para que los negocios tengan un «enfoque justo y equilibrado para competir». Favorable a aliviar las cargas sobre los pequeños negocios, planteado en torno a la burocracia y el acceso más que a recortes de impuestos específicamente."
+
+    - question_id: crime_police_in_schools
+      quote: "Absolutamente no. No vamos a estigmatizar a nuestros niños. Inocente hasta que se demuestre lo contrario. Es una escuela, no una institución penitenciaria."
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jenkins dio un enfático «absolutamente no» a devolver policías armados a todas las escuelas secundarias públicas de DC, calificando una escuela de «no una institución penitenciaria»."
+
+    - question_id: transit_metro_funding
+      quote: "Definitivamente apoyo financiar el Metro al 100%. El transporte es equidad. También es seguridad."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jenkins, residente de un desierto de transporte al este del río, dijo que «definitivamente apoy[a] financiar el Metro al 100%», planteando el transporte como equidad y seguridad."
+
+    - question_id: econ_commuter_tax
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jenkins dijo que está «abierta a la conversación», señalando que muchas personas «disfrutan de los panes y los peces» de DC sin contribuir a sus ingresos."
+
+    - question_id: housing_production_vs_affordability
+      quote: "No importa si se está construyendo vivienda nueva si no puedes permitirte vivir allí."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jenkins dijo que «definitivamente priorizaría la vivienda profundamente asequible», relatando su propio desalojo injusto; la nueva producción importa poco «si no puedes permitirte vivir allí». La asequibilidad primero."
+
+    - question_id: econ_rfk_stadium
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Jenkins calificó la reurbanización del RFK de «un punto de discordia» para su comunidad de Deanwood (Ward 7), criticándola porque «muchos de esos buenos empleos sindicales se comprometieron a sindicatos de fuera del Distrito de Columbia»; ella negociaría relaciones de contratación local para que los residentes obtengan empleos de construcción y hostelería. Crítica del acuerdo tal como está estructurado."
+
+    - question_id: labor_worker_protections
+      quote: "Trabajaré con los empleadores de DC para adoptar políticas favorables a las personas cuidadoras, como horarios flexibles, opciones de teletrabajo y licencia familiar remunerada…"
+      explanation: "Jenkins defiende la licencia familiar remunerada, la remuneración justa para los trabajadores de salud y cuidado en el hogar, y la inversión en la economía del cuidado, planteando las protecciones laborales sólidas como centrales para apoyar a las personas cuidadoras y a las familias. Favorable."
+
+    - question_id: homelessness_housing_first
+      quote: "También invertiré en el desarrollo de vivienda asequible, protegeré a los inquilinos de prácticas injustas y fortaleceré los esfuerzos de prevención de la falta de vivienda."
+      explanation: "La plataforma de vivienda de Jenkins se compromete a fortalecer los esfuerzos de prevención de la falta de vivienda junto con las protecciones a los inquilinos y el desarrollo de vivienda asequible. Favorable a un enfoque orientado a la prevención y los servicios, aunque expresado brevemente."
+
+- id: candace-nelson
+  short_bio: >
+    Veterana del gobierno de DC durante dos décadas (50 años) y actual presidenta del DC Black
+    Democratic Caucus; exjefa de gabinete de la concejala del Ward 4 Janeese Lewis George y directora
+    de transición del Procurador General. Origen familiar sindical («Legado de Trabajo»). Vive en
+    Brightwood. Plataforma: educación, vivienda, autogobierno, derechos de los trabajadores y
+    transporte.
+  long_bio: |
+    Candace Tiana Nelson (50 años) nació y se crió en Winchester, Virginia, a menudo la única
+    estudiante negra de su clase o grado. Atribuye a sus padres —su padre en turnos de 12 horas en
+    Rubbermaid, su madre trabajando turnos hospitalarios de 12 horas mientras obtenía una maestría en
+    enfermería y testificaba ante el Congreso con su sindicato— su sentido de dignidad,
+    perseverancia y compromiso con el trabajo organizado. Se describe a sí misma como «un Legado de
+    Trabajo» y es exmiembro del AFGE Local 1000. Vive en el vecindario de Brightwood. Sus dos décadas
+    en el gobierno de DC abarcan las ramas ejecutiva, legislativa y judicial. Entre sus funciones:
+    oficial de proyectos especiales en el Departamento de Financiamiento de la Atención Médica,
+    gestionando un contrato de $110 millones que creó District Direct, que transformó el acceso de los
+    residentes a Medicaid, SNAP y TANF durante la COVID-19; analista de políticas que redactó una
+    recomendación clave que condujo a la creación de la Oficina de Asuntos Afroamericanos de DC; y
+    trabajo en la Oficina de Política e Iniciativas para la Mujer, donde estableció la alianza de DC
+    con Work Smart, un programa de negociación salarial para mujeres, especialmente ciudadanas
+    retornadas. Sirvió en dos Equipos de Transición de la Alcaldía, y como comisionada de la ANC en el
+    Ward 4, antes de convertirse en directora de transición y luego jefa de gabinete del Procurador
+    General Brian Schwalb tras su elección en 2022. Más recientemente fue jefa de gabinete de la
+    concejala del Ward 4 Janeese Lewis George. Actualmente se desempeña como presidenta del DC Black
+    Democratic Caucus. Las prioridades de la plataforma de Nelson son el autogobierno (se opone a
+    cualquier cumplimiento preventivo del exceso de la administración Trump), la educación (quiere un
+    Comité de Educación autónomo restablecido en el Concejo de DC), la asequibilidad de la vivienda
+    (ampliar la estabilización de rentas, fortalecer la TOPA, financiar plenamente el Fondo Fiduciario
+    para la Producción de Vivienda), los derechos de los trabajadores (crear un Departamento de
+    Trabajo y Derechos de los Trabajadores de DC, una Carta de Derechos de los Trabajadores) y la
+    equidad en el transporte (BRT para los Wards 7 y 8, ciclovías protegidas). Cuenta con el respaldo
+    de Jews United for Justice, Bike Walk & Bus PAC y AFGE Local 2725.
+  positions:
+    - question_id: housing_topa_restore
+      quote: "Fortalecer la Ley de Oportunidad de Compra para Inquilinos (TOPA) y dar a los inquilinos una oportunidad justa de permanecer en sus hogares."
+      explanation: "Se compromete explícitamente a «fortalecer la Ley de Oportunidad de Compra para Inquilinos (TOPA) y dar a los inquilinos una oportunidad justa de permanecer en sus hogares», planteándolo como un compromiso central de justicia de vivienda."
+
+    - question_id: housing_rent_stabilization
+      quote: "Ampliar la estabilización de rentas para apoyar rentas asequibles y estables para las familias trabajadoras a medida que se construyen más edificios."
+      explanation: "Se compromete explícitamente a «ampliar la estabilización de rentas para apoyar rentas asequibles y estables para las familias trabajadoras a medida que se construyen más edificios». Plantea la vivienda estable y asequible como un derecho humano."
+
+    - question_id: housing_production_trust_fund
+      explanation: "Nombra explícitamente «financiar plenamente el Fondo Fiduciario para la Producción de Vivienda (HPTF)» como parte de su agenda de vías hacia la propiedad de la vivienda, junto con el Programa de Primer Derecho de Compra (First Right to Purchase)."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "Mejorar las ciclovías protegidas y los corredores peatonalizados, en particular en los vecindarios de alto tráfico."
+      explanation: "Propone explícitamente «mejorar las ciclovías protegidas y los corredores peatonalizados, en particular en los vecindarios de alto tráfico» y «abogar por una red de Autobús de Tránsito Rápido (BRT) más robusta, especialmente en las comunidades desatendidas de los Wards 7 y 8». Respaldada por Bike, Walk & Bus PAC."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Defender nuestras protecciones locales de Ciudad Santuario de los ataques del Congreso y de los líderes electos que se apresuran a comprometer nuestros valores."
+      explanation: "Se compromete a «defender nuestras protecciones locales de Ciudad Santuario de los ataques del Congreso y de los líderes electos que se apresuran a comprometer nuestros valores», garantizando que DC siga siendo un lugar seguro para las comunidades inmigrantes. Se negará a cumplir preventivamente con el exceso de la administración Trump."
+
+    - question_id: education_community_schools
+      explanation: "Apoya la coordinación y el aumento del financiamiento para satisfacer las necesidades de los niños en situación de pobreza, con discapacidades o en hogares de acogida, y propone un Comité de Educación autónomo en el Concejo de DC. No respalda específicamente el modelo de escuelas comunitarias por su nombre, pero su marco educativo «de la cuna a la jubilación» concuerda con su filosofía de servicios integrales."
+
+    - question_id: home_rule_dc_resist
+      explanation: "El autogobierno es su primera prioridad de plataforma: se opone explícitamente a cualquier cumplimiento preventivo del exceso de la administración Trump y se compromete a «defender nuestras protecciones locales de Ciudad Santuario de los ataques del Congreso y de los líderes electos que se apresuran a comprometer nuestros valores». En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 dijo que las victorias de DC contra la interferencia federal «han sido en la rama judicial» y se comprometió a «apoyar que la oficina del procurador general tenga lo que necesita para demandar», luchar «de manera colectiva» y crear una oficina de asuntos federales en el Concejo, basándose en haber visto al alcalde, al Concejo y al Procurador General no coordinarse cuando era jefa de gabinete del Ward 4."
+
+    - question_id: crime_public_health
+      quote: "Los apoyamos enfocándonos más en las vías que en el castigo."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Nelson dijo que a los jóvenes reincidentes se les debe responder con «vías [en lugar de] castigo» —interrupción de la violencia, apoyos de salud mental y resolución de conflictos—, además de vías profesionales a través de programas como la DC Infrastructure Academy y un consejo juvenil que trabaje «en sincronía» con el Concejo. Una clara postura de seguridad pública comunitaria, de prevención por encima del castigo."
+
+    - question_id: crime_police_in_schools
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Nelson dio un enfático «no» a devolver policías armados a todas las escuelas secundarias públicas de DC, instando a invertir en servicios de salud mental para que las escuelas «sigan siendo un lugar saludable» en lugar de criminalizar a los jóvenes."
+
+    - question_id: transit_metro_funding
+      quote: "No, no aumentaría el financiamiento… los otros estados no están pagando lo suficiente."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Nelson dijo que «no aumentaría el financiamiento», porque Virginia y Maryland «no están pagando lo suficiente» y DC ha estado pagando más que su parte."
+
+    - question_id: econ_commuter_tax
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Nelson respondió «sí» a un impuesto regional a quienes vienen de los suburbios, aunque reconoció que la supervisión del Congreso probablemente bloquearía tal proyecto de ley."
+
+    - question_id: housing_production_vs_affordability
+      quote: "Sabemos que necesitamos vivienda asequible equilibrada y también vivienda profundamente asequible, pero la producción de eso es de suma importancia."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Nelson dijo que la «producción… sabemos que la necesitamos» de vivienda; si bien también quiere vivienda equilibrada y profundamente asequible, recalcó que «la producción de eso es de suma importancia». Inclinada hacia la producción."
+
+    - question_id: labor_worker_protections
+      quote: "Luchar por un salario digno para todos. … Trabajaré para establecer el Departamento de Trabajo y Derechos de los Trabajadores de DC para hacer cumplir los estándares laborales, prevenir las represalias… Defenderé una Carta de Derechos de los Trabajadores."
+      explanation: "Nelson, que se autodenomina «un legado de trabajo» y exmiembro de un sindicato, hace del poder de los trabajadores una pieza central: luchar por un salario digno para todos, una Carta de Derechos de los Trabajadores, un Departamento de Trabajo y Derechos de los Trabajadores de DC, y empleos y protecciones sindicales ampliados. Lo apoya firmemente."
+
+    - question_id: homelessness_housing_first
+      quote: "Proteger a los vecinos sin hogar de los desalojos inhumanos de campamentos y ampliar los servicios integrales… Apoyar soluciones de mejores prácticas con éxito comprobado en DC, como la vivienda de apoyo permanente."
+      explanation: "Nelson protegería a los vecinos sin hogar de los «desalojos inhumanos de campamentos», ampliaría los servicios integrales y respaldaría la vivienda de apoyo permanente y los modelos de «la vivienda primero» (Housing First). Apoya firmemente un enfoque de «la vivienda primero» por encima del desalojo de campamentos."
+
+- id: oye-owolewa
+  short_bio: >
+    Actual Representante en la Sombra de DC (2021–presente, 36 años); doctorado en farmacia (PharmD)
+    de Northeastern. Nacido en Boston de inmigrantes nigerianos; de adulto fue voluntario en aulas de
+    DC antes de ganar un escaño en la ANC del Ward 8 por un voto en 2018. Lideró protestas contra una
+    sede de ICE en el campus de St. Elizabeth's. Temas insignia: UDC sin matrícula, aplicación de la
+    ciudad santuario y una plataforma ampliamente progresista que abarca vivienda, atención médica,
+    clima y derechos de los trabajadores.
+  long_bio: |
+    Oye Owolewa (36 años) nació en Boston de padres inmigrantes nigerianos de los estados de Kwara y
+    Osun. De niño sufrió acoso, empezó peleas y fue suspendido de la escuela antes de que sus padres
+    lo impulsaran hacia la educación. Obtuvo un doctorado en farmacia de la Universidad Northeastern
+    en 2014 como el único hombre negro de su programa doctoral. Tras mudarse a DC fue voluntario en
+    aulas, enseñando experimentos de ciencias; trabajó como gerente de farmacia en Safeway y
+    farmacéutico en Rite Aid antes de ganar su primera contienda de la ANC en el Ward 8 en 2018, por
+    un solo voto. Desde enero de 2021 se ha desempeñado como Representante en la Sombra de DC ante
+    EE. UU., uno de los defensores no remunerados de la estadidad de la ciudad con presencia en la
+    Cámara. En ese cargo ha trabajado para interceptar drogas de las calles, ha ayudado a ciudadanos
+    retornados a obtener empleos sindicales y ha asegurado el acceso a la vacuna contra la COVID para
+    miles de washingtonianos, vacunando él mismo a algunos pacientes. Lideró protestas contra la
+    construcción de una nueva sede de ICE en el campus de St. Elizabeth's en el Ward 8. Describe la
+    falta de estadidad de DC como algo que deja a los residentes «singularmente expuestos» a los
+    abusos federales y dice que la lucha por el autogobierno es por «la supervivencia, la dignidad y
+    la democracia real». Su propuesta legislativa insignia es hacer que la UDC sea sin matrícula para
+    todos los residentes de DC. Su plataforma es de las más detalladas de la contienda, abarcando
+    vivienda (restaurar la TOPA, ampliar la estabilización de rentas, vivienda social), atención médica
+    (restaurar Medicaid/DC Healthcare Alliance, una visión de Medicare para Todos, reducción de daños
+    por sobredosis), seguridad comunitaria (un enfoque que pone a la comunidad primero, retirar a la
+    policía de las escuelas), clima (energía 100% limpia, Ley de Hogares Saludables, ley de botellas),
+    derechos de los trabajadores (Carta de Derechos de los Trabajadores, Departamento de Trabajo de
+    DC) y servicios para personas mayores. Cuenta con el respaldo del Washington Teachers' Union,
+    Sierra Club, Working Families Party, varias secciones de SEIU y AFGE, el Amalgamated Transit Union
+    y decenas de otras organizaciones laborales y cívicas.
+  positions:
+    - question_id: housing_topa_restore
+      quote: "defender y restaurar la TOPA, incluida la reversión de los recientes recortes que despojaron de protecciones a los edificios pequeños, financiando plenamente el Programa de Primer Derecho de Compra."
+      explanation: "Se compromete a «defender y restaurar la TOPA, incluida la reversión de los recientes recortes que despojaron de protecciones a los edificios pequeños, financiando plenamente el Programa de Primer Derecho de Compra (First Right Purchase)», añadiendo requisitos de transparencia y sanciones para los malos actores."
+
+    - question_id: housing_rent_stabilization
+      quote: "fortalecer la estabilización de rentas reduciendo el aumento máximo anual al Índice de Precios al Consumidor, ampliando el control de rentas a edificios más nuevos y financiando inspecciones proactivas."
+      explanation: "«Fortalecerá la estabilización de rentas reduciendo el aumento máximo anual al Índice de Precios al Consumidor, ampliando el control de rentas a edificios más nuevos y financiando inspecciones proactivas». Plantea una estabilización de rentas sólida como esencial para detener el desplazamiento de residentes negros y morenos de larga data."
+
+    - question_id: housing_production_trust_fund
+      quote: "dedicar una parte significativa del Fondo Fiduciario para la Producción de Vivienda a la preservación, incluidas las transacciones de TOPA, las adquisiciones sin fines de lucro y las cooperativas de equidad limitada que mantienen la vivienda asequible a largo plazo."
+      explanation: "Apoya «dedicar una parte significativa del Fondo Fiduciario para la Producción de Vivienda (HPTF) a la preservación, incluidas las transacciones de TOPA, las adquisiciones sin fines de lucro y las cooperativas de equidad limitada que mantienen la vivienda asequible a largo plazo»."
+
+    - question_id: housing_social_model
+      quote: "vivienda social, fideicomisos de suelo comunitario y vías hacia la propiedad para que los inquilinos de larga data puedan construir estabilidad y riqueza generacional."
+      explanation: "Apoya explícitamente ampliar la «vivienda social, los fideicomisos de suelo comunitario y las vías hacia la propiedad para que los inquilinos de larga data puedan construir estabilidad y riqueza generacional», y un «Green New Deal para la Vivienda Social» para que las inversiones climáticas brinden beneficios comunitarios directos."
+
+    - question_id: transit_bike_bus_lanes
+      quote: "invertir en estaciones, paradas de autobús, aceras, iluminación y mejoras de accesibilidad más seguras."
+      explanation: "«Ampliará los corredores prioritarios de autobús» e «invertirá en estaciones, paradas de autobús, aceras, iluminación y mejoras de accesibilidad más seguras». Respaldado por Bike, Walk & Bus PAC. Se enfoca en un Distrito que prioriza el transporte y que pone a los residentes por encima del flujo de automóviles."
+
+    - question_id: mpd_ice_cooperation
+      quote: "poner fin a toda cooperación entre el MPD e ICE, hacer cumplir la Ley de Valores Santuario y garantizar que las agencias del Distrito no asistan en deportaciones ni en la aplicación de la ley migratoria federal."
+      explanation: "«Pondrá fin a toda cooperación entre el Departamento de Policía Metropolitana (MPD) e ICE, hará cumplir la Ley de Valores Santuario (Sanctuary Values Act) y garantizará que las agencias del Distrito no asistan en deportaciones ni en la aplicación de la ley migratoria federal». Ampliar las protecciones santuario en escuelas, clínicas y refugios. Lideró protestas contra una nueva sede de ICE en el campus de St. Elizabeth's."
+
+    - question_id: education_community_schools
+      quote: "fortalecer las escuelas del vecindario ampliando los programas extraescolares y de verano e invirtiendo en escuelas comunitarias que brinden tutoría, nutrición, atención médica y apoyo de salud mental."
+      explanation: "«Fortalecerá las escuelas del vecindario ampliando los programas extraescolares y de verano e invirtiendo en escuelas comunitarias que brinden tutoría, nutrición, atención médica y apoyo de salud mental», con una distribución de recursos basada en la equidad, especialmente al este del río (East of the River)."
+
+    - question_id: education_mental_health_schools
+      quote: "retirar a la policía de las escuelas de las DCPS e invertir en cambio en consejeros, enfermeras y trabajadores sociales que apoyen al niño en su totalidad."
+      explanation: "«Retirará a la policía de las escuelas de las DCPS e invertirá en cambio en consejeros, enfermeras y trabajadores sociales que apoyen al niño en su totalidad». Afirma que los estudiantes «merecen escuelas de vecindario sólidas con suficientes maestros, consejeros, enfermeras y personal de salud mental para satisfacer sus necesidades»."
+
+    - question_id: crime_public_health
+      explanation: "Como farmacéutico y funcionario electo, plantea la violencia como «estrechamente ligada al trauma, la enfermedad mental no tratada, la inestabilidad de la vivienda y la falta de oportunidades». Ampliará los programas de interrupción de la violencia, el empleo juvenil y la prevención comunitaria; garantizará que las emergencias de salud mental sean atendidas por respondedores capacitados en lugar de oficiales armados. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 calificó la violencia de «producto de la falta de inversión», describió cómo enderezó su propia adolescencia violenta gracias al apoyo de salud mental, y dijo que trabaja con grupos de interrupción de la violencia como la Alliance of Concerned Men e invierte en alfabetización (el Washington Literacy Center) para prevenir una «vida de delincuencia»."
+
+    - question_id: crime_secure_dc
+      quote: "oponerse a las ampliaciones de la detención preventiva, rechazar los esfuerzos por crear nuevos delitos o penas más largas que no mejoran la seguridad."
+      explanation: "«Se opondrá a las ampliaciones de la detención preventiva, rechazará los esfuerzos por crear nuevos delitos o penas más largas que no mejoran la seguridad». Plantea la crisis de seguridad pública de DC como el resultado de una dependencia excesiva del castigo —el enfoque central de Secure DC— en lugar de abordar las causas de fondo."
+
+    - question_id: crime_more_police
+      explanation: "Dice que DC «depende de estrategias de seguridad pública que han fracasado durante décadas» y que «los residentes financian el mayor presupuesto policial en la historia del Distrito mientras las causas de fondo de la violencia… quedan sin abordar». Favorece la supervisión y la rendición de cuentas del MPD, no su ampliación. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 defendió una propuesta de un cuestionario de candidatos de un recorte del 50% a la aplicación de la ley, argumentando que DC está entre las jurisdicciones más policiadas (Policía del Capitolio, escuelas, universidades, Servicio Secreto) y que las horas extra obligatorias «desangran nuestro presupuesto» en gasto reactivo que se redirigiría mejor a respondedores de salud mental (citando el modelo CAHOOTS) y al DPR; se opone firmemente, no solo se abstiene de priorizar, a más oficiales."
+
+    - question_id: youth_curfew_support
+      quote: "oponerse a los toques de queda juveniles, la vigilancia policial escolar y la vigilancia ampliada que criminalizan a los jóvenes."
+      explanation: "«Se opondrá a los toques de queda juveniles, la vigilancia policial escolar y la vigilancia ampliada que criminalizan a los jóvenes». Califica los toques de queda sin inversión en programación de un «enfoque punitivo que contribuye al conducto de la escuela a la prisión»."
+
+    - question_id: youth_curfew_programming
+      quote: "luchar por ampliar los espacios juveniles extraescolares y nocturnos, invertir en la interrupción de la violencia arraigada en la confianza comunitaria, y financiar plenamente los programas de desarrollo juvenil que ofrezcan empleo remunerado, exploración profesional y vías hacia empleos sindicales."
+      explanation: "«Luchará por ampliar los espacios juveniles extraescolares y nocturnos, invertir en la interrupción de la violencia arraigada en la confianza comunitaria, y financiar plenamente los programas de desarrollo juvenil que ofrezcan empleo remunerado, exploración profesional y vías hacia empleos sindicales». Trata la inversión en programación como la herramienta principal para la seguridad juvenil."
+
+    - question_id: harm_reduction_safe_injection
+      quote: "enfrentar las sobredosis con un verdadero enfoque de salud pública centrado en la reducción de daños, el acceso al tratamiento, la estabilidad de la vivienda y la continuidad de la atención."
+      explanation: "Pide explícitamente que DC «enfrente las sobredosis con un verdadero enfoque de salud pública centrado en la reducción de daños, el acceso al tratamiento, la estabilidad de la vivienda y la continuidad de la atención». Como farmacéutico y profesional de la salud pública, su uso de la «reducción de daños» como encuadre central abarca los modelos de centros de prevención de sobredosis."
+
+    - question_id: childcare_universal
+      quote: "garantizar que las familias no gasten más del diez por ciento de sus ingresos en cuidado infantil cuando la Ley de Cero a Tres (Birth-to-Three Act) esté plenamente implementada."
+      explanation: "«Financiará el cuidado y el aprendizaje tempranos desde el nacimiento hasta el pre-K con una inversión pública estable y predecible», aumentará las tarifas de reembolso del cuidado infantil y «garantizará que las familias no gasten más del diez por ciento de sus ingresos en cuidado infantil cuando la Ley de Cero a Tres esté plenamente implementada». Financiará plenamente y protegerá permanentemente el Fondo de Equidad Salarial para Educadores de la Primera Infancia."
+
+    - question_id: sanitation_rats
+      quote: "alejar al Distrito del control de roedores que pone el veneno primero y orientarlo hacia la prevención que pone el saneamiento primero."
+      explanation: "Tiene un eje de plataforma dedicado al control de roedores. «Alejará al Distrito del control de roedores que pone el veneno primero y lo orientará hacia la prevención que pone el saneamiento primero», eliminará gradualmente los rodenticidas anticoagulantes de segunda generación, «fortalecerá la contenerización y la infraestructura de compostaje» y exigirá informes públicos sobre los tiempos de respuesta del 311 y la aplicación de la ley."
+
+    - question_id: environment_renewable_energy
+      quote: "acelerar la descarbonización, fortalecer la estrategia Carbon Free DC y llevar al Distrito hacia la energía 100% limpia mediante la energía solar comunitaria, la climatización y las modernizaciones de edificios ampliadas."
+      explanation: "«Acelerará la descarbonización, fortalecerá la estrategia Carbon Free DC y llevará al Distrito hacia la energía 100% limpia mediante la energía solar comunitaria, la climatización y las modernizaciones de edificios ampliadas». Apoya la Ley de Hogares Saludables (Healthy Homes Act), proteger el Fondo Fiduciario de Energía Sostenible y la transición de los hogares de bajos ingresos a electrodomésticos eléctricos sin costo."
+
+    - question_id: environment_public_power
+      explanation: "Apoya una transición a la energía pública que «ponga la asequibilidad, la confiabilidad y la protección del consumidor primero» como alternativa a la Pepco de propiedad de inversores. Respaldado por We Power DC, la coalición de defensa de la energía pública del Distrito, y plantea la reducción de los costos de los servicios públicos mediante la propiedad pública como parte de su agenda climática y de asequibilidad."
+
+    - question_id: transit_fare_free_buses
+      explanation: "Apoya reducir y eliminar las tarifas de autobús como parte de una agenda que prioriza el transporte y que también amplía los corredores prioritarios de autobús e invierte en estaciones, paradas, aceras y accesibilidad más seguras. Respaldado por el Bike, Walk & Bus PAC y el Amalgamated Transit Union (ATU Local 689)."
+
+    - question_id: childcare_birth_to_three
+      quote: "financiar el cuidado y el aprendizaje tempranos desde el nacimiento hasta el pre-K con una inversión pública estable y predecible."
+      explanation: "«Financiará el cuidado y el aprendizaje tempranos desde el nacimiento hasta el pre-K con una inversión pública estable y predecible», aumentará las tarifas de reembolso del cuidado infantil, financiará plenamente la Ley de Cero a Tres para que las familias no gasten más del 10% de sus ingresos en cuidado, y protegerá permanentemente el Fondo de Equidad Salarial para Educadores de la Primera Infancia."
+
+    - question_id: crime_police_in_schools
+      explanation: "«Retirará a la policía de las escuelas de las DCPS e invertirá en cambio en consejeros, enfermeras y trabajadores sociales que apoyen al niño en su totalidad», y se opone a «los toques de queda juveniles, la vigilancia policial escolar y la vigilancia ampliada que criminalizan a los jóvenes»."
+
+    - question_id: home_rule_dc_resist
+      explanation: "Representante en la Sombra electo de DC, un defensor no remunerado de la estadidad que lideró protestas contra una nueva sede de ICE en el campus de St. Elizabeth's. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 dijo que DC debe «hacer frente a una Casa Blanca hostil» mientras «avanza hacia la estadidad de DC», y debe «usar el presupuesto para proteger a la gente» —aumentando el fondo legal de inmigración y atrayendo industrias para recontratar a los trabajadores federales despedidos— porque los residentes le dijeron en una asamblea sobre inmigración que querían «abogados de inmigración», no «los pensamientos y oraciones de un concejal». Una postura de autogobierno firmemente asertiva."
+
+    - question_id: transit_metro_funding
+      quote: "Apoyo aumentar proactivamente el financiamiento para reducir los costos reactivos."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Owolewa apoyó aumentar proactivamente el financiamiento del Metro «para reducir los costos reactivos»."
+
+    - question_id: econ_commuter_tax
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Owolewa dijo «lo estudiaré a fondo. No lo apoyo en este momento porque… nuestros negocios están sufriendo», prefiriendo atraer turismo y recontratar trabajadores. Abierto a estudiarlo pero actualmente opuesto; registrado como mixto."
+
+    - question_id: housing_production_vs_affordability
+      quote: "Construir vivienda es muy crucial, pero asegurarse de que sea asequible es absolutamente lo número uno para mí."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Owolewa dijo que la asequibilidad es «absolutamente lo número uno», para proteger del desplazamiento a los washingtonianos nativos de largo plazo y a las personas mayores con ingresos fijos. La asequibilidad primero."
+
+    - question_id: food_access_public_grocery
+      quote: "Apoyará tiendas de comestibles de pequeño formato, cooperativas de alimentos, conversiones de tiendas de esquina y huertos comunitarios mediante financiamiento focalizado y asistencia técnica."
+      explanation: "Owolewa sostiene que la política alimentaria de DC se ha enfocado «de manera demasiado estrecha en atraer tiendas de comestibles» e invertiría directamente —a través del DMV Good Food Fund, cooperativas de alimentos, conversiones de tiendas de esquina, huertos comunitarios y un grupo de trabajo de acceso a alimentos para los Wards 7 y 8. Apoya firmemente la intervención de la ciudad contra los desiertos alimentarios, enfatizando los sistemas alimentarios públicos y cooperativos por encima de la dependencia de las tiendas privadas."
+
+    - question_id: environment_electricity_affordability
+      quote: "Oye exigirá revisiones de asequibilidad e impacto en la salud pública antes de que la Comisión de Servicios Públicos apruebe cualquier aumento de tarifas y presionará por una aplicación real cuando los servicios públicos violen la ley del Distrito…"
+      explanation: "Owolewa exigiría revisiones de asequibilidad y de salud pública antes de que la Comisión de Servicios Públicos apruebe cualquier aumento de tarifas de Pepco o Washington Gas, prohibiría los cortes de servicio por incapacidad de pago, ampliaría el alivio de la deuda de servicios públicos y evaluaría seriamente la energía pública. Apoya firmemente una acción agresiva para reducir las facturas de electricidad."
+
+    - question_id: econ_business_activity_tax
+      quote: "Apoya reestructurar los impuestos a las empresas mediante un Impuesto a la Actividad Comercial para que las grandes corporaciones que operan en DC contribuyan de manera justa…"
+      explanation: "Owolewa apoya explícitamente reestructurar los impuestos a las empresas mediante un Impuesto a la Actividad Comercial (Business Activity Tax) para que las grandes corporaciones que operan en DC contribuyan de manera justa, junto con un impuesto a los millonarios e impuestos más altos a las ganancias de capital y a las mansiones. Lo apoya firmemente."
+
+    - question_id: labor_worker_protections
+      quote: "Oye luchará por aumentar el salario mínimo a al menos veinte dólares la hora camino a veinticinco dólares… Defenderá y restaurará plenamente One Fair Wage completando la Iniciativa 82…"
+      explanation: "Owolewa aumentaría el salario mínimo a $20 y luego a $25 la hora, implementaría plenamente la Iniciativa 82, aprobaría una Carta de Derechos de los Trabajadores, fortalecería la licencia remunerada y la aplicación de la ley contra el robo de salarios, y crearía un Departamento de Trabajo del Distrito. Apoya firmemente ampliar las protecciones de los trabajadores."
+
+    - question_id: homelessness_housing_first
+      quote: "Se asociará estrechamente con The Way Home Campaign… para promover un verdadero enfoque de «la vivienda primero». … Oye se opondrá a las redadas de campamentos y a la criminalización que desestabilizan a las personas y socavan los esfuerzos de vivienda."
+      explanation: "Owolewa defiende explícitamente un «verdadero enfoque de «la vivienda primero» (Housing First)» —financiar plenamente la vivienda de apoyo permanente, los vales LRSP y la vivienda puente— y se opone a las redadas de campamentos y a la criminalización. Lo apoya firmemente."
+
+    - question_id: education_impact_osse
+      quote: "El alcalde nombra a los líderes de las principales agencias educativas, incluidas las DCPS… y la OSSE, lo que limita la supervisión independiente. Al mismo tiempo, la Junta Estatal de Educación electa carece de autoridad significativa…"
+      explanation: "Owolewa critica el nombramiento por parte del alcalde de la OSSE y de otros líderes educativos por limitar la supervisión independiente e impulsaría reformas de gobernanza para restaurar la voz democrática y fortalecer la Junta Estatal de Educación electa, en consonancia con la independencia de la OSSE. Respalda la mitad de gobernanza de esta pregunta; no aborda específicamente el sistema de evaluación docente IMPACT."
+
+- id: lisa-raymond
+  short_bio: >
+    Veterana de la política educativa (56 años); comenzó su carrera apoyando a mujeres anteriormente
+    encarceladas en una casa de reinserción de Dupont Circle. Cofundadora de la Cesar Chavez Charter;
+    presidenta de la Junta Estatal de Educación de DC (Wards 5 y 6, 2006); dirigió la política
+    educativa del Concejo de DC bajo el presidente del Concejo Kwame Brown; jefa de gabinete del
+    Procurador General Karl Racine (2018–2020). Fideicomisaria de la junta de Planned Parenthood Metro
+    Washington. Vive cerca de Lincoln Park.
+  long_bio: |
+    Lisa Raymond (56 años) comenzó su carrera en DC en una casa de reinserción cerca de Dupont Circle
+    apoyando a mujeres anteriormente encarceladas que buscaban dignidad y un camino hacia adelante.
+    Esa experiencia, dice, fundamentó su convicción de que «el servicio público es humano, urgente y
+    personal». Luego ayudó a fundar la Cesar Chavez Public Charter School, sirviendo como directora de
+    operaciones y más tarde directora de operaciones (COO) y siendo testigo de primera mano de cuántos
+    estudiantes de secundaria llegaban años por debajo de su nivel de grado. En 2006 ganó un escaño en
+    la Junta Estatal de Educación de DC (representando a los Wards 5 y 6), donde se desempeñó como
+    presidenta de la Junta y ayudó a ampliar el PreK de calidad y a fortalecer los estándares de
+    graduación, solo para ver los poderes de la junta transferidos al alcalde poco después. Pasó a
+    dirigir la política educativa del Concejo de DC bajo el entonces presidente Kwame Brown,
+    gestionando los presupuestos de las DCPS y ayudando a dar forma a reformas clave: redactó
+    legislación que aseguraba que cada estudiante pudiera tomar el SAT y postularse a programas
+    universitarios o técnicos, amplió el financiamiento de la educación profesional y técnica, y
+    fortaleció la aplicación de la ley contra el fraude de residencia. De 2018 a 2020 se desempeñó como
+    jefa de gabinete del Procurador General Karl Racine —el primer Procurador General electo del
+    Distrito— apoyando a una agencia independiente que luchaba contra el robo de salarios y mantenía a
+    los jóvenes fuera del sistema de justicia penal. También se ha desempeñado como fideicomisaria de
+    Planned Parenthood of Metro Washington y como presidenta voluntaria de la junta de una escuela
+    charter de DC. Vive cerca de Lincoln Park con su esposo Josh y su perro de rescate Jojo; tiene dos
+    hijos en la universidad y es miembro activa de la comunidad Hill Havurah. Actualmente trabaja como
+    oficial de grandes donaciones para una organización sin fines de lucro de los Wards 7 y 8 que sirve
+    a jóvenes sin hogar. Las prioridades de su plataforma son la educación (ampliación del Pre-K,
+    remuneración de los educadores, educación profesional y técnica (CTE) y aprendizajes,
+    modernización escolar), la oferta de vivienda (permisos simplificados, Fondo Fiduciario para la
+    Producción de Vivienda, protección de los inquilinos) y el autogobierno. Apoya explícitamente
+    toques de queda focalizados y temporales como una herramienta de seguridad pública junto con la
+    programación juvenil. Cuenta con el respaldo del concejal Charles Allen, la exconcejala Mary Cheh,
+    IAFF Local 36, DC YIMBYs, Greater Greater Washington y Opportunity DC.
+  positions:
+    - question_id: housing_production_trust_fund
+      quote: "Invertir en el Fondo Fiduciario para la Producción de Vivienda con una supervisión sólida."
+      explanation: "Se compromete explícitamente a «invertir en el Fondo Fiduciario para la Producción de Vivienda (HPTF) con una supervisión sólida». También apoya los permisos simplificados y el uso de suelo público para aumentar la oferta en los ocho wards."
+
+    - question_id: education_community_schools
+      explanation: "Apoya los servicios integrales para los jóvenes —atención de salud mental, vías profesionales, espacios extraescolares seguros y alianzas con empleadores—, pero no respalda específicamente el modelo de escuelas comunitarias por su nombre. Su plataforma educativa se centra en la calidad de la enseñanza, la educación profesional y técnica (CTE) y la infraestructura escolar."
+
+    - question_id: education_mental_health_schools
+      quote: "ampliar la atención de salud mental basada en la escuela, apoyar a los proveedores comunitarios y continuar el modelo de corespondedores DBH-MPD para que los jóvenes en crisis reciban atención y apoyo, no criminalización."
+      explanation: "Pide explícitamente que el Distrito «amplíe la atención de salud mental basada en la escuela, apoye a los proveedores comunitarios y continúe el modelo de corespondedores DBH-MPD para que los jóvenes en crisis reciban atención y apoyo, no criminalización»."
+
+    - question_id: crime_more_police
+      quote: "una fuerza policial bien capacitada y con suficiente personal."
+      explanation: "Apoya explícitamente «una fuerza policial bien capacitada y con suficiente personal» junto con la transparencia y la supervisión. También pide responsabilizar a los socios federales por los enjuiciamientos y los nombramientos judiciales."
+
+    - question_id: youth_curfew_support
+      quote: "apoya medidas de seguridad pública focalizadas y temporales, incluidos los toques de queda, cuando sean necesarias para mantener seguros a los residentes. Pero la aplicación de la ley por sí sola no puede ser el fundamento de la política juvenil."
+      explanation: "Afirma explícitamente que «apoya medidas de seguridad pública focalizadas y temporales, incluidos los toques de queda, cuando sean necesarias para mantener seguros a los residentes. Pero la aplicación de la ley por sí sola no puede ser el fundamento de la política juvenil». Una de las pocas candidatas At-Large en respaldar explícitamente los toques de queda como herramienta."
+
+    - question_id: youth_curfew_programming
+      quote: "La solución a largo plazo es la oportunidad, la conexión y la esperanza."
+      explanation: "Combina su apoyo a los toques de queda con una agenda integral de inversión en los jóvenes: programas de manejo de conflictos basados en evidencia, vías profesionales, aprendizajes remunerados (defiende la DC Young Adult Corps Act), espacios extraescolares y nocturnos seguros ampliados, y atención de salud mental basada en la escuela. «La solución a largo plazo es la oportunidad, la conexión y la esperanza»."
+
+    - question_id: transit_bike_bus_lanes
+      explanation: "Apoya «la seguridad peatonal y una red de bajo estrés para el ciclismo» y «opciones de transporte multimodal que reduzcan los costos y sirvan a los residentes de los ocho wards». Apoya «opciones de transporte electrificadas». No pide específicamente ciclovías protegidas ni carriles exclusivos para autobuses."
+
+    - question_id: environment_renewable_energy
+      explanation: "Apoya la «implementación robusta del plan Carbon Free DC» y la Ley de Hogares Saludables (Healthy Homes Act). Quiere una construcción de vivienda asequible sin gas y energéticamente eficiente, y una supervisión rigurosa de la Comisión de Servicios Públicos para controlar los costos de los servicios públicos."
+
+    - question_id: housing_upzoning
+      explanation: "Apoya aumentar la oferta de vivienda en los ocho wards mediante permisos simplificados y el uso estratégico de suelo público. Respaldada por DC YIMBYs, lo que señala una orientación a favor de la oferta y la densidad, aunque su plataforma enfatiza la reforma de procesos por encima de un fin explícito de la zonificación unifamiliar. En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026 rechazó el planteamiento de uno u otro, diciendo que DC necesita vivienda profundamente asequible y «construir más vivienda», con socios y un proceso simplificado, para «crear un clima en el que la gente realmente venga a construir»."
+
+    - question_id: crime_public_health
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Raymond, basándose en su trabajo en Covenant House Greater Washington, dijo que la respuesta a la delincuencia juvenil «comienza por lo básico»: vivienda, servicios integrales y desarrollo laboral de alta calidad que «encuentre a los jóvenes donde están» y los ponga en un camino hacia la independencia, un enfoque que pone la prevención y los servicios primero."
+
+    - question_id: home_rule_dc_resist
+      quote: "Tenemos que seguir legislando con base en nuestros valores, no en una administración que puede o no intervenir."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Raymond instó al Concejo a «legislar con audacia» para los residentes y «con base en nuestros valores, no en una administración que puede o no intervenir», es decir, sin cumplir preventivamente. También recalcó educar a los aliados demócratas y dijo que retiraría su apoyo a candidatos de fuera del estado que no se comprometan con la estadidad de DC. Asertiva en principio, combinada con una estrategia de relaciones y educación."
+
+    - question_id: crime_police_in_schools
+      explanation: "Pregunta de codificación inversa: mantener a la policía armada fuera de las escuelas concuerda con la afirmación. En la ronda rápida del debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Raymond respondió «no» a devolver policías armados a todas las escuelas secundarias públicas de DC, diciendo que podría apoyar seguridad sin armas o servicios de apoyo en la puerta, pero no oficiales armados de manera generalizada."
+
+    - question_id: transit_metro_funding
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Raymond dijo que apoyaría aumentar el financiamiento «solo si fuera para apoyar servicios a personas en un desierto de transporte… para un servicio de autobús rápido», vinculándolo al acceso económico. Condicional; registrado como mixto."
+
+    - question_id: econ_commuter_tax
+      quote: "Me gusta la idea… la gente no paga nada por venir a DC… absolutamente necesitamos considerarlo."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Raymond dijo que «le gusta la idea» de un impuesto a quienes vienen de los suburbios, señalando que otras zonas cobran por entrar (por ejemplo, ~$13 en la ciudad de Nueva York) mientras que «la gente no paga nada por venir a DC», y «absolutamente necesitamos considerarlo»."
+
+    - question_id: housing_production_vs_affordability
+      quote: "No creo que tenga que ser una cosa u otra."
+      explanation: "En el debate At-Large del Programa de Elecciones Justas del 28 de abril de 2026, Raymond rechazó la disyuntiva: DC necesita vivienda asequible y profundamente asequible y construir más, con un proceso simplificado y socios «para crear un clima en el que la gente realmente venga a construir». Registrado como mixto."
+
+    - question_id: environment_electricity_affordability
+      quote: "Apoyar una supervisión rigurosa de la Comisión de Servicios Públicos para garantizar que los servicios públicos monopólicos del Distrito no dejen a los residentes y negocios con costos aplastantes de energía y calefacción."
+      explanation: "La plataforma de Asequibilidad Energética de Raymond pide una supervisión rigurosa de la Comisión de Servicios Públicos para que los servicios públicos monopólicos no dejen a los residentes con «costos aplastantes», más la Ley de Hogares Saludables (Healthy Homes Act) y programas de eficiencia para reducir las facturas de energía de bajos ingresos. Apoya firmemente la acción para reducir los costos de electricidad."
