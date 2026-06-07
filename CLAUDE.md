@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 # Run dev server (http://127.0.0.1:5000)
 FLASK_ENV=development .venv/bin/python app.py
 
-# Run all tests (96 tests; data_loader + scoring + quiz selection + routes + translations)
+# Run all tests (99 tests; data_loader + scoring + quiz selection + routes + content integrity + translations)
 .venv/bin/python -m pytest
 
 # Run a single test

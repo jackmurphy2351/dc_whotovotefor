@@ -1,6 +1,6 @@
 # Help Me Vote DC 2026!
 
-An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across seven races.
+An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across seven races, in **English and Spanish**.
 
 > **Why the primary matters:** In DC local politics, the Democratic Primary is effectively the general election. The District has not elected a Republican mayor since 1954. Winning the June 16 primary is, for most races, winning the seat.
 
@@ -13,15 +13,17 @@ An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Dem
 3. The app scores every candidate by averaging your agreement on the questions where both you and the candidate have a stated position, then ranks them from most to least aligned — surfacing how much data backs each score so well-documented candidates aren't outranked by thinly-sourced ones (see [Scoring algorithm](#scoring-algorithm)).
 4. Each result shows per-issue breakdowns and links every claim to a primary source.
 
+The entire experience is available in **English (`/en/…`) and Spanish (`/es/…`)** via a header toggle — see [Internationalization](#internationalization-i18n).
+
 ### The seven races
 
 | Slug | Race                                | Type |
 |---|-------------------------------------|---|
-| `mayor` | Mayoral Election                    | Democratic Primary (7 candidates) |
+| `mayor` | Mayoral Election                    | Democratic Primary (8 candidates) |
 | `delegate` | Non-Voting Delegate to Congress     | Democratic Primary (5 candidates) |
-| `at_large_mcduffie` | At-Large Council — Special Election | **Non-partisan** general election (3 candidates) |
+| `at_large_mcduffie` | At-Large Council — Special Election | **Non-partisan** general election (4 candidates) |
 | `at_large_bonds` | At-Large Council — Regular          | Democratic Primary (9 candidates) |
-| `ward1` | Ward 1 Councilmember                | Democratic Primary (7 candidates) |
+| `ward1` | Ward 1 Councilmember                | Democratic Primary (5 candidates) |
 | `ward5` | Ward 5 Councilmember                | Democratic Primary (3 candidates) |
 | `ward6` | Ward 6 Councilmember                | Democratic Primary (3 candidates) |
 
@@ -33,6 +35,7 @@ An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Dem
 - **PyYAML** for all candidate/question/election content
 - **python-frontmatter + Markdown** for resource/explainer pages
 - **Flask session** (signed cookie) for quiz state — no database
+- **Custom YAML-overlay i18n** (English + Spanish) — no Flask-Babel, no build step
 - Vanilla JS for quiz UX enhancements (progress bar, radio highlight)
 - **pytest** for unit + integration tests
 
@@ -64,11 +67,15 @@ The app will be available at **http://127.0.0.1:5000**.
 python -m pytest
 ```
 
-All 45 tests should pass. The test suite covers:
+All 99 tests should pass (98 passed, 1 skipped — a translation-coverage check that
+skips once every candidate is translated). The test suite covers:
 - Scoring algorithm edge cases (null stances, skipped questions, agreement calculation)
 - Coverage tracking and the limited-data ranking tier (thresholds, tiered sort order)
 - Data loader validation (duplicate IDs, missing sources, unknown question references)
-- Flask route smoke tests (all routes return 200)
+- Quiz question-selection flow and stepped quiz state
+- Flask route smoke tests across both language prefixes (all routes return 200)
+- Content integrity and translation overlays (`test_translations.py` hard-fails on
+  any overlay ID/field/slug that doesn't exist in English, and on stance/source drift)
 
 ---
 
@@ -79,37 +86,47 @@ dc_whotovotefor/
 ├── app.py                        # Flask entry point
 ├── pyproject.toml
 ├── helpmevote/
-│   ├── __init__.py               # App factory; loads content at startup
+│   ├── __init__.py               # App factory; loads content (all langs) at startup
 │   ├── config.py
-│   ├── data_loader.py            # YAML loader + startup validation
+│   ├── data_loader.py            # YAML loader + startup validation + overlay merge
+│   ├── i18n.py                   # SUPPORTED_LANGUAGES, t()/plural()/localdate helpers
 │   ├── models.py                 # Frozen dataclasses (Election, Candidate, Position, …)
 │   ├── scoring.py                # Weighted match algorithm (pure function)
-│   ├── routes/
-│   │   ├── main.py               # /, /about
-│   │   ├── elections.py          # /election/<slug>
-│   │   ├── quiz.py               # /quiz/<slug>, POST, /results/<slug>
+│   ├── routes/                   # All blueprints mounted under /<lang_code>/
+│   │   ├── main.py               # /, /about (+ unprefixed /, robots.txt, sitemap.xml)
+│   │   ├── elections.py          # /election/<slug>, /candidate/<slug>/<id>
+│   │   ├── quiz.py               # /quiz/<slug>/start, /quiz/<slug>, /results/<slug>
 │   │   └── resources.py          # /resources, /resources/<topic>
-│   ├── templates/                # Jinja2 templates
+│   ├── templates/                # Jinja2 templates (use t() for all UI chrome)
 │   └── static/                   # CSS + JS
-├── content/
+├── content/                      # English is canonical and the only validated layer
 │   ├── elections.yaml
 │   ├── issues.yaml
 │   ├── questions.yaml
 │   ├── candidates/
-│   │   ├── mayor.yaml            # 7 candidates
+│   │   ├── mayor.yaml            # 8 candidates
 │   │   ├── delegate.yaml         # 5 candidates
-│   │   ├── at_large_mcduffie.yaml  # 3 candidates
+│   │   ├── at_large_mcduffie.yaml  # 4 candidates
 │   │   ├── at_large_bonds.yaml   # 9 candidates
-│   │   ├── ward1.yaml            # 7 candidates
+│   │   ├── ward1.yaml            # 5 candidates
 │   │   ├── ward5.yaml            # 3 candidates
 │   │   └── ward6.yaml            # 3 candidates
 │   ├── transcripts/              # Debate transcripts used as sources
-│   └── resources/                # Markdown explainer pages
+│   ├── resources/                # Markdown explainer pages
+│   ├── en/                       # Canonical UI chrome (ui.yaml)
+│   └── es/                       # Spanish text-only overlays (mirrors content/ IDs)
+│       ├── elections.yaml · issues.yaml · questions.yaml
+│       ├── candidates/<race>.yaml
+│       ├── resources/<topic>.md
+│       └── ui.yaml
 ├── scripts/
 │   └── fastdemocracy_scraper.py  # DC Council voting-record scraper (see below)
 └── tests/
     ├── test_scoring.py
     ├── test_data_loader.py
+    ├── test_quiz_selection.py
+    ├── test_content_integrity.py
+    ├── test_translations.py
     └── test_routes.py
 ```
 
@@ -234,6 +251,35 @@ The `/resources` section contains dc.gov-linked explainer pages on:
 - **How we assign candidate stances** — the grading rubric, including when a position earns a strong **±2** vs an ordinary **±1**
 
 These are Markdown files in `content/resources/` with YAML front-matter declaring their sources.
+
+---
+
+## Internationalization (i18n)
+
+The app ships in **English and Spanish**, and is built so a third language (e.g.
+Amharic) is a content drop, not a code change. There is **no Flask-Babel** — both
+the voter-facing content and the ~140 UI-chrome strings use the same YAML-overlay
+paradigm.
+
+- **English is canonical and the only validated layer.** Everything in `content/`
+  (root) is the source of truth. Each other language lives in `content/<lang>/` as a
+  **text-only overlay** keyed by the same stable IDs, carrying only translatable
+  fields (bios, explanations, quotes, prompts, labels). Anything missing falls back
+  to English per-field, so a translation can never break referential integrity or
+  drift structurally. Fields like `name`, `stance`, `sources`, and `campaign_url`
+  stay single-sourced in English and are **never** placed in an overlay.
+- **UI chrome** is `content/en/ui.yaml` (canonical) mirrored by `content/<lang>/ui.yaml`.
+  Templates call `{{ t("dotted.key") }}`; dates use the `localdate` filter; the few
+  pluralized strings use `plural()`.
+- **Routing.** All blueprints are mounted under a `/<lang_code>/` prefix; existing
+  `url_for(...)` calls are untouched (the language is injected automatically). The
+  header EN/ES toggle preserves the current page.
+- **Adding a language:** add its code to `SUPPORTED_LANGUAGES` in `helpmevote/i18n.py`
+  and drop in the relevant `content/<lang>/…` overlay files. `test_translations.py`
+  hard-fails on overlay IDs/fields/slugs that don't exist in English (catching typos)
+  and on stance/source drift, and reports any missing translations.
+
+See the **i18n** section of [`CLAUDE.md`](CLAUDE.md) for the full mechanics.
 
 ---
 
