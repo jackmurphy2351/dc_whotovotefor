@@ -1,0 +1,318 @@
+# Spanish overlay for the At-Large (McDuffie special) candidates. Only translatable text;
+# ids/question_ids match content/candidates/at_large_mcduffie.yaml. Names, sources and
+# endorser names stay in English. Ninguno de estos candidatos publicó un sitio en español;
+# toda la biografía, las explicaciones y las citas son traducción nuestra del contenido
+# editorial en inglés. Véase /resources/methodology.
+- id: doni-crawford
+  short_bio: >
+    Concejala At-Large (independiente), designada por unanimidad en enero de 2026. Exdirectora del
+    Comité de Negocios y Desarrollo Económico del Concejo; anteriormente en el DC Fiscal Policy
+    Institute (aseguró $41 millones en ayuda por la pandemia para trabajadores excluidos). Negoció
+    el acuerdo del estadio RFK/Commanders (acuerdo de beneficios comunitarios de $50 millones).
+    Universidad de Pittsburgh (Maestría en Asuntos Públicos e Internacionales). Se respalda
+    mutuamente con Jacque Patterson.
+  long_bio: |
+    Doni Crawford (36 años) fue designada por unanimidad al Concejo de DC como independiente
+    At-Large el 20 de enero de 2026, ocupando el puesto que dejó vacante Kenyan McDuffie. Tiene una
+    Maestría en Asuntos Públicos e Internacionales y una licenciatura en Ciencias Políticas y en
+    Lenguas y Literaturas Hispánicas de la Universidad de Pittsburgh. Construyó su carrera en torno
+    a la vivienda asequible, la justicia racial y el desarrollo económico inclusivo. En el DC Fiscal
+    Policy Institute fue autora de investigaciones influyentes y lideró una coalición que aseguró
+    $41 millones en ayuda por la pandemia para trabajadores excluidos de los programas federales,
+    incluidos los trabajadores de la economía informal, los ciudadanos que regresan del
+    encarcelamiento y los trabajadores indocumentados. Antes impulsó estrategias de revitalización
+    comunitaria en Neighborhood Allies en Pittsburgh, gestionando programas de subvenciones de
+    varios millones de dólares. Se unió al equipo del Concejo de Kenyan McDuffie en 2022 como
+    asesora de políticas, llegó a ser su directora legislativa y luego se desempeñó como directora
+    del Comité de Negocios y Desarrollo Económico, donde desempeñó un papel central en la
+    negociación de la reurbanización del estadio RFK / los Washington Commanders, asegurando un
+    acuerdo de beneficios comunitarios de $50 millones y requisitos de contratación local. Su
+    trabajo ha aparecido en Time Magazine, CNN y The Washington Post. Desde su designación ha estado
+    activa en los ocho wards y recibió el inaugural Premio Legado Wanda Alston de la Fundación Wanda
+    Alston por su apoyo a los jóvenes LGBTQ sin hogar. Acordó respaldarse mutuamente con Jacque
+    Patterson. En seguridad pública apoya un MPD «del tamaño adecuado y bien capacitado» y se opone
+    a usar el departamento de policía de DC como herramienta del control migratorio federal. En
+    seguridad juvenil, es autora de legislación que vincula cualquier zona de toque de queda con
+    programación juvenil obligatoria y con límites claros a la discreción de las fuerzas del orden.
+    En estadidad, una de sus primeras reuniones como concejala fue con el Senador en la Sombra
+    (Shadow Senator) de DC para alinear estrategias; ha copresentado legislación para proteger a los
+    residentes de DC del exceso de las fuerzas del orden federales y pide una oficina dedicada de
+    relaciones federales a nivel del Concejo.
+  positions:
+    - question_id: youth_curfew_support
+      quote: "Si les decimos a los jóvenes dónde no pueden estar, tenemos la responsabilidad de crear espacios donde sí puedan estar."
+      explanation: "Apoya condicionalmente los toques de queda para adolescentes como una medida a corto plazo, que se eliminaría gradualmente para 2028. Su propia legislación exigía que las zonas de toque de queda se acompañaran de programación juvenil alternativa y establecía límites claros a la discreción de las fuerzas del orden, enfatizando que los toques de queda por sí solos no son una estrategia de seguridad pública."
+
+    - question_id: youth_curfew_programming
+      quote: "También apoyo ampliar el financiamiento del tiempo fuera del horario escolar para que más estudiantes tengan lugares seguros y estructurados donde estar después de clases y los fines de semana."
+      explanation: "Es autora de legislación que exige que se ofrezca programación juvenil junto con cualquier zona de toque de queda. Apoya invertir en programación fuera del horario escolar, en clínicos de salud conductual en las escuelas y en horarios ampliados de los centros recreativos."
+
+    - question_id: education_mental_health_schools
+      quote: "Protegeré el Programa de Salud Conductual Escolar, que coloca clínicos en las escuelas públicas y charter de DC, de los recortes presupuestarios."
+      explanation: "Se compromete a proteger el Programa de Salud Conductual Escolar —que coloca clínicos en las escuelas públicas y charter de DC— de los recortes presupuestarios, calificando los recortes como «no un ahorro, sino un costo que pagaremos de otras maneras». Quiere ampliar el financiamiento del tiempo fuera del horario escolar para una programación extraescolar segura y estructurada. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 señaló que el programa «ha sido recortado en el presupuesto del año fiscal 27» y dijo: «Pienso luchar por ese programa en adelante»."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Apoyo consolidar nuestros programas de intervención comunitaria contra la violencia para una mayor eficiencia, mejorar la transparencia entre el MPD y las comunidades a las que sirve, y garantizar que el departamento de policía de DC nunca se use como herramienta del control migratorio federal."
+      explanation: "Afirma explícitamente que el departamento de policía de DC nunca debe usarse como herramienta del control migratorio federal. Ha copresentado legislación para proteger a los residentes de DC del exceso de las fuerzas del orden federales. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 describió haber presentado «legislación permanente y de emergencia para exigir que el MPD sea más transparente cuando coopera con el control migratorio federal» y respaldó un proyecto de ley pendiente que prohibiría la colaboración del MPD sin una orden judicial."
+
+    - question_id: housing_upzoning
+      quote: "Apoyo construir más vivienda en cada ward, incluidos dúplex y pequeños edificios de apartamentos en vecindarios que actualmente solo permiten viviendas unifamiliares, y convertir edificios de oficinas vacíos en lugares donde la gente pueda vivir."
+      explanation: "Apoya «construir más vivienda en cada ward, incluidos dúplex y pequeños edificios de apartamentos en vecindarios que actualmente solo permiten viviendas unifamiliares, y convertir edificios de oficinas vacíos en lugares donde la gente pueda vivir», y arreglar el proceso de Zonificación Inclusiva para que las unidades asequibles dejen de quedar vacías. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 eligió «una producción de vivienda más rápida» cuando se le pidió priorizar, citando las cargas regulatorias que empujan a los desarrolladores hacia Virginia y Maryland."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Recientemente presenté legislación para examinar si los programas de incentivos fiscales de DC realmente benefician al Distrito, porque los incentivos sin rendición de cuentas nos dejan sin nada que mostrar."
+      explanation: "Quiere «hacer que DC sea realmente más fácil para hacer negocios, especialmente para los negocios de propiedad de minorías y mujeres», crear una ventanilla única para los nuevos dueños de negocios y reducir las barreras de licencias innecesarias. Presentó legislación para examinar si los programas de incentivos fiscales de DC realmente benefician al Distrito, enfatizando incentivos con rendición de cuentas y menores barreras más que recortes generalizados de impuestos. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 retomó este tema, señalando que DC no ha «estudiado de manera integral» sus exenciones fiscales desde noviembre de 2018 y proponiendo «hacer algunos recortes y recuperar ese dinero para destinarlo a servicios sociales y vivienda»."
+
+    - question_id: crime_public_health
+      quote: "Diría que quiero centrarme principalmente en la prevención, asegurándonos de trabajar con socios comunitarios para implementar programas de interrupción de la violencia, de que nuestras escuelas estén adecuadamente financiadas, de que la gente tenga acceso a alimentos saludables: todas las cosas que con el tiempo podrían conducir a la delincuencia."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Crawford encabezó con la prevención como su principal enfoque de seguridad pública, nombrando los programas de interrupción de la violencia, el financiamiento escolar y el acceso a alimentos saludables como formas de abordar las causas de fondo de la delincuencia. También apoya consolidar los programas de intervención comunitaria contra la violencia del Distrito para una mayor eficiencia."
+
+    - question_id: parks_rec_funding
+      quote: "No tienen lugares a dónde ir y quieren más espacios en toda la ciudad… los programas recreativos que tenemos no satisfacen las necesidades de todos… tenemos que ser creativos para crear programas que satisfagan sus necesidades."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Crawford dijo que los jóvenes le repiten que les faltan lugares a dónde ir y quieren más espacios y actividades en toda la ciudad, y que la programación recreativa existente no satisface sus necesidades. Vinculó una acción reciente del Concejo a acompañar cualquier zona de restricción juvenil con inversiones y actividades en toda la ciudad."
+
+    - question_id: housing_production_trust_fund
+      quote: "Incluso al mirar el Fondo Fiduciario para la Producción de Vivienda, que es nuestra principal herramienta para construir vivienda asequible, este año solo hay $40 millones en él, cuando suele ser cien millones."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Crawford describió el Fondo Fiduciario para la Producción de Vivienda como la principal herramienta de vivienda asequible de DC y reprochó que esté financiado con cerca de $40 millones este año frente a sus ~$100 millones habituales, señalando que el fondo está obligado a destinar el 50% a la banda de ingresos más baja (0–30% del AMI). Plantea un financiamiento adecuado del HPTF como necesario para reactivar la producción asequible estancada."
+
+    - question_id: home_rule_dc_resist
+      quote: "Ya he presentado legislación permanente y de emergencia para exigir que el MPD sea más transparente cuando coopera con el control migratorio federal… ese proyecto de ley prohibiría que el MPD colabore con el control migratorio federal a menos que exista una orden judicial."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Crawford respondió a la pregunta sobre la interferencia del Congreso/federal señalando la legislación protectora que ya ha presentado (proyectos de ley permanentes y de emergencia de transparencia del MPD) y un proyecto de ley pendiente que quiere que avance y que prohibiría la colaboración del MPD con el control migratorio federal sin una orden judicial. Al preguntársele si el Concejo debería actuar aun sin alineación del ejecutivo, dijo que debería «seguir adelante» donde haya votos, prefiriendo una protección firme y codificada antes que esperar un consenso."
+
+    - question_id: environment_data_centers
+      quote: "En realidad le tengo un poco de temor a esta área… la IA, hemos visto el aumento de los centros de datos y cómo eso afecta nuestros costos de servicios públicos… [necesitamos] poner barreras de protección a ese crecimiento para que no veamos los impactos de los centros de datos en nuestros servicios públicos."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Crawford expresó preocupación por que el crecimiento de los centros de datos eleve los costos de servicios públicos de los residentes y pidió «barreras de protección a ese crecimiento», a perseguir con los socios regionales de DC. A favor de limitar/gestionar el nuevo desarrollo de centros de datos más que de una prohibición total."
+
+    - question_id: crime_police_in_schools
+      quote: "No, no por ahora."
+      explanation: "Pregunta de codificación inversa: rechazar el regreso de la policía a las escuelas concuerda con mantenerla fuera. En la ronda rápida del debate del Programa de Elecciones Justas del 28 de abril de 2026 sobre el regreso de policías armados a las escuelas secundarias públicas este otoño, Crawford intervino con un «no, no por ahora», una inclinación breve y matizada en contra de la policía en las escuelas más que un compromiso firme de política."
+
+    - question_id: transit_metro_funding
+      explanation: "En la ronda rápida del debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Crawford apoyó aumentar el financiamiento del Metro «si pudiéramos lograr que nuestros socios regionales también aumenten sus aportes». Condicional al reparto regional de costos; registrado como mixto."
+
+    - question_id: transit_traffic_cameras
+      quote: "No. Y también creo que debemos reevaluar la ubicación de las cámaras existentes."
+      explanation: "En la ronda rápida del debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Crawford se opuso a ampliar las cámaras automatizadas de tráfico y pidió reevaluar la ubicación de las existentes."
+
+    - question_id: housing_production_vs_affordability
+      quote: "Diría que una producción de vivienda más rápida."
+      explanation: "Al pedírsele elegir en el debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Crawford eligió «una producción de vivienda más rápida», citando las cargas regulatorias que empujan a los desarrolladores hacia Virginia y Maryland y la necesidad de «hacer que sea igual de fácil construir vivienda». Inclinada hacia la producción, aunque también defendió el requisito de asequibilidad profunda del Fondo Fiduciario para la Producción de Vivienda."
+
+    - question_id: housing_office_conversion
+      quote: "No apoyo eximir los requisitos de vivienda asequible para estas conversiones en el centro."
+      explanation: "En el debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Crawford se opuso a eximir los requisitos de vivienda asequible para las conversiones de oficinas a viviendas en el centro, proponiendo en cambio agilizar los proyectos que incluyan un porcentaje fijo de unidades asequibles a cambio de financiamiento para cubrir la brecha (gap financing)."
+
+    - question_id: econ_rfk_stadium
+      quote: "El acuerdo es tan bueno como la vigilancia que le pongamos."
+      explanation: "Crawford ayudó a negociar el acuerdo de beneficios comunitarios de $50 millones del acuerdo RFK/Commanders como directora de comité del Concejo. En el debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026 lo defendió, condicionando su valor a una «supervisión rigurosa» en cada paso para «asegurar los logros que pretendíamos para nuestra comunidad». A favor, con énfasis en la supervisión."
+
+    - question_id: labor_worker_protections
+      quote: "Lideré una coalición que aseguró $41 millones para trabajadores que habían sido excluidos por completo de la ayuda federal por la pandemia: personas que trabajan en la economía informal, ciudadanos que regresan del encarcelamiento y trabajadores indocumentados…"
+      explanation: "Exinvestigadora del DC Fiscal Policy Institute, Crawford lideró la coalición que ganó $41 millones para los trabajadores excluidos y centra su agenda económica en los trabajadores y la contratación local, insistiendo en que los acuerdos de desarrollo incluyan compromisos reales de contratar a residentes de DC. A favor de protecciones sólidas para los trabajadores."
+
+- id: jacque-patterson
+  short_bio: >
+    Presidente de la Junta Estatal de Educación de DC; veterano militar; 30 años de servicio
+    comunitario en DC. Nacido en acogida (foster care), criado con programas de la red de protección
+    social. Excoordinador de Asuntos Comunitarios (alcalde Williams), Junta de la Agencia de
+    Financiamiento de Vivienda (alcalde Fenty), Junta Asesora de Asuntos de Veteranos (alcalde
+    Gray). Comisionado de la ANC (5 mandatos). Se respalda mutuamente con Doni Crawford.
+  long_bio: |
+    Jacque Patterson (61 años) nació en acogida (foster care) y se crió en un hogar que dependía de
+    cupones de alimentos y de programas de la red de protección social. Esa experiencia le inculcó un
+    compromiso de por vida con preservar la dignidad de las personas en el gobierno; suele recordar
+    hacer fila con sus padres para la recertificación de beneficios y el juicio que ello conllevaba.
+    Sirvió en el ejército, donde interiorizó una ética de «el servicio antes que uno mismo», y ha
+    dedicado 30 años a servir a las comunidades de DC. Ha ocupado nombramientos bajo tres alcaldes de
+    DC: coordinador de Asuntos Comunitarios en la administración del alcalde Anthony Williams, miembro
+    de la Junta de Directores de la Agencia de Financiamiento de Vivienda bajo el alcalde Adrian
+    Fenty, y miembro de la Junta Asesora de Asuntos de Veteranos bajo el alcalde Vincent Gray. Sirvió
+    en una ANC durante cinco mandatos (diez años) y ha trabajado en educación, organizaciones sin
+    fines de lucro y escuelas charter. Actualmente es presidente de la Junta Estatal de Educación de
+    DC y vive en el Ward 8, donde reside desde mediados de la década de 1990. En vivienda, apoya
+    políticas equilibradas que protejan a los inquilinos a la vez que amplían la oferta de vivienda
+    asequible; en la entrevista con The 51st propuso aumentar el Fondo Fiduciario para la Producción
+    de Vivienda de $100 millones a $250 millones al año, frente al recorte del 50% propuesto por la
+    alcaldesa Bowser. Es un firme defensor de las «escuelas comunitarias» que ofrecen recursos para
+    las familias más allá de la educación básica. En seguridad pública, cree que la aplicación de la
+    ley y la prevención deben trabajar juntas, con inversión en educación, mentoría y oportunidades
+    laborales para los jóvenes. Apoya los toques de queda para adolescentes solo de manera temporal,
+    mientras se amplía la programación juvenil. Acordó respaldarse mutuamente con Doni Crawford.
+  positions:
+    - question_id: education_community_schools
+      quote: "En el Concejo, seguiré abogando por escuelas públicas sólidas, vías profesionales para los jóvenes y programas que preparen a los estudiantes para la universidad, las carreras y el liderazgo en nuestra ciudad."
+      explanation: "Ha abogado por las «escuelas comunitarias» —que ofrecen recursos para las familias más allá de la educación básica— a lo largo de su carrera como presidente de la Junta Estatal de Educación de DC y comisionado de la ANC."
+
+    - question_id: housing_production_trust_fund
+      explanation: "Aumentaría el Fondo Fiduciario para la Producción de Vivienda de $100 millones al año a $250 millones al año. La alcaldesa Bowser propuso recortar el fondo en un 50%."
+
+    - question_id: housing_social_model
+      quote: "Lucharé por políticas de vivienda equilibradas que protejan a los inquilinos a la vez que aumentan la oferta de vivienda asequible, ampliaré los programas que ayudan a los residentes a convertirse en propietarios, y apoyaré políticas fiscales responsables que mantengan al Distrito financieramente sólido a la vez que protegen a las familias trabajadoras."
+      explanation: "Apoya políticas de vivienda equilibradas que protejan a los inquilinos a la vez que aumentan la oferta de vivienda asequible, y programas para ampliar la propiedad de vivienda."
+
+    - question_id: youth_curfew_support
+      explanation: "Apoya los toques de queda para adolescentes solo de manera temporal, mientras se implementa y amplía la programación juvenil."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "El objetivo es hacer de DC una ciudad donde los pequeños negocios puedan lanzarse, crecer y prosperar sin quedar enterrados en la burocracia."
+      explanation: "Tiene un Plan de Acción para Pequeños Negocios detallado: ampliar el acceso al capital (CDFI, subvenciones y préstamos, especialmente para negocios de propiedad de minorías y mujeres), preservar y ampliar el espacio comercial asequible, y «regulaciones inteligentes y simplificadas» que simplifiquen las licencias y reduzcan los retrasos para que los pequeños negocios «puedan lanzarse, crecer y prosperar sin quedar enterrados en la burocracia». En el debate del Programa de Elecciones Justas del 28 de abril de 2026 vinculó el crecimiento de los pequeños negocios con la educación en alfabetización financiera y los programas de emprendimiento, citando a amigos cuyos negocios «colapsaron por… la incapacidad de obtener el tipo de apoyo que necesitan»."
+
+    - question_id: crime_public_health
+      quote: "Hay que tener interruptores de violencia que realmente conozcan las comunidades, que vengan de las comunidades y que se ganen la confianza de los jóvenes… no solo durante el horario escolar, sino durante todo el año."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Patterson pidió interruptores de violencia arraigados en la comunidad que trabajen todo el año, además de inversión en salud mental, programación extraescolar y de verano, y empleos de verano remunerados, citando una reducción de la delincuencia de aproximadamente el 40% en la zona de Trinidad cuando coordinó a los interruptores de violencia en el Ward 5. Lo equilibra con un énfasis declarado en «la policía de proximidad por encima de todo», de modo que el enfoque de salud pública se combina con la actuación policial, no la reemplaza."
+
+    - question_id: housing_upzoning
+      quote: "Tenemos que avanzar más rápido en la producción de vivienda… Debemos asegurarnos de construir zonas más densas… cuando construimos más vivienda, creamos más oportunidades tanto de empleo como para que la gente pueda comprar una casa a un precio razonable."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Patterson coincidió en que DC debería priorizar una producción de vivienda más rápida y construir más densamente, citando la reurbanización de Barry Farms como modelo para añadir densidad sin desplazamiento. A favor de una mayor oferta de vivienda en términos generales; no abordó específicamente poner fin a la zonificación exclusiva para viviendas unifamiliares."
+
+    - question_id: home_rule_dc_resist
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Patterson planteó la respuesta a la interferencia federal principalmente en torno a la coordinación: el Concejo, el delegado, el alcalde y el Procurador General «cantando de la misma página», citando la pérdida presupuestaria de aproximadamente $1,100 millones del Distrito como consecuencia de una mala coordinación. También dijo que el Concejo debería «seguir adelante donde vayamos a aprobar legislación y haya votos». Su énfasis en la alineación y en evitar tomar a otros por sorpresa se sitúa entre el polo de confrontación firme de la pregunta y la coordinación pragmática, por lo que se registra como mixto."
+
+    - question_id: crime_police_in_schools
+      quote: "Trabajé en escuelas. Sé lo importantes que eran nuestros SRO… perdimos mucho cuando perdimos a nuestros SRO, y diría que sí."
+      explanation: "Pregunta de codificación inversa: apoyar la policía en las escuelas se opone a la afirmación. En la ronda rápida del debate del Programa de Elecciones Justas del 28 de abril de 2026, Patterson dijo «sí» a devolver policías armados a todas las escuelas secundarias públicas para el otoño, citando el valor de los Oficiales de Recursos Escolares (SRO) y la pérdida que supuso su retiro: una posición firme y sin matices en contra de mantener a la policía fuera de las escuelas."
+
+    - question_id: transit_metro_funding
+      quote: "No… ya hemos pagado más de lo que nos corresponde en el Metro."
+      explanation: "En la ronda rápida del debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Patterson se opuso a aumentar el financiamiento del Metro por parte de DC, diciendo que DC «ya ha pagado más de lo que le corresponde»."
+
+    - question_id: transit_traffic_cameras
+      quote: "Son predatorias… Son una entidad generadora de ingresos y tenemos que ponerle fin a eso."
+      explanation: "En la ronda rápida del debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Patterson se opuso firmemente a las cámaras automatizadas de tráfico, calificándolas de «predatorias» e impulsadas por la recaudación, colocadas donde no deberían y emitiendo multas tan elevadas que la gente «ni siquiera puede renovar sus licencias»; las revertiría, no las ampliaría."
+
+    - question_id: housing_production_vs_affordability
+      quote: "Tenemos que avanzar más rápido en la producción de vivienda… Debemos asegurarnos de construir zonas más densas."
+      explanation: "En el debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Patterson coincidió en que DC debería avanzar más rápido en la producción de vivienda y construir zonas más densas (citando Barry Farms), priorizando la producción. Inclinado hacia la producción."
+
+    - question_id: housing_office_conversion
+      quote: "Las eximiría. Sí, tenemos que asegurarnos de que esas viviendas estén disponibles para la gente."
+      explanation: "En el debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Patterson dijo que eximiría los requisitos de vivienda asequible para concretar las conversiones de oficinas a viviendas en el centro, priorizando poner en línea «cada unidad disponible» para revitalizar el centro tras la pérdida de ~22,000 empleos federales."
+
+    - question_id: labor_worker_protections
+      quote: "También apoyaré políticas que protejan a los trabajadores a la vez que garantizan que nuestra comunidad de pequeños negocios pueda prosperar."
+      explanation: "Patterson se compromete a apoyar políticas que protejan a los trabajadores a la vez que mantienen a los pequeños negocios capaces de prosperar, planteando las protecciones de los trabajadores y la salud de los negocios como compatibles. A favor, con un enfoque equilibrado y consciente de los negocios."
+
+- id: elissa-silverman
+  short_bio: >
+    Exconcejala At-Large 2015–2023; principal impulsora de la ley de licencia familiar remunerada de
+    DC. Exreportera del Washington Post y analista de políticas del DC Fiscal Policy Institute.
+    Propietaria de vivienda en el Ward 6 / Capitol Hill. Respaldada por 17 grupos, incluidos AFL-CIO,
+    Washington Teachers' Union, AFSCME, ATU y DC Firefighters. Alineada con Janeese Lewis George.
+  long_bio: |
+    Elissa Silverman (53 años) creció en las escuelas públicas de Baltimore y obtuvo su licenciatura
+    de la Universidad Brown. Comenzó su carrera como periodista —autora de la columna política «Loose
+    Lips» del Washington City Paper y, más tarde, reportera del Washington Post— antes de pasar a las
+    políticas públicas en el DC Fiscal Policy Institute, donde analizó el presupuesto de la ciudad y
+    lideró campañas de defensa para aumentar el salario mínimo y mejorar la transparencia de las
+    agencias. Se desempeñó como concejala At-Large de 2015 a 2023, perdiendo su puesto ante Kenyan
+    McDuffie en 2022. Su logro legislativo insignia fue ser coautora de la ley de licencia familiar y
+    médica remunerada de DC —que ofrece hasta 12 semanas de licencia remunerada— que se lanzó en
+    2020; su supervisión persistente condujo a aumentos de los beneficios y a una reducción de la
+    tasa impositiva a los empleadores. Otros aspectos destacados en el Concejo incluyen: liderar el
+    esfuerzo para crear un fondo de mantenimiento y reparación para la vivienda pública; financiar el
+    programa de interrupción de la violencia Cure the Streets (con el Procurador General Karl
+    Racine); crear la Alianza del Sector de la Salud de DC para capacitar a los residentes de DC para
+    carreras en el sector salud; ampliar el Programa de Empleo Juvenil de Verano Marion Barry; y
+    aprobar medidas de zonificación inclusiva para unidades asequibles. Trabajó brevemente para el
+    Departamento de Trabajo del gobernador de Maryland, Wes Moore, en 2024. Actualmente es miembro de
+    la junta de Seabury Resources for Aging. Es residente del Ward 6 y propietaria de vivienda en
+    Capitol Hill, una ciclista que se desplaza al trabajo en bicicleta desde hace mucho tiempo, y
+    está alineada con la concejal de DC Janeese Lewis George. Su campaña se enfoca en detener la
+    colaboración del Concejo con ICE, la rendición de cuentas presupuestaria, aumentar la oferta de
+    vivienda, capacitar y dotar adecuadamente al MPD junto con la prevención de la violencia basada
+    en evidencia, y reducir el ausentismo escolar.
+  positions:
+    - question_id: mpd_ice_cooperation
+      quote: "Detendrá la colaboración con ICE y garantizará que el Concejo defienda proactivamente nuestro derecho a la autodeterminación."
+      explanation: "Se compromete explícitamente a «detener la colaboración con ICE» y a garantizar que el Concejo defienda proactivamente el derecho de DC a la autodeterminación frente al exceso de la administración Trump. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 dijo: «El MPD no debería cooperar con ICE en el control migratorio; esa es nuestra ley, debemos seguir nuestra propia ley»."
+
+    - question_id: transit_bike_bus_lanes
+      explanation: "Cuenta con el respaldo de Greater Greater Washington (a favor del transporte), del Bike Walk & Bus PAC y de DC YIMBYs, y se describe como ciclista que se desplaza al trabajo en bicicleta; tiene una sólida trayectoria de apoyo al transporte y a la infraestructura de transporte activo."
+
+    - question_id: housing_production_trust_fund
+      quote: "Se enfoca en un desarrollo económico inclusivo que beneficie principalmente a las familias trabajadoras, no a los desarrolladores inmobiliarios ni a las firmas de capital privado."
+      explanation: "Apoya simplificar y aumentar los recursos de la DCHA y del Fondo Fiduciario para la Producción de Vivienda; aboga por eliminar los obstáculos a la construcción y por usar los terrenos públicos y los fondos públicos de manera estratégica. Se enfoca en un desarrollo económico inclusivo que beneficie principalmente a las familias trabajadoras, no a los desarrolladores inmobiliarios ni a las firmas de capital privado."
+
+    - question_id: crime_more_police
+      quote: "Apoya un MPD que esté adecuadamente capacitado y dotado de personal y que proteja a los residentes y respete sus derechos."
+      explanation: "Apoya un MPD que esté «adecuadamente capacitado y dotado de personal y que proteja a los residentes y respete sus derechos». También financió el programa de interrupción de la violencia Cure the Streets y promueve programas basados en evidencia para reducir la violencia con armas junto con la actuación policial tradicional. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 pidió seguir las mejores prácticas basadas en evidencia e implementar las recomendaciones del grupo de trabajo posterior a George Floyd para reformar «y reforzar» el MPD bajo el nuevo jefe."
+
+    - question_id: housing_upzoning
+      quote: "Aboga por aumentar la oferta de vivienda eliminando los obstáculos innecesarios a la construcción y usando estratégicamente los terrenos públicos y los fondos públicos."
+      explanation: "Aboga por aumentar la oferta de vivienda «eliminando los obstáculos innecesarios a la construcción y usando estratégicamente los terrenos públicos y los fondos públicos», y trabajó para aumentar las unidades asequibles en toda la ciudad mediante la zonificación inclusiva. Cuenta con el respaldo de DC YIMBYs; plantea el crecimiento de la oferta como algo que beneficia principalmente a las familias trabajadoras más que a los desarrolladores. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 rechazó la disyuntiva entre oferta y asequibilidad, diciendo que DC necesita «hacer ambas cosas»: construir más y eliminar las cargas regulatorias, a la vez que se llenan cientos de unidades vacías de la Autoridad de Vivienda de DC."
+
+    - question_id: econ_small_business_tax_relief
+      quote: "Fue una aliada de los dueños de negocios locales, ayudando a reducir la burocracia y asignando millones en ayuda durante la pandemia de COVID-19."
+      explanation: "Se describe como «una aliada de los dueños de negocios locales, ayudando a reducir la burocracia y asignando millones en ayuda durante la pandemia de COVID-19». Su supervisión de la licencia familiar remunerada redujo la tasa impositiva a los empleadores a la vez que aumentó los beneficios: una trayectoria de aliviar las cargas sobre los negocios locales, orientada a la burocracia y la ayuda focalizada más que a recortes generalizados de impuestos."
+
+    - question_id: home_rule_dc_resist
+      quote: "El gobierno del Distrito debe proteger a nuestros vecinos y a nuestra ciudad del presidente Trump y de su administración, no colaborar en su terror y su ilegalidad."
+      explanation: "Se compromete explícitamente a «detener la colaboración con ICE» y a garantizar que el Concejo defienda proactivamente el derecho de DC a la autodeterminación frente al exceso de la administración Trump. Pidió una oficina dedicada de relaciones federales a nivel del Concejo para mantener la voz de DC en el Capitolio de manera consistente y estratégica. En el debate del Programa de Elecciones Justas del 28 de abril de 2026 argumentó que «es difícil defender el autogobierno cuando no seguimos nuestra propia ley», recalcando a la vez que el Concejo, el Procurador General, el alcalde y el delegado deberían coordinar su estrategia para que DC no quede «desprevenido», combinando una postura sustantiva firme con un proceso disciplinado."
+
+    - question_id: housing_topa_restore
+      explanation: "Votó «sí» a la Ley de Aclaración de la Oferta de Venta de Buena Fe de la TOPA de 2015 (B 21-0147) en primera y última lectura durante su mandato como concejala At-Large, apoyando el marco de derechos de compra de los inquilinos de DC."
+
+    - question_id: crime_public_health
+      quote: "No estamos siguiendo las mejores prácticas en cuanto a la interrupción de la violencia. Tenemos que hacerlo y asegurarnos de que funcione bien."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Silverman respaldó la interrupción de la violencia basada en evidencia, citando al investigador de la Universidad de Maryland Thomas Abt y argumentando que DC no está siguiendo actualmente las mejores prácticas. Plantea la prevención de la violencia como algo que debe hacerse bien junto con la actuación policial más que como un reemplazo total, y anteriormente financió el programa Cure the Streets."
+
+    - question_id: housing_social_model
+      quote: "Es nuestro terreno. Podemos reurbanizar nuestra vivienda pública para que sea un verdadero activo no solo para las familias de bajos ingresos, sino también para las unidades a precio de mercado."
+      explanation: "En el debate del Programa de Elecciones Justas del 28 de abril de 2026, Silverman argumentó que DC debería reurbanizar el terreno de su autoridad de vivienda pública en comunidades de ingresos mixtos que sirvan tanto a residentes de bajos ingresos como a precio de mercado: un enfoque de propiedad pública e ingresos mixtos. A favor en concepto, planteado en torno a reurbanizar la vivienda pública existente más que un programa de vivienda social en toda la ciudad."
+
+    - question_id: crime_police_in_schools
+      quote: "No estoy segura, Michael. Seré honesta. Tengo que ver cuáles serían las mejores prácticas basadas en evidencia… tendría que examinarlo mejor."
+      explanation: "En la ronda rápida del debate del Programa de Elecciones Justas del 28 de abril de 2026, al preguntársele si votaría para devolver policías armados a las escuelas secundarias públicas este otoño, Silverman se abstuvo de tomar una posición, diciendo que «no estaba segura» y que necesitaría revisar primero las mejores prácticas basadas en evidencia. Registrado como neutral/indecisa más que como una inclinación."
+
+    - question_id: transit_metro_funding
+      quote: "El Metro es realmente importante para nuestros residentes y para nuestra economía."
+      explanation: "En la ronda rápida del debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Silverman respaldó financiar el Metro, calificándolo de «realmente importante para nuestros residentes y para nuestra economía»."
+
+    - question_id: econ_commuter_tax
+      quote: "Sí apoyo un impuesto a quienes vienen de los suburbios (commuter tax)."
+      explanation: "En la ronda rápida del debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Silverman dijo «sí apoyo un impuesto a quienes vienen de los suburbios», añadiendo que, dados los recortes de empleos federales, pensaría cuidadosamente en los plazos de implementación."
+
+    - question_id: transit_traffic_cameras
+      quote: "No. Aunque creo que deberíamos conservarlas… están diseñadas para hacer las calles seguras, no para recaudar ingresos."
+      explanation: "En la ronda rápida del debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Silverman se opuso a ampliar las cámaras automatizadas de tráfico a la vez que apoyó conservar las existentes, planteándolas como una herramienta de seguridad (no de recaudación)."
+
+    - question_id: housing_production_vs_affordability
+      quote: "No creo que sea una disyuntiva."
+      explanation: "En el debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Silverman rechazó el planteamiento de oferta frente a asequibilidad: «tenemos que hacer ambas cosas», construir más y eliminar las cargas regulatorias a la vez que se llenan cientos de unidades vacías de la Autoridad de Vivienda de DC. Registrado como mixto."
+
+    - question_id: housing_office_conversion
+      explanation: "En el debate de la elección especial del Programa de Elecciones Justas del 28 de abril de 2026, Silverman dijo que subsidiar las conversiones de oficinas a viviendas es «el futuro de nuestro centro» (un cambio en su forma de pensar), pero «cuestionó la disyuntiva», argumentando que, como los fondos de los contribuyentes subsidian las conversiones, «podemos esperar algo de asequibilidad en esos proyectos». Apoya las conversiones pero se resiste a una exención total de asequibilidad; registrado como mixto."
+
+    - question_id: labor_worker_protections
+      quote: "Fue la principal impulsora del programa de licencia familiar remunerada de DC, que ha beneficiado a decenas de miles de trabajadores… lideró campañas de defensa para aumentar el salario mínimo."
+      explanation: "Silverman fue coautora y principal impulsora de la ley de licencia familiar y médica remunerada de DC (hasta 12 semanas) y anteriormente lideró campañas para aumentar el salario mínimo. Ampliar las protecciones de los trabajadores es su tema insignia: lo apoya firmemente."
+
+- id: khalil-lee
+  short_bio: >
+    Washingtoniano de nacimiento y exasesor del Congreso. Nació en el DC General; creció en el Ward
+    7; se graduó de la Friendship Public Charter School Collegiate Academy; asistió a la Universidad
+    de Vermont a través del Programa DC TAG (2016). Su campaña se enfoca en la asequibilidad de la
+    vivienda y la lucha contra el desplazamiento, el autogobierno y la estadidad de DC, la seguridad
+    pública y el desarrollo económico.
+  long_bio: |
+    Khalil Lee es un washingtoniano de nacimiento, nacido en el hospital DC General —entonces anexo
+    al Centro de Detención Central— de una madre encarcelada. Creció a través de las escuelas
+    públicas de DC, participó en el Programa de Empleo Juvenil de Verano Marion Barry y en DC Youth
+    and Government, y fue voluntario semanalmente en la iniciativa Serve DC del alcalde. Se graduó de
+    la Friendship Public Charter School Collegiate Academy en el Ward 7 y, a través del Programa DC
+    TAG, asistió a la Universidad de Vermont, donde sirvió en el Gobierno Estudiantil, trabajó en el
+    Ayuntamiento de Burlington y ganó el primer campeonato nacional de la universidad en Debate de
+    Políticas Estadounidenses (American Policy Debate). Se graduó en 2016 junto a sus padres adoptivos
+    Bruce y Maureen Normann, a quienes conoció a través de la Iglesia Católica Romana Holy Comforter
+    Saint Cyprian en East Capitol Street. Posteriormente trabajó como asesor del Congreso, una
+    experiencia que, según dice, le da «un punto de vista único para navegar la relación tensa entre
+    el Distrito y el gobierno federal». Enmarca su candidatura en torno a unir «la comprensión local
+    y la perspectiva federal» para luchar por la autonomía de DC y mejorar las oportunidades
+    económicas en todo el Distrito. Su campaña se centra en la crisis de asequibilidad de la vivienda
+    y de desplazamiento —señalando que «la revitalización sin asequibilidad no es progreso; es
+    desplazamiento disfrazado de desarrollo»—, así como en el autogobierno y la estadidad de DC, la
+    seguridad pública y el desarrollo económico.
+  positions:
+    - question_id: home_rule_dc_resist
+      quote: "La incesante intromisión del gobierno federal en la autonomía de D.C.… siento una ferviente responsabilidad de oponerme a eso."
+      explanation: "Enmarca explícitamente el exceso federal como un tema central de campaña, calificándolo de «intromisión incesante» que socava la capacidad de DC de gobernarse a sí mismo. Apoya la estadidad de DC. Argumenta que su experiencia en el Congreso le da un punto de vista para «navegar la relación tensa entre el Distrito y el gobierno federal», firme en principio pero con énfasis también en el uso estratégico de las conexiones federales más que solo en la confrontación."
