@@ -1,0 +1,362 @@
+# Spanish overlay for the Delegate candidates. Only translatable text; ids/question_ids
+# match content/candidates/delegate.yaml. Names, sources and endorser names stay in English.
+# Ninguno de estos candidatos publicó un sitio en español; toda la biografía, las
+# explicaciones y las citas son traducción nuestra del contenido editorial en inglés.
+# Véase /resources/methodology.
+- id: robert-white
+  short_bio: >
+    Actual concejal At-Large de DC; preside el comité de vivienda desde 2023. Washingtoniano de
+    quinta generación (Petworth); exasesor legislativo de la delegada Norton (2008) y primer
+    director de Alcance Comunitario de la OAG (2015). Respaldado por Free DC, el WFP, la AFL-CIO, el
+    CBC PAC y la senadora Elizabeth Warren.
+  long_bio: |
+    Robert White (44 años) es un washingtoniano de quinta generación que creció en el vecindario de
+    Petworth. Se graduó de Archbishop Carroll High School, obtuvo títulos en Filosofía y Ciencias
+    Políticas de St. Mary's College of Maryland, completó estudios adicionales en la Universidad de
+    Oxford y en Gambia, África Occidental, y obtuvo su título de Derecho de la American University
+    Washington College of Law. En 2008, White llegó al Congreso para servir como asesor legislativo
+    de la delegada Eleanor Holmes Norton, donde desempeñó un papel principal en la redacción de
+    legislación para aflojar el control del Congreso sobre el gobierno de DC y dirigió audiencias de
+    supervisión centradas en el Distrito. En 2015, el Procurador General Karl Racine lo eligió para
+    servir como el primer director de Alcance Comunitario de la Oficina del Procurador General de DC,
+    diseñando una estrategia de participación comunitaria centrada en los residentes más vulnerables
+    de la ciudad. Es el único candidato negro en la contienda por la delegación. Elegido por primera
+    vez al Concejo de DC en 2016 —derrotando a un titular con el mayor total de votos en la historia
+    del Concejo de DC—, fue reelegido en 2020 y 2024 y preside el Comité de Vivienda del Concejo
+    desde 2023. También es profesor adjunto en el Georgetown University Law Center, donde enseña
+    derechos electorales y privación del derecho al voto por condena penal. Si es elegido delegado,
+    dice que buscaría un puesto en el Comité de Asignaciones de la Cámara para maximizar la
+    influencia de DC sobre el financiamiento. También ha propuesto eliminar los impuestos federales
+    sobre las ganancias de los negocios que se trasladen a DC como un incentivo de desarrollo
+    económico. Cuenta con el respaldo de Free DC, el Working Families Party, la AFL-CIO, el
+    Congressional Black PAC y la senadora Elizabeth Warren.
+  positions:
+    - question_id: statehood_top_priority
+      explanation: "Gran defensor de la estadidad; dice que buscaría un puesto en el Comité de Asignaciones de la Cámara para aprovechar los intereses de financiamiento de DC."
+
+    - question_id: mpd_ice_cooperation
+      explanation: "Se opone a la cooperación del MPD con ICE y apoya los valores santuario de DC; respondió «sí» a oponerse a que el Congreso aumente la presencia policial en DC."
+
+    - question_id: delegate_budget_autonomy
+      quote: "Trabajó como miembro principal del personal en las audiencias de supervisión del Congreso centradas en el Distrito y desempeñó un papel clave en la redacción de legislación para aflojar el control del Congreso sobre el gobierno de D.C. en favor de una mayor autonomía e independencia para los residentes de DC."
+      explanation: "Como asesor legislativo de Norton, «desempeñó un papel principal en la redacción de legislación para aflojar el control del Congreso sobre el gobierno de DC en favor de una mayor autonomía e independencia». Si es elegido, dice que buscaría un puesto en el Comité de Asignaciones de la Cámara para maximizar la influencia de DC sobre el financiamiento y proteger el presupuesto del Distrito de la interferencia del Congreso."
+
+    - question_id: delegate_oppose_federal_mpd
+      explanation: "En su cuestionario de Free DC respondió «sí» a oponerse a que el Congreso aumente la presencia policial en DC, en consonancia con oponerse a la toma federal del Departamento de Policía Metropolitana y a los despliegues federales en la ciudad."
+
+    - question_id: childcare_birth_to_three
+      explanation: "Como concejal At-Large, White fue autor de la Ley Birth-to-Three for All DC de 2018 (presentada como la Ley de Servicios de Salud del Desarrollo para Bebés y Niños Pequeños de 2017), el marco emblemático del Distrito para ampliar el cuidado subsidiado de bebés y niños pequeños, las visitas domiciliarias, las evaluaciones del desarrollo y la compensación de los educadores de la primera infancia: un compromiso sólido y fundacional con la inversión de cero a tres años."
+
+    - question_id: crime_public_health
+      explanation: "Como concejal At-Large, White patrocinó la Ley de Mejora de las Iniciativas de Prevención e Intervención de la Violencia del Fondo de Seguridad y Participación Vecinal de 2018, fortaleciendo la programación comunitaria de interrupción e intervención de la violencia de DC, en consonancia con tratar la violencia como un problema de salud pública."
+
+    - question_id: federal_workers_advocate
+      explanation: "Plantea los recortes de DOGE a la fuerza laboral federal como un ataque deliberado a «la clase media negra» que el gobierno federal construyó —«no se trata de eficiencia»— y dice que «tenemos que tomárnoslo de manera personal» y «luchar para que esos empleos regresen bajo una administración demócrata». Argumenta que la experiencia vivida de perder un cheque de pago, y no solo la teoría nacional, es lo que exige este puesto."
+
+    - question_id: delegate_federal_land_transfer
+      explanation: "Haría «el trabajo que hacía cuando trabajaba para Norton y trabajaría para transferir terrenos a DC para que podamos construir vivienda asequible», y quiere que los edificios vacíos de la GSA y los terrenos de los parques nacionales se destinen a uso local. Señala que la limpieza del Anacostia se retrasa porque las riberas del río son terreno del Servicio de Parques Nacionales, y se compromete a «transferir ese terreno de vuelta al distrito» para que DC no dependa de permisos federales lentos."
+
+    - question_id: statehood_strategy_bipartisan
+      explanation: "El enfoque más confrontativo y de presión partidista del grupo: «No vamos a convertir a DC en estado porque sea lo correcto; eso ya habría sucedido». «Aprovecharía la indignación en todo el país» y la lucha por el control demócrata del Congreso, movilizando a los residentes «por miles hacia estados o distritos pendulares o el distrito de cualquier miembro que vote contra los intereses de DC». Construye grandes coaliciones demócratas (CBC, Caucus Progresista) en lugar de buscar acuerdos bipartidistas."
+
+    - question_id: delegate_metro_federal_funding
+      explanation: "Dice que el Metro «tiene que protegerse y defenderse» con financiamiento federal porque «los contribuyentes de DC están cargando con un peso injusto» por un sistema que el gobierno federal ayudó a construir y luego abandonó; se compromete a «luchar por mucho financiamiento federal para reducir la carga»."
+
+    - question_id: delegate_contracting_equity
+      explanation: "La voz más fuerte a favor de las preferencias en la contratación: «Si tus competidores tienen una ventaja de 10 segundos en una carrera de 100 yardas, ganan siempre». Argumenta que las firmas de propiedad negra, latina y de mujeres no han tenido el mismo tiempo para crecer, por lo que «debemos, sin lugar a dudas, dar puntos de preferencia a las CBE; si no lo hacemos, perpetuamos una inequidad arraigada en un racismo profundo»."
+
+- id: trent-holbrook
+  short_bio: >
+    Asesor legislativo principal de Norton durante ocho años; estratega jefe que llevó el proyecto
+    de ley de estadidad de DC de una derrota en 1993 a aprobarse en la Cámara dos veces, con un voto
+    demócrata unánime la segunda vez. Egresado de Georgetown Law, Austin College y Oxford; veterano
+    de AmeriCorps.
+  long_bio: |
+    Trent Holbrook (40 años) sirvió ocho años en el equipo de la delegada Eleanor Holmes Norton, más
+    recientemente como asesor legislativo principal. Como estratega jefe de la estadidad de DC, llevó
+    el proyecto de ley de estadidad de perder en 1993 a aprobarse en la Cámara dos veces, asegurando
+    un apoyo récord y un voto demócrata unánime la segunda vez. Antes trabajó en AmeriCorps, donde
+    ayudó a defender a la agencia de los intentos del Congreso de retirarle el financiamiento, y
+    sirvió como pasante legal en la Oficina del Asesor Jurídico de la Casa Blanca de Obama. Es
+    egresado del Georgetown University Law Center, Austin College y la Universidad de Oxford. Su
+    plataforma enfatiza el autogobierno de DC: propone crear una oficina de fiscal local que responda
+    únicamente a los residentes de DC, quiere que DC nombre a sus propios jueces, y quiere que la
+    Guardia Nacional de DC quede bajo el control del alcalde (como los gobernadores controlan las
+    guardias estatales), oponiéndose firmemente a su uso para aplicar la ley local. Apoya aumentos
+    salariales, pago retroactivo y protección de la jubilación para los trabajadores federales, y se
+    opone a reubicar agencias federales fuera de la Región de la Capital Nacional. Se opone a los
+    vales escolares (vouchers), apoya preservar y ampliar el programa de Subvención de Asistencia
+    para la Matrícula de DC (DCTAG), y considera la atención médica como un derecho, incluyendo
+    proteger las tasas de reembolso de Medicaid de DC y el acceso al aborto. Participa en el Programa
+    de Elecciones Justas de DC.
+  positions:
+    - question_id: statehood_top_priority
+      quote: "Mi máxima prioridad en el Congreso será la estadidad de D.C."
+      explanation: "Firme defensor de la estadidad de DC; destaca más de 200 años de privación del derecho al voto y se compromete a continuar el trabajo por la plena representación con voto."
+
+    - question_id: mpd_ice_cooperation
+      explanation: "Respondió «sí» a todas las preguntas relacionadas con el santuario en su cuestionario de Free DC, incluyendo oponerse a la cooperación entre el MPD e ICE y oponerse a que el Congreso aumente la policía en DC."
+
+    - question_id: statehood_strategy_bipartisan
+      quote: "debemos trabajar para seguir uniendo el proyecto de ley de estadidad de D.C. con esos otros dos proyectos de ley que los demócratas defienden y que finalmente aprobarán cuando tengamos la mayoría."
+      explanation: "El candidato estratega legislativo: como asesor legislativo principal de Norton, «llevó el proyecto de ley de estadidad de DC de perder en 1993 a aprobarse en la Cámara de Representantes dos veces», y plantea su camino como trabajar el proceso legislativo —uniendo la Ley de Admisión de Washington, DC con la Ley de Libertad para Votar (Freedom to Vote Act) y la Ley de Avance de los Derechos Electorales John R. Lewis— en lugar de la confrontación o la protesta."
+
+    - question_id: delegate_budget_autonomy
+      quote: "Trabajaré para garantizar que eso nunca vuelva a suceder y argumentaré que esta es otra razón más por la que necesitamos la estadidad de D.C."
+      explanation: "Califica el recorte de aproximadamente $1,000 millones del Congreso (él cita más de $2,000 millones) al presupuesto local de DC como un daño para maestros, policías y dueños de negocios locales, y se compromete a «trabajar para garantizar que eso nunca vuelva a suceder». Legislaría para tratar a DC al menos tan bien como a los estados, ciudades y condados en el financiamiento federal, y pasó ocho años redactando legislación para aflojar el control del Congreso sobre DC."
+
+    - question_id: delegate_oppose_federal_mpd
+      quote: "Me opongo vehementemente a la federalización del Departamento de Policía Metropolitana."
+      explanation: "Afirma en los términos más fuertes: «Me opongo vehementemente a la federalización del Departamento de Policía Metropolitana». Ayudó a impulsar la Ley de Autogobierno de la Policía del Distrito de Columbia de Norton para retirarle esa autoridad al presidente, y la Ley de Autogobierno de la Guardia Nacional de DC para dar al alcalde (no al presidente) el control de la Guardia, calificando su promulgación como una máxima prioridad."
+
+    - question_id: federal_workers_advocate
+      explanation: "Centra su candidatura en proteger a la fuerza laboral federal: «Yo mismo fui empleado federal», y dice que «luchó contra los despidos ilegales de nuestros empleados federales, luchó por aumentos salariales, luchó por el pago retroactivo tras el cierre del gobierno (shutdown) y luchó por una mejor jubilación» junto a Norton. Se opone a reubicar agencias federales fuera de la Región de la Capital Nacional, argumentando que las agencias deben estar donde está el Congreso."
+
+    - question_id: delegate_federal_land_transfer
+      explanation: "«Transferiría la mayor cantidad posible de propiedad federal al Distrito de Columbia» y luego dejaría las decisiones de desarrollo a DC («preferiría mucho más trabajar con el Concejo de DC que con el gobierno federal»). Para el terreno que no se transfiera, presionaría al Servicio de Parques Nacionales y a la GSA para que mantengan la propiedad federal, y combatiría la reubicación de agencias federales fuera de DC."
+
+    - question_id: econ_commuter_tax
+      explanation: "Dice que DC «debería poder gravar a las personas que trabajan en DC igual que se podría hacer en cualquier otro lugar», apoyando un impuesto a quienes vienen de los suburbios en principio, pero lo matiza señalando las compensaciones federales existentes (por ejemplo, los fondos de DC TAG que DC recibe y que los estados no), planteándolo como un compromiso equilibrado más que como una prioridad incondicional."
+
+    - question_id: delegate_metro_federal_funding
+      explanation: "«Sí, debería tener absolutamente un financiamiento permanente». Manejó el financiamiento del Metro (PRIIA) para Norton y lo califica de «tan obsoleto y ni de cerca suficiente»; trabajaría con los miembros regionales de Maryland y Virginia, como lo hizo con Norton, para asegurarlo. Viajaba en Metro al trabajo todos los días."
+
+    - question_id: delegate_contracting_equity
+      explanation: "Califica la equidad en la contratación federal como «sumamente importante». Trabajó con Norton en una política que exige a las agencias informar sobre la contratación de propiedad minoritaria (por ejemplo, los dólares de publicidad) y ampliaría esa presentación de informes a otras contrataciones, prefiriendo la transparencia y los mecanismos de aplicación como la ruta hacia la equidad."
+
+- id: greg-jaczko
+  short_bio: >
+    Físico; becario de la AAAS en la oficina de Ed Markey; asesor principal del líder de la mayoría
+    del Senado Harry Reid; presidente de la NRC bajo Obama (dirigió la respuesta a Fukushima);
+    desarrollador de energía renovable; profesor en Princeton. Residente de DC desde hace 27 años,
+    hijo de un inmigrante. Propone «Sin Impuestos HASTA la Representación» y una autoridad de energía
+    pública para reducir los costos de los servicios públicos.
+  long_bio: |
+    Greg Jaczko (55 años) es físico y residente de DC desde hace 27 años. Obtuvo un doctorado en
+    física y se mudó a DC, donde una beca de política científica de la AAAS lo ubicó en la oficina
+    del entonces congresista Ed Markey, aplicando la ciencia a la política. Luego sirvió como asesor
+    principal del líder de la mayoría del Senado Harry Reid, donde aprendió el arte de construir
+    coaliciones. El presidente Obama lo nombró para presidir la Comisión Reguladora Nuclear (NRC)
+    —una agencia de $1,000 millones con casi 4,000 empleados—, donde se enfrentó a industrias
+    poderosas y dirigió la respuesta internacional al accidente nuclear de Fukushima. Tras la NRC, ha
+    desarrollado proyectos de energía eólica marina y solar y es profesor (Lecturer) en la
+    Universidad de Princeton. Es hijo de un inmigrante: su padre fue un refugiado nacido en Rumanía
+    que pasó su infancia en campos de personas desplazadas antes de reubicarse en Venezuela y luego
+    emigrar a los Estados Unidos. Jaczko apoya la plena estadidad de DC («Estadidad Ya») a la vez que
+    propone eximir a los residentes y negocios de DC de los impuestos federales sobre la renta hasta
+    que se logre la estadidad, planteándolo como «Sin Impuestos HASTA la Representación». Su boletín
+    en Substack, «Naturally», va más allá, pidiendo que los residentes de DC retengan los impuestos
+    federales sobre la renta como un acto de desobediencia civil hasta que el Congreso actúe. En
+    energía, tiene propuestas detalladas para reducir las facturas de servicios públicos de DC: (1)
+    hacer la transición a una autoridad de energía pública sin fines de lucro —que, según calcula,
+    eliminaría aproximadamente $160 millones al año en ganancias de Pepco que los contribuyentes
+    financian actualmente; (2) exigir que los centros de datos asuman todos los costos de
+    infraestructura que generan (la demanda de los centros de datos provocó un aumento del 833% en
+    los precios de capacidad de PJM para 2025–2026); (3) arreglar el sistema de SREC de energía solar
+    en tejados de DC, que, según argumenta, crea un subsidio regresivo —el 95% de los contribuyentes
+    subsidiando al 5% que tiene paneles solares— y proyecta una costosa escasez de SREC en 2026.
+    Apoya tarifas eléctricas progresivas para que los hogares de menores ingresos paguen menos. En
+    justicia, quiere sacar al gobierno federal del sistema de justicia local de DC. En inmigración,
+    se opone firmemente a las políticas de detención de la administración Trump —conectándolas
+    personalmente con la experiencia de refugiado de su padre— y pide una política migratoria humana.
+    También se ha opuesto públicamente a los ataques militares unilaterales de Trump contra Irán por
+    considerarlos inconstitucionales, pidiendo al Congreso que niegue al presidente la autoridad para
+    hacer la guerra sin una declaración formal.
+  positions:
+    - question_id: statehood_top_priority
+      quote: "La estadidad de D.C. ya no es solo una meta: es necesaria para la supervivencia de nuestro autogobierno."
+      explanation: "Apoya la plena estadidad como máxima prioridad («Estadidad Ya»); plantea la exención de impuestos como una medida provisional de «Sin Impuestos HASTA la Representación», no como un reemplazo de la estadidad. Plantea el estatus de territorio federal de DC como una injusticia democrática continua que se remonta a la fundación del país."
+
+    - question_id: statehood_tax_exemption
+      quote: "Greg luchará por eximir a los residentes y negocios de DC de pagar impuestos federales sobre la renta."
+      explanation: "Propone eximir a los residentes y negocios de DC de los impuestos federales sobre la renta hasta que se logre la estadidad, planteándolo como «Sin Impuestos HASTA la Representación». Su Substack va más allá, pidiendo desobediencia civil —que los negocios y residentes de DC retengan los pagos de impuestos federales sobre la renta— para obligar al Congreso a actuar."
+
+    - question_id: mpd_ice_cooperation
+      quote: "La mejor manera de honrar su legado es luchar por una política migratoria humana que respete la diversidad y el trabajo arduo que los inmigrantes aportan a nuestra sociedad."
+      explanation: "Se opone firmemente a las políticas de detención migratoria de Trump, calificándolas de «brutales» e «ilegales», una posición que conecta personalmente con la historia de su padre como refugiado rumano. Apoya sacar por completo al gobierno federal del sistema de justicia local de DC para que los residentes puedan establecer políticas centradas en la prevención y la rehabilitación."
+
+    - question_id: environment_public_power
+      quote: "Washington es el lugar perfecto para una autoridad de energía pública."
+      explanation: "Su propuesta insignia sobre el costo de vida: «Washington es el lugar perfecto para una autoridad de energía pública». Como físico y expresidente de la NRC, argumenta que una autoridad de energía pública sin fines de lucro eliminaría aproximadamente $160 millones al año en ganancias de Pepco que los contribuyentes financian (alrededor de $25 de una factura promedio de $190), citando estudios según los cuales los clientes de la energía pública pagan ~13% menos. Presentaría legislación que exija que la compra (buyout) se complete en 18 meses a su valor residual."
+
+    - question_id: statehood_strategy_bipartisan
+      quote: "La desobediencia civil siempre es civil, pero nunca es obediente. Hemos sido civiles durante suficiente tiempo; es hora de dejar de ser obedientes."
+      explanation: "Rechaza el paciente enfoque de coalición legislativa por haber fracasado durante más de 200 años. Su lema es «Sin Impuestos HASTA la Representación», y su Substack pide explícitamente la desobediencia civil —que los residentes y negocios de DC retengan los pagos de impuestos federales sobre la renta— para forzar la mano del Congreso. Prefiere la confrontación y la presión por encima de los acuerdos bipartidistas."
+
+    - question_id: delegate_budget_autonomy
+      quote: "Greg será una voz incansable contra la interferencia del Congreso —y del presidente—, exigiendo que los residentes de D.C. controlen sus propios ingresos y su propio destino."
+      explanation: "Plantea la falta de control de DC sobre sus propios ingresos y presupuesto como central para la injusticia de su estatus: «El Congreso busca constantemente socavar y supervisar nuestro presupuesto local», y será «una voz incansable contra la interferencia del Congreso —y del presidente—, exigiendo que los residentes de DC controlen sus propios ingresos y su propio destino»."
+
+    - question_id: delegate_oppose_federal_mpd
+      quote: "Greg también luchará para sacar al gobierno federal del sistema de justicia local de D.C. para que los residentes del Distrito puedan dar forma a políticas que rindan cuentas a sus comunidades y se centren en la prevención, la rehabilitación y la seguridad pública real."
+      explanation: "Cita a las tropas de la Guardia Nacional «desplegadas por toda la ciudad» y el encarcelamiento federal como «peculiaridades» del estatus de DC, y se compromete a «luchar para sacar al gobierno federal del sistema de justicia local de D.C.» para que los residentes del Distrito puedan dar forma a políticas que rindan cuentas a sus propias comunidades."
+
+    - question_id: federal_workers_advocate
+      explanation: "Entró a la contienda «motivado a ayudar a proteger a los trabajadores federales», y describe a la administración Trump como «abusiva con los trabajadores federales» y con el Distrito. Se opone a reubicar agencias federales fuera de DC, citando el fallido traslado de parte del USDA a Colorado durante la primera administración Trump."
+
+    - question_id: delegate_federal_land_transfer
+      explanation: "Argumenta que las más de 300 reservaciones del Servicio de Parques Nacionales de DC y otras parcelas federales «no tienen razón de ser parte del gobierno federal» y trabajaría para transferirlas todas al Distrito, pero recalca que cómo se usa el terreno «es realmente una decisión local» del Concejo, el alcalde y la comunidad, advirtiendo contra atar contingencias federales a las transferencias."
+
+    - question_id: delegate_impeach_trump
+      explanation: "La voz más claramente a favor del juicio político del grupo: califica la conducta de Trump de «tiranía», argumenta que «el remedio constitucional para la tiranía es el juicio político (impeachment)», y se compromete a que «cuando llegue al Congreso, abogaré firmemente por someter a juicio político a Donald Trump». Reprocha al liderazgo demócrata haber sofocado las conversaciones sobre el juicio político antes de las elecciones de medio término. Reiteró en el foro del 2 de mayo que «uno de los temas clave que debemos reconocer como necesario es hablar del juicio político»."
+
+    - question_id: delegate_metro_federal_funding
+      explanation: "Manejó el financiamiento del Metro (PRIIA) para Norton —«tan obsoleto y ni de cerca suficiente»— y señala que el gobierno federal «fue un socio en su creación y luego nos abandonó para financiarlo». Apoya el financiamiento federal, pero plantea de manera distintiva que la solución de fondo es la estadidad y la «igualdad de condiciones con Maryland y Virginia»."
+
+    - question_id: delegate_contracting_equity
+      explanation: "Apoya dirigir los fondos federales a los negocios en desventaja, pero lo plantea como una cuestión de supervisión e implementación —«se reduce a lo que dice la ley» y a hacer que las agencias cumplan los estatutos existentes, con una solución concreta de incluir las reservas (set-asides) en los contratos principales en lugar de los subcontratos— más que como nuevos puntos de preferencia."
+
+- id: brooke-pinto
+  short_bio: >
+    Concejala del Ward 2; preside el comité Judicial y de Seguridad Pública. Egresada de Cornell y
+    Georgetown Law; exabogada de la OAG de DC. Lideró los proyectos de ley Secure DC y Peace DC
+    (caída del 50% en la delincuencia violenta); autora de la Ley RECOVERY (conversiones de uso
+    comercial a residencial en el centro). Plan de vivienda detallado («Breaking Ground DC»). No
+    participó en el Programa de Elecciones Justas de DC; recaudó más que cualquier otro candidato a
+    la delegación.
+  long_bio: |
+    Brooke Pinto (33 años) se graduó de la Escuela de Administración Hotelera de la Universidad de
+    Cornell y del Georgetown University Law Center. Trabajó en la Oficina del Procurador General de
+    DC como procuradora general adjunta de Política y Asuntos Legislativos y en la Sección de
+    Impuestos y Finanzas antes de postularse al Concejo de DC. Nunca había vivido en DC antes de
+    2020, el año en que fue elegida como concejala del Ward 2. Preside el Comité Judicial y de
+    Seguridad Pública. Su trayectoria en el Concejo abarca la seguridad pública, la recuperación del
+    centro y la educación. Fue coautora de Secure DC y Peace DC, a los que atribuye una reducción del
+    50% en la delincuencia violenta (los proyectos de ley también aumentaron las penas para los
+    delitos con armas, ampliaron la detención preventiva e introdujeron los toques de queda para
+    adolescentes). Fue autora de la Ley RECOVERY para incentivar las conversiones de uso comercial a
+    residencial en el centro tras la COVID, impulsando miles de unidades nuevas. Aprobó legislación
+    que capacita a los maestros en la enseñanza de la alfabetización y una prohibición de los
+    teléfonos celulares en las escuelas de DC. Optó por no participar en el Programa de Elecciones
+    Justas de DC, lo que le permitió aceptar grandes contribuciones de donantes de fuera del
+    distrito; recaudó más dinero que cualquier otro candidato a la delegación. En la contienda por la
+    delegación enfatiza la estadidad y el autogobierno de DC, oponiéndose a la intromisión de la
+    administración Trump, y apoya recursos adecuados para el MPD, los bomberos y los servicios de
+    emergencias médicas (EMS) a la vez que se opone al despliegue federal o de la Guardia Nacional
+    para aplicar la ley local. Su plan de vivienda, «Breaking Ground DC», pide derogar la Ley federal
+    de Altura y reemplazarla por una Ley de Altura local de DC; densificar cerca de las estaciones de
+    Metro y los corredores de autobús; legalizar las casas adosadas (rowhouses) y las ADU en toda la
+    ciudad; simplificar los permisos; reformar la DCHA; exenciones del impuesto a la propiedad para
+    los compradores de primera vivienda que sean residentes de DC de larga duración; y, a nivel
+    federal, hacer deducible de impuestos el alquiler (hasta $15,000 al año), ampliar las Zonas de
+    Oportunidad, adelantar las deducciones fiscales sobre la construcción de alquiler, y trasladar la
+    vivienda para personas sin hogar a un modelo no colectivo como el Aston.
+  positions:
+    - question_id: youth_curfew_support
+      explanation: "Introdujo legislación de toque de queda para adolescentes como parte de Secure DC siendo concejala del Ward 2, y desde entonces ha redactado y extendido repetidamente medidas de toque de queda juvenil —incluyendo la Ley de Enmienda del Toque de Queda Juvenil que faculta al alcalde para extender los toques de queda y las medidas de 2026 que los continúan—, una trayectoria constante y activa de ampliación de la aplicación del toque de queda."
+
+    - question_id: statehood_top_priority
+      quote: "Brooke sabe que nuestra ciudad necesita un campeón en el Congreso para defender nuestros valores en el Distrito mientras seguimos luchando por la estadidad de DC."
+      explanation: "Apoya firmemente la estadidad y el autogobierno de DC. Pide derogar la Ley federal de Altura y reemplazarla por una Ley de Altura local de DC como un paso concreto cercano a la estadidad. Enfatiza combatir la intromisión cotidiana de la administración Trump en la autonomía de DC."
+
+    - question_id: mpd_ice_cooperation
+      quote: "Defenderá a nuestras familias de DC, en todas las hermosas formas en que se presentan."
+      explanation: "Expresó su apoyo a poner fin a la cooperación entre el MPD e ICE; afirmó que quiere «deshacerse de ICE» en su cuestionario de Free DC. En la campaña, se compromete a defender a las familias de DC sin importar su estatus migratorio. Se opone al despliegue federal y de la Guardia Nacional para la aplicación de la ley local."
+
+    - question_id: crime_more_police
+      quote: "Como presidenta del Comité Judicial y de Seguridad Pública del Concejo, Brooke sabe lo crítico que es apoyar a nuestros socorristas, bomberos, EMS y al departamento de policía."
+      explanation: "Fue coautora de Secure DC y Peace DC, a los que se atribuye una reducción del 50% en la delincuencia violenta; apoya recursos adecuados para el MPD, los bomberos y los EMS. Se opone al despliegue federal o de la Guardia Nacional para aplicar la ley local, trazando una clara distinción entre apoyar a la policía local y aceptar la militarización federal."
+
+    - question_id: delegate_oppose_federal_mpd
+      quote: "Los washingtonianos saben que no necesitamos a Trump para mantenernos seguros. Los residentes de DC eligieron a líderes locales que saben que nuestro departamento de policía local y nuestras comunidades locales mantienen segura nuestra ciudad, no un despliegue de la Guardia Nacional de todo el país."
+      explanation: "«Los washingtonianos saben que no necesitamos a Trump para mantenernos seguros… nuestro departamento de policía local y nuestras comunidades locales mantienen segura nuestra ciudad, no un despliegue de la Guardia Nacional de todo el país». Se opone al despliegue federal y de la Guardia Nacional para aplicar la ley local a la vez que apoya recursos adecuados para el MPD, los bomberos y los EMS."
+
+    - question_id: delegate_budget_autonomy
+      quote: "Cada día, la administración Trump pisotea nuestros derechos como washingtonianos e intenta arrebatarle el poder a nuestro liderazgo local."
+      explanation: "Centra su campaña en el autogobierno de DC: «la administración Trump está… intentando arrebatarle el poder a nuestro liderazgo local», y DC «necesita un campeón en el Congreso para defender nuestros valores» y nuestra autonomía. Señala que DC es «la única jurisdicción del país donde el gobierno federal nos dice cómo y dónde podemos construir», y combatiría la interferencia del Congreso en las decisiones locales."
+
+    - question_id: statehood_strategy_bipartisan
+      quote: "Tenemos que seguir en el camino hacia la autodeterminación y la estadidad, y eso comienza por enviar a alguien al Congreso con una trayectoria de trabajar superando divisiones para lograr resultados tangibles."
+      explanation: "Dice que el camino hacia la estadidad «comienza por enviar a alguien al Congreso con una trayectoria de trabajar superando divisiones para lograr resultados tangibles» —un enfoque legislativo y orientado a las coaliciones—, a la vez que recalca su disposición «a librar las batallas difíciles con la administración Trump y los republicanos en el Congreso»."
+
+    - question_id: crime_secure_dc
+      explanation: "Como concejala del Ward 2 y presidenta del Comité Judicial, Pinto fue la autora principal del ómnibus Secure DC y ha redactado y extendido repetidamente sus disposiciones de detención preventiva —incluyendo las Leyes de Enmienda de Extensión y de Informes de la Detención Preventiva de Secure DC—, una trayectoria constante y activa defendiendo el enfoque de Secure DC."
+
+    - question_id: housing_height_act_repeal
+      quote: "[Eso] incluye derogar la Ley federal de Altura y reemplazarla por una Ley de Altura local que permita a DC tomar sus propias decisiones y regulaciones sobre cómo se ve nuestra ciudad."
+      explanation: "La plataforma de vivienda de Pinto pide explícitamente derogar la Ley federal de Altura y reemplazarla por una de control local, planteándolo como un asunto tanto de autogobierno como de oferta de vivienda: «Somos la única jurisdicción del país donde el gobierno federal nos dice cómo y dónde podemos construir». Lo apoya firmemente."
+
+    - question_id: federal_workers_advocate
+      explanation: "Dice que «no ha visto suficiente resistencia» en defensa de la fuerza laboral federal y se compromete a que, «detrás del estrado», «planteará preguntas realmente difíciles a la administración Trump» y la hará responder por «el tipo de abusos que han perpetrado contra los trabajadores federales». Plantea la defensa de los empleados federales como una responsabilidad central y del primer día del puesto."
+
+    - question_id: delegate_federal_land_transfer
+      explanation: "Apoya transferir terrenos federales a DC y recalca tener «a alguien en la mesa representando a nuestra comunidad» para dar forma a su uso, de modo que los edificios vacíos de la GSA «no se conviertan simplemente en hoteles o condominios de lujo», sino que satisfagan las necesidades de vivienda para personas mayores, asequible y familiar. Cita su trabajo en un plan maestro de desarrollo del centro y en asegurar beneficios de vivienda y equidad en la reurbanización de RFK como el modelo."
+
+    - question_id: econ_commuter_tax
+      explanation: "Nombra la incapacidad de DC de gravar a quienes vienen de los suburbios a trabajar como una desventaja federal central y se compromete a «eliminar esa restricción y permitirnos gravar a las personas de Maryland y Virginia que vienen al distrito, para que DC tenga más recursos» para las prioridades locales: una clara posición a favor del impuesto a quienes vienen de los suburbios."
+
+    - question_id: delegate_metro_federal_funding
+      explanation: "Dice que el Metro «tiene que protegerse y defenderse» con «financiamiento de DC, financiamiento federal y un financiamiento justo de Maryland y Virginia», señalando que DC «no ha recibido un financiamiento suficiente de nuestras jurisdicciones vecinas»: es «lo primero de lo que hablo con el gobernador Moore y la gobernadora Spanberger»."
+
+    - question_id: delegate_contracting_equity
+      explanation: "«Rechazo la premisa de que no podemos tener un trato preferencial para nuestros negocios locales de propiedad de minorías y mujeres y a la vez una economía competitiva». Señala las «preferencias más importantes» de DC para las firmas de propiedad de minorías y mujeres y dice que ha «emitido votos difíciles y controvertidos para apoyar a nuestras CBE», y quiere que la política federal las iguale y las refuerce."
+
+- id: kinney-zalesne
+  short_bio: >
+    Residente de DC desde hace 30 años; llegó a DC en 1995 como becaria de la Casa Blanca (White
+    House Fellow) con el vicepresidente Gore. Exfiscal de distrito adjunta (Filadelfia), asesora del
+    Departamento de Justicia ante la procuradora general Janet Reno, ejecutiva de Microsoft (GM de
+    Estrategia Corporativa; GM de Crecimiento Responsable), presidenta de College Summit / Peer
+    Forward, vicepresidenta nacional de finanzas del DNC, copresidenta nacional de Women for Harris.
+    Coautora superventas de «Microtrends». Respaldada por el exprocurador general Eric Holder, el
+    exsecretario de la Marina Carlos Del Toro y tres miembros del Congreso. Propone un «gran acuerdo»
+    estratégico sobre la estadidad y un Caucus de la Capital regional.
+  long_bio: |
+    Kinney Zalesne (59 años) llegó a DC en 1995 para lo que se suponía sería una breve estancia en la
+    Casa Blanca de Clinton. Se enamoró de la ciudad y ha criado a cuatro hijos aquí con su esposo
+    Scott, ocupando cargos de liderazgo en las escuelas, piscinas, parques y organizaciones sin fines
+    de lucro de DC durante 30 años. Su carrera abarca el gobierno, los negocios y el sector sin fines
+    de lucro. Se desempeñó como fiscal de distrito adjunta en Filadelfia antes de convertirse en
+    becaria de la Casa Blanca con el vicepresidente Gore. Luego sirvió como asesora de la procuradora
+    general Janet Reno en el Departamento de Justicia, una gestión a la que atribuye la mayor caída
+    de la delincuencia en la historia registrada de EE. UU. mediante la prevención, la participación
+    comunitaria y la rehabilitación junto con una aplicación firme de la ley. Más tarde se unió a
+    Microsoft como GM de Estrategia Corporativa y GM de Crecimiento Responsable, y fue coautora del
+    libro superventas «Microtrends». También se desempeñó como vicepresidenta nacional de finanzas
+    del DNC y copresidenta nacional de Women for Harris. De todos esos cargos, llama a su trabajo en
+    College Summit (ahora Peer Forward) su favorito. Dejó el Departamento de Justicia para ayudar al
+    cofundador J.B. Schramm a escalar el programa —originalmente iniciado en un sótano de Adams
+    Morgan para ayudar a estudiantes de bajos ingresos a llegar a la universidad—, multiplicando su
+    presupuesto por 20 y expandiéndolo de un esfuerzo local a una operación nacional. Bajo su
+    liderazgo, la organización también ayudó a cambiar la ley federal para exigir que las escuelas
+    secundarias se midan por la matrícula y la persistencia universitaria, no solo por la graduación.
+    También se desempeñó como presidenta de la junta de una escuela del Ward 4 que duplicó su
+    matrícula durante su gestión. En estadidad, califica la falta de representación con voto de DC
+    como «una desgracia nacional y parte del legado del racismo», pero argumenta que solucionarlo
+    requiere un «gran acuerdo» estratégico en el Capitolio en lugar de indignación, siendo la
+    construcción de coaliciones entre sectores y partidos su habilidad distintiva. Propone crear un
+    Caucus de la Capital en el Congreso para construir poder económico de manera regional con
+    Maryland, Virginia y las jurisdicciones vecinas. En seguridad pública, recurre a su experiencia
+    con Reno: financiamiento sólido para prácticas basadas en evidencia, reforma de las armas,
+    prevención y rehabilitación. En tecnología, recurre a su trabajo en Microsoft y a su trabajo
+    sobre democracia y tecnología en Harvard para abogar por una política de IA que apoye la
+    innovación a la vez que garantice que la tecnología funcione para las personas.
+  positions:
+    - question_id: statehood_top_priority
+      quote: "Estados Unidos es la única democracia del mundo que niega a los residentes de su ciudad capital el derecho a votar. Es una desgracia nacional y parte del legado del racismo."
+      explanation: "Califica la falta de representación con voto de DC como «una desgracia nacional y parte del legado del racismo», pero argumenta que solucionarlo requiere un «gran acuerdo» estratégico en el Capitolio, no indignación. Se distingue de otros candidatos al enfatizar la construcción de coaliciones entre sectores y partidos como el camino hacia la plena representación. Propone un Caucus de la Capital para construir influencia económica regional con DC, Maryland, Virginia y las jurisdicciones vecinas."
+
+    - question_id: statehood_strategy_bipartisan
+      quote: "solucionar esto requerirá más que indignación y enojo."
+      explanation: "Explícitamente la candidata del «gran acuerdo»: «solucionar esto requerirá más que indignación y enojo. Requerirá un enfoque estratégico hacia un gran acuerdo en el Capitolio… A lo largo de mi carrera he construido coaliciones entre sectores y partidos». Plantea la construcción de coaliciones bipartidistas como su camino distintivo hacia la estadidad."
+
+    - question_id: federal_workers_advocate
+      explanation: "Plantea la protección de la fuerza laboral federal como una razón fundacional de su campaña —«Trump está aplastando a esta ciudad a propósito»— y señala su trayectoria en el Departamento de Justicia rechazando los esfuerzos republicanos por eliminar los programas de prevención del delito y extraescolares. Plantea reconstruir la economía de DC para que sea «menos dependiente del gobierno federal» como el complemento a defender a los trabajadores federales ahora bajo ataque."
+
+    - question_id: delegate_budget_autonomy
+      explanation: "Califica la congelación presupuestaria de aproximadamente $1,000 millones del Congreso como «un enorme fracaso» que ocurrió porque «nadie estaba prestando atención: ni nuestra delegada, ni nuestro Concejo de DC», y argumenta que el puesto «no puede ser solo reactivo». Se compromete a una vigilancia proactiva y estratégica para garantizar que DC controle «sus propios ingresos y su propio destino», citando el recorte revertido del aporte de Medicaid como el modelo."
+
+    - question_id: delegate_federal_land_transfer
+      explanation: "Apoya las transferencias de terrenos federales como «una parte muy importante del crecimiento económico de DC» y quiere que DC «aproveche» las próximas oportunidades de los edificios federales desocupados, pero matiza que las transferencias «no son la totalidad ni la esencia» de un plan de crecimiento económico, que ella vincula más con construir una escena tecnológica local y reclutar a grandes empleadores."
+
+    - question_id: econ_commuter_tax
+      explanation: "La defensora más fuerte del impuesto a quienes vienen de los suburbios en el foro: replantea el «tercer riel» como un «fondo de activos compartidos» recíproco: los no residentes que trabajan en DC (y los residentes de DC que trabajan en Maryland/Virginia) aportan, con los ingresos destinados a necesidades regionales compartidas como el Metro, las carreteras, la atención médica y el medio ambiente. Lo combina con su propuesto «Caucus de la Capital» regional."
+
+    - question_id: housing_height_act_repeal
+      explanation: "«Quiero enmendar la Ley de Altura en el Congreso para que tengamos la capacidad de construir más alto en esta ciudad, y eso nos permitirá ofrecer más vivienda asequible». Lo combina con ampliar y dar más flexibilidad al programa de vales de la Sección 8 (utilizables para primeras hipotecas)."
+
+    - question_id: delegate_metro_federal_funding
+      explanation: "«Totalmente de acuerdo» en que el Metro necesita apoyo permanente: «nuestros socios regionales y nacionales deben ayudarnos a protegerlo, hacerlo crecer y salvaguardarlo porque es una joya de nuestra capital y del país». Se describe como parte de una «familia que usa seriamente el transporte público»."
+
+    - question_id: delegate_contracting_equity
+      explanation: "Apoya abordar las inequidades en la contratación ahora —«no se puede fingir que todo es igual» cuando algunas firmas no empezaron «en el mismo lugar»—, planteándolo a la vez de manera aspiracional: «Anhelo el día en que todos puedan competir en igualdad de condiciones… cuando hayamos resuelto ese problema»."
