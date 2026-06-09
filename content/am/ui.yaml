@@ -1,0 +1,264 @@
+# Amharic UI chrome. Mirrors content/en/ui.yaml; missing keys fall back to English.
+# NOTE: Unreviewed Amharic draft — should be proofread by a fluent speaker before
+# being relied upon. Terminology anchored to the Janeese Lewis George Amharic
+# campaign page and the Ethiopique interview; English terms kept in parentheses
+# where that is the established convention. Dates use Gregorian months (the
+# election is on the Gregorian calendar), transliterated into Amharic.
+
+# --- Brand & navigation ---
+site.name: "Help Me Vote DC 2026!"
+nav.elections: "ምርጫዎች"
+nav.resources: "መርጃዎች"
+nav.about: "ስለ እኛ"
+
+# --- Language switcher ---
+lang.aria: "ቋንቋ"
+lang.name.en: "English"
+lang.name.es: "Español"
+lang.name.am: "አማርኛ"
+
+# --- Primary-election notice ---
+primary_notice.strong: "እነዚህ የዴሞክራቲክ ፓርቲ የመጀመሪያ ዙር (primary) ምርጫዎች ናቸው።"
+primary_notice.text: "በዲሲ የመጀመሪያ ዙር ምርጫን ማሸነፍ ማለት በተግባር አጠቃላዩን ምርጫ እንደማሸነፍ ይቆጠራል።"
+primary_notice.link: "ለምን እንደሆነ ይወቁ →"
+
+# --- Footer ---
+footer.license_pre: "ክፍት ምንጭ (open source) በ"
+footer.viewsource: "ኮዱን በGitHub ይመልከቱ"
+footer.not_affiliated: "ከማንኛውም የምርጫ ቅስቀሳ ዘመቻ ወይም የፖለቲካ ድርጅት ጋር ግንኙነት የለውም።"
+footer.privacy: "የግላዊነት መብት — የእርስዎን መረጃ አንሰበስብም"
+
+# --- Shared bits ---
+common.sources: "ምንጮች"
+common.sources_inline: "ምንጮች፦"
+common.accessed: "የተገኘበት ቀን"
+common.full_profile: "ሙሉ መገለጫ →"
+
+# --- Stance labels: quiz agree/disagree scale ---
+stance.strongly_disagree: "በጣም አልስማማም"
+stance.disagree: "አልስማማም"
+stance.skip: "ዝለል / አስተያየት የለኝም"
+stance.agree: "እስማማለሁ"
+stance.strongly_agree: "በጣም እስማማለሁ"
+
+# --- Stance labels: candidate supports/opposes scale ---
+stance.strongly_opposes: "በጽኑ ይቃወማል"
+stance.opposes: "ይቃወማል"
+stance.neutral: "ገለልተኛ"
+stance.supports: "ይደግፋል"
+stance.strongly_supports: "በጽኑ ይደግፋል"
+stance.unknown_position: "ያልታወቀ / ይፋዊ አቋም የለም"
+
+# --- Agreement pills ---
+agree.agree: "እስማማለሁ"
+agree.partial: "በከፊል"
+agree.disagree: "አልስማማም"
+
+# --- Endorsement category headers ---
+"endorsement.category.Labor unions": "የሠራተኛ ማህበራት"
+"endorsement.category.Elected/Appointed Officials": "የተመረጡ/የተሾሙ ባለሥልጣናት"
+"endorsement.category.Advocacy & community organizations": "የተሟጋችነት እና የማህበረሰብ ድርጅቶች"
+"endorsement.category.Individuals & public figures": "ግለሰቦች እና ታዋቂ ሰዎች"
+"endorsement.category.Newspapers & editorial boards": "ጋዜጦች እና የአርትዖት ቦርዶች"
+
+# --- Fair Elections badges ---
+badge.fair_elections: "ፍትሃዊ ምርጫ (Fair Elections) ✓"
+badge.fair_elections_full: "በዲሲ ፍትሃዊ ምርጫ ፕሮግራም (Fair Elections Program) ይሳተፋል ✓"
+badge.not_fair_elections: "በዲሲ ፍትሃዊ ምርጫ ፕሮግራም ውስጥ የለም"
+badge.limited: "ውስን መረጃ"
+
+# --- Home page ---
+index.title: "ምርጫ ይምረጡ"
+index.hero_lead: "ሰኔ 16 የሚካሄደው የዲሲ የዴሞክራቲክ ፓርቲ የመጀመሪያ ዙር ምርጫ ዲስትሪክቱን ለዓመታት ይቀርፃል። ስለ ዕጩዎቹ ለማወቅ እና ከእሴቶችዎ ጋር በተሻለ የሚስማማውን ለማግኘት ከታች አንድ ምርጫ ይምረጡ።"
+index.how_title: "እንዴት እንደሚሰራ"
+index.how_1: "የሚመለከትዎትን የምርጫ ውድድር ይምረጡ።"
+index.how_2: "ስለሚያስቡባቸው ጉዳዮች ጥያቄዎችን ይመልሱ።"
+index.how_3: "የትኞቹ ዕጩዎች ከእሴቶችዎ ጋር በይበልጥ እንደሚስማሙ ለማየት ጥያቄዎቹን (quiz) ይውሰዱ።"
+index.sources_note_strong: "ሁሉም የዕጩዎች አቋሞች በቀጥታ ከምንጮቻቸው ጋር ይያያዛሉ"
+index.sources_note_rest: "— የምርጫ ቅስቀሳ ገጾች፣ ይፋዊ የዲሲ መንግሥት ድረ-ገጾች እና የተረጋገጠ የዜና ዘገባ። ምንም ምንጭ የሌለው ይዘት የለም። የእያንዳንዱ ዕጩ ሙሉ አቋሞች በመገለጫ ገጹ ላይ ተዘርዝረዋል።"
+index.short_on_time: "ጊዜ እያጠረዎት ነው?"
+index.all_races_cta: "ጥያቄዎቹን አንዴ ይመልሱና ለእያንዳንዱ ውድድር ተዛማጅነትዎን ይመልከቱ →"
+index.explore: "ይመርምሩ →"
+index.take_quiz: "ጥያቄዎቹን ይውሰዱ"
+
+# --- Election page ---
+election.primary_label: "የዴሞክራቲክ ፓርቲ የመጀመሪያ ዙር ምርጫ"
+election.whats_at_stake: "ምን ላይ ነው ውሳኔው"
+election.take_quiz: "ጥያቄዎቹን ይውሰዱ →"
+election.candidates: "ዕጩዎች"
+election.candidates_note: "የእያንዳንዱ ዕጩ ሙሉ አቋሞች በመገለጫ ገጹ ላይ ተዘርዝረዋል።"
+
+# --- Candidate page ---
+candidate.endorsements: "ድጋፎች (Endorsements)"
+candidate.official_site: "ይፋዊ የምርጫ ቅስቀሳ ድረ-ገጽ →"
+candidate.positions_title: "በጉዳዮች ላይ ያሉ አቋሞች"
+candidate.positions_note: "ሁሉም አቋሞች በቀጥታ ከዕጩው የምርጫ ቅስቀሳ ቁሳቁሶች፣ ከይፋዊ የመጠይቅ ምላሾች ወይም ከተረጋገጠ የዜና ዘገባ የተገኙ ናቸው። አቋሞች ከ<strong>በጽኑ ይቃወማል (−2)</strong> እስከ <strong>በጽኑ ይደግፋል (+2)</strong> ባለው ሚዛን ይመዘናሉ። <em>ያልታወቀ</em> አቋም ማለት ምንም ይፋዊ አቋም አልተገኘም ማለት ነው።"
+candidate.general_sources: "አጠቃላይ ምንጮች"
+candidate.take_quiz_race: "ለዚህ ውድድር ጥያቄዎቹን ይውሰዱ →"
+
+# --- Quiz: question step ---
+quiz.progress: "ጥያቄ {current} ከ{total}"
+quiz.background: "ዳራዊ መረጃ"
+quiz.your_position: "የእርስዎ አቋም"
+quiz.back: "← ወደ ኋላ"
+quiz.next: "ቀጣይ →"
+quiz.see_results: "ውጤቶቼን ይመልከቱ →"
+quiz.choose_questions_link: "← ጥያቄዎችን ይምረጡ"
+quiz.start_over: "እንደገና ይጀምሩ"
+quiz.all_races: "ሁሉም ውድድሮች"
+
+# --- Quiz: question selection ---
+quiz_start.breadcrumb: "ጥያቄዎችን ይምረጡ"
+quiz_start.lead: "ሊመልሷቸው የሚፈልጓቸውን ጥያቄዎች ይምረጡ።"
+quiz_start.intro: "እያንዳንዱ ጥያቄ በነባሪነት ተመርጧል። ለመዝለል የሚፈልጓቸውን ርዕሶች ወይም ነጠላ ጥያቄዎች ምልክት ያንሱ — አጭር ጥያቄ ችግር የለውም። ተዛማጅነትዎ የሚሰላው ካስቀጧቸውና በአስተያየት ከመለሷቸው ጥያቄዎች ብቻ ነው።"
+quiz_start.error_strong: "ቢያንስ አንድ ጥያቄ ይምረጡ።"
+quiz_start.error_text: "ጥያቄዎቹን ከመጀመርዎ በፊት ሊመልሷቸው የሚፈልጓቸውን ጥያቄዎች ይምረጡ።"
+quiz_start.select_all: "ሁሉንም ይምረጡ"
+quiz_start.deselect_all: "ሁሉንም ምልክት ያንሱ"
+quiz_start.of: "ከ"
+quiz_start.selected_word: "ተመርጠዋል"
+quiz_start.start: "ጥያቄዎቹን ይጀምሩ →"
+quiz_start.category_other: "ሌላ"
+quiz_start.question_singular: "ጥያቄ"
+quiz_start.question_plural: "ጥያቄዎች"
+
+# --- Quiz: no questions ---
+quiz_none.text: "ለዚህ ምርጫ እስካሁን ምንም ጥያቄ የለም። በቅርቡ ይመለሱ፣ ወይም"
+quiz_none.link: "ስለ ዕጩዎቹ ያንብቡ"
+
+# --- Results: single race ---
+results.breadcrumb: "የእርስዎ ውጤቶች"
+results.heading_prefix: "የእርስዎ ውጤቶች፦"
+results.note: "ዕጩዎች የተደረደሩት የታወቁ አቋሞቻቸው ከእርስዎ ጋር ምን ያህል እንደሚስማሙ ነው።"
+results.how_calculated: "ይህ እንዴት ይሰላል?"
+results.no_answers_strong: "የተመዘገበ መልስ የለም።"
+results.no_answers_text: "እስካሁን ምንም ጥያቄ አልመለሱም።"
+results.take_quiz: "ጥያቄዎቹን ይውሰዱ →"
+results.back_all: "← ለእያንዳንዱ ውድድር የእርስዎ ውጤቶች"
+results.limited_title: "ውስን መረጃ ይገኛል"
+results.limited_text: "ለእነዚህ ዕጩዎች በቂ ቁጥር ባለው ከመለሷቸው ጥያቄዎች ላይ ሰነድ የተደገፈ አቋም ስለሌለን በልበ ሙሉነት ልንደረድራቸው አንችልም። ከታች የሚታየው ተዛማጅነታቸው የተመሰረተው በእነዚያ ጥቂት ጥያቄዎች ላይ ብቻ ነው — ከላይ ካሉት ዕጩዎች ጋር ሊወዳደር አይችልም።"
+results.match: "ተዛማጅነት"
+results.coverage: "ከ{answered} ጥያቄዎች ውስጥ በ{compared} ላይ የተመሰረተ"
+results.no_data: "መረጃ የለም"
+results.no_stance_one: "ከመለሷቸው {n} ጥያቄ ላይ የታወቀ አቋም የለም"
+results.no_stance_many: "ከመለሷቸው {n} ጥያቄዎች ላይ የታወቀ አቋም የለም"
+results.compare: "እንዴት እንደሚነፃፀሩ፣ ጥያቄ በጥያቄ"
+results.your_answer: "የእርስዎ መልስ"
+results.no_known_position: "የታወቀ አቋም የለም"
+results.all_races_results: "← የሁሉም ውድድሮች ውጤቶች"
+results.retake: "ጥያቄዎቹን እንደገና ይውሰዱ"
+results.explore_another: "ሌላ ውድድር ይመርምሩ"
+
+# --- Results: every race ---
+results_all.breadcrumb: "የእርስዎ ውጤቶች"
+results_all.heading: "በእያንዳንዱ ውድድር የእርስዎ ውጤቶች"
+results_all.note: "ለእያንዳንዱ ውድድር፣ የታወቁ አቋሞቻቸው ከእርስዎ ጋር በተሻለ የሚስማሙ ዕጩዎች እነዚህ ናቸው።"
+results_all.full_results: "ሙሉ ውጤቶች →"
+results_all.race_note: "ዕጩዎቹን በልበ ሙሉነት ለመደርደር መለሷቸው ጥያቄዎች ከዚህ ውድድር ጋር በቂ መደራረብ የላቸውም።"
+results_all.see_breakdown: "ሙሉ ዝርዝሩን ይመልከቱ →"
+results_all.start_over: "እንደገና ይጀምሩ"
+
+# --- Resources index ---
+resources.index_title: "መርጃዎች"
+resources.index_lead: "ስለ ዲሲ ምርጫዎች፣ ፖሊሲዎች እና የፖለቲካ ሁኔታ ዳራዊ መረጃ።"
+
+# --- Resource page titles ---
+resources.title.primary_vs_general: "በዲሲ የዴሞክራቲክ የመጀመሪያ ዙር ምርጫ ለምን በተግባር አጠቃላዩ ምርጫ እንደሆነ"
+resources.title.ranked_choice: "በደረጃ የመምረጥ ሥርዓት (Ranked Choice Voting) / አነሳሽ ድንጋጌ 83 (Initiative 83)"
+resources.title.topa: "TOPA እና DOPA፦ የተከራዮች የመግዛት መብቶች"
+resources.title.fair_elections: "የዲሲ ፍትሃዊ ምርጫ ፕሮግራም (Fair Elections Program)"
+resources.title.dc_council: "የዲሲ ምክር ቤት (DC Council) እንዴት እንደሚሰራ"
+resources.title.delegate_statehood: "ድምፅ የሌለው ተወካይ (Delegate) እና የዲሲ ግዛትነት (Statehood)"
+resources.title.special_elections: "ልዩ ምርጫዎች (Special Elections) እንዴት እንደሚሰሩ"
+resources.title.methodology: "የዕጩዎችን አቋሞች እንዴት እንደምንመድብ"
+resources.title.privacy: "የግላዊነት መብት እና የእርስዎ መረጃ"
+
+# --- Error pages ---
+error.404_title: "ገጹ አልተገኘም"
+error.404_text: "የፈለጉትን ገጽ ማግኘት አልቻልንም። ተንቀሳቅሶ ሊሆን ይችላል፣ ወይም አገናኙ የተሳሳተ ሊሆን ይችላል።"
+error.back_elections: "← ወደ ምርጫዎች ይመለሱ"
+error.browse_resources: "መርጃዎችን ይመልከቱ"
+error.500_title: "የሆነ ችግር ተፈጥሯል"
+error.500_text: "በእኛ በኩል ያልተጠበቀ ስህተት ተፈጥሯል። ያስገቡት ነገር ምንም በአገልጋይ ላይ አልተሰበሰበም ወይም አልተከማቸም — የጥያቄ መልሶችዎ የሚኖሩት በራስዎ መሣሪያ ላይ ባለ ኩኪ (cookie) ውስጥ ብቻ ነው።"
+error.500_text2: "እባክዎ ከጥቂት ጊዜ በኋላ እንደገና ይሞክሩ።"
+
+# --- Page <title> tags ---
+title.choose_election: "ምርጫ ይምረጡ"
+title.quiz: "ጥያቄዎች"
+title.choose_questions: "ጥያቄዎችን ይምረጡ"
+title.results: "የእርስዎ ውጤቶች"
+title.results_all: "የእርስዎ ውጤቶች፦ እያንዳንዱ ውድድር"
+title.resources: "መርጃዎች"
+title.about: "ስለ እኛ"
+title.not_found: "ገጹ አልተገኘም"
+title.error: "የሆነ ችግር ተፈጥሯል"
+
+# --- About page ---
+about.page_title: "ስለዚህ ድረ-ገጽ"
+about.what_is_title: "ይህ ምንድን ነው?"
+about.what_is_body: >
+  ለዋሽንግተን ዲሲ ሰኔ 16፣ 2026 የዴሞክራቲክ ፓርቲ የመጀመሪያ ዙር ምርጫዎች የቀረበ ነፃ እና ክፍት ምንጭ (open source) የመራጮች መመሪያ ነው። በ5-ነጥብ የላይከርት (Likert) ሚዛን በመጠቀም በእውነት በሚያስቡባቸው ጉዳዮች ላይ ተመስርተው ዕጩዎችን እንዲያወዳድሩ ይረዳዎታል።
+about.sourcing_title: "የዕጩዎች አቋሞች እንዴት ይገኛሉ?"
+about.sourcing_p1: >
+  እያንዳንዱ የዕጩ አቋም በቀጥታ ከዋና ምንጭ ጋር መያያዝ አለበት — የዕጩው የራሱ የምርጫ ቅስቀሳ ድረ-ገጽ፣ ይፋዊ የመጠይቅ ምላሽ ወይም የተረጋገጠ የዜና ጽሑፍ። ምንም አቋም ያለ ጥቅስ አይዘረዘርም። የትኞቹ አቋሞች "ትክክል" እንደሆኑ የራሳችንን አስተያየት አንሰጥም።
+about.sourcing_p2: >
+  የአንድ ዕጩ አቋም ያልታወቀ ሲሆን — አንድን ጉዳይ በይፋ ስላላነሱ — ከመገመት ወይም ከመደምደም ይልቅ "ያልታወቀ" ብለን እንመለከተዋለን።
+about.advisories_title: "ስለ ድጋፎች ማሳሰቢያዎች"
+about.advisories_p1: >
+  ይህ ድረ-ገጽ ስለ ድጋፎች ማሳሰቢያዎችን (እንደ "Free DC፦ ዕጩ X ን አትደርድሩ" ያሉ) ከምንጩ ጋር ቀጥተኛ አገናኝ ባለው የሶስተኛ ወገን አስተያየት መልክ ያሳያል። እነዚህ የዚህ ድረ-ገጽ የራሱ ምክሮች አይደሉም — በስም የተጠቀሱ ድርጅቶች ያሉትን ነገር የሚገልጹ ተጨባጭ ዘገባዎች ናቸው።
+about.methodology_title: "ዘዴ (Methodology)"
+about.methodology_intro: >
+  እያንዳንዱ መልስ የ5-ነጥብ ሚዛን ይጠቀማል፦ <em>በጣም አልስማማም</em>፣ <em>አልስማማም</em>፣ <em>ገለልተኛ</em>፣ <em>እስማማለሁ</em>፣ <em>በጣም እስማማለሁ</em>። ለሚመልሱት ለእያንዳንዱ ጥያቄ የእርስዎን አቋም ከዕጩው አቋም ጋር በማነፃፀር በዚያ ሚዛን ላይ ስንት እርምጃ እንደሚራራቁ እንመለከታለን።
+about.two_things_title: "የሚያዩዋቸው ሁለት ነገሮች፣ እና ለምን ሊለያዩ እንደሚችሉ"
+about.two_things_body: >
+  እያንዳንዱ የተነፃፀረ ጥያቄ <strong>መለያ (label)</strong> ያሳያል — ዋናው <span class="agree-pill agree-yes">እስማማለሁ</span>፣ <span class="agree-pill agree-partial">በከፊል</span> ወይም <span class="agree-pill agree-no">አልስማማም</span> — እንዲሁም የዕጩውን አጠቃላይ <strong>የተዛማጅነት&nbsp;መቶኛ</strong> ይመግባል። እነዚህ የተለያዩ ነገሮችን ይለካሉ፣ ስለዚህ ሊለያዩ ይችላሉ፦
+about.label_rule_lead: >
+  <strong>መለያው ግምታዊ ዋና ሐሳብ ነው፦ በየትኛው ወገን ነዎት?</strong> ቀላልና ግልጽ ህጎችን ይጠቀማል፦
+about.label_rule_agree: >
+  <strong>እስማማለሁ</strong> — ተመሳሳይ አቋም።
+about.label_rule_partial: >
+  <strong>በከፊል</strong> — በአንድ እርምጃ የተራራቀ፦ በ<em>ተመሳሳይ ወገን</em> ነዎት እና የሚለያዩት በጥንካሬ ብቻ ነው (ለምሳሌ፣ <em>በጣም እስማማለሁ</em> ከ<em>እስማማለሁ</em> ጋር)።
+about.label_rule_disagree: >
+  <strong>አልስማማም</strong> — በሁለት ወይም ከዚያ በላይ እርምጃ የተራራቀ። በተቃራኒ ወገኖች መሆን፣ ወይም አንዱ ገለልተኛ ሲሆን ሌላው ቁርጠኛ መሆን፣ እንደ አለመስማማት ይቆጠራል — እንደ "በከፊል" መስማማት አይደለም።
+about.percentage_rule: >
+  <strong>መቶኛው ጥቃቅን ዝርዝሩ ነው፦ በትክክል ምን ያህል ይራራቃሉ?</strong> ከልዩነቱ ጋር ቀስ በቀስ ይመዘናል — ለተመሳሳይ መልስ 100% እስከ ለፍፁም ተቃራኒ 0% — እና የመጨረሻው የተዛማጅነት መቶኛ ዕጩው የታወቀ ይፋዊ አቋም ባለበት በመለሷቸው እያንዳንዱ ጥያቄ ላይ የእነዚያ እሴቶች አማካይ ነው። በደረጃ መያዙ ከእይታዎ <em>በትንሹ</em> የራቀ ዕጩ <em>ፍጹም</em> ከተቃረነው በላይ እንዲደረደር የሚያስችለው ይህ ነው።
+about.label_pct_diff: >
+  በዚህ ምክንያት፣ አሁንም ለመቶኛው ከፊል መጠን (ለምሳሌ 50%) ባበረከተ ጥያቄ ላይ <span class="agree-pill agree-no">አልስማማም</span> የሚል መለያ ሊያዩ ይችላሉ። ይህ ሆን ተብሎ የተደረገ ነው፦ በተቃራኒ ወገኖች ሆነው አሁንም ቢሆን ከፍተኛውን ያህል ላይራራቁ ይችላሉ።
+about.worked_examples_title: "የተሰሩ ምሳሌዎች"
+about.worked_examples_intro: >
+  እያንዳንዱ ጉዳይ ከተመሳሳይ መልስ ጀምሮ እስከ ፍፁም ተቃራኒ ድረስ በትክክል እንዴት እንደሚታይ ይኸውና — ከታች ያሉት ካርዶች በውጤቶችዎ ገጽ ላይ እንዳለው ጥያቄ-በጥያቄ ዝርዝር ሆነው ይታያሉ፦
+about.example_line_one: "{n} እርምጃ የተራራቀ · ለተዛማጅነቱ {pct} ያበረክታል"
+about.example_line_many: "{n} እርምጃዎች የተራራቀ · ለተዛማጅነቱ {pct} ያበረክታል"
+about.candidate_col: "ዕጩ"
+about.skip_note: >
+  የሚዘሏቸው ጥያቄዎች — እና ዕጩው የታወቀ ይፋዊ አቋም የሌለበት ጥያቄዎች — ሙሉ በሙሉ ይገለላሉ። መለያ አያገኙም እና ለመቶኛው በፍፁም አይቆጠሩም።
+about.insufficient_note: >
+  ከመለሷቸው ጥያቄዎች በማንኛቸውም ላይ የታወቀ አቋም የሌለው ዕጩ በ0% ከመመዘን ይልቅ "በቂ ያልሆነ መረጃ" ተብሎ ይታያል።
+about.coverage_note: >
+  መቶኛ በጥቂት ጥያቄዎች ላይ ብቻ ሲመሰረት አሳሳች ሊሆን ስለሚችል፣ እያንዳንዱ ውጤት <strong>ሽፋኑን</strong> ያሳያል — ለምሳሌ "ከ29 ጥያቄዎች ውስጥ በ5 ላይ የተመሰረተ"። አንድ ዕጩ አቋም ባለን አምስት ጥያቄዎች ላይ 100% ሊያስመዘግብ ይችላል ሌሎቹ 24 ጉዳዮች ላይ ያሉ እይታዎቹ ግን ሳይታወቁ ሊቀሩ ይችላሉ።
+about.limited_note: >
+  ይህ ከጠንካራ አጠቃላይ ተዛማጅነት ጋር እንዳይምታታ ለመከላከል፣ ከመለሷቸው ጥያቄዎች በጣም ጥቂቶቹ ላይ ብቻ ሰነድ ያለን ዕጩዎች በተናጠል <strong>"ውስን መረጃ ይገኛል"</strong> በሚል ስር ይመደባሉ እና ምንም ይሁን መቶኛቸው ከበቂ ሰነድ ካላቸው ዕጩዎች በታች ይደረደራሉ። የዕጩን የጎደሉ አቋሞች በፍፁም አንገምትም ወይም አንሞላም — ተጨማሪ በምንጭ የተደገፈ መረጃ እስኪገኝ ድረስ በቀላሉ በትንሽ ልበ ሙሉነት ይደረደራሉ።
+about.opensource_title: "ክፍት ምንጭ (Open source)"
+about.opensource_pre: "ይህ ድረ-ገጽ የተለቀቀው በ"
+about.opensource_license: "AGPL-3.0 ፍቃድ"
+about.opensource_post: >
+  ሁሉም ምንጭ ኮድ እና የዕጩዎች መረጃ ለሕዝብ ይፋ ናቸው። አስተዋጽኦዎች፣ እርማቶች እና የችግር ሪፖርቶች በደስታ ይቀበላሉ።
+about.disclaimer_title: "ማስተባበያ"
+about.disclaimer_pre: >
+  ይህ ድረ-ገጽ ራሱን የቻለ የዜግነት ፕሮጀክት ሲሆን ከማንኛውም ዕጩ፣ ዘመቻ፣ የፖለቲካ ፓርቲ ወይም የመንግሥት ኤጀንሲ ጋር ግንኙነት የለውም። አስተያየት፣ የማሻሻያ ሐሳብ ወይም ስጋት ካለዎት፣ እባክዎ በዚህ ኢሜይል ይፃፉልኝ
+about.disclaimer_post: "ወይም በGitHub ላይ ጉዳይ (issue) ይክፈቱ።"
+
+# --- Date formatting (Gregorian months, transliterated; e.g. "ጁን 16፣ 2026") ---
+date.long_format: "{month} {day}፣ {year}"
+date.month.1: "ጃንዋሪ"
+date.month.2: "ፌብሩዋሪ"
+date.month.3: "ማርች"
+date.month.4: "ኤፕሪል"
+date.month.5: "ሜይ"
+date.month.6: "ጁን"
+date.month.7: "ጁላይ"
+date.month.8: "ኦገስት"
+date.month.9: "ሴፕቴምበር"
+date.month.10: "ኦክቶበር"
+date.month.11: "ኖቬምበር"
+date.month.12: "ዲሴምበር"

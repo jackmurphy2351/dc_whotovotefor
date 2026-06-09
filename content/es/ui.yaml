@@ -10,6 +10,7 @@ nav.about: "Acerca de"
 lang.aria: "Idioma"
 lang.name.en: "English"
 lang.name.es: "Español"
+lang.name.am: "አማርኛ"
 
 # --- Primary-election notice ---
 primary_notice.strong: "Estas son elecciones primarias del Partido Demócrata."

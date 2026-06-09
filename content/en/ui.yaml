@@ -11,6 +11,7 @@ nav.about: "About"
 lang.aria: "Language"
 lang.name.en: "English"
 lang.name.es: "Español"
+lang.name.am: "አማርኛ"
 
 # --- Primary-election notice (base.html) ---
 primary_notice.strong: "These are Democratic Primary elections."

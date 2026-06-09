@@ -1,0 +1,103 @@
+# Amharic overlay for elections. Only translatable text; slugs match content/elections.yaml.
+# Unreviewed Amharic draft — proper nouns (neighborhoods, names) kept in English.
+- slug: mayor
+  title: "የከንቲባ ምርጫ"
+  short_description: >
+    የዲሲን ቀጣይ ከንቲባ ይምረጡ — ሰባት ዴሞክራቶች በሰኔ 16 የመጀመሪያ ዙር ምርጫ ድምፅ መስጫ ላይ ይገኛሉ።
+  whats_at_stake: |
+    ከንቲባው የዲሲን ዓመታዊ በጀት ይወስናል፣ ሁሉንም ዋና ዋና የኤጀንሲ ኃላፊዎች (የMPD አዛዥን ጨምሮ)
+    ይሾማል፣ እና የዲስትሪክቱ ከኮንግረስ እና ከዋይት ሃውስ ጋር ዋነኛ ተደራዳሪ ነው። በ2026፣ በዲሲ ራስ-
+    ገዝነት ላይ የሚሰነዘሩ የፌደራል ዛቻዎች እየጨመሩ ባለበት ሁኔታ፣ ይህ ውድድር ተጨማሪ ክብደት
+    ይዟል። በሥልጣን ላይ ያሉት ከንቲባ ሙሪኤል ባውዘር እንደገና ለመመረጥ አይወዳደሩም። ሰባት ዴሞክራቶች
+    በመጀመሪያ ዙር ምርጫ ይወዳደራሉ፣ እና በደረጃ የመምረጥ ሥርዓት (ranked choice voting)
+    በሰኔ 2026 ለመጀመሪያ ጊዜ ተግባራዊ ይሆናል።
+
+- slug: delegate
+  title: "ድምፅ የሌለው ተወካይ ለኮንግረስ"
+  short_description: >
+    የዲሲን ቀጣይ ተሟጋች በአሜሪካ ምክር ቤት (House) ይምረጡ። ኤሌኖር ሆልምስ ኖርተን 35 ዓመታት በሥልጣን
+    ላይ ከቆዩ በኋላ ጡረታ እየወጡ ነው።
+  whats_at_stake: |
+    የዲሲ ተወካይ በምክር ቤቱ መድረክ ላይ መናገር፣ በኮሚቴዎች ማገልገል፣ ሕግ ማቅረብ እና ለዲስትሪክቱ
+    በጀት መታገል ይችላል — ነገር ግን በሕጎች የመጨረሻ ማፅደቅ ላይ ድምፅ መስጠት አይችልም። በሥልጣን
+    ላይ ያሉት ኤሌኖር ሆልምስ ኖርተን ከ18 የሥራ ዘመናት በኋላ እንደገና ለመመረጥ አይወዳደሩም። ይህ በዲሲ
+    ታሪክ ውስጥ ካሉት እጅግ ተወዳዳሪ እና ውድ የተወካይ ውድድሮች አንዱ ነው። አምስት ዴሞክራቶች
+    በመጀመሪያ ዙር ምርጫ ይገኛሉ፣ እና በደረጃ የመምረጥ ሥርዓት (ranked choice voting) በሰኔ
+    2026 ለመጀመሪያ ጊዜ ተግባራዊ ይሆናል።
+
+- slug: at_large_mcduffie
+  title: "At-Large ምክር ቤት — ልዩ ምርጫ (የMcDuffie መቀመጫ)"
+  short_description: >
+    Kenyan McDuffie ለከንቲባነት ሲወዳደር የለቀቀውን At-Large መቀመጫ ለመሙላት የሚካሄድ ፓርቲ-አልባ
+    ልዩ አጠቃላይ ምርጫ።
+  whats_at_stake: |
+    ይህ ፓርቲ-አልባ ልዩ አጠቃላይ ምርጫ ነው — የዴሞክራቲክ መጀመሪያ ዙር ምርጫ አይደለም። የምክር ቤት
+    ክፍት መቀመጫ ለመሙላት የሚካሄዱ ልዩ ምርጫዎች በሕግ ፓርቲ-አልባ ናቸው እና ፓርቲ ሳይለይ ለሁሉም
+    የተመዘገቡ የዲሲ መራጮች ክፍት ናቸው፤ ዕጩዎቹ እንደ ነፃ ተወዳዳሪ (Independent) የሚወዳደሩት
+    በዚህ ደንብ ምክንያት እንጂ በምርጫቸው አይደለም። አራት ዕጩዎች (Doni Crawford፣ Khalil Lee፣
+    Jacque Patterson እና Elissa Silverman) በሰኔ 16 ድምፅ መስጫ ላይ ይገኛሉ። በድምፅ መስጫው
+    ላይ ካሉት ሌሎች ውድድሮች በተለየ፣ የዚህ ልዩ ምርጫ አሸናፊ ወደ ኖቬምበር አያልፍም — ውጤቶቹ
+    እንደተረጋገጡ ቃለ መሐላ ፈጽሞ የKenyan McDuffie ቀሪ የሥራ ዘመን ብቻ፣ እስከ ጥር 2፣ 2027
+    ድረስ ያገለግላል። ከዚያም ተመሳሳዩ መቀመጫ በኖቬምበር 2026 አጠቃላይ ምርጫ ለሙሉ የአራት ዓመት
+    የሥራ ዘመን ይወዳደራል። በደረጃ የመምረጥ ሥርዓት (ranked choice voting) በሰኔ 2026 ለመጀመሪያ
+    ጊዜ ተግባራዊ ይሆናል።
+
+- slug: at_large_bonds
+  title: "At-Large ምክር ቤት — መደበኛ ምርጫ"
+  short_description: >
+    በAnita Bonds ጡረታ ምክንያት ክፍት የሆነ At-Large መቀመጫ። ዘጠኝ ዴሞክራቶች በሰኔ 16
+    የመጀመሪያ ዙር ምርጫ ድምፅ መስጫ ላይ ይገኛሉ።
+  whats_at_stake: |
+    ይህ መደበኛ የዴሞክራቲክ መጀመሪያ ዙር ምርጫ አንድ At-Large መቀመጫ ይሞላል — ጡረታ
+    የሚወጡት የምክር ቤት አባል Anita Bonds የያዙትን መቀመጫ። ዘጠኝ ዴሞክራቶች ይወዳደራሉ፣ እና
+    ሦስት ወይም ከዚያ በላይ ዕጩዎች በድምፅ መስጫው ላይ ስለሚገኙ፣ በደረጃ የመምረጥ ሥርዓት (ranked
+    choice voting) በሰኔ 2026 ለመጀመሪያ ጊዜ ተግባራዊ ይሆናል፤ ብቸኛው አሸናፊ ለኖቬምበር
+    አጠቃላይ ምርጫ የዴሞክራቲክ ዕጩ ይሆናል። ይህ በሰኔ 16 ድምፅ መስጫ ላይ ካሉት ሁለት At-Large
+    ውድድሮች አንዱ ነው — ሌላኛው Kenyan McDuffie ለከንቲባነት ለመወዳደር የለቀቀውን መቀመጫ
+    የሚመለከት የተለየ ፓርቲ-አልባ ልዩ ምርጫ ነው። ዲሲ አራት At-Large መቀመጫዎች አሏት፣ ከእነዚህም
+    ሁለቱ በ2026 ይወዳደራሉ። At-Large አባላት መላውን ዲስትሪክት ይወክላሉ እና የአራት ዓመት የሥራ
+    ዘመን ያገለግላሉ።
+
+- slug: ward1
+  title: "የWard 1 የምክር ቤት አባል"
+  short_description: >
+    አምስት ዴሞክራቶች ጡረታ የሚወጡትን የምክር ቤት አባል Brianne Nadeau ለመተካት በሰኔ 16
+    የመጀመሪያ ዙር ምርጫ ይወዳደራሉ።
+  whats_at_stake: |
+    Ward 1 Columbia Heights፣ Mt. Pleasant፣ Adams Morgan፣ Petworth፣ Shaw እና
+    የU Street ክፍሎችን ያጠቃልላል። ወረዳው ትልቅ የላቲንክስ ማህበረሰብ፣ ጉልህ የተመጣጣኝ ዋጋ
+    ያለው የቤት ክምችት እና ቀጣይነት ያለው የጄንትሪፊኬሽን ጫና አለው። ጡረታ የሚወጡት የምክር ቤት
+    አባል Brianne Nadeau Rashida Brown ን ደግፈዋል። አምስት ዴሞክራቶች በመጀመሪያ ዙር ምርጫ
+    ይገኛሉ፣ እና በደረጃ የመምረጥ ሥርዓት (ranked choice voting) በሰኔ 2026 ለመጀመሪያ ጊዜ
+    ተግባራዊ ይሆናል።
+
+- slug: ward5
+  title: "የWard 5 የምክር ቤት አባል"
+  short_description: >
+    በሥልጣን ላይ ያሉት Zachary Parker በሰኔ 16 የዴሞክራቲክ መጀመሪያ ዙር ምርጫ ሁለት
+    ተፎካካሪዎችን ይጋፈጣሉ።
+  whats_at_stake: |
+    Ward 5 Trinidad፣ Brentwood፣ Langdon፣ Edgewood፣ Michigan Park፣ Brookland፣
+    Lamond-Riggs፣ Fort Lincoln እና የIvy City ኮሪደርን ጨምሮ ሰፊውን የሰሜን ምስራቅ ዲሲ
+    ክፍል ያጠቃልላል። በሥልጣን ላይ ያሉት የምክር ቤት አባል Zachary Parker፣ በዲሲ ታሪክ ውስጥ
+    የመጀመሪያው ጥቁር በግልጽ ግብረ-ሰዶማዊ (openly gay) የምክር ቤት አባል፣ እንደገና ለመመረጥ
+    ይወዳደራሉ። ወረዳው በNoMa፣ Ivy City እና Rhode Island Avenue ኮሪደሮች ላይ ጉልህ
+    የልማት ጫና አይቷል እንዲሁም በParker የሥራ ዘመን ኃይል የተሞላበት ወንጀል በከፍተኛ ሁኔታ
+    ቀንሷል። ሦስት ዴሞክራቶች በመጀመሪያ ዙር ምርጫ ድምፅ መስጫ ላይ ይገኛሉ፣ እና በደረጃ የመምረጥ
+    ሥርዓት (ranked choice voting) በሰኔ 2026 ለመጀመሪያ ጊዜ ተግባራዊ ይሆናል።
+
+- slug: ward6
+  title: "የWard 6 የምክር ቤት አባል"
+  short_description: >
+    ለሦስት የሥራ ዘመን በሥልጣን ላይ የቆዩት Charles Allen በሰኔ 16 የዴሞክራቲክ መጀመሪያ ዙር
+    ምርጫ ሁለት ተፎካካሪዎችን ይጋፈጣሉ።
+  whats_at_stake: |
+    Ward 6 በከተማዋ አራቱም አቅጣጫዎች ሰፈሮች ያሉት ብቸኛው ወረዳ ነው — Capitol Hill፣
+    Southwest Waterfront እና the Wharf፣ Navy Yard እና Capitol Riverfront፣ NoMa፣
+    Penn Quarter፣ Gallery Place-Chinatown እና Buzzard Point። ለሦስት የሥራ ዘመን
+    በሥልጣን ላይ የቆዩት Charles Allen፣ የምክር ቤቱን የፍትህ እና የህዝብ ደህንነት ኮሚቴ የመሩ
+    ተራማጅ (progressive)፣ እንደገና ለመመረጥ ይወዳደራሉ። የህዝብ ደህንነት — የወንጀል መረጃ ላይ
+    ያሉ አለመግባባቶችን እና ከተማዋ ለ"ታዳጊዎች ወረራ" (teen takeovers) የሰጠችውን ምላሽ ጨምሮ
+    — ከተፎካካሪዎቹ Gloria Nauden እና Michael Murphy የሚለየው ዋነኛ ጉዳይ ነው። ሦስት
+    ዴሞክራቶች በመጀመሪያ ዙር ምርጫ ድምፅ መስጫ ላይ ይገኛሉ፣ እና በደረጃ የመምረጥ ሥርዓት (ranked
+    choice voting) በሰኔ 2026 ለመጀመሪያ ጊዜ ተግባራዊ ይሆናል።

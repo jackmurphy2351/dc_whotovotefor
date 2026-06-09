@@ -13,7 +13,7 @@ import yaml
 from flask import current_app, g
 
 # Add new languages here (and ship a content/<lang>/ overlay + ui.yaml).
-SUPPORTED_LANGUAGES = ("en", "es")
+SUPPORTED_LANGUAGES = ("en", "es", "am")
 DEFAULT_LANGUAGE = "en"
 
 
