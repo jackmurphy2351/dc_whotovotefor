@@ -1,6 +1,6 @@
 # Help Me Vote DC 2026!
 
-An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across seven races, in **English and Spanish**.
+An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Democratic Primary** (and the At-Large special general election on the same day). It helps voters find their best-matched candidates across seven races, in **English, Spanish, and Amharic** (Amharic is an in-progress overlay — see [Internationalization](#internationalization-i18n)).
 
 > **Why the primary matters:** In DC local politics, the Democratic Primary is effectively the general election. The District has not elected a Republican mayor since 1954. Winning the June 16 primary is, for most races, winning the seat.
 
@@ -13,7 +13,7 @@ An open-source, interactive voter guide for Washington, DC's **June 16, 2026 Dem
 3. The app scores every candidate by averaging your agreement on the questions where both you and the candidate have a stated position, then ranks them from most to least aligned — surfacing how much data backs each score so well-documented candidates aren't outranked by thinly-sourced ones (see [Scoring algorithm](#scoring-algorithm)).
 4. Each result shows per-issue breakdowns and links every claim to a primary source.
 
-The entire experience is available in **English (`/en/…`) and Spanish (`/es/…`)** via a header toggle — see [Internationalization](#internationalization-i18n).
+The entire experience is available in **English (`/en/…`) and Spanish (`/es/…`)** via a header toggle, with **Amharic (`/am/…`)** in progress — see [Internationalization](#internationalization-i18n).
 
 ### The seven races
 
@@ -35,7 +35,7 @@ The entire experience is available in **English (`/en/…`) and Spanish (`/es/�
 - **PyYAML** for all candidate/question/election content
 - **python-frontmatter + Markdown** for resource/explainer pages
 - **Flask session** (signed cookie) for quiz state — no database
-- **Custom YAML-overlay i18n** (English + Spanish) — no Flask-Babel, no build step
+- **Custom YAML-overlay i18n** (English + Spanish + Amharic) — no Flask-Babel, no build step
 - Vanilla JS for quiz UX enhancements (progress bar, radio highlight)
 - **pytest** for unit + integration tests
 
@@ -67,13 +67,13 @@ The app will be available at **http://127.0.0.1:5000**.
 python -m pytest
 ```
 
-All 99 tests should pass (98 passed, 1 skipped — a translation-coverage check that
+All 106 tests should pass (105 passed, 1 skipped — a translation-coverage check that
 skips once every candidate is translated). The test suite covers:
 - Scoring algorithm edge cases (null stances, skipped questions, agreement calculation)
 - Coverage tracking and the limited-data ranking tier (thresholds, tiered sort order)
 - Data loader validation (duplicate IDs, missing sources, unknown question references)
 - Quiz question-selection flow and stepped quiz state
-- Flask route smoke tests across both language prefixes (all routes return 200)
+- Flask route smoke tests across the language prefixes (all routes return 200)
 - Content integrity and translation overlays (`test_translations.py` hard-fails on
   any overlay ID/field/slug that doesn't exist in English, and on stance/source drift)
 
@@ -114,11 +114,14 @@ dc_whotovotefor/
 │   ├── transcripts/              # Debate transcripts used as sources
 │   ├── resources/                # Markdown explainer pages
 │   ├── en/                       # Canonical UI chrome (ui.yaml)
-│   └── es/                       # Spanish text-only overlays (mirrors content/ IDs)
-│       ├── elections.yaml · issues.yaml · questions.yaml
-│       ├── candidates/<race>.yaml
-│       ├── resources/<topic>.md
-│       └── ui.yaml
+│   ├── es/                       # Spanish text-only overlays (mirrors content/ IDs)
+│   │   ├── ui.yaml · elections.yaml · issues.yaml · questions.yaml
+│   │   ├── candidates/<race>.yaml
+│   │   └── resources/<topic>.md
+│   └── am/                       # Amharic overlays — Phase 1 / partial (mirrors content/ IDs)
+│       ├── ui.yaml · elections.yaml · issues.yaml · questions.yaml
+│       ├── candidates/mayor.yaml   # only Janeese Lewis George + Ernest Johnson
+│       └── resources/<topic>.md
 ├── scripts/
 │   └── fastdemocracy_scraper.py  # DC Council voting-record scraper (see below)
 └── tests/
@@ -256,10 +259,16 @@ These are Markdown files in `content/resources/` with YAML front-matter declarin
 
 ## Internationalization (i18n)
 
-The app ships in **English and Spanish**, and is built so a third language (e.g.
-Amharic) is a content drop, not a code change. There is **no Flask-Babel** — both
-the voter-facing content and the ~140 UI-chrome strings use the same YAML-overlay
-paradigm.
+The app ships in **English and Spanish**, with an in-progress **Amharic** overlay,
+and is built so an additional language is a content drop, not a code change. There is
+**no Flask-Babel** — both the voter-facing content and the ~140 UI-chrome strings use
+the same YAML-overlay paradigm.
+
+> **Amharic (`am`) is Phase 1 / partial.** The UI chrome, all questions, issues,
+> elections, and resource pages are translated, but only two mayoral candidates
+> (Janeese Lewis George, Ernest Johnson) are; every other candidate falls back to
+> English per-field. The `am` files are an unreviewed machine draft (noted in each
+> file's header) pending review by a fluent speaker before they should be relied upon.
 
 - **English is canonical and the only validated layer.** Everything in `content/`
   (root) is the source of truth. Each other language lives in `content/<lang>/` as a
@@ -273,7 +282,7 @@ paradigm.
   pluralized strings use `plural()`.
 - **Routing.** All blueprints are mounted under a `/<lang_code>/` prefix; existing
   `url_for(...)` calls are untouched (the language is injected automatically). The
-  header EN/ES toggle preserves the current page.
+  header language toggle (EN/ES/AM) preserves the current page.
 - **Adding a language:** add its code to `SUPPORTED_LANGUAGES` in `helpmevote/i18n.py`
   and drop in the relevant `content/<lang>/…` overlay files. `test_translations.py`
   hard-fails on overlay IDs/fields/slugs that don't exist in English (catching typos)

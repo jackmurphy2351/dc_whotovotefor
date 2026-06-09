@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 # Run dev server (http://127.0.0.1:5000)
 FLASK_ENV=development .venv/bin/python app.py
 
-# Run all tests (99 tests; data_loader + scoring + quiz selection + routes + content integrity + translations)
+# Run all tests (106 tests; data_loader + scoring + quiz selection + routes + content integrity + translations)
 .venv/bin/python -m pytest
 
 # Run a single test
@@ -115,7 +115,7 @@ All four blueprints are mounted under a `/<lang_code>/` prefix (see i18n below);
 
 ## Internationalization (i18n)
 
-English is canonical; other languages are **text-only overlays with per-field English fallback**, so a translation can never break referential integrity or drift structurally. `SUPPORTED_LANGUAGES` lives in `helpmevote/i18n.py` (`("en", "es")` today; add `"am"` etc. there). There is **no Flask-Babel** — both content and UI chrome use the same YAML-overlay paradigm.
+English is canonical; other languages are **text-only overlays with per-field English fallback**, so a translation can never break referential integrity or drift structurally. `SUPPORTED_LANGUAGES` lives in `helpmevote/i18n.py` (`("en", "es", "am")` today; add new codes there). There is **no Flask-Babel** — both content and UI chrome use the same YAML-overlay paradigm. The Amharic (`am`) overlay is **Phase 1 / partial**: UI chrome, questions, issues, elections, and resources are fully translated, but only two mayoral candidates (Janeese Lewis George, Ernest Johnson) are; every other candidate falls back to English. The `am` files are an unreviewed machine draft (noted in each file's header) pending fluent-speaker review.
 
 **Two translation layers:**
 1. **Content** (candidate bios/positions, questions, issues, elections, resource markdown). English stays in `content/` root; each other language gets `content/<lang>/` mirroring only the *translatable text fields*, keyed by the same stable IDs:
