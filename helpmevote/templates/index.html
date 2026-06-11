@@ -2,6 +2,30 @@
 {% block title %}{{ t("site.name") }} — {{ t("index.title") }}{% endblock %}
 
 {% block content %}
+<div class="poll-countdown" id="poll-countdown" data-deadline="2026-06-16T20:00:00-04:00"
+     role="timer" aria-live="off">
+  <p class="poll-countdown__heading">{{ t("countdown.heading") }}</p>
+  <div class="poll-countdown__clock">
+    <div class="poll-countdown__unit">
+      <span class="poll-countdown__value" data-unit="days">--</span>
+      <span class="poll-countdown__label">{{ t("countdown.days") }}</span>
+    </div>
+    <div class="poll-countdown__unit">
+      <span class="poll-countdown__value" data-unit="hours">--</span>
+      <span class="poll-countdown__label">{{ t("countdown.hours") }}</span>
+    </div>
+    <div class="poll-countdown__unit">
+      <span class="poll-countdown__value" data-unit="minutes">--</span>
+      <span class="poll-countdown__label">{{ t("countdown.minutes") }}</span>
+    </div>
+    <div class="poll-countdown__unit">
+      <span class="poll-countdown__value" data-unit="seconds">--</span>
+      <span class="poll-countdown__label">{{ t("countdown.seconds") }}</span>
+    </div>
+  </div>
+  <p class="poll-countdown__closed" hidden>{{ t("countdown.closed") }}</p>
+</div>
+
 <div class="page-hero">
   <h1>{{ t("site.name") }}</h1>
   <p class="lead">
@@ -46,4 +70,8 @@
   </div>
   {% endfor %}
 </section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/countdown.js') }}" defer></script>
 {% endblock %}

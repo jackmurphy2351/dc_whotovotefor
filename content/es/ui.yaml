@@ -10,6 +10,7 @@ nav.about: "Acerca de"
 lang.aria: "Idioma"
 lang.name.en: "English"
 lang.name.es: "Español"
+lang.name.am: "አማርኛ"
 
 # --- Primary-election notice ---
 primary_notice.strong: "Estas son elecciones primarias del Partido Demócrata."
@@ -60,6 +61,14 @@ badge.fair_elections: "Elecciones Justas ✓"
 badge.fair_elections_full: "Participa en el Programa de Elecciones Justas de DC ✓"
 badge.not_fair_elections: "No participa en el Programa de Elecciones Justas de DC"
 badge.limited: "Datos limitados"
+
+# --- Poll-closing countdown (index.html) ---
+countdown.heading: "Las urnas cierran en"
+countdown.days: "Días"
+countdown.hours: "Horas"
+countdown.minutes: "Minutos"
+countdown.seconds: "Segundos"
+countdown.closed: "Las urnas han cerrado. ¡Gracias por votar!"
 
 # --- Home page ---
 index.title: "Elige una elección"

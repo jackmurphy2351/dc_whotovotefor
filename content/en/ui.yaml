@@ -11,6 +11,7 @@ nav.about: "About"
 lang.aria: "Language"
 lang.name.en: "English"
 lang.name.es: "Español"
+lang.name.am: "አማርኛ"
 
 # --- Primary-election notice (base.html) ---
 primary_notice.strong: "These are Democratic Primary elections."
@@ -61,6 +62,14 @@ badge.fair_elections: "Fair Elections ✓"
 badge.fair_elections_full: "Participating in DC Fair Elections Program ✓"
 badge.not_fair_elections: "Not in DC Fair Elections Program"
 badge.limited: "Limited data"
+
+# --- Poll-closing countdown (index.html) ---
+countdown.heading: "Polls close in"
+countdown.days: "Days"
+countdown.hours: "Hours"
+countdown.minutes: "Minutes"
+countdown.seconds: "Seconds"
+countdown.closed: "Polls have closed. Thank you for voting!"
 
 # --- Home page (index.html) ---
 index.title: "Choose an Election"
