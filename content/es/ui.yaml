@@ -62,6 +62,14 @@ badge.fair_elections_full: "Participa en el Programa de Elecciones Justas de DC 
 badge.not_fair_elections: "No participa en el Programa de Elecciones Justas de DC"
 badge.limited: "Datos limitados"
 
+# --- Poll-closing countdown (index.html) ---
+countdown.heading: "Las urnas cierran en"
+countdown.days: "Días"
+countdown.hours: "Horas"
+countdown.minutes: "Minutos"
+countdown.seconds: "Segundos"
+countdown.closed: "Las urnas han cerrado. ¡Gracias por votar!"
+
 # --- Home page ---
 index.title: "Elige una elección"
 index.hero_lead: "Las elecciones primarias del Partido Demócrata de DC del 16 de junio moldearán el Distrito por años. Elige una elección a continuación para conocer a los candidatos y descubrir quién se ajusta mejor a tus valores."

@@ -93,6 +93,58 @@ main.container { padding-top: 1.5rem; padding-bottom: 3rem; flex: 1; }
 }
 .primary-notice a { color: var(--dc-navy); font-weight: 600; }
 
+/* ── Poll-closing countdown ──────────────────────────────────────────────── */
+.poll-countdown {
+  background: var(--dc-navy);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+.poll-countdown__heading {
+  margin: 0 0 .6rem;
+  font-size: .95rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--dc-gold);
+}
+.poll-countdown__clock {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+}
+.poll-countdown__unit {
+  display: flex;
+  flex-direction: column;
+  min-width: 3.5rem;
+}
+.poll-countdown__value {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+.poll-countdown__label {
+  font-size: .7rem;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: rgba(255, 255, 255, .75);
+}
+.poll-countdown__closed {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--dc-gold);
+}
+@media (max-width: 480px) {
+  .poll-countdown__clock { gap: .75rem; }
+  .poll-countdown__unit { min-width: 2.75rem; }
+  .poll-countdown__value { font-size: 1.6rem; }
+}
+
 /* ── Footer ──────────────────────────────────────────────────────────────── */
 .site-footer {
   background: var(--dc-navy);

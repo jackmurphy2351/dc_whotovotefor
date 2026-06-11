@@ -63,6 +63,14 @@ badge.fair_elections_full: "Participating in DC Fair Elections Program ✓"
 badge.not_fair_elections: "Not in DC Fair Elections Program"
 badge.limited: "Limited data"
 
+# --- Poll-closing countdown (index.html) ---
+countdown.heading: "Polls close in"
+countdown.days: "Days"
+countdown.hours: "Hours"
+countdown.minutes: "Minutes"
+countdown.seconds: "Seconds"
+countdown.closed: "Polls have closed. Thank you for voting!"
+
 # --- Home page (index.html) ---
 index.title: "Choose an Election"
 index.hero_lead: "DC's June 16 Democratic Primary elections will shape the District for years. Pick an election below to learn about the candidates and find out who best matches your values."

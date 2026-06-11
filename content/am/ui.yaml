@@ -67,6 +67,14 @@ badge.fair_elections_full: "በዲሲ ፍትሃዊ ምርጫ ፕሮግራም (Fa
 badge.not_fair_elections: "በዲሲ ፍትሃዊ ምርጫ ፕሮግራም ውስጥ የለም"
 badge.limited: "ውስን መረጃ"
 
+# --- Poll-closing countdown (index.html) ---
+countdown.heading: "ምርጫ ጣቢያዎች የሚዘጉበት ቀሪ ጊዜ"
+countdown.days: "ቀናት"
+countdown.hours: "ሰዓታት"
+countdown.minutes: "ደቂቃዎች"
+countdown.seconds: "ሰከንዶች"
+countdown.closed: "ምርጫ ጣቢያዎች ተዘግተዋል። ስለመረጡ እናመሰግናለን!"
+
 # --- Home page ---
 index.title: "ምርጫ ይምረጡ"
 index.hero_lead: "ሰኔ 16 የሚካሄደው የዲሲ የዴሞክራቲክ ፓርቲ የመጀመሪያ ዙር ምርጫ ዲስትሪክቱን ለዓመታት ይቀርፃል። ስለ ዕጩዎቹ ለማወቅ እና ከእሴቶችዎ ጋር በተሻለ የሚስማማውን ለማግኘት ከታች አንድ ምርጫ ይምረጡ።"
