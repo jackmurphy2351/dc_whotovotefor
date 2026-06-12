@@ -127,7 +127,7 @@ def start_post(slug: str):
         )
 
     session[_selection_key(slug)] = selected
-    return redirect(url_for("quiz.quiz", slug=slug, step=0, fresh=1))
+    return redirect(url_for("quiz.quiz", slug=slug, step=0))
 
 
 @bp.route("/quiz/<slug>")
@@ -147,8 +147,6 @@ def quiz(slug: str):
     issue = content.issues.get(question.issue)
 
     saved_stance = _answers().get(question.id)
-    if request.args.get("fresh"):
-        saved_stance = None
 
     return render_template(
         "quiz.html",
@@ -181,7 +179,7 @@ def quiz_post(slug: str):
 
     next_step = step + 1
     if next_step < len(questions):
-        return redirect(url_for("quiz.quiz", slug=slug, step=next_step, fresh=1))
+        return redirect(url_for("quiz.quiz", slug=slug, step=next_step))
     return redirect(url_for("quiz.results", slug=slug))
 
 
