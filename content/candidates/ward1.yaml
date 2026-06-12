@@ -882,7 +882,9 @@
 - id: jackie-reyes-yanes
   name: "Jackie Reyes Yanes"
   election_slug: ward1
-  in_fair_elections: true
+  # Fair Elections certification revoked by OCF on 2026-06-05 (Docket No. OCF FI 2026-006);
+  # see the advisory below.
+  in_fair_elections: false
   campaign_url: https://jackieforward1.com/
   endorsements:
     - category: "Elected/Appointed Officials"
@@ -940,7 +942,23 @@
     audits, activated public spaces, and guaranteed youth employment. She explicitly
     supports a youth curfew as a temporary protective measure while investing in
     programming as the long-term solution.
-  advisories: []
+  advisories:
+    - organization: "DC Office of Campaign Finance"
+      year: 2026
+      text: >-
+        On June 5, 2026, the Office of Campaign Finance revoked the Fair Elections
+        Program certification of Reyes-Yanes and her campaign committee (Docket No.
+        OCF FI 2026-006). OCF auditors identified 13 cash contributors listed in the
+        campaign's April 2026 disclosure report who denied making any contributions
+        to the campaign, and the order found the campaign 'failed to overcome the
+        allegation of submitting falsified contribution information.' The order halts
+        all Fair Elections disbursements and directs the campaign to return remaining
+        funds to the Fair Elections Fund.
+      source:
+        url: https://fairelections.ocf.dc.gov/public/registrantDisclosureDetails/165
+        title: "Order of Revocation of Certification — Jackeline Reyes-Yanes (Docket No. OCF FI 2026-006)"
+        publisher: "DC Office of Campaign Finance"
+        accessed: 2026-06-12
   sources:
     - url: https://jackieforward1.com/#platform
       title: "Policy Platform — Jackie Reyes Yanes for Ward 1"

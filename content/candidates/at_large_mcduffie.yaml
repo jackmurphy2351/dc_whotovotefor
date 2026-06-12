@@ -738,7 +738,9 @@
 - id: khalil-lee
   name: "Khalil Lee"
   election_slug: at_large_mcduffie
-  in_fair_elections: true
+  # Fair Elections certification revoked by OCF on 2026-04-27 (Docket No. 2026 FP-004);
+  # see the advisories below.
+  in_fair_elections: false
   campaign_url: https://www.lee4dc.com/
   endorsements: []
   short_bio: >
@@ -770,7 +772,35 @@
     crisis — noting that "revitalization without affordability isn't progress;
     it's displacement dressed up as development" — as well as DC home rule and
     statehood, public safety, and economic development.
-  advisories: []
+  advisories:
+    - organization: "WAMU"
+      year: 2026
+      text: >-
+        In March 2026, WAMU reported that several people listed as contributors in
+        Lee's campaign finance filings said they never donated to his campaign — one
+        also said Lee listed their two children as contributors and petition
+        volunteers though they never gave money or worked for him. The Office of
+        Campaign Finance opened an investigation after rival candidate Elissa
+        Silverman flagged the discrepancies. Lee, who stood to receive $110,000 in
+        public Fair Elections funds, did not respond to WAMU's requests for comment.
+      source:
+        url: https://wamu.org/story/26/03/25/dc-council-candidate-faces-allegations-false-donation-reporting/
+        title: "A D.C. Council candidate accused of falsely reporting campaign donations"
+        publisher: "WAMU 88.5"
+        accessed: 2026-06-12
+    - organization: "DC Office of Campaign Finance"
+      year: 2026
+      text: >-
+        On April 27, 2026, the Office of Campaign Finance issued an Order to Revoke
+        Certification (Docket No. 2026 FP-004, subject 'Certification Revocation')
+        against Lee and his Lee4DC committee, ending their participation in the Fair
+        Elections Program. OCF's public Fair Elections registry lists the campaign's
+        certification status as revoked.
+      source:
+        url: https://fairelections.ocf.dc.gov/public/registrantDisclosureDetails/193
+        title: "Fair Elections Program registrant disclosure — Lee4DC (Khalil Lee), Order to Revoke Certification, Docket No. 2026 FP-004"
+        publisher: "DC Office of Campaign Finance"
+        accessed: 2026-06-12
   sources:
     - url: https://www.lee4dc.com/
       title: "Khalil Lee for DC Council — Campaign Website"

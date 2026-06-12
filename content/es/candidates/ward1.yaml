@@ -8,6 +8,19 @@
 # llegada o los montos de los fondos para inmigrantes). La divergencia es intencional;
 # no se debe "reconciliar" en/es. Véase /resources/methodology.
 - id: jackie-reyes-yanes
+  advisories:
+    - organization: "DC Office of Campaign Finance"
+      text: >-
+        El 5 de junio de 2026, la Oficina de Financiamiento de Campañas (OCF) revocó
+        la certificación de Reyes-Yanes y de su comité de campaña en el Programa de
+        Elecciones Justas (Expediente No. OCF FI 2026-006). Los auditores de la OCF
+        identificaron a 13 contribuyentes en efectivo, listados en el informe de
+        divulgación de abril de 2026 de la campaña, que negaron haber hecho
+        contribución alguna a la campaña, y la orden concluyó que la campaña 'no logró
+        refutar la alegación de haber presentado información falsificada sobre
+        contribuciones.' La orden suspende todos los desembolsos del Programa de
+        Elecciones Justas y ordena a la campaña devolver los fondos restantes al
+        Fondo de Elecciones Justas.
   short_bio: >
     Nacida en El Salvador; llegó a DC en 1990 siendo una madre adolescente que vivió
     en situación de calle. Llegó a ser Directora Ejecutiva de la Oficina de la Alcaldía
