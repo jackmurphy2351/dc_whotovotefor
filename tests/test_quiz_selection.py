@@ -201,3 +201,54 @@ def test_reset_clears_shared_answers_and_selections(client):
     with client.session_transaction() as sess:
         assert "quiz_answers" not in sess
         assert "quiz_selected_mayor" not in sess
+
+
+def test_download_single_race_is_attachment_with_full_breakdown(client):
+    with client.session_transaction() as sess:
+        sess["quiz_answers"] = {"q_topa": 2, "q_social": 2, "q_bikes": -2}
+
+    resp = client.get("/en/results/mayor/download")
+    assert resp.status_code == 200
+    disposition = resp.headers["Content-Disposition"]
+    assert "attachment" in disposition
+    assert "help-me-vote-dc-results-mayor" in disposition
+
+    page = resp.get_data(as_text=True)
+    assert "Alice" in page and "100%" in page
+    assert "Support TOPA?" in page  # question-by-question breakdown included
+    assert "Bob" not in page  # other races stay out of a single-race report
+
+
+def test_download_honors_question_selection(client):
+    with client.session_transaction() as sess:
+        sess["quiz_selected_mayor"] = ["q_topa", "q_social"]
+        sess["quiz_answers"] = {"q_topa": 1, "q_social": 1, "q_bikes": 1}
+
+    page = client.get("/en/results/mayor/download").get_data(as_text=True)
+    assert "75%" in page  # same scoring as the on-screen results page
+    assert "bike lanes" not in page.lower()
+
+
+def test_download_all_covers_every_race_and_candidate(client):
+    with client.session_transaction() as sess:
+        sess["quiz_answers"] = {"q_topa": 2, "q_social": 2, "q_bikes": -2}
+
+    resp = client.get("/en/results/all/download")
+    assert resp.status_code == 200
+    assert "help-me-vote-dc-results-all" in resp.headers["Content-Disposition"]
+
+    page = resp.get_data(as_text=True)
+    assert "Mayor" in page and "Ward 1" in page
+    assert "Alice" in page and "Bob" in page
+    # Unlike the on-screen all-races view, the report carries the breakdown.
+    assert "Support TOPA?" in page
+
+
+def test_download_without_answers_redirects_to_results(client):
+    resp = client.get("/en/results/mayor/download")
+    assert resp.status_code == 302
+    assert "/en/results/mayor" in resp.headers["Location"]
+
+
+def test_download_unknown_election_404(client):
+    assert client.get("/en/results/does-not-exist/download").status_code == 404

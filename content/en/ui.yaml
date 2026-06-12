@@ -152,6 +152,11 @@ results.no_known_position: "No known position"
 results.all_races_results: "← All races results"
 results.retake: "Retake the quiz"
 results.explore_another: "Explore another race"
+results.download: "Download your results"
+
+# --- Downloadable results report (report.html) ---
+report.generated: "Saved on {date}"
+report.online: "For the latest candidate information, visit"
 
 # --- Results: every race (results_all.html) ---
 results_all.breadcrumb: "Your Results"

@@ -1,7 +1,9 @@
 import types
+from datetime import date
 
 from flask import (
     Blueprint,
+    Response,
     abort,
     redirect,
     render_template,
@@ -233,6 +235,55 @@ def _results_all(content):
         "results_all.html",
         race_results=race_results,
         all_zero=all_zero,
+    )
+
+
+@bp.route("/results/<slug>/download")
+def download(slug: str):
+    """Self-contained HTML report of the user's results, served as a download.
+
+    Mirrors the results pages but never truncates: the ALL_SLUG report carries
+    every candidate in every race (the on-screen version shows only the top 3
+    per race) with the full question-by-question breakdown.
+    """
+    content = get_content()
+    if slug != ALL_SLUG and slug not in content.elections:
+        abort(404)
+
+    # Nothing to report without answers — send the user to the results page,
+    # which explains how to take the quiz.
+    saved = _answers()
+    if not saved or all(s is None for s in saved.values()):
+        return redirect(url_for("quiz.results", slug=slug))
+
+    issues = content.issues
+    if slug == ALL_SLUG:
+        race_results = []
+        for race_slug, elec in content.elections.items():
+            questions = content.questions_by_election.get(race_slug, [])
+            candidates = content.candidates.get(race_slug, [])
+            if not questions or not candidates:
+                continue
+            scored = [match_score(saved, c, questions, issues) for c in candidates]
+            race_results.append((elec, rank_candidates(scored)))
+    else:
+        elec = content.elections[slug]
+        questions = _active_questions(content, slug)
+        candidates = content.candidates.get(slug, [])
+        scored = [match_score(saved, c, questions, issues) for c in candidates]
+        race_results = [(elec, rank_candidates(scored))]
+
+    today = date.today()
+    html = render_template(
+        "report.html",
+        race_results=race_results,
+        generated=today,
+    )
+    filename = f"help-me-vote-dc-results-{slug}-{today.isoformat()}.html"
+    return Response(
+        html,
+        mimetype="text/html",
+        headers={"Content-Disposition": f'attachment; filename="{filename}"'},
     )
 
 

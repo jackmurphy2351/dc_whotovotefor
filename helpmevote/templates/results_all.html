@@ -82,6 +82,7 @@
 {% endfor %}
 
 <div class="results-actions">
+  <a href="{{ url_for('quiz.download', slug='all') }}" class="btn btn-primary">{{ t("results.download") }}</a>
   <a href="{{ url_for('quiz.quiz', slug='all') }}" class="btn btn-secondary">{{ t("results.retake") }}</a>
   <a href="{{ url_for('quiz.reset', slug='all') }}" class="btn btn-ghost">{{ t("results_all.start_over") }}</a>
 </div>

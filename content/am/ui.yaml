@@ -156,6 +156,11 @@ results.no_known_position: "የታወቀ አቋም የለም"
 results.all_races_results: "← የሁሉም ውድድሮች ውጤቶች"
 results.retake: "ጥያቄዎቹን እንደገና ይውሰዱ"
 results.explore_another: "ሌላ ውድድር ይመርምሩ"
+results.download: "ውጤቶችዎን ያውርዱ"
+
+# --- Downloadable results report ---
+report.generated: "የተቀመጠው {date}"
+report.online: "ስለ ዕጩዎች የቅርብ ጊዜ መረጃ ለማግኘት ይጎብኙ፦"
 
 # --- Results: every race ---
 results_all.breadcrumb: "የእርስዎ ውጤቶች"

@@ -1,0 +1,230 @@
+{# Standalone, self-contained download of the user's results. No base.html, no
+   static assets: everything inline so the saved file works offline, and every
+   link absolute so it still points back at the live site. Mirrors results.html
+   card-for-card, but always renders the full ranked list and keeps the
+   question-by-question breakdown expanded. #}
+<!DOCTYPE html>
+<html lang="{{ current_lang() }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if race_results | length == 1 %}{{ t("title.results") }}: {{ race_results[0][0].title }}{% else %}{{ t("title.results_all") }}{% endif %} — {{ t("site.name") }}</title>
+<style>
+  :root {
+    --dc-red:     #C1121F;
+    --dc-navy:    #1A3A5C;
+    --bg:         #F8F9FA;
+    --surface:    #FFFFFF;
+    --text:       #1A1A1A;
+    --text-light: #555;
+    --border:     #D0D0D0;
+    --radius:     8px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem 3rem;
+  }
+  a { color: var(--dc-navy); }
+  .report-site { font-weight: 800; color: var(--dc-red); margin-bottom: .25rem; }
+  .report-header { margin-bottom: 1.5rem; }
+  .report-meta { font-size: .9rem; color: var(--text-light); }
+  .results-note { font-size: .9rem; color: var(--text-light); }
+  .results-race { margin: 2rem 0; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
+  .results-race:last-of-type { border-bottom: none; }
+  .results-race > h2 { margin-bottom: .75rem; }
+  .results-list { display: flex; flex-direction: column; gap: 1rem; }
+  .result-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.1rem 1.25rem;
+    break-inside: avoid;
+  }
+  .result-card-top { border-color: var(--dc-red); border-width: 2px; }
+  .result-card-limited { opacity: .9; }
+  .result-card-header { display: flex; align-items: flex-start; gap: 1rem; margin-bottom: .6rem; }
+  .result-rank { font-size: 1.6rem; font-weight: 800; color: var(--dc-red); min-width: 2rem; line-height: 1; }
+  .result-name-block { flex: 1; }
+  .result-name-block h3 { font-size: 1.15rem; margin-bottom: .2rem; }
+  .result-score-block { text-align: right; }
+  .match-percent { font-size: 2rem; font-weight: 800; color: var(--dc-navy); line-height: 1; }
+  .match-unknown { color: var(--text-light); }
+  .match-label { font-size: .75rem; color: var(--text-light); }
+  .match-coverage { font-size: .72rem; color: var(--text-light); margin-top: .25rem; max-width: 11rem; margin-left: auto; }
+  .badge { display: inline-block; font-size: .78rem; font-weight: 600; padding: .2rem .55rem; border-radius: 20px; }
+  .badge-limited { background: #fde6e0; color: #9a4a1f; }
+  .badge-fair-elections { background: #d4edda; color: #155724; }
+  .results-tier-divider { margin: 1.5rem 0 .5rem; padding-top: 1.25rem; border-top: 2px solid var(--border); }
+  .results-tier-divider h3 { font-size: 1.1rem; color: var(--text-light); margin-bottom: .4rem; }
+  .results-tier-divider p { font-size: .9rem; color: var(--text-light); }
+  .match-bar-container { height: 10px; background: var(--border); border-radius: 5px; overflow: hidden; margin-bottom: .75rem; }
+  .match-bar { height: 100%; background: var(--dc-red); border-radius: 5px; }
+  .advisory { padding: .6rem 1rem; border-radius: var(--radius); font-size: .9rem; margin-bottom: .6rem; background: #fff3cd; border-left: 4px solid #e6a817; }
+  .answer-breakdown { margin-top: .75rem; font-size: .9rem; }
+  .answer-breakdown summary { cursor: pointer; color: var(--dc-navy); font-weight: 600; }
+  .answer-detail-list { margin-top: .75rem; display: flex; flex-direction: column; gap: .9rem; }
+  .answer-detail { padding: .75rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); break-inside: avoid; }
+  .answer-detail-prompt { font-weight: 600; margin-bottom: .6rem; }
+  .answer-detail-compare { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem; }
+  .answer-col { flex: 1 1 140px; display: flex; flex-direction: column; gap: .15rem; padding: .4rem .55rem; border-radius: var(--radius); background: var(--bg); }
+  .answer-col-you { border-left: 3px solid var(--dc-red); }
+  .answer-col-cand { border-left: 3px solid var(--dc-navy); }
+  .answer-col-label { font-size: .72rem; text-transform: uppercase; letter-spacing: .03em; color: var(--text-light); }
+  .answer-stance { font-weight: 700; }
+  .answer-stance-unknown { font-weight: 500; color: var(--text-light); font-style: italic; }
+  .agree-pill { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; padding: .25rem .55rem; border-radius: 999px; white-space: nowrap; }
+  .agree-yes { background: #d8f0dd; color: #1c6b34; }
+  .agree-partial { background: #fdf0d5; color: #8a6400; }
+  .agree-no { background: #f6dada; color: #9c1f1f; }
+  .answer-detail-quote { margin: .65rem 0 0; padding: .4rem .75rem; border-left: 3px solid var(--border); color: var(--text-light); font-style: italic; }
+  .answer-detail-quote .source-link { font-style: normal; }
+  @media print {
+    body { background: #fff; }
+    .result-card { border-color: #999; }
+  }
+</style>
+</head>
+<body>
+
+<header class="report-header">
+  <p class="report-site">{{ t("site.name") }}</p>
+  <h1>
+    {% if race_results | length == 1 %}
+    {{ t("results.heading_prefix") }} {{ race_results[0][0].title }}
+    {% else %}
+    {{ t("results_all.heading") }}
+    {% endif %}
+  </h1>
+  <p class="report-meta">{{ t("report.generated").format(date=generated | localdate) }}</p>
+  <p class="results-note">
+    {{ t("results.note") }}
+    <a href="{{ url_for('main.about', _external=True) }}">{{ t("results.how_calculated") }}</a>
+  </p>
+  <p class="results-note">
+    {{ t("report.online") }}
+    <a href="{{ url_for('main.index', _external=True) }}">{{ t("site.name") }}</a>
+  </p>
+</header>
+
+{% set stance_labels = {
+  -2: t("stance.strongly_opposes"), -1: t("stance.opposes"), 0: t("stance.neutral"),
+  1: t("stance.supports"), 2: t("stance.strongly_supports")} %}
+
+{% for elec, ranked in race_results %}
+<section class="results-race">
+  {% if race_results | length > 1 %}
+  <h2>{{ elec.title }}</h2>
+  {% endif %}
+
+  <div class="results-list">
+    {% for sc in ranked %}
+    {% set cand = sc.candidate %}
+    {% if not sc.sufficient_data and (loop.first or ranked[loop.index0 - 1].sufficient_data) %}
+    <div class="results-tier-divider">
+      <h3>{{ t("results.limited_title") }}</h3>
+      <p>{{ t("results.limited_text") }}</p>
+    </div>
+    {% endif %}
+    <div class="result-card {% if loop.first %}result-card-top{% endif %}{% if not sc.sufficient_data %} result-card-limited{% endif %}">
+      <div class="result-card-header">
+        <div class="result-rank">{{ loop.index }}</div>
+        <div class="result-name-block">
+          <h3>
+            <a href="{{ url_for('elections.candidate', election_slug=elec.slug, candidate_id=cand.id, _external=True) }}">
+              {{ cand.name }}
+            </a>
+          </h3>
+          {% if not sc.sufficient_data %}
+          <span class="badge badge-limited">{{ t("badge.limited") }}</span>
+          {% endif %}
+          {% if cand.in_fair_elections %}
+          <span class="badge badge-fair-elections">{{ t("badge.fair_elections") }}</span>
+          {% endif %}
+        </div>
+        <div class="result-score-block">
+          {% if sc.match_percent is not none %}
+          <div class="match-percent">{{ sc.match_percent | round | int }}%</div>
+          <div class="match-label">{{ t("results.match") }}</div>
+          <div class="match-coverage">{{ t("results.coverage").format(compared=sc.compared_count, answered=sc.answered_count) }}</div>
+          {% else %}
+          <div class="match-percent match-unknown">—</div>
+          <div class="match-label">{{ t("results.no_data") }}</div>
+          <div class="match-coverage">{{ plural(sc.answered_count, "results.no_stance_one", "results.no_stance_many").format(n=sc.answered_count) }}</div>
+          {% endif %}
+        </div>
+      </div>
+
+      {% if sc.match_percent is not none %}
+      <div class="match-bar-container" aria-hidden="true">
+        <div class="match-bar" style="width: {{ sc.match_percent | round | int }}%"></div>
+      </div>
+      {% endif %}
+
+      {% if cand.advisories %}
+      <div class="advisories">
+        {% for adv in cand.advisories %}
+        <div class="advisory">
+          ⚠ <strong>{{ adv.organization }} ({{ adv.year }}):</strong>
+          "{{ adv.text }}"
+          <a href="{{ adv.source.url }}" rel="noopener" class="source-link">[source]</a>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if sc.details %}
+      <details class="answer-breakdown" open>
+        <summary>{{ t("results.compare") }}</summary>
+        <div class="answer-detail-list">
+          {% for d in sc.details %}
+          <div class="answer-detail">
+            <p class="answer-detail-prompt">{{ d.prompt }}</p>
+            <div class="answer-detail-compare">
+              <div class="answer-col answer-col-you">
+                <span class="answer-col-label">{{ t("results.your_answer") }}</span>
+                <span class="answer-stance">{{ stance_labels[d.user_stance] }}</span>
+              </div>
+              <div class="answer-col answer-col-cand">
+                <span class="answer-col-label">{{ cand.name }}</span>
+                {% if d.candidate_stance is not none %}
+                <span class="answer-stance">{{ stance_labels[d.candidate_stance] }}</span>
+                {% else %}
+                <span class="answer-stance answer-stance-unknown">{{ t("results.no_known_position") }}</span>
+                {% endif %}
+              </div>
+              {% if d.agreement_label == "agree" %}
+              <span class="agree-pill agree-yes">{{ t("agree.agree") }}</span>
+              {% elif d.agreement_label == "partial" %}
+              <span class="agree-pill agree-partial">{{ t("agree.partial") }}</span>
+              {% elif d.agreement_label == "disagree" %}
+              <span class="agree-pill agree-no">{{ t("agree.disagree") }}</span>
+              {% endif %}
+            </div>
+            {% set excerpt = d.quote or d.explanation %}
+            {% if excerpt %}
+            <blockquote class="answer-detail-quote">
+              {{ excerpt }}
+              {% for src in d.sources %}
+              <a href="{{ src.url }}" rel="noopener" class="source-link">[source]</a>
+              {% endfor %}
+            </blockquote>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+      </details>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+
+</body>
+</html>

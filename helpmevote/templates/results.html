@@ -144,6 +144,9 @@
 </div>
 
 <div class="results-actions">
+  <a href="{{ url_for('quiz.download', slug=election.slug) }}" class="btn btn-primary">
+    {{ t("results.download") }}
+  </a>
   <a href="{{ url_for('quiz.results', slug='all') }}" class="btn btn-secondary">
     {{ t("results.all_races_results") }}
   </a>

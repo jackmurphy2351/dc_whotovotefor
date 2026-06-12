@@ -163,6 +163,23 @@ def test_unknown_results_election_404(client):
     assert client.get("/en/results/does-not-exist").status_code == 404
 
 
+def test_results_all_download_includes_every_candidate(client):
+    """The downloadable all-races report lists every candidate in every race —
+    not just the top 3 shown on the results_all screen."""
+    content = client.application.config["CONTENT"]
+    with client.session_transaction() as sess:
+        sess["quiz_answers"] = {qid: 1 for qid in content.questions}
+
+    resp = client.get("/en/results/all/download")
+    assert resp.status_code == 200
+    assert "attachment" in resp.headers["Content-Disposition"]
+
+    page = resp.get_data(as_text=True)
+    for candidates in content.candidates.values():
+        for cand in candidates:
+            assert str(escape(cand.name)) in page
+
+
 # --- Markdown rendering + topic-allowlist sync -----------------------------
 
 @pytest.mark.parametrize("topic", _PUBLISHED_TOPICS)

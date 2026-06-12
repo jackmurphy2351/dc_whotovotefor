@@ -151,6 +151,11 @@ results.no_known_position: "Sin posición conocida"
 results.all_races_results: "← Resultados de todas las contiendas"
 results.retake: "Volver a hacer el cuestionario"
 results.explore_another: "Explorar otra contienda"
+results.download: "Descargar tus resultados"
+
+# --- Downloadable results report ---
+report.generated: "Guardado el {date}"
+report.online: "Para la información más reciente sobre los candidatos, visita"
 
 # --- Results: every race ---
 results_all.breadcrumb: "Tus resultados"
