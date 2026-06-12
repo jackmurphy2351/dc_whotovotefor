@@ -288,6 +288,26 @@
       explanation: "Silverman fue coautora y principal impulsora de la ley de licencia familiar y médica remunerada de DC (hasta 12 semanas) y anteriormente lideró campañas para aumentar el salario mínimo. Ampliar las protecciones de los trabajadores es su tema insignia: lo apoya firmemente."
 
 - id: khalil-lee
+  advisories:
+    - organization: "WAMU"
+      text: >-
+        En marzo de 2026, WAMU reportó que varias personas listadas como contribuyentes
+        en los informes de financiamiento de campaña de Lee dijeron que nunca donaron a
+        su campaña — una de ellas dijo además que Lee listó a sus dos hijos como
+        contribuyentes y voluntarios de recolección de firmas aunque nunca dieron dinero
+        ni trabajaron para él. La Oficina de Financiamiento de Campañas (OCF) abrió una
+        investigación después de que la candidata rival Elissa Silverman señalara las
+        discrepancias. Lee, que estaba en línea para recibir $110,000 en fondos públicos
+        del Programa de Elecciones Justas, no respondió a las solicitudes de comentario
+        de WAMU.
+    - organization: "DC Office of Campaign Finance"
+      text: >-
+        El 27 de abril de 2026, la Oficina de Financiamiento de Campañas emitió una
+        Orden de Revocación de Certificación (Expediente No. 2026 FP-004, asunto
+        'Revocación de Certificación') contra Lee y su comité Lee4DC, poniendo fin a su
+        participación en el Programa de Elecciones Justas. El registro público de
+        Elecciones Justas de la OCF indica que la certificación de la campaña está
+        revocada.
   short_bio: >
     Washingtoniano de nacimiento y exasesor del Congreso. Nació en el DC General; creció en el Ward
     7; se graduó de la Friendship Public Charter School Collegiate Academy; asistió a la Universidad
