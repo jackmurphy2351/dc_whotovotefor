@@ -126,17 +126,21 @@
     - question_id: youth_curfew_programming
       stance: 2
       quote: "Invest in afterschool and late-night weekend safe spaces where youth can socialize and have fun."
-      explanation: "Supports investment in out-of-school programming, jobs, and mental health services for youth."
+      explanation: "Supports investment in out-of-school programming, jobs, and mental health services for youth. Her DC for Democracy questionnaire adds a planned 'community hubs' proposal for each ward and expanded mental-health resources in schools, sports, and before/after-school programming, arguing 'when we have more options, we have stronger communities and less crime.'"
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
           title: "Janeese Lewis George — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_public_health
       stance: 2
       quote: "Addressing gun violence through a public health approach and strengthening violence prevention programs."
-      explanation: "Supports treating violence as a public health problem; backs the NEAR Act approach. At the April 30, 2026 Fair Elections Program mayoral debate she championed violence-interruption partners like the Office of Neighborhood Safety and Engagement and Cure the Streets, and argued they should be funded with multi-year (three-year) grants rather than minimal one-off grants 'that allow them to … only put on one cookout,' so organizations can retain staff and plan."
+      explanation: "Supports treating violence as a public health problem; backs the NEAR Act approach. At the April 30, 2026 Fair Elections Program mayoral debate she championed violence-interruption partners like the Office of Neighborhood Safety and Engagement and Cure the Streets, and argued they should be funded with multi-year (three-year) grants rather than minimal one-off grants 'that allow them to … only put on one cookout,' so organizations can retain staff and plan. Her DC for Democracy questionnaire reinforces the public-health frame — driving down crime 'not by giving into Trump's vision of mass incarceration, but by supporting healthy, thriving, and well-resourced communities' — and pledges to expand and standardize violence interruption in every high-risk community, oversee a merger of ONSE and Cure the Streets, fully fund ONSE to national best-practice standards, and provide mental-health and trauma supports to violence interrupters."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
           title: "Janeese Lewis George — Free DC Candidate Questionnaire"
@@ -146,6 +150,10 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_secure_dc
       stance: 1
@@ -159,32 +167,44 @@
     - question_id: crime_more_police
       stance: 1
       quote: "Addressing MPD’s vacancy and retention crisis by expanding the police cadet program, reducing forced overtime, renovating aging facilities, and providing child care benefits that make the District competitive with other local and federal police departments."
-      explanation: "Supports hiring more MPD officers to restore staffing levels. In 2019 she tweeted about divestment but has since voted to fund MPD budgets for six years on council. 2019 statements are frequently used against her in attack ads."
+      explanation: "Supports hiring more MPD officers to restore staffing levels. In 2019 she tweeted about divestment but has since voted to fund MPD budgets for six years on council. 2019 statements are frequently used against her in attack ads. In her DC for Democracy questionnaire she frames police as one tool among many — focusing officers 'on solving more cases, getting more guns off the streets, building community relationships, and doing the work they are trained to do,' while empowering crisis responders to handle mental-health emergencies — consistent with restoring staffing rather than a large net-hiring push."
       sources:
         - url: https://51st.news/dc-mayoral-race-fact-check/
           title: "We fact-checked the attacks in the D.C. mayoral race — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "Ending all cooperation with ICE to restore trust between communities and District government and ensure law enforcement can focus on deterring crime."
-      explanation: "Supports DC's sanctuary values and opposes MPD cooperation with ICE and federal immigration enforcement."
+      explanation: "Supports DC's sanctuary values and opposes MPD cooperation with ICE and federal immigration enforcement. In her DC for Democracy questionnaire she condemns Trump sending 'masked men to snatch parents from their kids and detain hard-working people in our community,' and frames refusing to normalize immigration enforcement as central to defending DC residents."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce873e9e6b60ac8627a49/1771890803884/Janeese+Lewis+George+Free+DC+Candidate+Questionnaire.pdf
           title: "Janeese Lewis George — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_topa_restore
       stance: 2
       quote: "She will restore tenants’ purchasing rights by strengthening DC’s powerful anti-displacement law, the Tenant Opportunity to Purchase Act (TOPA)."
-      explanation: "Campaign platform explicitly pledges, under 'Expanding homeownership,' to 'restore tenants’ purchasing rights by strengthening DC’s powerful anti-displacement law, the Tenant Opportunity to Purchase Act (TOPA)' — directly endorsing restoring and strengthening TOPA. Her broader housing platform is strongly pro-tenant, including ending the 'slumlord business model' and funding cooperative conversions."
+      explanation: "Campaign platform explicitly pledges, under 'Expanding homeownership,' to 'restore tenants’ purchasing rights by strengthening DC’s powerful anti-displacement law, the Tenant Opportunity to Purchase Act (TOPA)' — directly endorsing restoring and strengthening TOPA. Her broader housing platform is strongly pro-tenant, including ending the 'slumlord business model' and funding cooperative conversions. In her DC for Democracy questionnaire she states plainly, 'I opposed the TOPA repeal and propose reinstating it,' grounding tenant protections in her own experience of being 'priced out of my childhood home.'"
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_dopa
       stance: 1
@@ -217,19 +237,23 @@
           accessed: 2026-06-01
 
     - question_id: fiscal_progressive_taxation
-      stance: 1
-      quote: "Increase property taxes on long-term vacant commercial spaces to encourage leasing and create affordable space."
-      explanation: "Proposes progressive revenue measures including property taxes on long-term vacant commercial properties and a 15% price break for certified social-benefit businesses. Her platform prioritizes protecting housing, childcare, and education programs rather than cutting them, though she does not frame major new corporate tax hikes as her primary budget-gap tool."
+      stance: 2
+      quote: "DC has a staggering racial wealth gap. I think we should enact a more progressive and equitable tax system in our community."
+      explanation: "Proposes progressive revenue measures including property taxes on long-term vacant commercial properties and a 15% price break for certified social-benefit businesses, and prioritizes protecting housing, childcare, and education programs over cuts. In her DC for Democracy questionnaire she says 'DC has a staggering racial wealth gap' and that 'we should enact a more progressive and equitable tax system,' noting her Homes and Hearts Amendment — a first-ever monthly basic income funded by boosting DC's local EITC match — 'increased taxes on the wealthiest amongst us,' and says she is analyzing options to move further in that direction. Combined with her proposed business-activity tax on high-revenue professional-services firms, she is a strong proponent of raising taxes on wealth and corporations to fund services."
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: home_rule_dc_resist
       stance: 2
       quote: "Work hand in hand with the DC Office of the Attorney General to execute a comprehensive legal strategy to defend DC."
-      explanation: "Has been sharply critical of the Bowser administration for not doing enough to resist federal encroachment, and frames aggressive use of legal tools and public advocacy to defend DC's budget autonomy as a defining contrast with the current mayor. At the April 30, 2026 Fair Elections Program mayoral debate she pledged to 'use every legal tool we have to fight back' with Attorney General Brian Schwalb, citing being 'the only council member in court with Eleanor Holmes Norton' when the administration tried to take over DC's police chief — 'and we won because we used our legal tools.'"
+      explanation: "Has been sharply critical of the Bowser administration for not doing enough to resist federal encroachment, and frames aggressive use of legal tools and public advocacy to defend DC's budget autonomy as a defining contrast with the current mayor. At the April 30, 2026 Fair Elections Program mayoral debate she pledged to 'use every legal tool we have to fight back' with Attorney General Brian Schwalb, citing being 'the only council member in court with Eleanor Holmes Norton' when the administration tried to take over DC's police chief — 'and we won because we used our legal tools.' In her DC for Democracy questionnaire she frames the moment starkly — 'DC is under active attack' by 'a rising dictator' — and argues that what wins is when 'every lever of power—lawyers, the courts, elected leaders, regulatory agencies, AND THE PEOPLE—do everything possible to slow down the regime.' She faults a Mayor who 'praises the authoritarian domination of her people' for undermining legal, congressional, and popular resistance, and pledges to keep walking 'the halls of Congress' and to 'partner with Free DC and all DC residents.'"
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
@@ -239,6 +263,10 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: federal_workers_advocate
       stance: 2
@@ -266,7 +294,7 @@
     - question_id: childcare_universal
       stance: 2
       quote: "Every family will be eligible for childcare assistance and families will spend no more than 7% of their household income on childcare, with many families paying less and some paying nothing."
-      explanation: "Lewis George's 'Childcare For All' platform calls for universal affordable childcare: every family eligible for assistance, capped at 7% of household income (under $600/month for families earning under $100K). Three-part plan: expand subsidy to all families, increase supply through co-location in schools and microgrants, and guarantee wages comparable to DCPS teachers through the Pay Equity Fund."
+      explanation: "Lewis George's 'Childcare For All' platform calls for universal affordable childcare: every family eligible for assistance, capped at 7% of household income (under $600/month for families earning under $100K). Three-part plan: expand subsidy to all families, increase supply through co-location in schools and microgrants, and guarantee wages comparable to DCPS teachers through the Pay Equity Fund. Her DC for Democracy questionnaire restates the vision as 'universal access to high-quality, affordable care so every child—regardless of income, neighborhood, or background—can thrive': every child eligible for assistance, families paying no more than 7% of income, early educators earning wages comparable to DCPS teachers, and more seats across licensed centers and home-based care."
       sources:
         - url: https://www.nbcwashington.com/news/politics/dc-mayoral-candidate-lewis-george/4045936/
           title: "DC Mayoral Candidate Lewis George on Her Platform — NBC Washington"
@@ -276,6 +304,10 @@
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: transit_bike_bus_lanes
       stance: 2
@@ -307,10 +339,19 @@
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
 
+    - question_id: education_mental_health_schools
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire George says 'when young people have access to mental health resources, especially in schools, they have better lives and our school communities are more supportive,' and her youth-safety plan pairs in-school mental-health access with violence prevention and trauma supports. Supports school-based behavioral health, though she does not frame it as an explicit dedicated-clinician-in-every-school mandate."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
     - question_id: housing_social_model
       stance: 2
       quote: "Launching Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit."
-      explanation: "Platform pledges to 'Launch Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit.' This is an explicit social housing model with public ownership and mixed-income design. Her June 2026 Greater Greater Washington op-ed reiterates the commitment: 'establishing a social housing program to enable District-owned, mixed-income housing with stable rents, ensuring that government investments prioritize people over profit.'"
+      explanation: "Platform pledges to 'Launch Dignified Homes DC by building DC-owned mixed-income housing with stable rents, ensuring that public housing investments prioritize residents over profit.' This is an explicit social housing model with public ownership and mixed-income design. Her June 2026 Greater Greater Washington op-ed reiterates the commitment: 'establishing a social housing program to enable District-owned, mixed-income housing with stable rents, ensuring that government investments prioritize people over profit.' Her DC for Democracy questionnaire details the model: a new Office of Social Housing Development would 'construct, maintain, and grow publicly owned, mixed-income housing,' with the majority of units 'permanently affordable for extremely-, very-, and low-income households,' tenant-governed, built to high environmental standards, and creating union jobs — paired with a District-owned Community Land Trust that sells homes minus the cost of the land to make ownership attainable."
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
@@ -320,6 +361,10 @@
           title: "I'm running for DC mayor to build more housing to lower costs — Greater Greater Washington"
           publisher: "Greater Greater Washington"
           accessed: 2026-06-02
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_rent_stabilization
       stance: 1
@@ -348,12 +393,16 @@
     - question_id: parks_rec_funding
       stance: 1
       quote: "Expand afterschool and summer programming in every ward."
-      explanation: "Platform pledges to 'Invest in afterschool and late-night weekend safe spaces where youth can socialize and have fun,' 'Expand afterschool and summer programming in every ward,' and create community hubs in all 8 wards. Implies support for DPR-style programming but doesn't explicitly name DPR or call for a budget increase."
+      explanation: "Platform pledges to 'Invest in afterschool and late-night weekend safe spaces where youth can socialize and have fun,' 'Expand afterschool and summer programming in every ward,' and create community hubs in all 8 wards. Implies support for DPR-style programming but doesn't explicitly name DPR or call for a budget increase. Her DC for Democracy questionnaire previews a 'community hubs' proposal for spaces in each ward where young people and families 'come together, connect with each other and with the resources that exist to support them.'"
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_upzoning
       stance: 2
@@ -392,12 +441,16 @@
     - question_id: childcare_birth_to_three
       stance: 1
       quote: "Janeese will co-locate infant and toddler programs in DC Public Schools (DCPS) and public charter school buildings with excess capacity, as well as in underutilized District-owned facilities."
-      explanation: "Her 'Childcare For All' plan expands subsidy to every family (capped at 7% of income) and co-locates infant and toddler programs in schools and District facilities — strongly expanding infant/toddler care, but through an income-based affordability cap rather than a free, universal birth-to-three guarantee."
+      explanation: "Her 'Childcare For All' plan expands subsidy to every family (capped at 7% of income) and co-locates infant and toddler programs in schools and District facilities — strongly expanding infant/toddler care, but through an income-based affordability cap rather than a free, universal birth-to-three guarantee. Her DC for Democracy questionnaire frames the goal as universal access regardless of income with more infant/toddler seats and choice across licensed centers and home-based care, while pegging affordability to a 7%-of-income cap rather than a fully free guarantee."
       sources:
         - url: https://www.janeese4dc.com/
           title: "Platform — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -458,12 +511,16 @@
     - question_id: labor_worker_protections
       stance: 2
       quote: "I expanded Paid Family Leave because when my dad got sick, I took time off to care for him and everyone should be able to do that for the people we love."
-      explanation: "As Councilmember, George expanded Paid Family Leave, raised wages for early childhood educators, ended the subminimum wage for restaurant workers, and strengthened worker protections, and she pledges to require strong labor standards on DC contracts and expand protections for gig workers. Strongly supports expanding worker protections."
+      explanation: "As Councilmember, George expanded Paid Family Leave, raised wages for early childhood educators, ended the subminimum wage for restaurant workers, and strengthened worker protections, and she pledges to require strong labor standards on DC contracts and expand protections for gig workers. Strongly supports expanding worker protections. In her DC for Democracy questionnaire she identifies as a former tipped worker and 'champion for I-82' who has 'voted to protect the will of the voters from industry interference many times,' citing the original Initiative 77 repeal as the reason she first ran for Council and insisting the Mayor and Council 'should not be taking away raises for tipped workers that DC voters overwhelmingly approved.'"
       sources:
         - url: https://www.janeese4dc.com/
           title: "Good Jobs for All — Janeese Lewis George for Mayor"
           publisher: "Janeese Lewis George Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Janeese Lewis George"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: homelessness_housing_first
       stance: 1
@@ -569,7 +626,7 @@
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "Prohibit DC police from acting as federal immigration agents or sharing residents' immigration status with ICE."
-      explanation: "McDuffie's Ballotpedia candidate survey response explicitly states he will 'end MPD cooperation with ICE' and expand legal protections for immigrant families. At the April 30, 2026 Fair Elections Program mayoral debate he reiterated, 'I'm going to end cooperation between [the] Metropolitan Police Department and ICE,' to embed 'fairness and justice' in DC policing."
+      explanation: "McDuffie's Ballotpedia candidate survey response explicitly states he will 'end MPD cooperation with ICE' and expand legal protections for immigrant families. At the April 30, 2026 Fair Elections Program mayoral debate he reiterated, 'I'm going to end cooperation between [the] Metropolitan Police Department and ICE,' to embed 'fairness and justice' in DC policing. In his DC for Democracy questionnaire he is emphatic: 'DC must remain a sanctuary city. Our local police and local DC Government agencies should not be conduits for federal immigration enforcement,' warning that 'trust collapses when residents fear calling the police' if a 'traffic stop, a school visit, or a call for help could lead to deportation.'"
       sources:
         - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
           title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia (Candidate Connection survey)"
@@ -579,11 +636,15 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_public_health
       stance: 2
       quote: "Stand up the Office of Violence Prevention and Health Equity within DC Health and connect residents at highest risk of violence with trauma-informed care, hospital-based intervention, mental health services, family stabilization, and wraparound support before harm escalates."
-      explanation: "McDuffie authored the NEAR Act in 2016 and pledges to fully fund it as mayor. At the April 30, 2026 Fair Elections Program mayoral debate he said the NEAR Act 'ushered in a public health-based approach to crime prevention,' to 'treat violence like the epidemic that it is,' and pledged to use a NEAR Act provision letting the Office of Neighborhood Safety and Engagement raise philanthropic dollars to train community violence interrupters."
+      explanation: "McDuffie authored the NEAR Act in 2016 and pledges to fully fund it as mayor. At the April 30, 2026 Fair Elections Program mayoral debate he said the NEAR Act 'ushered in a public health-based approach to crime prevention,' to 'treat violence like the epidemic that it is,' and pledged to use a NEAR Act provision letting the Office of Neighborhood Safety and Engagement raise philanthropic dollars to train community violence interrupters. His DC for Democracy questionnaire restates that he 'authored the NEAR Act to treat violence as a public health issue, not just a criminal one,' pledging to 'fully implement' it by aligning MPD, behavioral health, housing, education, and violence-prevention agencies around shared goals and data — affirming 'we cannot simply police our way to a safe community.'"
       sources:
         - url: https://nearact.dc.gov/page/about-near
           title: "NEAR Act Implementation"
@@ -605,6 +666,10 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_secure_dc
       stance: 1
@@ -642,17 +707,21 @@
     - question_id: housing_production_trust_fund
       stance: 1
       quote: "Ensuring HPTF dollars are deployed efficiently to maximize the number of affordable homes produced by administering stronger scoring for projects that produce more units per dollar, incorporating minimum private or tax-credit equity share requirements, improving coordination with federal tax credits and incentives and standardizing and accelerating underwriting and approvals."
-      explanation: "Pledges to build 12,000 new housing units by 2030 and preserve 20,000 affordable homes."
+      explanation: "Pledges to build 12,000 new housing units by 2030 and preserve 20,000 affordable homes. In his DC for Democracy questionnaire he highlights authoring 'the budget requirement that half of annual District surplus funds go to the HPTF—generating hundreds of millions of dollars for affordable housing,' plus a law requiring affordable-housing set-asides on disposed District-owned land, and pledges to 'protect and strengthen dedicated funding' and use those tools 'aggressively and equitably across the city.'"
       sources:
         - url: https://ballotpedia.org/Mayoral_election_in_Washington,_D.C.,_2026_(June_16_Democratic_primary)
           title: "Mayoral election in Washington, D.C., 2026 — Ballotpedia"
           publisher: ballotpedia.org
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_more_police
       stance: 2
       quote: "Implement a credible pipeline strategy to add 1,000 officers over four years by cutting annual attrition from roughly 300 to 150 and expanding hiring capacity to 400 officers per year, while pairing growth with stronger community policing, real accountability, and investments in officer morale."
-      explanation: "Has pledged to hire 1,000 new MPD officers and double the hiring bonus to $50,000. His platform calls for a 'right-sized MPD through smart recruitment, home purchase assistance, and reinvestment in community safety programs' alongside an expanded cadet program."
+      explanation: "Has pledged to hire 1,000 new MPD officers and double the hiring bonus to $50,000. His platform calls for a 'right-sized MPD through smart recruitment, home purchase assistance, and reinvestment in community safety programs' alongside an expanded cadet program. His DC for Democracy questionnaire balances that hiring pledge: 'policing remains an important part of public safety,' and communities 'deserve a police department that is well-trained, accountable, and trusted' (he cites his body-worn-camera reforms), but he stresses 'we cannot simply police our way to a safe community.'"
       sources:
         - url: https://51st.news/dc-mayoral-race-fact-check/
           title: "We fact-checked the attacks in the D.C. mayoral race — The 51st"
@@ -662,6 +731,10 @@
           title: "Platform — Kenyan McDuffie for Mayor"
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: transit_bike_bus_lanes
       stance: 2
@@ -674,14 +747,27 @@
           accessed: 2026-05-28
 
     - question_id: education_mental_health_schools
-      stance: 1
+      stance: 2
       quote: "This includes responsive special education services, reliable school-based mental health access, and dependable school health coverage so support show up when students need them."
-      explanation: "Platform pledges 'timely special education, mental health, and school health services' in DC public schools and frames school-based behavioral health as part of his education agenda."
+      explanation: "Platform pledges 'timely special education, mental health, and school health services' in DC public schools and frames school-based behavioral health as part of his education agenda. His DC for Democracy questionnaire goes further, stating he has supported 'the goal of having at least one full-time mental health provider in every public school' — directly endorsing dedicated school behavioral-health staffing."
       sources:
         - url: https://kenyanmcduffie.com/platform
           title: "Platform — Kenyan McDuffie for Mayor"
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: parks_rec_funding
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire McDuffie pledges to invest in 'safe, accessible \"third spaces\" for young people by building on the work the Department of Parks and Recreation is already doing through recreation centers, sports programs, arts and cultural programming, and afterschool and late-night initiatives,' framing expanded DPR programming as core violence prevention."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: federal_workers_advocate
       stance: 2
@@ -709,17 +795,30 @@
     - question_id: childcare_universal
       stance: 1
       quote: "Expand access to affordable childcare by enhancing the Local Child Tax Credit, incentivizing employer-provided childcare benefits, repurposing District-owned space to lower provider costs, streamlining licensing to help centers open and expand faster, encouraging mixed-use developments with childcare facilities, modernizing zoning to support home-based providers."
-      explanation: "Platform has a dedicated 'Expand Access to Childcare & Early Learning' section. McDuffie pledges an expanded Local Child Tax Credit, employer incentives, repurposed District-owned space for subsidized care in underserved areas, and updated zoning for home-based childcare. His approach expands access and reduces costs but through targeted measures rather than a universal program."
+      explanation: "Platform has a dedicated 'Expand Access to Childcare & Early Learning' section. McDuffie pledges an expanded Local Child Tax Credit, employer incentives, repurposed District-owned space for subsidized care in underserved areas, and updated zoning for home-based childcare. His approach expands access and reduces costs but through targeted measures rather than a universal program. His DC for Democracy questionnaire adds that he will 'expand access to subsidized child care' by increasing eligibility, improving outreach, and holding agencies accountable for timely processing, and would 'treat child care providers and early educators as partners' by stabilizing funding streams."
       sources:
         - url: https://kenyanmcduffie.com/platform
           title: "Platform — Kenyan McDuffie for Mayor"
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_birth_to_three
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire McDuffie says he has 'supported and protected dedicated funding for early childhood investments like the Birth to Three program' and authored the Child Wealth Building Act to 'strengthen long-term family stability from birth.' Supports expanding affordable infant-and-toddler care through subsidy access and stable provider funding, rather than an explicit free, no-waitlist universal guarantee."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "Local residents and elected officials know DC best and do not need federal intervention to keep our city safe and invest in our youth."
-      explanation: "Platform's Accountability pillar is titled 'Defend Home Rule and DC Autonomy' — pledges a Day-One directive ending MPD cooperation with ICE, bolstering the Mayor's Office of Legal Counsel for constitutional challenges, and fighting for legislative and budget autonomy. His approach is assertive and uses legal tools, but frames resistance through institutional channels rather than explicit political confrontation. At the April 30, 2026 Fair Elections Program mayoral debate he summarized the posture as 'work with the federal government where possible and fight back where necessary,' citing his first job out of Howard working for Eleanor Holmes Norton and pointing to collaboration on projects like RFK and Union Station — a calibrated mix rather than blanket confrontation."
+      explanation: "Platform's Accountability pillar is titled 'Defend Home Rule and DC Autonomy' — pledges a Day-One directive ending MPD cooperation with ICE, bolstering the Mayor's Office of Legal Counsel for constitutional challenges, and fighting for legislative and budget autonomy. His approach is assertive and uses legal tools, but frames resistance through institutional channels rather than explicit political confrontation. At the April 30, 2026 Fair Elections Program mayoral debate he summarized the posture as 'work with the federal government where possible and fight back where necessary,' citing his first job out of Howard working for Eleanor Holmes Norton and pointing to collaboration on projects like RFK and Union Station — a calibrated mix rather than blanket confrontation. His DC for Democracy questionnaire sharpens the legal posture: as 'a former civil rights attorney,' he pledges to 'use the law, the courts, and public accountability to protect residents,' says 'there is no deal I would accept that permits violations of constitutional rights in the District of Columbia,' and frames an 'aggressive push for DC statehood' — including reducing the federal district 'to its constitutional footprint' — as central to defending autonomy."
       sources:
         - url: https://kenyanmcduffie.com/platform
           title: "Platform — Kenyan McDuffie for Mayor"
@@ -729,20 +828,28 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "Commercial Acquisition Fund: $750K grant to help socially disadvantaged entrepreneurs buy their storefront and keep local businesses in DC."
-      explanation: "Has a record of investing in small business — he directed $100 million in pandemic relief grants to DC small businesses on the Council — and his platform pairs economic-justice tools with an expanded Local Child Tax Credit and employer incentives. Supportive of relief for small and local businesses, through targeted investment more than broad tax cuts."
+      explanation: "Has a record of investing in small business — he directed $100 million in pandemic relief grants to DC small businesses on the Council — and his platform pairs economic-justice tools with an expanded Local Child Tax Credit and employer incentives. Supportive of relief for small and local businesses, through targeted investment more than broad tax cuts. His DC for Democracy questionnaire highlights the Commercial Property Acquisition Fund — grants up to $750,000 to help 'socially disadvantaged' owners buy their storefronts — plus Great Streets, Main Streets, and CDFI/MDI investments expanding capital access for entrepreneurs of color."
       sources:
         - url: https://kenyanmcduffie.com/platform
           title: "Platform — Kenyan McDuffie for Mayor"
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_topa_restore
       stance: 1
-      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) during his Ward 5 Council term, supporting DC's tenant purchase rights framework. Also voted yes on the Karin House TOPA Exemption Resolution (PR 25-0440) during his At-Large term."
+      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) during his Ward 5 Council term, supporting DC's tenant purchase rights framework. Also voted yes on the Karin House TOPA Exemption Resolution (PR 25-0440) during his At-Large term. In his DC for Democracy questionnaire he rejects the Bowser approach of 'narrowing Tenant Purchase (TOPA) rights' to improve the 'business climate,' arguing DC 'can't build a strong economy by asking working people, tenants, and vulnerable residents to carry the burden.'"
       sources:
         - url: https://lims.dccouncil.gov/Legislation/B21-0147
           title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
@@ -752,6 +859,10 @@
           title: "Karin House TOPA Exemption Emergency Declaration Resolution of 2023 — DC Council LIMS"
           publisher: dccouncil.gov
           accessed: 2026-06-02
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_upzoning
       stance: 1
@@ -791,6 +902,15 @@
           publisher: "The 51st"
           accessed: 2026-06-04
 
+    - question_id: fiscal_progressive_taxation
+      stance: 0
+      explanation: "In his DC for Democracy questionnaire McDuffie says he will 'use every tool available to strengthen the District's revenue base' in a way that is 'thoughtful, intentional, collaborative, and innovative,' and is open to 'targeted revenue changes' — but leads with enforcing existing law, improving compliance, closing loopholes, and holding developers and corporate actors accountable for fees and taxes they already owe, rather than broad new tax hikes. He touts expanding the Earned Income Tax Credit and his Clean Hands fines-and-fees reform. Mixed: open to targeted revenue from those at the top, but his lead approach is enforcement and efficiency, and he separately opposes a new business-activity tax."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
     - question_id: econ_business_activity_tax
       stance: -1
       explanation: "McDuffie opposes Lewis George's proposed business-activity tax on professional-services firms, warning that a new tax on employers would drive jobs and investment out of the District amid federal workforce losses. Opposes."
@@ -803,12 +923,16 @@
     - question_id: labor_worker_protections
       stance: 1
       quote: "Kenyan has spearheaded some of our city's most pressing labor issues, including strengthening enforcement against wage theft, increasing the minimum wage…"
-      explanation: "McDuffie's record includes increasing the minimum wage, pay transparency, and wage-theft and misclassification enforcement. He supports strong worker protections, though he pairs them with a more business-friendly, growth-oriented posture than the most expansionist candidates. Supportive."
+      explanation: "McDuffie's record includes increasing the minimum wage, pay transparency, and wage-theft and misclassification enforcement. He supports strong worker protections, though he pairs them with a more business-friendly, growth-oriented posture than the most expansionist candidates. Supportive. On Initiative 82, his DC for Democracy questionnaire says he 'respect[s]' voters' clear desire for fairer tipped-worker pay but supported 'a temporary pause and subsequent adjustments to the implementation timeline' to assess impacts on workers and small businesses — a data-driven, balanced posture rather than unqualified restoration."
       sources:
         - url: https://kenyanmcduffie.com/
           title: "Record: Defending Workers' Rights — Kenyan McDuffie for Mayor"
           publisher: "Kenyan McDuffie Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Kenyan McDuffie"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: education_impact_osse
       stance: -1
@@ -1559,38 +1683,50 @@
           accessed: 2026-06-03
 
     - question_id: childcare_universal
-      stance: -1
-      explanation: "Sampath favors loosening childcare regulations rather than expanding universal subsidy programs — an execution and deregulation approach contrasting with universal affordable childcare proposals."
+      stance: 0
+      explanation: "Sampath favors cutting red tape and speeding licensing and inspections to grow childcare supply. In her DC for Democracy questionnaire she also supports expanding the Child Care Subsidy Program — 'extending eligibility beyond 300% of the federal poverty level through a sliding-scale structure' — and protecting and stabilizing the Childcare Pay Equity Fund for early educators. Mixed: she would expand subsidized childcare and educator pay, but explicitly rejects a universal-regardless-of-income program in favor of a means-tested sliding scale that phases out at an upper income threshold."
       sources:
         - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
           title: "These four candidates are also running for D.C. mayor — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "There should be no data sharing between MPD and ICE, and no local resources used to facilitate fear-based enforcement actions that undermine community trust."
-      explanation: "Statehood platform explicitly states: 'There should be no data sharing between MPD and ICE, and no local resources used to facilitate fear-based enforcement actions that undermine community trust.' She also pledges a full audit of every point of contact between DC government and federal enforcement agencies."
+      explanation: "Statehood platform explicitly states: 'There should be no data sharing between MPD and ICE, and no local resources used to facilitate fear-based enforcement actions that undermine community trust.' She also pledges a full audit of every point of contact between DC government and federal enforcement agencies. Her DC for Democracy questionnaire is unequivocal: 'As Mayor, I will not take any actions to facilitate DC government or MPD cooperation with ICE,' adding that ICE activity 'has not made DC safer' but rather 'terrorized our residents' and 'undercut community relations with the Metropolitan Police Department.'"
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_production_trust_fund
       stance: 1
       quote: "I will protect the Housing Production Trust Fund and the Local Rent Supplement Program, while requiring better transparency on lease-up timelines and outcomes so public dollars lead to real housing placements."
-      explanation: "Platform explicitly states: 'I will protect the Housing Production Trust Fund and the Local Rent Supplement Program, while requiring better transparency on lease-up timelines and outcomes so public dollars lead to real housing placements.' Framing is protection and accountability rather than significant expansion."
+      explanation: "Platform explicitly states: 'I will protect the Housing Production Trust Fund and the Local Rent Supplement Program, while requiring better transparency on lease-up timelines and outcomes so public dollars lead to real housing placements.' Framing is protection and accountability rather than significant expansion. Her DC for Democracy questionnaire notes LRSP funding 'was frozen in 2026' and argues DC must 'generate revenues to invest in programs like LRSP' by making it easier to build all types of housing — protecting the funds while leaning on production and efficiency over a large funding increase."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_public_health
       stance: 1
       quote: "I will audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations."
-      explanation: "Public safety platform pledges to 'audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations.' Combines professional policing, evidence-based prevention, and youth opportunity without a purely enforcement frame. At the April 30, 2026 Fair Elections Program mayoral debate she proposed reinvesting MPD's '$75 million' in overtime into diversion programs, legal aid, and preventative programs so 'incarceration isn't the consistent option,' while praising groups like Peace for DC and flagging fraud (a contractor's $400,000 in personal spending) as the reason audits are needed."
+      explanation: "Public safety platform pledges to 'audit violence interruption programs to ensure they are evidence-based, accountable, and coordinated with schools, families, faith institutions, and community organizations.' Combines professional policing, evidence-based prevention, and youth opportunity without a purely enforcement frame. At the April 30, 2026 Fair Elections Program mayoral debate she proposed reinvesting MPD's '$75 million' in overtime into diversion programs, legal aid, and preventative programs so 'incarceration isn't the consistent option,' while praising groups like Peace for DC and flagging fraud (a contractor's $400,000 in personal spending) as the reason audits are needed. Her DC for Democracy questionnaire reinforces that 'we cannot arrest our way to safer communities,' pledging stable funding for evidence-based violence interruption coordinated across schools, families, and community organizations and building on models like DPR's Late Night Hype."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
@@ -1600,26 +1736,38 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: parks_rec_funding
       stance: 1
       quote: "I will strengthen after-school and evening programming, including initiatives like Late Night Hype, so young residents have structured, safe spaces during high-risk hours."
-      explanation: "Platform pledges to strengthen after-school and evening programming including 'Late Night Hype' so young residents have 'structured, safe spaces during high-risk hours,' and to expand MBSYEP with stronger job matching and long-term outcome tracking. Supports parks/rec-type investment primarily through a youth safety and opportunity lens."
+      explanation: "Platform pledges to strengthen after-school and evening programming including 'Late Night Hype' so young residents have 'structured, safe spaces during high-risk hours,' and to expand MBSYEP with stronger job matching and long-term outcome tracking. Supports parks/rec-type investment primarily through a youth safety and opportunity lens. Her DC for Democracy questionnaire reiterates support for structured programming during high-risk hours via DPR's Late Night Hype and for expanding the Marion Barry Summer Youth Employment Program with better job matching and outcome tracking."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: education_mental_health_schools
       stance: 1
       quote: "My education agenda begins with fixing the basics students need every single day: safe and functional school buildings, stable staffing, strong attendance, reliable transportation, mental health support, and classrooms where learning can happen consistently."
-      explanation: "Education platform identifies 'untreated mental health needs' as a key driver of the 40% chronic absenteeism rate and calls for connecting at-risk students to health providers through interagency coordination. Supports mental health support as part of wraparound services strategy, though does not specifically mandate a dedicated clinician in every school."
+      explanation: "Education platform identifies 'untreated mental health needs' as a key driver of the 40% chronic absenteeism rate and calls for connecting at-risk students to health providers through interagency coordination. Supports mental health support as part of wraparound services strategy, though does not specifically mandate a dedicated clinician in every school. In her DC for Democracy questionnaire she pledges to 'strengthen the School Behavioral Health Program so students can access counseling and services directly in schools without stigma or unnecessary delays.'"
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: education_community_schools
       stance: 1
@@ -1634,7 +1782,7 @@
     - question_id: housing_upzoning
       stance: 1
       quote: "I support modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit."
-      explanation: "Housing platform supports 'modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit' to reduce construction costs and create walkable, family-sized housing — supportive of density reform, with 'where appropriate' qualifiers. At the April 30, 2026 Fair Elections Program mayoral debate she argued DC should 'build more' while leasing units faster, rejecting the 'false narrative' that the city cannot both build more and protect renters."
+      explanation: "Housing platform supports 'modernizing zoning, legalizing single-stair residential buildings up to eight stories where appropriate, and eliminating unnecessary parking minimums near transit' to reduce construction costs and create walkable, family-sized housing — supportive of density reform, with 'where appropriate' qualifiers. At the April 30, 2026 Fair Elections Program mayoral debate she argued DC should 'build more' while leasing units faster, rejecting the 'false narrative' that the city cannot both build more and protect renters. Her DC for Democracy questionnaire goes further on supply, pledging to modernize building codes, rationalize permitting fees, and 'tackle the city's restrictive zoning laws' so that 'building housing must be legal in all of DC's neighborhoods,' with Zoning Commission appointees who prioritize production and a five-year goal exceeding the prior 36,000-unit target."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
@@ -1644,15 +1792,23 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: childcare_birth_to_three
-      stance: -1
-      explanation: "Favors loosening childcare regulations to lower costs rather than a free, universal birth-to-three guarantee — an execution-and-deregulation approach that contrasts with candidates proposing publicly funded universal infant-toddler care."
+      stance: 0
+      explanation: "Favors cutting red tape to grow childcare supply and, in her DC for Democracy questionnaire, expanding the Child Care Subsidy Program via a sliding scale beyond 300% of the federal poverty level and stabilizing the Childcare Pay Equity Fund. Mixed: supports expanding subsidized infant-and-toddler care and educator pay, but opposes a free, universal, no-waitlist birth-to-three guarantee in favor of a means-tested sliding scale."
       sources:
         - url: https://51st.news/dc-mayoral-race-goodweather-solomon-sampath-2026/
           title: "These four candidates are also running for D.C. mayor — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -1671,7 +1827,7 @@
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "I support using every lawful tool available, including litigation and emergency local legislation when necessary, to protect residents from political gamesmanship and ensure predictability in city governance."
-      explanation: "Pledges no data sharing between MPD and ICE and a full audit of every contact between DC government and federal enforcement agencies. Her stance on protecting DC residents is firm, but her execution-first philosophy emphasizes targeted defensive measures rather than a broadly confrontational political posture. At the April 30, 2026 Fair Elections Program mayoral debate she made statehood 'mission number one,' calling for a 'concerted campaign' with influencers and leaders to win over a Democratic Party she said does not yet truly back DC statehood — a persuasion strategy rather than a litigation/refusal posture."
+      explanation: "Pledges no data sharing between MPD and ICE and a full audit of every contact between DC government and federal enforcement agencies. Her stance on protecting DC residents is firm, but her execution-first philosophy emphasizes targeted defensive measures rather than a broadly confrontational political posture. At the April 30, 2026 Fair Elections Program mayoral debate she made statehood 'mission number one,' calling for a 'concerted campaign' with influencers and leaders to win over a Democratic Party she said does not yet truly back DC statehood — a persuasion strategy rather than a litigation/refusal posture. Her DC for Democracy questionnaire shows a willingness to fight on legal grounds: she would not 'legitimize the disapproval process,' supports the Attorney General challenging Congress's interpretation of the 30-day disapproval window on DC's tax-code changes, and would urge the Council to pass emergency legislation to reinstate overturned tax changes so residents keep the earned income tax credit and child tax credit."
       sources:
         - url: https://riniformayor.com/
           title: "Policy Platform — Rini Sampath for Mayor"
@@ -1681,16 +1837,24 @@
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: fiscal_progressive_taxation
-      stance: -1
-      quote: "It's why I'm in opposition to any kind of business activity tax that would effectively drive businesses away from our city."
-      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Sampath said she opposes 'any kind of business activity tax that would effectively drive businesses away,' favoring closing the budget gap by cutting fraud, getting agencies to perform, pursuing the ~$180M the CFO holds from decoupling, and attracting business to grow tax revenue. A lean against raising business taxes; she focused on business activity taxes specifically rather than all taxes on the wealthy."
+      stance: 0
+      quote: "If the choice is between cutting social safety net programs or raising taxes on the wealthy and corporations, I will raise taxes."
+      explanation: "At the April 30, 2026 Fair Elections Program mayoral debate Sampath said she opposes 'any kind of business activity tax that would effectively drive businesses away,' favoring closing the budget gap by cutting fraud, getting agencies to perform, pursuing the ~$180M the CFO holds from decoupling, and attracting business to grow tax revenue. But in her DC for Democracy questionnaire she says that 'if the choice is between cutting social safety net programs or raising taxes on the wealthy and corporations, I will raise taxes,' while stressing that 'raising taxes cannot be the only response' and leading with revenue growth, oversight, and a 'Where's My Money Going?' transparency tracker. Recorded as mixed: she would raise taxes on the wealthy and corporations to protect the safety net, but treats it as a fallback rather than her lead approach and opposes a broad business-activity tax."
       sources:
         - url: https://www.youtube.com/watch?v=MqWvBqpWHaw
           title: "DC Fair Elections Program mayoral debate (April 30, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: transit_traffic_cameras
       stance: -1
@@ -1714,12 +1878,44 @@
     - question_id: homelessness_housing_first
       stance: 1
       quote: "I will preserve and strengthen the Emergency Rental Assistance Program, the Homelessness Prevention Program, and Project Reconnect so that temporary financial hardship does not become permanent displacement."
-      explanation: "Sampath would preserve and strengthen the Emergency Rental Assistance Program, Homelessness Prevention Program, and Project Reconnect to keep people housed, framing homelessness around prevention and supportive services rather than enforcement. Supportive of a services-first approach."
+      explanation: "Sampath would preserve and strengthen the Emergency Rental Assistance Program, Homelessness Prevention Program, and Project Reconnect to keep people housed, framing homelessness around prevention and supportive services rather than enforcement. Supportive of a services-first approach. In her DC for Democracy questionnaire she opposes 'further cuts to the Emergency Rental Assistance Program (ERAP)' and would expand funding for the Homeless Prevention Program, Project Reconnect, and the Local Rent Supplement Program to prevent homelessness."
       sources:
         - url: https://riniformayor.com/
           title: "Housing — Rini Sampath for Mayor"
           publisher: "Rini Sampath Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_topa_restore
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Sampath rejects the Bowser-era approach of narrowing Tenant Purchase (TOPA) rights in the name of a 'better business climate,' saying 'improving the business environment does not need to come at the expense of working class families.' Supports preserving tenant purchase rights, though she does not detail a plan to further expand TOPA."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "I support restoring Initiative 82 and respecting the will of DC voters."
+      explanation: "In her DC for Democracy questionnaire Sampath supports restoring Initiative 82 — the full tipped minimum wage DC voters approved — via a phased schedule that gives restaurants time to adapt, and opposes the Bowser-era cut to tipped-worker wages. Supports stronger wage protections, balanced with a transition period for small businesses."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: crime_more_police
+      stance: 0
+      explanation: "In her DC for Democracy questionnaire Sampath focuses on 'stabilizing staffing at MPD to bring overtime costs down' — noting DC spent over $75M on police overtime in FY2025, 'over double the amount budgeted' — and reinvesting the savings 'in our communities,' rather than prioritizing a large net increase in officers. Mixed: supports filling and stabilizing MPD staffing while redirecting overtime savings to community programs."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Mayoral Candidate Questionnaire — Rini Sampath"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: hope-solomon
   name: "Hope Solomon"

@@ -73,7 +73,7 @@
     - question_id: youth_curfew_support
       stance: 1
       quote: "If we are telling young people where they cannot be, we have a responsibility to create spaces where they can be."
-      explanation: "Conditionally supports teen curfews as a short-term measure, to be phased out by 2028. Her own legislation required curfew zones to be paired with alternative youth programming and placed clear limits on law enforcement discretion — emphasizing that curfews alone are not a public safety strategy."
+      explanation: "Conditionally supports teen curfews as a short-term measure, to be phased out by 2028. Her own legislation required curfew zones to be paired with alternative youth programming and placed clear limits on law enforcement discretion — emphasizing that curfews alone are not a public safety strategy. Her DC for Democracy questionnaire is more skeptical of curfews themselves — 'research does not point to strong evidence of curfews reducing misbehavior or crimes committed by youth' — and stresses solutions that 'don't further criminalize Black and Brown youth,' while remaining 'all for holding our youth accountable' and funding out-of-school-time programs."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
@@ -83,11 +83,15 @@
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: youth_curfew_programming
       stance: 2
       quote: "I also support expanding out-of-school time funding so that more students have safe, structured places to be after school and on weekends."
-      explanation: "Authored legislation requiring that youth programming be provided alongside any curfew zone. Supports investing in out-of-school programming, behavioral health clinicians in schools, and extended rec center hours."
+      explanation: "Authored legislation requiring that youth programming be provided alongside any curfew zone. Supports investing in out-of-school programming, behavioral health clinicians in schools, and extended rec center hours. Her DC for Democracy questionnaire pledges to increase funding for out-of-school-time (OST) programs, noting demand 'often exceeds available seats' and that not all families can afford private options."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
@@ -97,11 +101,15 @@
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: education_mental_health_schools
-      stance: 1
-      quote: "I will protect the School-Based Behavioral Health Program, which places clinicians in DC public and charter schools, from budget cuts."
-      explanation: "Pledges to protect the School-Based Behavioral Health Program — which places clinicians in DC public and charter schools — from budget cuts, calling cuts 'not a savings but a cost we will pay in other ways.' Wants to expand out-of-school time funding for safe, structured after-school programming. At the April 28, 2026 Fair Elections Program debate she noted the program 'has been cut in the fiscal year 27 budget' and said 'I plan to fight for that program going forward.'"
+      stance: 2
+      quote: "We must ensure that every school has a clinician that can support students and families."
+      explanation: "Pledges to protect the School-Based Behavioral Health Program — which places clinicians in DC public and charter schools — from budget cuts, calling cuts 'not a savings but a cost we will pay in other ways.' Wants to expand out-of-school time funding for safe, structured after-school programming. At the April 28, 2026 Fair Elections Program debate she noted the program 'has been cut in the fiscal year 27 budget' and said 'I plan to fight for that program going forward.' Her DC for Democracy questionnaire goes further, calling the proposed FY2027 elimination of the program a serious risk and insisting 'we must ensure that every school has a clinician that can support students and families,' which she pledges to prioritize in the budget."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
@@ -111,11 +119,15 @@
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "I support consolidating our community violence intervention programs for greater efficiency, improving transparency between MPD and the communities it serves, and ensuring that DC’s police department is never used as a tool of federal immigration enforcement."
-      explanation: "Explicitly states that DC's police department must never be used as a tool of federal immigration enforcement. Has co-introduced legislation to protect DC residents from federal law enforcement overreach. At the April 28, 2026 Fair Elections Program debate she described introducing 'permanent and emergency legislation to require MPD to be more transparent when they're cooperating with federal immigration enforcement' and backing a pending bill to prohibit MPD collaboration absent a judicial warrant."
+      explanation: "Explicitly states that DC's police department must never be used as a tool of federal immigration enforcement. Has co-introduced legislation to protect DC residents from federal law enforcement overreach. At the April 28, 2026 Fair Elections Program debate she described introducing 'permanent and emergency legislation to require MPD to be more transparent when they're cooperating with federal immigration enforcement' and backing a pending bill to prohibit MPD collaboration absent a judicial warrant. In her DC for Democracy questionnaire she 'strongly oppose[s] MPD cooperation with federal immigration enforcement,' says immigrants 'must be able to trust local law enforcement without fear of being taken from their homes and schools,' and notes she co-introduced permanent and emergency legislation to increase transparency and accountability over MPD coordination with ICE and HSI."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
@@ -125,11 +137,15 @@
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_upzoning
       stance: 2
       quote: "I support building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live."
-      explanation: "Supports 'building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live,' and fixing the Inclusionary Zoning process so affordable units stop sitting empty. At the April 28, 2026 Fair Elections Program debate she chose 'faster housing production' when asked to prioritize, citing regulatory burdens pushing developers to Virginia and Maryland."
+      explanation: "Supports 'building more housing across every ward, including duplexes and small apartment buildings in neighborhoods that currently only allow single-family homes, and converting vacant office buildings into places people can live,' and fixing the Inclusionary Zoning process so affordable units stop sitting empty. At the April 28, 2026 Fair Elections Program debate she chose 'faster housing production' when asked to prioritize, citing regulatory burdens pushing developers to Virginia and Maryland. Her DC for Democracy questionnaire calls for a housing mix beyond 'luxury one bedroom units' — including the 'missing middle' and family-sized housing — and for reforming the Inclusionary Zoning process to mirror Montgomery County's direct-application MPDU model so affordable units stop sitting vacant."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
@@ -139,11 +155,15 @@
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: econ_small_business_tax_relief
       stance: 1
       quote: "I recently introduced legislation to examine whether DC’s tax incentive programs are actually benefiting the District, because incentives without accountability leave us with nothing to show for it."
-      explanation: "Wants to 'make DC genuinely easier to do business in, especially for minority and women-owned businesses,' create a one-stop place for new business owners, and reduce unnecessary licensing barriers. Introduced legislation to examine whether DC's tax incentive programs actually benefit the District — emphasizing accountable incentives and lower barriers more than across-the-board tax cuts. At the April 28, 2026 Fair Elections Program debate she returned to this theme, noting DC has not 'comprehensively studied' its tax abatements since November 2018 and proposing to 'make some cuts and recapture that money and put it into social services and housing.'"
+      explanation: "Wants to 'make DC genuinely easier to do business in, especially for minority and women-owned businesses,' create a one-stop place for new business owners, and reduce unnecessary licensing barriers. Introduced legislation to examine whether DC's tax incentive programs actually benefit the District — emphasizing accountable incentives and lower barriers more than across-the-board tax cuts. At the April 28, 2026 Fair Elections Program debate she returned to this theme, noting DC has not 'comprehensively studied' its tax abatements since November 2018 and proposing to 'make some cuts and recapture that money and put it into social services and housing.' Her DC for Democracy questionnaire backs the Chamber of Commerce's recommendation to tie tax incentives to employment metrics and to 'review and sunset incentives regularly' to phase out those that fail to meet benchmarks, framing a more welcoming, diversified business climate as key to inclusive economic growth."
       sources:
         - url: https://www.donicrawford.com/
           title: "Doni Crawford for DC Council — Campaign Website"
@@ -153,16 +173,24 @@
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_public_health
       stance: 2
       quote: "I would say I want to focus on prevention primarily, making sure that we are working with community partners to put in place violence interruption programs, making sure our schools are adequately funded, making sure that people have access to healthy foods — all the things that could lead to crime over time."
-      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford led with prevention as her primary public-safety approach — naming violence interruption programs, school funding, and access to healthy food as ways to address the root causes of crime. She also supports consolidating the District's community violence intervention programs for greater efficiency."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford led with prevention as her primary public-safety approach — naming violence interruption programs, school funding, and access to healthy food as ways to address the root causes of crime. She also supports consolidating the District's community violence intervention programs for greater efficiency. Her DC for Democracy questionnaire argues 'addressing crime in the District means addressing its root causes' — inadequate housing, food insecurity, inequitable education, and limited workforce opportunity — and that 'simply increasing the size of the police force will not resolve the underlying conditions that drive crime.'"
       sources:
         - url: https://www.youtube.com/watch?v=EPfD0_neF04
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: parks_rec_funding
       stance: 1
@@ -177,22 +205,30 @@
     - question_id: housing_production_trust_fund
       stance: 1
       quote: "Even looking at the Housing Production Trust Fund, which is our primary tool to building affordable housing, this year there's only $40 million in it and it's usually a hundred million."
-      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford described the Housing Production Trust Fund as DC's primary affordable-housing tool and faulted it being funded at roughly $40M this year versus its usual ~$100M, noting the fund is required to direct 50% to the lowest (0–30% AMI) income band. She frames adequate HPTF funding as necessary to restart stalled affordable production."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford described the Housing Production Trust Fund as DC's primary affordable-housing tool and faulted it being funded at roughly $40M this year versus its usual ~$100M, noting the fund is required to direct 50% to the lowest (0–30% AMI) income band. She frames adequate HPTF funding as necessary to restart stalled affordable production. Her DC for Democracy questionnaire adds that she would raise the affordable-housing requirement on District-owned land from 30% to 35% and ensure the legally required 50% of HPTF dollars continue funding deeply affordable housing."
       sources:
         - url: https://www.youtube.com/watch?v=EPfD0_neF04
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: home_rule_dc_resist
       stance: 2
       quote: "I've already introduced permanent and emergency legislation to require MPD to be more transparent when they're cooperating with federal immigration enforcement … that bill would prohibit MPD from collaborating with federal immigration enforcement unless there's a judicial warrant in place."
-      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford answered the question on congressional/federal interference by pointing to protective legislation she has already introduced (permanent and emergency MPD-transparency bills) and a pending bill she wants moved that would bar MPD collaboration with federal immigration enforcement without a judicial warrant. Asked whether the Council should still act without executive alignment, she said it should 'move forward' where the votes exist — favoring assertive, codified protection over waiting for consensus."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Crawford answered the question on congressional/federal interference by pointing to protective legislation she has already introduced (permanent and emergency MPD-transparency bills) and a pending bill she wants moved that would bar MPD collaboration with federal immigration enforcement without a judicial warrant. Asked whether the Council should still act without executive alignment, she said it should 'move forward' where the votes exist — favoring assertive, codified protection over waiting for consensus. Her DC for Democracy questionnaire frames preserving Home Rule around 'honesty and transparency with constituents' about DC's limited options as a non-state — citing roughly $700 million Congress and the CFO have constrained — while 'improving relationships with members on the Hill to prevent this kind of overreach in the future.'"
       sources:
         - url: https://www.youtube.com/watch?v=EPfD0_neF04
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: environment_data_centers
       stance: 1
@@ -266,12 +302,79 @@
     - question_id: labor_worker_protections
       stance: 1
       quote: "I led a coalition that secured $41 million for workers who had been excluded from federal pandemic relief entirely — people working in the informal economy, returning citizens, and undocumented workers…"
-      explanation: "A former DC Fiscal Policy Institute researcher, Crawford led the coalition that won $41 million for excluded workers and centers her economic agenda on workers and local hiring, insisting development deals carry real commitments to hire DC residents. Supportive of strong worker protections."
+      explanation: "A former DC Fiscal Policy Institute researcher, Crawford led the coalition that won $41 million for excluded workers and centers her economic agenda on workers and local hiring, insisting development deals carry real commitments to hire DC residents. Supportive of strong worker protections. On Initiative 82, her DC for Democracy questionnaire takes a status-quo line: she did not vote on the 2025 changes but would 'move forward with implementation of those changes to provide some stability' and does 'not support making any additional changes at this moment' — declining to restore the full tipped minimum wage."
       sources:
         - url: https://www.donicrawford.com/
           title: "Economic Growth That Reaches Everyone — Doni Crawford for DC Council"
           publisher: "Doni Crawford Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: homelessness_housing_first
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Crawford supports increased funding for homeless shelters and short-term family housing that is 'clean, safe, and feel[s] like a home rather than an institution,' paired with wraparound services like workforce development, education, and on-site childcare, plus converting vacant office buildings into short-term family housing distributed across all eight wards. A services-and-housing approach rather than encampment clearing."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_topa_restore
+      stance: 0
+      explanation: "In her DC for Democracy questionnaire Crawford calls TOPA 'an important tool to mitigate displacement' but argues 'its application should be proportionate,' so small landlords — 'many of whom are long-time Black and brown residents who built wealth through property ownership' — don't face the same burdens as large institutional investors. She faults the rushed process of the 2025 change (a dais amendment) but does not commit to restoring the repealed 2–4-unit rights, instead emphasizing renter protections like habitability and rent/utility transparency. Mixed."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: crime_more_police
+      stance: 0
+      explanation: "In her DC for Democracy questionnaire Crawford says 'simply increasing the size of the police force will not resolve the underlying conditions that drive crime,' but argues MPD is effectively 'doing the job of more officers' through costly mandatory overtime (over 1.81 million OT hours / $133 million in FY2025) and that DC should 'rebalance the size of the force' — hiring officers to cut overtime and reinvest the savings (~$45 million) into root-cause programs. Mixed: supports right-sizing staffing but rejects more police as the priority for reducing crime."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: fiscal_progressive_taxation
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Crawford favors raising revenue progressively by closing tax loopholes — she 'led the successful charge' to close a loophole letting wealthy investors avoid taxes on out-of-jurisdiction municipal bonds (a Tax Revision Commission and Just Recovery DC recommendation) — and by limiting or restructuring tax abatements tied to measurable community benefits, alongside performance oversight. She would 'first look to these types of strategies before turning to rate increases.'"
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_universal
+      stance: 0
+      explanation: "In her DC for Democracy questionnaire Crawford supports making child care more affordable — stabilizing the Childcare Pay Equity Fund with a sustainable revenue source and expanding access to subsidized child care 'for the families most in need' — and would lobby Congress for more Child Care and Development Fund, Head Start, and Early Head Start money. Mixed relative to a universal-regardless-of-income program: she targets the neediest families rather than universal eligibility."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: 0
+      explanation: "In her DC for Democracy questionnaire Crawford says she has heard arguments both for and against mayoral control and that governance 'has not been a focus' in her constituent conversations. After nearly 20 years she believes the two-sector system 'requires stronger coordination and transparency' and would 'preserve the strengths of our existing system while ushering in changes' to increase community engagement, oversight, and accountability — without committing to ending mayoral control. Recorded as undecided/mixed."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Crawford backs DC's climate goals and the clean-energy transition: she supports the Healthy Homes Act's electric-appliance assistance for low-income residents, pledges to oppose raids on the Sustainable Energy Trust Fund and restore it if diverted, and would 'aggressively disincentivize' fossil-fuel furnaces and water heaters through incentives and rebates — favoring a managed, equity-conscious transition over an immediate hard ban."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Doni Crawford"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: jacque-patterson
   name: "Jacque Patterson"
@@ -410,13 +513,17 @@
           accessed: 2026-06-03
 
     - question_id: home_rule_dc_resist
-      stance: 0
-      explanation: "At the April 28, 2026 Fair Elections Program debate Patterson framed the response to federal interference primarily around coordination — the Council, the Delegate, the Mayor, and the Attorney General 'singing from the same page' — citing the District's roughly $1.1 billion budget loss as a consequence of poor coordination. He also said the Council should 'move forward wherever we're going to pass legislation and the votes are there.' His emphasis on alignment and avoiding blindsiding sits between the question's assertive-confrontation pole and pragmatic coordination, so recorded as mixed."
+      stance: 1
+      explanation: "At the April 28, 2026 Fair Elections Program debate Patterson framed the response to federal interference primarily around coordination — the Council, the Delegate, the Mayor, and the Attorney General 'singing from the same page' — citing the District's roughly $1.1 billion budget loss as a consequence of poor coordination, and said the Council should 'move forward wherever we're going to pass legislation and the votes are there.' His DC for Democracy questionnaire (answered on the Delegate template) reveals a more confrontational, public-pressure side: in March 2025 he organized 'Recess at the Capitol,' a Senate-building protest that drew over 700 families and helped push the Senate to return the hijacked $1.1 billion — and which he says helped groups like Free DC 'build the capacity for future protest at the capital.' He also wants the mayor to have governor-like authority over the DC National Guard and would push that 'on Day One.' Paired with his coordination emphasis, this assertive public-action record supports a modest pro-resistance lean."
       sources:
         - url: https://www.youtube.com/watch?v=EPfD0_neF04
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Candidate Questionnaire — Jacque Patterson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_police_in_schools
       stance: -2
@@ -551,7 +658,7 @@
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "She will stop collaboration with ICE and ensure the Council proactively defends our right to self-determination."
-      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. At the April 28, 2026 Fair Elections Program debate she said 'MPD should not cooperate with ICE when it comes to immigration enforcement — that is our law, we should follow our own law.'"
+      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. At the April 28, 2026 Fair Elections Program debate she said 'MPD should not cooperate with ICE when it comes to immigration enforcement — that is our law, we should follow our own law.' Her DC for Democracy questionnaire reiterates the Council must 'live by our sanctuary city law and stop cooperating with federal immigration agencies,' and calls for 'more clear voices on the Council holding MPD and our officers accountable.'"
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
@@ -561,6 +668,10 @@
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: transit_bike_bus_lanes
       stance: 1
@@ -572,9 +683,9 @@
           accessed: 2026-05-29
 
     - question_id: housing_production_trust_fund
-      stance: 1
-      quote: "She focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms."
-      explanation: "Supports streamlining and increasing DCHA resources and the Housing Production Trust Fund; advocates removing obstacles to building and using public lands and public dollars strategically. Focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms."
+      stance: 2
+      quote: "I strongly supported increased funding for the Housing Production Trust Fund, and I also led the creation of the preservation fund."
+      explanation: "Supports streamlining and increasing DCHA resources and the Housing Production Trust Fund; advocates removing obstacles to building and using public lands and public dollars strategically. Focuses on inclusive economic development that primarily benefits working families, not real estate developers and private equity firms. Her DC for Democracy questionnaire underscores this: she 'strongly supported increased funding for the Housing Production Trust Fund,' 'led the creation of the preservation fund' (saving naturally affordable units for a fraction of new-construction cost), and is the Council's self-described strongest DC Housing Authority watchdog, pushing to fill vacant public housing units and fund repairs."
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
@@ -584,11 +695,15 @@
           title: "Meet the candidates — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_more_police
       stance: 1
       quote: "She supports an MPD that is properly trained and staffed and that protects residents and respects their rights."
-      explanation: "Supports an MPD that is 'properly trained and staffed and that protects residents and respects their rights.' Also funded the Cure the Streets violence interruption program and champions evidence-based programs to reduce gun violence alongside traditional policing. At the April 28, 2026 Fair Elections Program debate she called for following evidence-based best practices and implementing the post-George Floyd task-force recommendations to reform 'and bolster' MPD under the new chief."
+      explanation: "Supports an MPD that is 'properly trained and staffed and that protects residents and respects their rights.' Also funded the Cure the Streets violence interruption program and champions evidence-based programs to reduce gun violence alongside traditional policing. At the April 28, 2026 Fair Elections Program debate she called for following evidence-based best practices and implementing the post-George Floyd task-force recommendations to reform 'and bolster' MPD under the new chief. In her DC for Democracy questionnaire she says 'we need to have more officers to stem attrition' but to also fix how officers are used — citing the Auditor's findings on costly mandatory overtime that wears officers down — and points to Baltimore Mayor Brandon Scott's evidence-based violence reduction as a model."
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
@@ -598,6 +713,10 @@
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_upzoning
       stance: 1
@@ -626,7 +745,7 @@
     - question_id: home_rule_dc_resist
       stance: 2
       quote: "District government needs to protect our neighbors and our city from President Trump and his administration, not collaborate in their terror and lawlessness."
-      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. Called for a dedicated federal relations office at the Council level to keep DC's voice on the Hill consistent and strategic. At the April 28, 2026 Fair Elections Program debate she argued 'it's hard for us to argue for home rule when we don't follow our own law,' while stressing that the Council, Attorney General, Mayor, and Delegate should coordinate strategy so DC is not caught 'flatfooted' — pairing an assertive substantive stance with disciplined process."
+      explanation: "Explicitly pledges to 'stop collaboration with ICE' and ensure the Council proactively defends DC's right to self-determination against Trump administration overreach. Called for a dedicated federal relations office at the Council level to keep DC's voice on the Hill consistent and strategic. At the April 28, 2026 Fair Elections Program debate she argued 'it's hard for us to argue for home rule when we don't follow our own law,' while stressing that the Council, Attorney General, Mayor, and Delegate should coordinate strategy so DC is not caught 'flatfooted' — pairing an assertive substantive stance with disciplined process. Her DC for Democracy questionnaire sharpens that posture: 'We need to stop giving in to bullies,' the Council must stop 'spinning their wheels' and have response plans ready for congressional review of major bills, and it should 'seriously beef up its lobbying effort on the Hill' (the mayor has a large federal-liaison team; the Council has one person), because 'we won't get statehood by capitulating.'"
       sources:
         - url: https://www.elissafordc.com/
           title: "Elissa Silverman for DC Council — Campaign Website"
@@ -636,25 +755,37 @@
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_topa_restore
-      stance: 1
-      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) at first and final reading during her At-Large Council term, supporting DC's tenant purchase rights framework."
+      stance: 2
+      explanation: "Voted Yes on the TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 (B 21-0147) at first and final reading during her At-Large Council term, supporting DC's tenant purchase rights framework. In her DC for Democracy questionnaire she states 'I do not support the recent Council action repealing TOPA from buildings with two to four units,' citing Urban Institute research that these are a majority of buildings in Wards 5, 7, and 8 that would benefit from TOPA and would increase Black homeownership — a clear commitment to restoring the repealed rights."
       sources:
         - url: https://lims.dccouncil.gov/Legislation/B21-0147
           title: "TOPA Bona Fide Offer of Sale Clarification Amendment Act of 2015 — DC Council LIMS"
           publisher: dccouncil.gov
           accessed: 2026-06-02
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_public_health
       stance: 1
       quote: "We're not following best practices when it comes to violence interruption. We need to do that and make sure it works well."
-      explanation: "At the April 28, 2026 Fair Elections Program debate Silverman backed evidence-based violence interruption, citing University of Maryland researcher Thomas Abt and arguing DC is not currently following best practices. She frames violence prevention as something to do well alongside policing rather than as a wholesale replacement, and previously funded the Cure the Streets program."
+      explanation: "At the April 28, 2026 Fair Elections Program debate Silverman backed evidence-based violence interruption, citing University of Maryland researcher Thomas Abt and arguing DC is not currently following best practices. She frames violence prevention as something to do well alongside policing rather than as a wholesale replacement, and previously funded the Cure the Streets program. Her DC for Democracy questionnaire reiterates that she funded 'the first violence interrupter program in the Attorney General's office' but argues, citing University of Maryland expert Thomas Abt, that DC 'needs to reboot its approach' because it 'is not evidence-based' — calling for stronger oversight, clear goals, and accountability for the violence-interruption programs."
       sources:
         - url: https://www.youtube.com/watch?v=EPfD0_neF04
           title: "DC Fair Elections Program debate — At-Large Council special election (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: housing_social_model
       stance: 1
@@ -728,12 +859,89 @@
     - question_id: labor_worker_protections
       stance: 2
       quote: "She was the lead champion for D.C.'s paid family leave program, which has benefitted tens of thousands of workers… led advocacy campaigns to raise the minimum wage."
-      explanation: "Silverman co-authored and was the lead champion of DC's paid family and medical leave law (up to 12 weeks) and previously led campaigns to raise the minimum wage. Expanding worker protections is her signature issue — strongly supports."
+      explanation: "Silverman co-authored and was the lead champion of DC's paid family and medical leave law (up to 12 weeks) and previously led campaigns to raise the minimum wage. Expanding worker protections is her signature issue — strongly supports. On tipped wages, her DC for Democracy questionnaire notes she 'supported I-77 when I was on the Council, and voted for I-82 as a resident,' but says she 'will not vote for any other initiative on this topic or really any other policy until we reform our initiative process' — a procedural stance rather than a retreat from worker protections."
       sources:
         - url: https://www.elissafordc.com/
           title: "Supporting D.C.'s Workers and Businesses — Elissa Silverman for DC Council"
           publisher: "Elissa Silverman Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: homelessness_housing_first
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Silverman argues 'when housing costs are high, homelessness is high,' so DC must build more housing (market-rate and affordable) and fill the nearly 10% of vacant Class C (mostly affordable) units. For Permanent Supportive Housing recipients she would 'make good on providing the supportive part of PSH' — social workers and other supports — a housing-and-services approach rather than encampment clearing."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_support
+      stance: -1
+      explanation: "In her DC for Democracy questionnaire Silverman is skeptical that curfews work — 'almost no one has been arrested under the curfew law, and yet we still see large groups of kids causing disturbances' — and pivots to investing in alternatives (late-night programs, truancy programs, job training) and getting chronically absent students back in school, rather than endorsing curfew enforcement."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Silverman calls for 'investing in alternatives for our children, like more late-night programs, more school truancy programs, and more job training programs,' citing her record as former Labor and Workforce Development Committee chair funding youth pathways into healthcare and IT jobs, and pledging to 'double down on those investments.'"
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Silverman supports the Healthy Homes Act's electric-appliance assistance, opposes the mayor 'raiding our renewable energy funds' (the Sustainable Energy Trust Fund) and would vote to restore them, and backs funding to help residents and businesses switch from gas to electric — though she is 'not sure' she supports a full fossil-fuel-appliance ban yet."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Silverman says she has 'voted in the past to raise taxes to make our tax code more progressive,' favoring tax changes that 'improve the lives of residents' (the child tax credit, affordable housing, a larger EITC), and explicitly states 'I do think we should adopt the business activity tax, which will also make our system fairer.' Strongly supportive of progressive revenue, while cautioning against raising taxes 'just for the sake of raising taxes.'"
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: econ_business_activity_tax
+      stance: 2
+      quote: "I do think we should adopt the business activity tax, which will also make our system fairer."
+      explanation: "In her DC for Democracy questionnaire Silverman explicitly states 'I do think we should adopt the business activity tax, which will also make our system fairer,' and supports Councilmember Lewis George's call to use it to significantly expand child-care funding. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_universal
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Silverman supports 'expanding our child care supports' and would vote for Councilmember Lewis George's proposal to use the business activity tax to fund a significant expansion. She emphasizes getting kids into school as early as possible and praises New York's universal-style Pre-K-2 push — supportive of broadly expanding subsidized childcare, though she does not spell out a universal-regardless-of-income guarantee."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Silverman says she has 'long supported a larger role for the Board of Education' and that it 'can take a far stronger role without fully undoing mayoral control' — for example, giving the elected board power to hire or fire the Chancellor to bring in more parent voices. Supports shifting authority toward the elected board, but stops short of fully ending mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Elissa Silverman"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: khalil-lee
   name: "Khalil Lee"

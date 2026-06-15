@@ -83,31 +83,44 @@
   positions:
     - question_id: statehood_top_priority
       stance: 2
-      explanation: "Big proponent of statehood; says he'd seek a seat on the House Appropriations Committee to leverage DC's funding interests."
+      explanation: "Big proponent of statehood; says he'd seek a seat on the House Appropriations Committee to leverage DC's funding interests. In his DC for Democracy questionnaire he calls statehood and 'full democratic self-government' the 'foundation for all other progress in the District' and treats Home Rule 'as a civil rights issue, not a procedural one,' casting the Delegate as a 'Movement Advocate,' a 'Defender of Local Power,' and a 'National Organizer.'"
       sources:
         - url: https://www.joinrobertwhite.com/
           title: "Robert White for DC Delegate — Campaign Website"
           publisher: "Robert White Campaign"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Robert White"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: mpd_ice_cooperation
       stance: 2
-      explanation: "Opposes MPD cooperation with ICE and supports DC's sanctuary values; answered Yes to opposing Congress increasing police presence in DC."
+      quote: "Our MPD must follow DC law by not turning over DC residents who have not been convicted of any crime to be deported and possibly tortured in foreign prisons. I have seen enough cowardice and cooperation."
+      explanation: "Opposes MPD cooperation with ICE and supports DC's sanctuary values; answered Yes to opposing Congress increasing police presence in DC. His DC for Democracy questionnaire is emphatic that 'our MPD must follow DC law by not turning over DC residents who have not been convicted of any crime to be deported,' and faults DC leadership for 'aiding and abetting' federal immigration enforcement: 'I have seen enough cowardice and cooperation.'"
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce90fc2559e5d7c6a5bcc/1771890959907/Robert+White+Free+DC+Candidate+Questionnaire.pdf
           title: "Robert White — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Robert White"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: delegate_budget_autonomy
       stance: 2
       quote: "He worked as a lead staff member on congressional oversight hearings focused on the District and played a key role in drafting legislation to loosen Congress’ grip over D.C. government in favor of greater autonomy and independence for DC residents."
-      explanation: "As Norton's legislative counsel he 'played a lead role in drafting legislation to loosen Congress' grip over DC government in favor of greater autonomy and independence.' If elected he says he'd seek a seat on the House Appropriations Committee to maximize DC's funding leverage and protect the District's budget from congressional interference."
+      explanation: "As Norton's legislative counsel he 'played a lead role in drafting legislation to loosen Congress' grip over DC government in favor of greater autonomy and independence.' If elected he says he'd seek a seat on the House Appropriations Committee to maximize DC's funding leverage and protect the District's budget from congressional interference. In his DC for Democracy questionnaire he says he has 'voted consistently to defend DC's authority over its own laws and budget,' organized a national-news press conference when 'Congress stole $1 Billion from DC,' lobbied the Hill against disapproval resolutions, and would 'push structural reforms to reduce Congress's ability to interfere, including protections for budget autonomy.'"
       sources:
         - url: https://www.joinrobertwhite.com/
           title: "Robert White for DC Delegate — Campaign Website"
           publisher: "Robert White Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Robert White"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: delegate_oppose_federal_mpd
       stance: 2
@@ -159,12 +172,16 @@
 
     - question_id: statehood_strategy_bipartisan
       stance: -1
-      explanation: "The most confrontational, partisan-leverage approach in the field: 'We're not going to make DC a state because it's the right thing to do — that would have happened already.' Would 'tap into the anger around the country' and the fight for Democratic control of Congress, mobilizing residents 'by the thousands into swing states or swing districts or the district of any member who votes against DC's interest.' Builds large Democratic coalitions (CBC, Progressive Caucus) rather than pursuing bipartisan deal-making."
+      explanation: "The most confrontational, partisan-leverage approach in the field: 'We're not going to make DC a state because it's the right thing to do — that would have happened already.' Would 'tap into the anger around the country' and the fight for Democratic control of Congress, mobilizing residents 'by the thousands into swing states or swing districts or the district of any member who votes against DC's interest.' Builds large Democratic coalitions (CBC, Progressive Caucus) rather than pursuing bipartisan deal-making. His DC for Democracy questionnaire sharpens this posture — 'DC statehood will not be won through symbolism; it will be won through organized pressure—both inside and outside of Congress' — via a multi-track strategy of legislative accountability, movement integration with labor and civil-rights coalitions, 'strategic escalation' at must-pass budget moments, and organizing DC residents into pro-democracy campaigns nationwide."
       sources:
         - url: https://www.youtube.com/watch?v=Nej74wWaT9I
           title: "Washington Informer DC Delegate candidate forum (May 2, 2026)"
           publisher: "The Washington Informer"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Robert White"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: delegate_metro_federal_funding
       stance: 2
@@ -249,12 +266,16 @@
     - question_id: statehood_top_priority
       stance: 2
       quote: "My top priority in Congress will be D.C. statehood."
-      explanation: "Strong proponent of DC statehood; highlights over 200 years of disenfranchisement and commits to continuing work on full voting representation."
+      explanation: "Strong proponent of DC statehood; highlights over 200 years of disenfranchisement and commits to continuing work on full voting representation. His DC for Democracy questionnaire lists his 'top three priorities' as 'D.C. statehood, D.C. home rule, and defending federal employees,' drawing on eight-plus years as Norton's lead congressional staffer on statehood and home rule."
       sources:
         - url: https://www.trentholbrook.com/issues
           title: "Issues — Trent Holbrook for DC Delegate"
           publisher: "Trent Holbrook Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Trent Holbrook"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: mpd_ice_cooperation
       stance: 1
@@ -268,42 +289,58 @@
     - question_id: statehood_strategy_bipartisan
       stance: 2
       quote: "we must work to continue to unite the D.C. statehood bill with these other two bills that Democrats champion and will eventually pass when we have the majority."
-      explanation: "The legislative-strategist candidate: as Norton's Senior Legislative Counsel he 'took the DC statehood bill from losing in 1993 to passing in the House of Representatives twice,' and frames his path as working the legislative process — uniting the Washington, DC Admission Act with the Freedom to Vote Act and the John R. Lewis Voting Rights Advancement Act — rather than confrontation or protest."
+      explanation: "The legislative-strategist candidate: as Norton's Senior Legislative Counsel he 'took the DC statehood bill from losing in 1993 to passing in the House of Representatives twice,' and frames his path as working the legislative process — uniting the Washington, DC Admission Act with the Freedom to Vote Act and the John R. Lewis Voting Rights Advancement Act — rather than confrontation or protest. In his DC for Democracy questionnaire he describes a relationship-driven path — introducing the statehood bill 'the first day that bills can be introduced,' engaging individual Democratic members 'one-on-one,' and using anti-DC attacks to 'expand the number of cosponsors' — crediting it with taking the bill 'from losing two-to-one to passing in the House of Representatives, not once, but twice.'"
       sources:
         - url: https://www.trentholbrook.com/issues
           title: "Issues — Trent Holbrook for DC Delegate"
           publisher: "Trent Holbrook Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Trent Holbrook"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: delegate_budget_autonomy
       stance: 2
       quote: "I will work to ensure that never happens again and make the case that this is yet another reason we need D.C. statehood."
-      explanation: "Calls Congress's roughly $1 billion (he cites over $2 billion) cut to DC's local budget a harm to teachers, police, and local business owners, and pledges to 'work to ensure that never happens again.' Would legislate to treat DC at least as well as states, cities, and counties for federal funding, and spent eight years drafting legislation to loosen Congress's grip on DC."
+      explanation: "Calls Congress's roughly $1 billion (he cites over $2 billion) cut to DC's local budget a harm to teachers, police, and local business owners, and pledges to 'work to ensure that never happens again.' Would legislate to treat DC at least as well as states, cities, and counties for federal funding, and spent eight years drafting legislation to loosen Congress's grip on DC. His DC for Democracy questionnaire underscores his record as 'the lead staffer in Congress protecting D.C. home rule,' pledging to defend every DC law 'even if I completely disagree with what D.C. has done,' to 'personally call out every single Member of Congress... who violates D.C.'s home rule,' and to 'introduce legislation to give D.C. complete autonomy over every issue that a state would have.'"
       sources:
         - url: https://www.trentholbrook.com/issues
           title: "Issues — Trent Holbrook for DC Delegate"
           publisher: "Trent Holbrook Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Trent Holbrook"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: delegate_oppose_federal_mpd
       stance: 2
       quote: "I vehemently oppose the federalization of the Metropolitan Police Department."
-      explanation: "States in the strongest terms: 'I vehemently oppose the federalization of the Metropolitan Police Department.' Helped advance Norton's District of Columbia Police Home Rule Act to strip that authority from the President, and the DC National Guard Home Rule Act to give the mayor (not the President) control of the Guard — calling its enactment a top priority."
+      explanation: "States in the strongest terms: 'I vehemently oppose the federalization of the Metropolitan Police Department.' Helped advance Norton's District of Columbia Police Home Rule Act to strip that authority from the President, and the DC National Guard Home Rule Act to give the mayor (not the President) control of the Guard — calling its enactment a top priority. His DC for Democracy questionnaire details opposing 'President Trump's attempted illegal takeover of the Metropolitan Police Department and his further illegal use of the D.C. National Guard in our streets,' and notes the National Guard Home Rule Act passed the House 'for the first time in history.'"
       sources:
         - url: https://www.trentholbrook.com/issues
           title: "Issues — Trent Holbrook for DC Delegate"
           publisher: "Trent Holbrook Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Trent Holbrook"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     # Positions below mined from the May 14, 2026 Hill Rag / East of the River forum.
     - question_id: federal_workers_advocate
       stance: 2
-      explanation: "Centers his candidacy on protecting the federal workforce: 'I was a federal employee myself,' and says he 'fought against the illegal firings of our federal employees, fought for pay raises, fought for back pay after the shutdown, and fought for better retirement' alongside Norton. Opposes relocating federal agencies out of the National Capital Region, arguing the agencies need to be where Congress is."
+      explanation: "Centers his candidacy on protecting the federal workforce: 'I was a federal employee myself,' and says he 'fought against the illegal firings of our federal employees, fought for pay raises, fought for back pay after the shutdown, and fought for better retirement' alongside Norton. Opposes relocating federal agencies out of the National Capital Region, arguing the agencies need to be where Congress is. In his DC for Democracy questionnaire he names 'defending federal employees' as one of his top three priorities, citing his work with federal employee unions and his own experience 'at an agency targeted by Congressional Republicans.'"
       sources:
         - url: https://www.youtube.com/watch?v=5eogeLK6tY8
           title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
           publisher: "WJLA / Hill Rag"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Trent Holbrook"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: delegate_federal_land_transfer
       stance: 2
@@ -650,7 +687,7 @@
     - question_id: statehood_top_priority
       stance: 2
       quote: "Brooke knows that our city needs a champion in Congress to defend our values in the District as we continue to fight for DC statehood."
-      explanation: "Strongly supports DC statehood and self-governance. Calls for repealing the federal Height Act and replacing it with a local DC Height Act as a concrete statehood-adjacent step. Emphasizes fighting the Trump administration's day-to-day encroachment on DC autonomy."
+      explanation: "Strongly supports DC statehood and self-governance. Calls for repealing the federal Height Act and replacing it with a local DC Height Act as a concrete statehood-adjacent step. Emphasizes fighting the Trump administration's day-to-day encroachment on DC autonomy. In her DC for Democracy questionnaire she frames the Delegate as needing to 'play defense' against the President's attacks and 'play offense' to secure funding and federal land for DC; while honoring Norton's statehood legacy, she argues statehood now requires building a national movement to pressure the Senate, and pledges as a near-term step to secure a vote for DC's Delegate in the Committee of the Whole 'in my first term.'"
       sources:
         - url: https://brookepintoforcongress.com/issues/
           title: "Issues — Brooke Pinto for Congress"
@@ -660,16 +697,24 @@
           title: "Brooke Pinto — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Brooke Pinto"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: mpd_ice_cooperation
       stance: 2
       quote: "She will defend our DC families – in all the beautiful forms they come in."
-      explanation: "Expressed support for ending MPD/ICE cooperation; stated she wants to 'get rid of ICE' in her Free DC questionnaire. On the campaign trail, pledges to defend DC families regardless of immigration status. Opposes federal and National Guard deployment for local law enforcement."
+      explanation: "Expressed support for ending MPD/ICE cooperation; stated she wants to 'get rid of ICE' in her Free DC questionnaire. On the campaign trail, pledges to defend DC families regardless of immigration status. Opposes federal and National Guard deployment for local law enforcement. In her DC for Democracy questionnaire she highlights standing up 'in public and private' about 'the negative impacts and harms Trump's ICE raids are having on our communities,' holding a 12-hour hearing to push local agencies on 'what more we can do to protect our neighbors,' and sending a Council-wide letter to MPD seeking answers on federal interference."
       sources:
         - url: https://static1.squarespace.com/static/677a7b9982114c23daaaeecc/t/699ce9fee0876e10e618871d/1771891198511/Brooke+Pinto+Free+DC+Candidate+Questionnaire.pdf
           title: "Brooke Pinto — Free DC Candidate Questionnaire"
           publisher: "Free DC Project"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Brooke Pinto"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_more_police
       stance: 1
@@ -698,22 +743,30 @@
     - question_id: delegate_budget_autonomy
       stance: 1
       quote: "Every single day, the Trump Administration is trampling on our rights as Washingtonians and trying to strip power from our local leadership."
-      explanation: "Centers her campaign on DC self-governance: 'the Trump Administration is… trying to strip power from our local leadership,' and DC 'needs a champion in Congress to defend our values' and autonomy. Notes DC is 'the only jurisdiction in the country where the federal government tells us how and where we can build,' and would fight congressional interference in local decisions."
+      explanation: "Centers her campaign on DC self-governance: 'the Trump Administration is… trying to strip power from our local leadership,' and DC 'needs a champion in Congress to defend our values' and autonomy. Notes DC is 'the only jurisdiction in the country where the federal government tells us how and where we can build,' and would fight congressional interference in local decisions. In her DC for Democracy questionnaire she casts the Delegate's core job as protecting 'our local government's right to govern ourselves,' citing a 12-hour hearing and a Council-wide letter to MPD over federal interference — though she frames her approach around stakeholder engagement and getting members to pull anti-DC bills rather than structural budget-autonomy reform."
       sources:
         - url: https://brookepintoforcongress.com/issues/
           title: "Issues — Brooke Pinto for Congress"
           publisher: "Brooke Pinto Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Brooke Pinto"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: statehood_strategy_bipartisan
       stance: 1
       quote: "We need to continue on the path to self-determination and statehood, and that starts with sending someone to Congress with a track record of working across divides to deliver tangible results."
-      explanation: "Says the path to statehood 'starts with sending someone to Congress with a track record of working across divides to deliver tangible results' — a legislative, coalition-oriented approach — while also stressing willingness 'to take on the tough fights with the Trump Administration and Republicans in Congress.'"
+      explanation: "Says the path to statehood 'starts with sending someone to Congress with a track record of working across divides to deliver tangible results' — a legislative, coalition-oriented approach — while also stressing willingness 'to take on the tough fights with the Trump Administration and Republicans in Congress.' Her DC for Democracy questionnaire reinforces this consensus-oriented approach: she points to passing DC's 2023 public safety package after 'meeting with thousands of residents and dozens of advocacy groups and stakeholders' to build unanimous Council support, and says she has 'regularly' met with House and Senate members of both parties to defend the District and get anti-DC legislation pulled — while also calling for a national movement to pressure the Senate."
       sources:
         - url: https://brookepintoforcongress.com/issues/
           title: "Issues — Brooke Pinto for Congress"
           publisher: "Brooke Pinto Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Brooke Pinto"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     # Drawn from Pinto's Ward 2 Council record (this question is not part of the
     # Delegate quiz, but the position documents her authorship of Secure DC).
@@ -752,12 +805,16 @@
 
     - question_id: delegate_federal_land_transfer
       stance: 2
-      explanation: "Supports transferring federal land to DC and stresses having 'someone at the table representing our community' to shape its use — so vacant GSA buildings 'don't just become hotels or luxury condos' but meet needs for senior, affordable, and family housing. Cites her work on a downtown master development plan and on securing housing/equity benefits in the RFK redevelopment as the model."
+      explanation: "Supports transferring federal land to DC and stresses having 'someone at the table representing our community' to shape its use — so vacant GSA buildings 'don't just become hotels or luxury condos' but meet needs for senior, affordable, and family housing. Cites her work on a downtown master development plan and on securing housing/equity benefits in the RFK redevelopment as the model. Her DC for Democracy questionnaire lists transferring 'some federal land to DC so our local leaders and residents can decide what's best for our city' among her core reasons for running."
       sources:
         - url: https://www.youtube.com/watch?v=5eogeLK6tY8
           title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
           publisher: "WJLA / Hill Rag"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Brooke Pinto"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     # Positions below mined from the May 2, 2026 Washington Informer forum.
     - question_id: econ_commuter_tax
@@ -879,22 +936,39 @@
     - question_id: statehood_top_priority
       stance: 1
       quote: "America is the only democracy on earth that denies the residents of its capital city the right to vote. It's a national disgrace, and part of the legacy of racism."
-      explanation: "Calls DC's lack of voting representation 'a national disgrace and part of the legacy of racism,' but argues that fixing it requires a strategic 'grand bargain' on Capitol Hill — not outrage. Distinguishes herself from other candidates by emphasizing coalition-building across sectors and the aisle as the path to full representation. Proposes a Capital Caucus to build regional economic leverage with DC, MD, VA, and neighboring jurisdictions."
+      explanation: "Calls DC's lack of voting representation 'a national disgrace and part of the legacy of racism,' but argues that fixing it requires a strategic 'grand bargain' on Capitol Hill — not outrage. Distinguishes herself from other candidates by emphasizing coalition-building across sectors and the aisle as the path to full representation. Proposes a Capital Caucus to build regional economic leverage with DC, MD, VA, and neighboring jurisdictions. In her DC for Democracy questionnaire she casts the Delegate as 'DC's defender and advocate inside the federal government,' stressing that even 'without a floor vote' the office has 'real influence — access to committees, appropriators, and decision-makers' that 'must be used strategically and relentlessly.'"
       sources:
         - url: https://www.kinneyfordc.com/issues-1
           title: "Issues — Kinney Zalesne for DC Delegate"
           publisher: "Kinney Zalesne Campaign"
           accessed: 2026-05-28
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Kinney Zalesne"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: statehood_strategy_bipartisan
       stance: 2
       quote: "fixing this will take more than indignance and outrage."
-      explanation: "Explicitly the 'grand bargain' candidate: 'fixing this will take more than indignance and outrage. It will require a strategic approach to a grand bargain on Capitol Hill… Throughout my career I've built coalitions across sectors and across the aisle.' Frames bipartisan coalition-building as her signature path to statehood."
+      explanation: "Explicitly the 'grand bargain' candidate: 'fixing this will take more than indignance and outrage. It will require a strategic approach to a grand bargain on Capitol Hill… Throughout my career I've built coalitions across sectors and across the aisle.' Frames bipartisan coalition-building as her signature path to statehood. Her DC for Democracy questionnaire details the approach — pursuing 'things Republicans want that can be part of a larger compromise package that secures DC statehood,' engaging members who care about 'voting rights, democratic representation, racial justice,' and leveraging her party network as a former DNC Deputy National Finance Chair and Co-Chair of Women for Kamala Harris."
       sources:
         - url: https://www.kinneyfordc.com/issues-1
           title: "Issues — Kinney Zalesne for DC Delegate"
           publisher: "Kinney Zalesne Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Kinney Zalesne"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: mpd_ice_cooperation
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire she recounts convening 'a forum with immigrant workers, labor leaders, and advocates' over ICE–MPD coordination to hear how 'federal enforcement partnerships were affecting safety, stability, and trust,' and pledges to oppose 'enforcement practices that bypass local authority,' making clear that 'using crime or immigration as a pretext for federal interference in DC's governance is unacceptable.' Frames the response regionally — through her proposed DC–Maryland–Virginia 'Capital Caucus' — rather than as an explicit MPD sanctuary mandate."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Kinney Zalesne"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     # Positions below mined from the May 14, 2026 Hill Rag / East of the River forum.
     - question_id: federal_workers_advocate
@@ -908,12 +982,16 @@
 
     - question_id: delegate_budget_autonomy
       stance: 2
-      explanation: "Calls Congress's roughly $1 billion budget freeze 'a huge failure' that happened because 'nobody was paying attention — not our delegate, not our DC Council,' and argues the seat 'cannot just be reactive.' Pledges proactive, strategic vigilance to ensure DC controls 'its own revenue and its own destiny,' citing the beaten-back Medicaid-match cut as the model."
+      explanation: "Calls Congress's roughly $1 billion budget freeze 'a huge failure' that happened because 'nobody was paying attention — not our delegate, not our DC Council,' and argues the seat 'cannot just be reactive.' Pledges proactive, strategic vigilance to ensure DC controls 'its own revenue and its own destiny,' citing the beaten-back Medicaid-match cut as the model. Her DC for Democracy questionnaire calls protecting Home Rule and DC autonomy her '#1 priority,' arguing the Delegate's job is to 'raise the cost' of federal interference by making it 'visible, contested, and politically inconvenient' and by 'creating consequences behind the scenes — pressing leadership, engaging appropriators, and mobilizing allies when interference is brewing, not after it happens.'"
       sources:
         - url: https://www.youtube.com/watch?v=5eogeLK6tY8
           title: "Hill Rag / East of the River DC Delegate candidate forum (May 14, 2026)"
           publisher: "WJLA / Hill Rag"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 Delegate Candidate Questionnaire — Kinney Zalesne"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: delegate_federal_land_transfer
       stance: 1
