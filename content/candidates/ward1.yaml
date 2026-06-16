@@ -302,12 +302,16 @@
     - question_id: fiscal_progressive_taxation
       stance: 2
       quote: "Increase taxes and close loopholes for major corporations so that they pay their fair share, while providing some relief to smaller businesses to succeed and thrive."
-      explanation: "Explicitly calls for 'increase taxes and close loopholes for major corporations while providing some relief to smaller businesses to succeed and thrive,' framing progressive corporate taxation as a key revenue source for housing, childcare, and public safety investments."
+      explanation: "Explicitly calls for 'increase taxes and close loopholes for major corporations while providing some relief to smaller businesses to succeed and thrive,' framing progressive corporate taxation as a key revenue source for housing, childcare, and public safety investments. Her DC for Democracy questionnaire lays out specific proposals: a 1.5–2% Business Activity Tax on pass-through firms, progressive capital-gains surtaxes (1–3% above $500K), a mansion tax on luxury sales over $3 million, closing corporate tax-haven loopholes, and strengthening the estate tax — 'Racial equity requires progressive taxation.'"
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Rashida Brown"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: home_rule_dc_resist
       stance: 2
@@ -322,12 +326,46 @@
     - question_id: homelessness_housing_first
       stance: 2
       quote: "She'll also advance housing first policies with wraparound services to promote better pathways for our unhoused neighbors…"
-      explanation: "Brown would advance Housing First policies with wraparound services, fully fund Permanent Supportive Housing and Local Rent Supplement vouchers with a 30-day processing maximum, and restore non-congregate shelter funding — explicitly rejecting 'warehousing people.' Strongly supports a Housing First approach."
+      explanation: "Brown would advance Housing First policies with wraparound services, fully fund Permanent Supportive Housing and Local Rent Supplement vouchers with a 30-day processing maximum, and restore non-congregate shelter funding — explicitly rejecting 'warehousing people.' Strongly supports a Housing First approach. Having worked on Homeward DC's strategic plan in the Mayor's office, her DC for Democracy questionnaire adds that 120+ people 'died while matched to housing they never received,' calling for a unified DHS–DCHA intake system, housing navigators with lived experience, emergency bridge funding, a strengthened Interagency Council on Homelessness, and an end to the Mayor's encampment clearances."
       sources:
         - url: https://rashidaforward1.com/on-the-issues
           title: "On the Issues — Rashida Brown for DC"
           publisher: "Rashida Brown Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Rashida Brown"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: crime_more_police
+      stance: -1
+      quote: "Real safety comes from investing in people and neighborhoods, not expanding systems that have historically criminalized Black and brown communities."
+      explanation: "In her DC for Democracy questionnaire Brown wrote that 'real safety comes from investing in people and neighborhoods, not expanding systems that have historically criminalized Black and brown communities,' citing her co-founding of Georgia Avenue Thrive as proof 'prevention works better than punishment.' She prioritizes violence interruption, mental-health crisis teams, and root-cause investment over hiring significantly more police."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Rashida Brown"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: labor_worker_protections
+      stance: 2
+      quote: "I absolutely oppose capping the tipped wage at 75%."
+      explanation: "In her DC for Democracy questionnaire Brown called the Council's overturning of Initiative 82 'a disgraceful betrayal of democracy and working people' and pledged to 'support legislation to restore the full minimum wage for tipped workers,' even accelerating the phase-in. As 'the daughter of a proud TWU Local 100 union member' and a former tipped worker making $2.10/hour, she also vows strong anti-retaliation enforcement. Emphatically pro-worker-protection."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Rashida Brown"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: environment_electricity_affordability
+      stance: 2
+      quote: "I will vote NO on any budget that raids SETF, period."
+      explanation: "In her DC for Democracy questionnaire Brown 'absolutely support[s] the Healthy Homes Act' and vowed to 'fight relentlessly to stop the unconscionable raids on the Sustainable Energy Trust Fund,' pledging to vote no on any budget that raids it and to pass statutory protections like those guarding the Paid Family Leave fund. She frames it as lowering the energy burden on low-income Ward 1 families who 'face the highest energy burdens' — 'environmental justice IS racial justice.'"
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Rashida Brown"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
 - id: terry-lynch
   name: "Terry Lynch"
@@ -418,12 +456,16 @@
     - question_id: parks_rec_funding
       stance: 1
       quote: "Protect And Expand Parks And Recreational Spaces"
-      explanation: "Campaign platform explicitly includes 'Protect and Expand Parks and Recreational Spaces' and 'Seek More After-School and Weekend Activities For Youth' as priorities, but provides no specific funding commitments or program proposals."
+      explanation: "Campaign platform explicitly includes 'Protect and Expand Parks and Recreational Spaces' and 'Seek More After-School and Weekend Activities For Youth' as priorities, but provides no specific funding commitments or program proposals. In his DC for Democracy questionnaire he 'strongly support[s] after school programs for arts, academics and athletics for students,' drawing on his work as a DC State Sports Commissioner who helped bring lacrosse, ultimate frisbee, and field hockey to DCPS schools."
       sources:
         - url: https://terrylynchfordc.com/the-issues
           title: "The Issues — Terry Lynch for DC"
           publisher: "Terry Lynch Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -438,12 +480,16 @@
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "I am often hearing of DC police cooperating with federal officers in detaining residents."
-      explanation: "Has publicly called on the Attorney General to conduct a top-to-bottom overhaul of MPD, citing concerns about DC police cooperating with federal agents to detain residents. Opposes MPD/federal cooperation on accountability grounds, though his platform focuses on community policing reform rather than broader political resistance to the Trump administration."
+      explanation: "Has publicly called on the Attorney General to conduct a top-to-bottom overhaul of MPD, citing concerns about DC police cooperating with federal agents to detain residents. Opposes MPD/federal cooperation on accountability grounds, though his platform focuses on community policing reform rather than broader political resistance to the Trump administration. In his DC for Democracy questionnaire he said he has 'often spoken public[ly] against federal actions under the current president — from DOGE cuts, to [the] federal shutdown, to how the surge was implemented' and that standing up to those federal impacts on families 'must be a first priority' as a Councilmember."
       sources:
         - url: https://terrylynchfordc.com/the-issues
           title: "The Issues — Terry Lynch for DC"
           publisher: "Terry Lynch Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: transit_bike_bus_lanes
       stance: 1
@@ -477,12 +523,113 @@
 
     - question_id: homelessness_housing_first
       stance: 1
-      explanation: "Lynch began his career running homeless shelters with Mitch Snyder and Carol Fennelly of CCNV and founded Calvary Shelter for Homeless Women, and is endorsed by longtime homeless-services advocates. His record reflects a deep commitment to homeless services and supportive shelter, aligning with a services-first rather than enforcement-first approach, though his materials emphasize shelter provision over a specific Housing First policy."
+      explanation: "Lynch began his career running homeless shelters with Mitch Snyder and Carol Fennelly of CCNV and founded Calvary Shelter for Homeless Women, and is endorsed by longtime homeless-services advocates. His record reflects a deep commitment to homeless services and supportive shelter, aligning with a services-first rather than enforcement-first approach, though his materials emphasize shelter provision over a specific Housing First policy. In his DC for Democracy questionnaire he noted he has 'operated homeless programs for over 40 years,' and argued 'the key to addressing homelessness is having effective drug treatment programs and mental health services with wrap around social services' — without which 'persons will become homeless even when placed into housing.'"
       sources:
         - url: https://terrylynchfordc.com/
           title: "Terry Lynch for DC Council — Campaign Website"
           publisher: "Terry Lynch Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: housing_topa_restore
+      stance: 2
+      quote: "I oppose the watering down of TOPA rights. I would restore those removed and especially close loopholes..."
+      explanation: "In his DC for Democracy questionnaire Lynch wrote: 'I oppose the watering down of TOPA rights. I would restore those removed and especially close loopholes that I believe will allow large Housing Trusts to snap up affordable housing in the Ward and give large real estate companies a controlling share of the affordable housing stock.' Unequivocal support for restoring and strengthening TOPA."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: housing_rent_stabilization
+      stance: 1
+      quote: "We also must strengthen rent control..."
+      explanation: "In his DC for Democracy questionnaire Lynch said 'we also must strengthen rent control and vigorously take on rat infestation / mold / safety issues forcing many residents out of their homes in the Ward.' Brief but clear support for strengthening rent stabilization."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      quote: "I would also speak out consistently against any MPD collaboration with ICE."
+      explanation: "In his DC for Democracy questionnaire Lynch wrote that he 'would speak out consistently against any MPD collaboration with ICE,' and that 'any time collaboration is suspected it needs to be investigated / highlighted and made public' — a role he calls critical for the Councilmember position. Unequivocally opposes MPD cooperation with ICE."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: crime_more_police
+      stance: 0
+      explanation: "Lynch's DC for Democracy questionnaire emphasizes effectiveness over headcount: he wants 'better police deployment and performance (such as visible foot patrols),' police who 'walk their beats to get to know and be friends / partners with residents,' and aggressive oversight of DPW and MPD, arguing that 'effective fulfillment of current jobs' would significantly reduce crime. He stresses existing agencies performing their duties (especially parking enforcement) rather than hiring significantly more officers; recorded as mixed."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: youth_curfew_programming
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Lynch 'strongly support[s] after school programs for arts, academics and athletics,' citing his record as a DC State Sports Commissioner and PTA officer who launched lacrosse, ultimate frisbee, and field hockey in DC schools. He frames youth programming and 'life skills garnered from team sporting activities' as central, aligning with pairing any enforcement with robust youth investment."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: sanitation_rats
+      stance: 1
+      quote: "...vigorously take on rat infestation / mold / safety issues forcing many residents out of their homes..."
+      explanation: "In his DC for Democracy questionnaire Lynch pledged to 'vigorously take on rat infestation / mold / safety issues forcing many residents out of their homes in the Ward.' A quality-of-life-focused 311 power-user, he supports aggressive action against the District's chronic rodent problem."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: childcare_universal
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Lynch said he 'support[s] working with stakeholders to identify funds for making child care more affordable for all.' Supportive of broad childcare affordability, though without specifying a universal subsidy structure."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      quote: "I support new taxes on the wealthiest corporations and individuals. I support increased taxes on properties that sit vacant and blighted often owned by deep pocketed interests."
+      explanation: "In his DC for Democracy questionnaire Lynch wrote: 'I support new taxes on the wealthiest corporations and individuals. I support increased taxes on properties that sit vacant and blighted often owned by deep pocketed interests.' Clear, affirmative support for raising taxes on the wealthy and large corporations."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "I support the will of the votes on I-82."
+      explanation: "In his DC for Democracy questionnaire Lynch stated 'I support the will of the vote[r]s on I-82' — backing the full minimum wage for tipped workers that DC voters approved, which the Council later capped. He also called the TANF cuts and elimination of Alliance health insurance 'disastrous' and said funding 'must be found' to continue them. Supportive of strengthening worker protections."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: education_mayoral_control
+      stance: -2
+      quote: "I support Mayoral control of the schools."
+      explanation: "Reverse-coded question (the statement favors ending mayoral control). In his DC for Democracy questionnaire Lynch explicitly 'support[s] Mayoral control of the schools,' arguing that under the prior elected School Board 'no one was ever responsible for missing supplies, falling down buildings and lacking programs,' whereas mayoral control creates 'a direct line of command' and accountability. As a former PTA officer he says he 'could never ever get that when there was a School Board.' Strongly opposes returning to an elected board."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Terry Lynch"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
 - id: aparna-raj
   name: "Aparna Raj"
@@ -826,12 +973,16 @@
     - question_id: fiscal_progressive_taxation
       stance: 2
       quote: "She’ll pay for free child care with taxes on big business and the ultrawealthy."
-      explanation: "Explicitly funds her universal childcare and affordable housing platforms with 'taxes on large corporations and the ultrawealthy,' framing progressive corporate taxation as the alternative to service cuts or income-tested subsidies."
+      explanation: "Explicitly funds her universal childcare and affordable housing platforms with 'taxes on large corporations and the ultrawealthy,' framing progressive corporate taxation as the alternative to service cuts or income-tested subsidies. In her DC for Democracy questionnaire she 'strongly support[s]' specific raisers: hiking the capital-gains rate and ending the stepped-up-basis loophole, a wealth tax on households with more than $30 million in assets, mark-to-market taxation, lowering the estate-tax exemption, and a Business Activity Tax on untaxed large firms (lobbying shops, law firms, consultancies) that 'a modest 2% BAT could raise up to $500 million each fiscal year.'"
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Aparna Raj"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: home_rule_dc_resist
       stance: 2
@@ -866,12 +1017,46 @@
     - question_id: homelessness_housing_first
       stance: 2
       quote: "The best way to reduce homelessness is to provide people in crisis with stable homes… Aparna will fight to expand housing vouchers to move people out of chronic homelessness…"
-      explanation: "Raj would end chronic homelessness by funding Permanent Supportive Housing, LRSP, and bridge housing, reforming Rapid Rehousing, and replacing lost federal vouchers with local dollars — while explicitly opposing 'Trump and Mayor Bowser's violent encampment evictions' and criminalization. Strongly supports a Housing First approach."
+      explanation: "Raj would end chronic homelessness by funding Permanent Supportive Housing, LRSP, and bridge housing, reforming Rapid Rehousing, and replacing lost federal vouchers with local dollars — while explicitly opposing 'Trump and Mayor Bowser's violent encampment evictions' and criminalization. Strongly supports a Housing First approach. Her DC for Democracy questionnaire adds a focus on the 120 people who died unhoused in 2024, fully funding ERAP (reversing FY26 cuts) and transitional housing for those awaiting voucher lease-up, and using oversight to hold DHS, DCHA, and DGS accountable for chronic voucher delays."
       sources:
         - url: https://aparnafordc.com/platform
           title: "Platform — Aparna Raj for DC Council"
           publisher: "Aparna Raj Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Aparna Raj"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: youth_curfew_support
+      stance: -2
+      quote: "I do not support youth curfews. There is no evidence that curfews reduce youth crime or victimization, and research consistently shows they're ineffective at achieving their stated goals."
+      explanation: "In her DC for Democracy questionnaire Raj wrote 'I do not support youth curfews,' arguing 'there is no evidence that curfews reduce youth crime or victimization' and that they risk 'criminalizing normal adolescent behavior, especially for Black and brown youth.' She would instead invest in fully funded schools, out-of-school-time programming, rec centers, free childcare, and a revitalized Marion Barry Summer Youth Employment Program. Strongly opposes youth curfews."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Aparna Raj"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: crime_secure_dc
+      stance: -2
+      quote: "I will fight to end pretrial detention, eliminate curfew zones, and expand after-school and third-space programs..."
+      explanation: "In her DC for Democracy questionnaire Raj pledged to 'fight to end pretrial detention' and 'eliminate curfew zones,' opposing the over-incarceration of youth and the punishment-first framework that the Secure DC omnibus expanded. She frames safety as flowing from guaranteed basic needs rather than expanded detention and new penalties — squarely against the Secure DC approach."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Aparna Raj"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: crime_more_police
+      stance: -1
+      quote: "We know that the root cause of harm and violence is poverty. The safest communities are the ones with the most resources."
+      explanation: "In her DC for Democracy questionnaire Raj argued 'the root cause of harm and violence is poverty' and that 'when we prioritize mass incarceration over prevention, we miss opportunities to keep people safe in the first place.' Rather than hiring more police, she prioritizes guaranteed basic needs, trained civilian/community responders for mental-health and substance-use crises (citing Denver and Oakland), fixing the 911 emergency-response system, and violence interruption. Deprioritizes expanding the police force."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Aparna Raj"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
 # Bio/positions below are quoted from Jackie's own English campaign site
 # (jackieforward1.com). Her Spanish site (jackieforward1.com/es) presents a few facts
@@ -988,21 +1173,29 @@
     - question_id: housing_rent_stabilization
       stance: 1
       quote: "Close the loopholes landlords use to skip DC’s rent stabilization rules. No more renovictions. No more bad-faith vacancy filings. Your rent is your rent."
-      explanation: "Pledges to close loopholes landlords use to circumvent rent stabilization — no renovictions, no bad-faith vacancy filings. Does not specifically call for expanding coverage to buildings built after 1975; her focus is strengthening enforcement of existing protections."
+      explanation: "Pledges to close loopholes landlords use to circumvent rent stabilization — no renovictions, no bad-faith vacancy filings. Does not specifically call for expanding coverage to buildings built after 1975; her focus is strengthening enforcement of existing protections. In her DC for Democracy questionnaire she added that she supports 'stronger tenant protections, full funding for legal services, enforcement against speculative practices, and public acquisition of housing when necessary,' plus community land trusts and protecting small buildings from predatory purchases."
       sources:
         - url: https://jackieforward1.com/#platform
           title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
           publisher: "Jackie Reyes Yanes Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: mpd_ice_cooperation
       stance: 1
-      explanation: "Her entire career has centered on protecting immigrant communities: she secured $10 million for DC's Immigration Justice Legal Services Grant Program, expanded STAY DC housing stability for immigrant families, and led multilingual vaccine outreach in hard-to-reach neighborhoods. Per The 51st, she is outspoken against MPD collaboration with ICE and federal immigration agents."
+      explanation: "Her entire career has centered on protecting immigrant communities: she secured $10 million for DC's Immigration Justice Legal Services Grant Program, expanded STAY DC housing stability for immigrant families, and led multilingual vaccine outreach in hard-to-reach neighborhoods. Per The 51st, she is outspoken against MPD collaboration with ICE and federal immigration agents. In her DC for Democracy questionnaire she wrote 'I oppose MPD cooperation with ICE and federal immigration enforcement,' saying 'local policing should focus on community safety, not civil immigration matters,' and pledged 'clear prohibitions, strong oversight, and accountability' — while framing it within DC's need to maintain working relationships with public-safety partners as the nation's capital."
       sources:
         - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
           title: "Meet the candidates running to represent Ward 1 — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: education_mental_health_schools
       stance: 1
@@ -1047,12 +1240,16 @@
     - question_id: childcare_universal
       stance: 2
       quote: "Affordable, high-quality child care for every Ward 1 child, regardless of family income. No waitlists. No exceptions."
-      explanation: "Calls for 'affordable, high-quality child care for every Ward 1 child, regardless of family income — no waitlists, no exceptions' from birth to 36 months. Includes educator salary supplements to at least $22/hour. Would expand subsidy eligibility to 150% AMI and build new childcare facilities in underutilized District-owned and private properties."
+      explanation: "Calls for 'affordable, high-quality child care for every Ward 1 child, regardless of family income — no waitlists, no exceptions' from birth to 36 months. Includes educator salary supplements to at least $22/hour. Would expand subsidy eligibility to 150% AMI and build new childcare facilities in underutilized District-owned and private properties. In her DC for Democracy questionnaire she named universal child care one of her top three priorities — 'essential infrastructure for working families' — pledging to expand the Pay Equity Fund, increase subsidized-care access, stabilize the workforce, and 'use the budget to make universal child care a reality, not just a talking point.'"
       sources:
         - url: https://jackieforward1.com/#platform
           title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
           publisher: "Jackie Reyes Yanes Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: childcare_birth_to_three
       stance: 2
@@ -1077,12 +1274,16 @@
     - question_id: youth_curfew_support
       stance: 1
       quote: "Unfortunately, at this moment, a curfew for youth under 18 is necessary to protect our communities and keep the District safe."
-      explanation: "Explicitly states: 'Unfortunately, at this moment, a curfew for youth under 18 is necessary to protect our communities and keep the District safe.' Frames it as a temporary protective measure paired with youth employment and programming investment."
+      explanation: "Explicitly states: 'Unfortunately, at this moment, a curfew for youth under 18 is necessary to protect our communities and keep the District safe.' Frames it as a temporary protective measure paired with youth employment and programming investment. Her DC for Democracy questionnaire is more qualified: 'If there is a specific and immediate threat to public safety, limited and targeted tools may be appropriate. However, I do not support broad or blanket youth curfews as a standing policy,' arguing they 'penalize young people without addressing the underlying causes.'"
       sources:
         - url: https://jackieforward1.com/#platform
           title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
           publisher: "Jackie Reyes Yanes Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: youth_curfew_programming
       stance: 2
@@ -1097,21 +1298,87 @@
     - question_id: fiscal_progressive_taxation
       stance: -1
       quote: "I am the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs."
-      explanation: "Headlines her platform 'NO MORE TAXES FOR OUR LOCAL BUSINESSES' and frames herself as 'the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs.' Prefers grant programs and economic activation over tax hikes, though her anti-tax focus is primarily directed at local businesses."
+      explanation: "Headlines her platform 'NO MORE TAXES FOR OUR LOCAL BUSINESSES' and frames herself as 'the only candidate focused on growing our economy without raising taxes, by investing in our local entrepreneurs.' Prefers grant programs and economic activation over tax hikes, though her anti-tax focus is primarily directed at local businesses. In her DC for Democracy questionnaire she reiterated that her 'priority is building a balanced DC budget that meets our needs without raising taxes on working families,' favoring 'improving oversight, closing loopholes, strengthening enforcement of existing tax laws, and ensuring large profitable corporations are paying what they already owe' over new taxes."
       sources:
         - url: https://jackieforward1.com/#platform
           title: "Policy Platform — Jackie Reyes Yanes for Ward 1"
           publisher: "Jackie Reyes Yanes Campaign"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: home_rule_dc_resist
       stance: 1
-      explanation: "Her career has centered on protecting DC's immigrant communities from federal harm — securing $10 million for the Immigration Justice Legal Services Grant Program and opposing MPD collaboration with federal immigration agents. She is protective of immigrant residents, but her platform focuses on service delivery and legal defense rather than a broader confrontational posture toward the White House."
+      explanation: "Her career has centered on protecting DC's immigrant communities from federal harm — securing $10 million for the Immigration Justice Legal Services Grant Program and opposing MPD collaboration with federal immigration agents. She is protective of immigrant residents, but her platform focuses on service delivery and legal defense rather than a broader confrontational posture toward the White House. In her DC for Democracy questionnaire she pledged to 'actively defend Home Rule by opposing congressional interference, supporting legal challenges when federal actions overstep,' and strengthening local laws on public safety, immigration, and public health — while stressing that defending Home Rule 'also means earning public trust at home.'"
       sources:
         - url: https://51st.news/ward-1-dc-council-primary-election-candidates-2026/
           title: "Meet the candidates running to represent Ward 1 — The 51st"
           publisher: "The 51st"
           accessed: 2026-05-27
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: housing_topa_restore
+      stance: -1
+      explanation: "Asked in her DC for Democracy questionnaire whether she supports the 2025 rollback of TOPA (ending it for 2–4 unit buildings), Reyes Yanes defended the change: 'As someone who has worked closely with both tenants and small property owners,' she noted that 'many owners of two to four unit buildings are longtime residents, not large investors,' and concluded 'I believe the Council has worked to strike a reasonable balance that supports responsible ownership, housing stability, and neighborhood affordability.' Supports the exemption rather than restoring TOPA — a contrast with most Ward 1 candidates."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: crime_public_health
+      stance: 2
+      quote: "True safety comes from policies that prevent harm before it happens, rather than expanding systems that have historically fueled racial inequity and trauma."
+      explanation: "In her DC for Democracy questionnaire Reyes Yanes wrote that community safety 'is not an either-or choice between enforcement and prevention,' and that 'true safety comes from policies that prevent harm before it happens.' She backs 'increased investment in violence interruption programs, mental health crisis response teams, youth programming, and housing as core public safety strategies' — a prevention- and public-health-first approach."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: crime_secure_dc
+      stance: -2
+      quote: "I oppose policies that rely on expanding pretrial detention or creating new crimes and harsher penalties."
+      explanation: "In her DC for Democracy questionnaire Reyes Yanes wrote: 'I oppose policies that rely on expanding pretrial detention or creating new crimes and harsher penalties,' arguing that 'sweeping more people into jail because they are poor or navigating mental health challenges' is counterproductive and that 'the certainty of timely, meaningful intervention is far more effective than the severity of punishment.' She also supports repassing the Revised Criminal Code Act. Strongly opposes the Secure DC approach."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: labor_worker_protections
+      stance: 1
+      quote: "I support honoring Initiative 82 while working closely with workers and owners on implementation, enforcement, and targeted relief for small businesses."
+      explanation: "In her DC for Democracy questionnaire Reyes Yanes said she 'respect[s] the will of voters and believe[s] tipped workers deserve stability,' supporting 'honoring Initiative 82' (the voter-approved full tipped minimum wage) while pairing it with implementation help and targeted relief for small restaurants. Supportive of the worker-protection direction with a small-business caveat."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: education_mayoral_control
+      stance: 1
+      quote: "...restoring meaningful authority to the State Board of Education."
+      explanation: "In her DC for Democracy questionnaire Reyes Yanes backed governance changes 'including restoring meaningful authority to the State Board of Education,' saying 'the school board must have real power to represent community priorities and provide independent accountability.' She would still keep an important role for the mayor and Council, favoring stronger checks and balances rather than a wholesale end to mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: environment_electricity_affordability
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Reyes Yanes said she 'support[s] the Healthy Homes Act and strongly oppose[s] raiding the Sustainable Energy Trust Fund,' pledging to 'protect and restore SETF funding so low income residents can transition to electric appliances without bearing the financial burden' — 'healthy homes should not be a luxury.' Supports action to lower residents' energy costs, framed through electrification assistance rather than utility rate fights."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Jackie Reyes Yanes"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
 - id: miguel-trindade-deramo
   name: "Miguel Trindade Deramo"
@@ -1446,19 +1713,55 @@
     - question_id: labor_worker_protections
       stance: 1
       quote: "Ensuring fair and livable wages is essential to supporting DC workers amid an affordability crisis. In doing so, we must be thoughtful about increasing wages in a way that does not unintentionally disrupt our local economy…"
-      explanation: "Trindade Deramo supports better worker protections and a higher minimum wage (and has used his ANC role for worker-safety oversight), but favors a gradual, tiered, Seattle-style implementation negotiated with labor and business to avoid job losses. Supports stronger protections with a cautious approach to wage mandates."
+      explanation: "Trindade Deramo supports better worker protections and a higher minimum wage (and has used his ANC role for worker-safety oversight), but favors a gradual, tiered, Seattle-style implementation negotiated with labor and business to avoid job losses. Supports stronger protections with a cautious approach to wage mandates. As lead organizer for Initiative 83, his DC for Democracy questionnaire stresses that he 'do[es] not believe in overturning ballot measures' like Initiative 82, faulting the Council for a poor, reactive rollout rather than 'getting the implementation right' and exploring 'complementary protections for service workers' — 'progressivism depends on successful implementation.'"
       sources:
         - url: https://miguelward1.com/
           title: "Provide Better Worker Protections — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Miguel Trindade Deramo"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: homelessness_housing_first
       stance: 2
       quote: "Miguel will support a more effective, data-driven 'housing first' approach with no preconditions to accessing housing."
-      explanation: "Trindade Deramo frames homelessness as 'a housing issue,' explicitly backing a Housing First approach with no preconditions, more permanent supportive housing, and a shift away from congregate shelters — and condemning 'the thoughtless clearing of encampments.' Strongly supports."
+      explanation: "Trindade Deramo frames homelessness as 'a housing issue,' explicitly backing a Housing First approach with no preconditions, more permanent supportive housing, and a shift away from congregate shelters — and condemning 'the thoughtless clearing of encampments.' Strongly supports. His DC for Democracy questionnaire adds praise for DC's data-driven continuum — robust outreach, low-barrier shelters, non-congregate transitional housing with supportive services — citing the Terrell family shelter in his own SMD as a model, and a focus on the 'lease-up' bottleneck, with the Greater Washington Community Foundation strategies incorporated into a forthcoming Homeward DC 3.0."
       sources:
         - url: https://miguelward1.com/
           title: "Homelessness Is a Housing Issue — Miguel for Ward 1"
           publisher: "Miguel Trindade Deramo Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Miguel Trindade Deramo"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      quote: "Yes, I support changes to ensure that wealth is taxed properly and progressively in the District."
+      explanation: "In his DC for Democracy questionnaire Trindade Deramo wrote 'Yes, I support changes to ensure that wealth is taxed properly and progressively in the District,' backing the tiered 'mansion' property tax (noting DC has the region's lowest property taxes), lowering the estate-tax exemption and decoupling from the federal stepped-up basis, a split-rate property tax to capture revenue and spur productive land use, and reauthorizing the Tax Revision Commission to advance ideas like a Business Activity Tax — while opposing regressive moves like the coming sales-tax increase."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Miguel Trindade Deramo"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: education_mayoral_control
+      stance: 0
+      explanation: "In his DC for Democracy questionnaire Trindade Deramo said he is 'always in favor of increasing popular voice in governance' and that the current system 'frustrates parents and communities through a felt lack of accountability' — but cautioned that 'the research literature is dubious that control by elected school boards necessarily produces better outcomes.' He would support greater OSSE independence or expanded State Board authority only if it demonstrably improves the District's 'ability to serve students and to hold schools accountable.' Conditional and outcome-driven rather than a clear call to end mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Miguel Trindade Deramo"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: crime_more_police
+      stance: 0
+      explanation: "In his DC for Democracy questionnaire Trindade Deramo emphasized addressing 'all of the factors that drive crime' — restoring violence-interruption funding and reviving the NEAR Act's community-policing framework and Police Reform Commission proposals — rather than expanding the force. He wants MPD adequately resourced to do its job and to repair community trust after the federal intervention, but notes that 'large (preventive) MPD presence... projects an image of general insecurity,' favoring community policing and reform over a headcount increase. Recorded as mixed."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Miguel Trindade Deramo"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
