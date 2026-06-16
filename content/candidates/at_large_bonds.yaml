@@ -81,12 +81,16 @@
 
     - question_id: mpd_ice_cooperation
       stance: 1
-      explanation: "Platform commits to protecting civil rights of Latino and immigrant communities, keeping families together, and ensuring access to legal representation. Does not explicitly pledge to stop MPD/ICE cooperation but frames immigrant protection as a civil rights priority."
+      explanation: "Platform commits to protecting civil rights of Latino and immigrant communities, keeping families together, and ensuring access to legal representation. Does not explicitly pledge to stop MPD/ICE cooperation but frames immigrant protection as a civil rights priority. In his DC for Democracy questionnaire he is most focused on 'a bill that mandates [federal] agents display visible identification and wear and activate body cameras,' noting that 'a local government cannot pass a law that impacts ICE' and that DC 'must be willing to have productive conversations with the federal government regarding ICE's operations' — a more limited posture than ending cooperation outright."
       sources:
         - url: https://www.chavousfordc.com/
           title: "Kevin Chavous for DC Council — Campaign Website"
           publisher: "Kevin Chavous Campaign"
           accessed: 2026-05-29
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_public_health
       stance: 1
@@ -138,12 +142,16 @@
     - question_id: labor_worker_protections
       stance: 1
       quote: "Protect workers by enforcing wage, safety, and labor standards and holding bad actors accountable."
-      explanation: "Chavous's workforce platform pledges to protect workers by enforcing wage, safety, and labor standards and to strengthen First Source and local hiring requirements. Supports worker protections, with an emphasis on enforcement of existing standards."
+      explanation: "Chavous's workforce platform pledges to protect workers by enforcing wage, safety, and labor standards and to strengthen First Source and local hiring requirements. Supports worker protections, with an emphasis on enforcement of existing standards. On Initiative 82, his DC for Democracy questionnaire backs 'the will of the voters' and pledges to use his At-Large oversight role 'so tipped workers receive the wages they are owed.'"
       sources:
         - url: https://www.chavousfordc.com/
           title: "Workforce & Economic Opportunity — Kevin Chavous for DC Council"
           publisher: "Kevin Chavous Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: homelessness_housing_first
       stance: 2
@@ -154,6 +162,91 @@
           title: "Affordable Housing — Kevin Chavous for DC Council"
           publisher: "Kevin Chavous Campaign"
           accessed: 2026-06-04
+
+    - question_id: housing_topa_restore
+      stance: 0
+      explanation: "In his DC for Democracy questionnaire Chavous calls TOPA most effective 'when applied to large multifamily complexes,' but on 2–4-unit buildings says the question is 'difficult' because the owners are largely 'regular homeowners who may also occupy one of the units,' and DC should not 'disincentivize regular people from putting their units on the market.' Mixed: backs TOPA for larger buildings, wary of restoring it for small ones."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_production_trust_fund
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Chavous backs building on existing tools 'such as the Home Purchase Assistance Program, Inclusionary Zoning, and affordable projects financed using the Housing Production Trust Fund,' and would expand the affordable stock so residents aren't priced out."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_upzoning
+      stance: 2
+      quote: "Update residential zoning laws in the District to encourage multifamily housing construction all over the city to make up for decades of housing decay and slow growth."
+      explanation: "In his DC for Democracy questionnaire Chavous calls to update residential zoning citywide to encourage multifamily construction, incentivize 'pop-up' added levels on rowhomes and Accessory Dwelling Units, and convert vacant commercial buildings to residential. Strongly pro-supply."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_support
+      stance: -1
+      quote: "I don't support criminalizing minors for being out late at night."
+      explanation: "In his DC for Democracy questionnaire Chavous says 'as a parent, it starts at home,' that he doesn't 'support criminalizing minors for being out late at night,' and that it should not be a police officer's role to disperse gathering minors. Leans against curfew enforcement."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      quote: "I want more open safe spaces for youth by investing in centers where kids can be kids."
+      explanation: "In his DC for Democracy questionnaire Chavous calls for 'more open safe spaces for youth by investing in centers where kids can be kids,' with games, exercise, food, and community service especially on weekends — programming as the alternative to curfew enforcement."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_universal
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Chavous calls fully funding the Childcare Pay Equity Fund — about $70M and 'significantly underresourced' — a Council priority and would pursue 'creative and responsible revenue strategies to expand the fund,' including a share of any unexpected CFO-projected revenue. Supports expanding subsidized childcare and educator pay, not framed as a universal-regardless-of-income program."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      quote: "I would commit to raising the income tax on capital gains income in staggered increments for residents with an adjusted gross income in the high six figures and beyond."
+      explanation: "In his DC for Democracy questionnaire Chavous commits to raising the capital-gains income tax in staggered increments on high-six-figure-and-above earners and to lowering the estate-tax threshold, framing it as a District 'where success is earned through hard work, not simply inherited.' Strongly supports progressive taxation."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "In his DC for Democracy questionnaire Chavous supports the Healthy Homes Act, will 'not support raids on the Sustainable Energy Trust Fund' and would advocate full restoration if raided, and backs prohibiting new fossil-fuel furnaces and water heaters in new construction and — with a just-transition plan — in replacements. Strongly supports the clean-energy transition."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: 0
+      explanation: "In his DC for Democracy questionnaire Chavous says 'mayoral control offers clear accountability' but has 'diminished a truly democratic voice in education'; rather than returning to an elected board (which he says 'did not lead to improvements'), he would empower parents and PTAs and create a standalone Council education committee. Mixed: keeps mayoral control while seeking more democratic voice."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Kevin Chavous"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: dwight-davis
   name: "Dwight Davis"
@@ -232,12 +325,16 @@
 
     - question_id: crime_public_health
       stance: 1
-      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis answered the youth-violence question by emphasizing intervening 'before their actions escalate' — starting with listening to young people to understand the root cause, and ensuring programming follows students from elementary through high school rather than disappearing in the middle-school years. A prevention- and root-cause-focused, community-based approach."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Davis answered the youth-violence question by emphasizing intervening 'before their actions escalate' — starting with listening to young people to understand the root cause, and ensuring programming follows students from elementary through high school rather than disappearing in the middle-school years. A prevention- and root-cause-focused, community-based approach. His DC for Democracy questionnaire frames a 'balanced public safety approach' — well-trained policing paired with community-based violence prevention, survivor services, and non-police crisis response — citing Baltimore's data-driven violence reduction under Mayor Brandon Scott as the model."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_police_in_schools
       stance: 2
@@ -286,6 +383,123 @@
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
 
+    - question_id: housing_production_trust_fund
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis supports 'sustained investment in deeply affordable housing — particularly units serving households earning 30%–50% of Area Median Income — through tools like the Housing Production Trust Fund,' while warning that financing gaps and HPAP bureaucracy can keep paper-affordable housing inaccessible, and stressing preservation of naturally affordable units owned by small landlords."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_topa_restore
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis would 'support restoring and reimagining TOPA protections for 2–4 unit buildings' in a way that balances tenant stability and landlord rights — for example, requiring investors who buy small buildings to provide relocation support (a year of rent assistance plus moving costs) when tenants cannot exercise a purchase right. Supports restoring small-building TOPA, in a modified form."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: homelessness_housing_first
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis backs a 'prevention-first approach,' proposing a 'housing stability early warning system' to intervene before eviction, expanding permanent supportive housing for individuals with complex needs, and shortening shelter stays. A prevention- and services-oriented approach."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: crime_more_police
+      stance: 0
+      explanation: "In his DC for Democracy questionnaire Davis supports 'effective, well-trained policing as part of a broader ecosystem of prevention,' but stresses that 'increasing arrests or police presence alone does not make communities safe.' Mixed: backs a capable police force without prioritizing a large net increase in officers."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_support
+      stance: -1
+      explanation: "In his DC for Democracy questionnaire Davis says 'I do not believe youth curfews are the most effective or sustainable way to address large gatherings,' arguing they 'criminalize normal adolescent behavior without offering meaningful alternatives.' Leans against curfews."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "In his DC for Democracy questionnaire Davis would prioritize 'extended recreation center hours, sports and arts programming, youth employment opportunities, and community-based mentorship,' staffed by trusted adults trained in de-escalation — citing Baltimore's late-night recreation and youth-employment investments as the model over curfews."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mental_health_schools
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis would 'lower barriers to mental health services by expanding school-based and community-based supports, including culturally responsive care' as part of his youth-safety commitments. Supports school-based behavioral health, though not framed as a clinician-in-every-school mandate."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: mpd_ice_cooperation
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis says 'MPD's role is to enforce DC law and keep residents safe — not to engage in civil immigration enforcement,' and supports 'stronger oversight, clearer policies, and transparency' so any cooperation is 'limited, lawful, and focused strictly on serious public safety concerns,' not civil immigration status. Supports limiting MPD/ICE cooperation, with narrow exceptions for serious criminal matters."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis supports the Healthy Homes Act and moving away from fossil-fuel furnaces and water heaters, and would protect the Sustainable Energy Trust Fund from raids — but heavily conditions the transition on affordability, favoring a 'phased, data-driven implementation' with rebates and financing and supporting a fossil-fuel-installation ban 'only alongside strong affordability protections.' Supports the clean-energy transition, qualified by equity/cost concerns."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: fiscal_progressive_taxation
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis is 'open to targeted tax increases on highly profitable corporations and extreme concentrations of wealth, but only when paired with clear guardrails, transparency, and measurable outcomes,' and argues the District 'must demonstrate strong fiscal stewardship' — auditing programs and closing inefficiencies — before raising taxes. Qualified support for progressive revenue."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: labor_worker_protections
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis says 'I do not support the Council's rollback of that voter-approved wage increase' (Initiative 82), arguing tipped workers deserve wage structures reflecting the cost of living, and would pair wage increases with small-business support like technical assistance and targeted tax incentives. Supports worker protections, balanced with small-business support."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_universal
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Davis 'strongly support[s] the Childcare Pay Equity Fund' and would 'expand access to subsidized child care by increasing eligibility, simplifying enrollment,' treating child care as 'essential infrastructure.' Supports expanding subsidized childcare and educator pay, not framed as a universal-regardless-of-income program."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: -1
+      explanation: "In his DC for Democracy questionnaire Davis — a former classroom teacher and principal — says 'I do not agree with the premise that Mayoral Control, in and of itself, has eroded democratic voice,' crediting the unified structure with providing stability; he would strengthen democratic participation 'within our current governance framework' rather than ending mayoral control. Leans against the question's call to end mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dwight Davis"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
 - id: dyana-forester
   name: "Dyana Forester"
   election_slug: at_large_bonds
@@ -320,8 +534,8 @@
       accessed: 2026-05-27
   positions:
     - question_id: housing_production_trust_fund
-      stance: 1
-      explanation: "Former DC Housing Authority commissioner; wants to increase investment in affordable housing and workforce housing. Skeptical of fast-build-first approaches; focuses on what families can actually afford. At the April 28, 2026 Fair Elections Program At-Large debate she said she will 'always prioritize affordability,' recounting that on the DCHA board she and another commissioner voted against a project when developers asked the board to lower its deep-affordability requirement, because that public land 'belongs to the public housing residents of the District of Columbia.'"
+      stance: 2
+      explanation: "Former DC Housing Authority commissioner; wants to increase investment in affordable housing and workforce housing. Skeptical of fast-build-first approaches; focuses on what families can actually afford. At the April 28, 2026 Fair Elections Program At-Large debate she said she will 'always prioritize affordability,' recounting that on the DCHA board she and another commissioner voted against a project when developers asked the board to lower its deep-affordability requirement, because that public land 'belongs to the public housing residents of the District of Columbia.' Her DC for Democracy questionnaire calls the HPTF 'one of the District's most important tools' and pledges to 'advocate for sustained and increased funding for the HPTF, tighter alignment between funding decisions and deeply affordable housing goals, and real accountability' — while faulting the elimination of DCHA's community board seats. Strongly supports increasing the fund."
       sources:
         - url: https://51st.news/at-large-candidates-dc-council-anita-bonds/
           title: "Meet the candidates for an At-Large seat on the DC Council — The 51st"
@@ -331,6 +545,10 @@
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -346,13 +564,17 @@
           accessed: 2026-06-03
 
     - question_id: fiscal_progressive_taxation
-      stance: 1
-      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate, asked what she would cut, Forester said DC should 'cut tax loopholes for corporations that have come to DC and not been accountable to the District of Columbia and that are taking our money' — closing corporate tax breaks to recapture revenue, consistent with a progressive-revenue posture."
+      stance: 2
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate, asked what she would cut, Forester said DC should 'cut tax loopholes for corporations that have come to DC and not been accountable to the District of Columbia and that are taking our money' — closing corporate tax breaks to recapture revenue, consistent with a progressive-revenue posture. In her DC for Democracy questionnaire she says 'I have long supported a just recovery,' citing her work with Save Our Safenet and other budget coalitions to 'ensure that our city increases taxes on the highest income earners and large corporations to fund critical services.' Strongly supports."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_public_health
       stance: 1
@@ -383,12 +605,16 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
-      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester said a core reason she is running is that DC's leaders — the Attorney General, Mayor, and Council — have not 'united together to push back against the administration and the attacks' and have not 'worked strategically.' A longtime statehood activist who says she 'got locked up fighting for statehood,' she calls for proactive, coordinated resistance rather than waiting — an assertive posture."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Forester said a core reason she is running is that DC's leaders — the Attorney General, Mayor, and Council — have not 'united together to push back against the administration and the attacks' and have not 'worked strategically.' A longtime statehood activist who says she 'got locked up fighting for statehood,' she calls for proactive, coordinated resistance rather than waiting — an assertive posture. Her DC for Democracy questionnaire adds tapping DC's residents-with-out-of-state-roots to build a national statehood movement, legislating strategically to protect safety-net programs and immigrant communities, and stronger coordination with the Attorney General to challenge unlawful federal actions."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: transit_metro_funding
       stance: 0
@@ -421,12 +647,98 @@
     - question_id: labor_worker_protections
       stance: 2
       quote: "[Dyana] played key roles in major citywide initiatives, including DC's Minimum Wage Increase and Paid Family and Medical Leave."
-      explanation: "As president of the Metro Washington Labor Council, Forester helped lead DC's minimum-wage increase and Paid Family and Medical Leave campaigns and has built her career raising wages and protecting workers. A signature priority — strongly supports."
+      explanation: "As president of the Metro Washington Labor Council, Forester helped lead DC's minimum-wage increase and Paid Family and Medical Leave campaigns and has built her career raising wages and protecting workers. A signature priority — strongly supports. On Initiative 82, her DC for Democracy questionnaire says the Council's vote to overturn the wage increase 'lacked sufficient evidence' that it caused business closures, and that DC should address small-business barriers while moving forward with legislation that helps employers 'pay fair wages while remaining sustainable.'"
       sources:
         - url: https://www.dyanafordc.com/
           title: "About / Proven Results — Dyana Forester for DC Council"
           publisher: "Dyana Forester Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_topa_restore
+      stance: 2
+      quote: "No, I do not support broad exemptions that strip TOPA rights from tens of thousands of tenants, as proposed in the RENTAL Act."
+      explanation: "In her DC for Democracy questionnaire Forester flatly opposes the 2025 TOPA rollback — 'I do not support broad exemptions that strip TOPA rights from tens of thousands of tenants, as proposed in the RENTAL Act' — faulting the Council for acting without sufficient data or community input. Strongly pro-TOPA."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Forester says MPD cooperation with ICE 'is not only against our values as a sanctuary community, it is also a drain on District resources,' calling it 'deeply concerning' that it is done voluntarily; she would recommit to community-centered policing and recruit officers from DC who protect all residents 'regardless of immigration status.' Strongly opposes MPD/ICE cooperation."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_support
+      stance: -2
+      explanation: "In her DC for Democracy questionnaire Forester says 'research has shown that youth curfews do not prevent crime and often create unintended harm,' and — as the mother of a 17-year-old who works late — warns curfews 'can criminalize young people who are doing the right thing.' Strongly opposes youth curfews."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Forester favors investing in 'real public safety solutions' over curfews, and her priorities include championing out-of-school-time programs, mentorship, and apprenticeship opportunities that 'give young people real pathways to success.' Strongly supports youth programming alternatives."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Forester's first priority is that every child has access to high-quality education starting with 'supporting universal childcare and expanding access to Pre-K 3,' and she pledges to advocate for increased childcare funding and champion the Birth-to-Three Coalition. Strongly supports expanding subsidized/universal childcare."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_birth_to_three
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Forester pledges to use her platform and lived experience to advocate for increased childcare funding 'while also supporting and championing the efforts of the Birth-to-Three Coalition,' alongside her call for universal childcare and expanded Pre-K 3. Strongly supports infant-and-toddler care investment."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Forester answers 'yes' to prohibiting future fossil-fuel furnace and water-heater installations, and frames the SETF/Healthy Homes transition around protecting the 'hundreds of unionized Teamsters' tied to the current system through a 'clear, well-funded strategy to retrain and reemploy' them. Strongly supports the clean-energy transition, paired with a just transition for workers."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: homelessness_housing_first
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Forester would push for 'stronger coordination and streamlined assistance across DHS, DCHA, and DHCD to create a centralized, real-time housing placement and support system,' expand and stabilize rent-supplement and homelessness-prevention resources, and fully fund legal services and tenant assistance. A services- and prevention-oriented approach."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Forester would 'advocate for the Council to reinstate a dedicated Education Committee to ensure ongoing oversight' and consistent accountability for schools. Leans toward stronger democratic oversight of education, via a standalone committee rather than an explicit end to mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Dyana Forester"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: fred-hill
   name: "Fred Hill"
@@ -666,7 +978,7 @@
 
     - question_id: crime_more_police
       stance: 0
-      explanation: "Does not call for simply hiring more MPD officers. His gun violence platform emphasizes Crime Gun Intelligence, a Regional Gun Trafficking Initiative with VA and MD, and investigative tools — explicitly stating 'not just patrol or surveillance.' He favors targeted law enforcement strategies over across-the-board hiring. At the April 28, 2026 Fair Elections Program At-Large debate he affirmed 'law enforcement is a big part of how we address these crises' and pressed a rival on a proposed 50% police cut — signaling he opposes deep cuts while not prioritizing mass hiring either."
+      explanation: "Does not call for simply hiring more MPD officers. His gun violence platform emphasizes Crime Gun Intelligence, a Regional Gun Trafficking Initiative with VA and MD, and investigative tools — explicitly stating 'not just patrol or surveillance.' He favors targeted law enforcement strategies over across-the-board hiring. At the April 28, 2026 Fair Elections Program At-Large debate he affirmed 'law enforcement is a big part of how we address these crises' and pressed a rival on a proposed 50% police cut — signaling he opposes deep cuts while not prioritizing mass hiring either. His DC for Democracy questionnaire reiterates support for 'a strong, well-trained Metropolitan Police Department that focuses on serious and violent crime, improves clearance rates, and strengthens community trust' — backing a capable force without a specific hiring-numbers push."
       sources:
         - url: https://www.jacksonfordc.com/
           title: "Greg Jackson for DC Council — Campaign Website"
@@ -676,6 +988,10 @@
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: education_community_schools
       stance: 2
@@ -744,12 +1060,16 @@
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "Power respects power, not pity."
-      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jackson argued 'power respects power, not pity,' citing being called to testify before Congress four times, his bipartisan relationships, and having passed a bipartisan law Trump tried to repeal. He would 'build a bridge between council and Congress … an actual council that has relationships that can fight, protect, and defend our rights' — an assertive defense pursued through coalitions and federal relationships rather than litigation/refusal alone."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jackson argued 'power respects power, not pity,' citing being called to testify before Congress four times, his bipartisan relationships, and having passed a bipartisan law Trump tried to repeal. He would 'build a bridge between council and Congress … an actual council that has relationships that can fight, protect, and defend our rights' — an assertive defense pursued through coalitions and federal relationships rather than litigation/refusal alone. His DC for Democracy questionnaire details a four-part strategy: challenging unlawful federal interference 'through litigation when appropriate' with the Mayor and Attorney General, building bipartisan congressional coalitions, partnering with other cities facing preemption, and strengthening DC's fiscal reserves against budget disruption."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: crime_police_in_schools
       stance: 1
@@ -802,12 +1122,106 @@
     - question_id: labor_worker_protections
       stance: 1
       quote: "I will focus on protecting Paid Family Leave, the Early Childhood Educator Pay Equity Fund, Universal Pre-K…"
-      explanation: "Jackson pledges to protect Paid Family Leave and the Early Childhood Educator Pay Equity Fund and to strengthen workforce pipelines. Supports maintaining and protecting worker protections, with less emphasis on expanding mandates."
+      explanation: "Jackson pledges to protect Paid Family Leave and the Early Childhood Educator Pay Equity Fund and to strengthen workforce pipelines. Supports maintaining and protecting worker protections, with less emphasis on expanding mandates. On Initiative 82, his DC for Democracy questionnaire says 'I supported the Council's decision to cap the tipped wage at 75% of the full minimum wage' to balance worker protections with the survival of small restaurants (citing roughly 45% of DC restaurants closing in 2025), prioritizing 'protecting workers and preserving jobs' — a notably more business-protective tipped-wage stance than most in the field."
       sources:
         - url: https://www.jacksonfordc.com/
           title: "Affordability and Jobs — Greg Jackson for DC Council"
           publisher: "Greg Jackson Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "In his DC for Democracy questionnaire Jackson would 'fully fund and strengthen oversight of the Housing Production Trust Fund to prioritize deeply affordable units for residents earning the lowest incomes,' ensuring projects are delivered on time and targeted to communities most at risk of displacement. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_topa_restore
+      stance: 0
+      explanation: "Jackson's DC for Democracy questionnaire is split: he lists 'expanding TOPA' among preservation tools, but on the specific 2025 rollback he writes 'I support the Council's decision to scale back TOPA requirements for smaller 2–4 unit properties,' arguing the full process burdens 'mom and pop' landlords, while insisting TOPA 'should remain a strong and enforceable tool' for larger multifamily buildings. Mixed: backs TOPA for large buildings, supports the small-building rollback."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_rent_stabilization
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Jackson names 'strengthening rent stabilization' among his core preservation tools, alongside expanding tenant legal assistance and acquisition funds to preserve naturally occurring affordable housing. Supportive, though he does not specifically detail expanding coverage to post-1975 buildings."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_upzoning
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Jackson supports 'zoning reforms near transit, faster permitting' to increase housing supply while protecting longtime residents. Supportive of zoning reform to expand supply."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: homelessness_housing_first
+      stance: 2
+      explanation: "In his DC for Democracy questionnaire Jackson calls for 'a housing first approach paired with strong prevention,' scaling permanent supportive housing with wraparound services, expanding emergency rental assistance and eviction-prevention with legal representation, and requiring clear benchmarks for reducing unsheltered homelessness. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "In his DC for Democracy questionnaire Jackson says 'local law enforcement should focus on local public safety, not federal civil immigration enforcement,' and would 'reaffirm and clarify DC's policies to ensure MPD does not participate in civil immigration enforcement or routine cooperation with ICE beyond what is legally required.' Strongly supports limiting MPD/ICE cooperation."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_support
+      stance: 0
+      explanation: "In his DC for Democracy questionnaire Jackson says 'youth curfews can be a limited tool in specific circumstances, but they are not a comprehensive public safety strategy,' and 'should be used narrowly, temporarily, and in response to clearly defined public safety risks — not as a substitute for deeper investments.' Mixed: open to narrow, temporary curfews but skeptical of them as a strategy."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: fiscal_progressive_taxation
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Jackson is 'open to adding additional high-income tax brackets for top earners, particularly for households making well above $500,000,' and supports strengthening estate-tax equity and 'evaluating targeted surcharges on extreme wealth, while carefully assessing competitiveness and revenue stability.' Qualified support for progressive taxation (he separately opposes a new business-activity tax)."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Jackson supports the goals of the Healthy Homes Act, protecting the integrity of the Sustainable Energy Trust Fund, and 'the District's long-term goal of transitioning away from fossil fuels in buildings,' but stresses the transition 'must be phased, equitable, and practical.' Supports the clean-energy transition, with a phased/equity emphasis."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: -1
+      explanation: "In his DC for Democracy questionnaire Jackson says 'I believe in clear, centralized accountability under the Mayor for our public education system,' arguing mayoral control 'provides a single point of responsibility,' while pairing it with stronger community engagement. Leans against the question's call to end mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Greg Jackson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: leniquadominique-jenkins
   name: "Leniqua'dominique Jenkins"
@@ -888,13 +1302,17 @@
           accessed: 2026-05-29
 
     - question_id: youth_curfew_support
-      stance: -1
-      explanation: "Opposes targeted youth curfews, calling the approach 'punitive.' Favors literacy, civic engagement, community investment, and mental health care as the path to youth safety — not enforcement restrictions."
+      stance: -2
+      explanation: "Opposes targeted youth curfews, calling the approach 'punitive.' Favors literacy, civic engagement, community investment, and mental health care as the path to youth safety — not enforcement restrictions. Her DC for Democracy questionnaire is emphatic: 'I do not support imposing curfews on youth as a primary strategy,' arguing curfews 'criminalize young people for simply being visible in their own communities and disproportionately impact Black and brown youth.' Strongly opposes."
       sources:
         - url: https://www.washingtoninformer.com/youth-engagement-education-policy/
           title: "Youth Engagement, Education Policy — Washington Informer"
           publisher: "Washington Informer"
           accessed: 2026-05-29
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: youth_curfew_programming
       stance: 2
@@ -908,12 +1326,16 @@
     - question_id: housing_topa_restore
       stance: 2
       quote: "I would definitely cut the red tape and expand TOPA legislation that I've actually benefited from."
-      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins recounted being wrongfully evicted around 2010, displacing three generations of her family, and said she would 'prioritize deeply affordable housing,' 'cut the red tape and expand TOPA legislation that I've actually benefited from,' and extend it with property-tax relief for seniors. A strong, personally grounded commitment to strengthening TOPA."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Jenkins recounted being wrongfully evicted around 2010, displacing three generations of her family, and said she would 'prioritize deeply affordable housing,' 'cut the red tape and expand TOPA legislation that I've actually benefited from,' and extend it with property-tax relief for seniors. A strong, personally grounded commitment to strengthening TOPA. Her DC for Democracy questionnaire reiterates that she does 'not support the rollback,' citing her own wrongful eviction, and would 'restore TOPA rights for tenants in two to four unit buildings,' protect the right to assign to nonprofit or mission-driven developers, and improve enforcement and tenant education."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: econ_small_business_tax_relief
       stance: 1
@@ -973,24 +1395,131 @@
           accessed: 2026-06-03
 
     - question_id: labor_worker_protections
-      stance: 1
+      stance: 2
       quote: "I will work with D.C. employers to adopt caregiver-friendly policies such as flexible scheduling, telework options, and paid family leave…"
-      explanation: "Jenkins champions paid family leave, fair pay for home health and care workers, and investment in the care economy, framing strong worker protections as central to supporting caregivers and families. Supportive."
+      explanation: "Jenkins champions paid family leave, fair pay for home health and care workers, and investment in the care economy, framing strong worker protections as central to supporting caregivers and families. On Initiative 82, her DC for Democracy questionnaire is emphatic — 'I do not support capping the tipped minimum wage at 75 percent' — and she would 'fully implement Initiative 82 as voters intended, without delays or caps,' restore the full-minimum-wage timeline, and fund the Office of Wage Hour Compliance to fight wage theft. Strongly supports expanding worker protections."
       sources:
         - url: https://www.votejenkinsfordc.com/
           title: "Supporting Caregivers, Strengthening D.C. Families — Leniqua'dominique Jenkins for DC Council"
           publisher: "Leniqua'dominique Jenkins Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: homelessness_housing_first
-      stance: 1
-      quote: "I will also invest in affordable housing development, protect tenants from unfair practices, and strengthen homelessness-prevention efforts."
-      explanation: "Jenkins's housing platform commits to strengthening homelessness-prevention efforts alongside tenant protections and affordable-housing development. Supportive of a prevention- and services-oriented approach, though stated briefly."
+      stance: 2
+      quote: "I support a Housing First approach that prioritizes rapid access to permanent, deeply affordable housing with supportive services."
+      explanation: "Jenkins's housing platform commits to strengthening homelessness-prevention efforts alongside tenant protections and affordable-housing development. In her DC for Democracy questionnaire she explicitly backs 'a Housing First approach,' significantly expanding permanent supportive housing for chronic homelessness, fully funding rental assistance, ending 'unsafe or dehumanizing shelter models' in favor of non-congregate community-based housing, and expanding eviction prevention and right to counsel. Strongly supports."
       sources:
         - url: https://www.votejenkinsfordc.com/
           title: "Housing with Dignity — Leniqua'dominique Jenkins for DC Council"
           publisher: "Leniqua'dominique Jenkins Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: home_rule_dc_resist
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins would use the At-Large platform to 'consistently and publicly defend DC's authority to govern itself,' opposing local actions that 'unnecessarily invite federal intervention,' working with the Attorney General 'when legal challenges are necessary to protect local laws from congressional override,' and building broad coalitions plus engaging national partners 'so federal interference is met with organized resistance.' An assertive home-rule posture."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_production_trust_fund
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins supports 'increased and better targeted funding for the Housing Production Trust Fund, with clear requirements that dollars serve residents earning the lowest incomes,' and holding DHCD accountable for timely delivery of deeply affordable units. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_rent_stabilization
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins supports 'strengthening and expanding rent control, including through the goals of the Reclaim Rent Control coalition' — closing loopholes that allow increases through renovations or vacancy, expanding coverage to more buildings, and enforcing protections so tenants can stay. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: housing_social_model
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins supports 'the Green New Deal for Housing approach,' including 'investing in publicly owned, permanently affordable, energy efficient housing that creates good union jobs,' as well as cooperative ownership models. Strongly supports social housing."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins would 'end MPD's operational collaboration with ICE and other federal immigration enforcement agencies,' backing legislation to prohibit sharing sensitive information, holding individuals for federal authorities, or participating in enforcement, and strengthening sanctuary protections. Strongly opposes MPD/ICE cooperation."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: crime_more_police
+      stance: -1
+      explanation: "In her DC for Democracy questionnaire Jenkins says 'policing must be reformed and right sized,' backing the DC Justice Lab and Police Reform Commission priorities, and would 'examine MPD spending, limit overtime abuse, and redirect resources toward prevention and crisis response, including non police mental health responders.' Leans against expanding the police force."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_universal
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins would treat child care 'as essential public infrastructure,' fully funding and expanding the Childcare Pay Equity Fund and expanding subsidized child care by 'increasing eligibility, reducing waitlists, and simplifying enrollment,' plus expanding the supply of slots in underserved neighborhoods. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins 'strongly support[s] increasing taxes on households with high incomes and tremendous wealth, as well as on highly profitable corporations,' backing a restored/expanded progressive income tax, a wealth tax on multi-million-dollar estates, and closing corporate loopholes. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: econ_business_activity_tax
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Jenkins supports 'a fair share tax on highly profitable businesses, particularly those benefiting from city infrastructure and public services, while closing loopholes that allow corporations to avoid paying local taxes' — supportive of new corporate-revenue measures, though she does not name the Business Activity Tax specifically."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Jenkins 'strongly support[s]' the Healthy Homes Act, would 'work to stop any attempts to raid the SETF and commit to restoring full funding if it is diverted,' and 'strongly support[s] prohibiting future installations of fossil fuel furnaces and water heaters' in new and existing buildings. Strongly supports the clean-energy transition."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Jenkins is 'committed to governance changes that restore democratic voice,' including 'strengthening the role and independence of the DC State Board of Education,' ensuring community input on closures and boundary changes, and 'clearer checks and balances so that no single office has unilateral control.' Leans toward reducing mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Leniqua'dominique Jenkins"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: candace-nelson
   name: "Candace Tiana Nelson"
@@ -1093,12 +1622,16 @@
     - question_id: mpd_ice_cooperation
       stance: 1
       quote: "Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values."
-      explanation: "Pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values,' ensuring DC remains a safe place for immigrant communities. Will refuse to preemptively comply with Trump administration overreach."
+      explanation: "Pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values,' ensuring DC remains a safe place for immigrant communities. Will refuse to preemptively comply with Trump administration overreach. In her DC for Democracy questionnaire she would 'push for mandatory public reporting by MPD' and robust Delegate oversight of National Guard, ICE, and federal law-enforcement actions, support Ward 4 Councilmember Janeese Lewis George's MPD legislation, and use the Office of Police Complaints to document abuses — though she frames it around oversight and limits rather than an absolute end to cooperation."
       sources:
         - url: https://www.candacefordc.com/
           title: "Candace Tiana Nelson for DC Council — Campaign Website"
           publisher: "candacefordc.com"
           accessed: 2026-05-29
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: education_community_schools
       stance: 1
@@ -1111,7 +1644,7 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
-      explanation: "Home rule is her first platform priority — explicitly opposes any preemptive compliance with Trump administration overreach and pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values.' At the April 28, 2026 Fair Elections Program At-Large debate she said DC's wins against federal interference 'have been in the judiciary branch' and pledged to 'support ensuring the office of the attorney general has what they need to sue,' fight 'collectively,' and create an office of federal affairs in the Council, drawing on having seen the Mayor, Council, and AG fail to coordinate when she was a Ward 4 chief of staff."
+      explanation: "Home rule is her first platform priority — explicitly opposes any preemptive compliance with Trump administration overreach and pledges to 'Defend our local Sanctuary City protections from attacks by Congress and from fellow elected leaders who are quick to compromise our values.' At the April 28, 2026 Fair Elections Program At-Large debate she said DC's wins against federal interference 'have been in the judiciary branch' and pledged to 'support ensuring the office of the attorney general has what they need to sue,' fight 'collectively,' and create an office of federal affairs in the Council, drawing on having seen the Mayor, Council, and AG fail to coordinate when she was a Ward 4 chief of staff. Her DC for Democracy questionnaire sharpens the posture: be 'visible, vocal, and unyielding in defending DC democracy,' 'resist federal overreach through judicial defense and not obey in advance,' and push public reporting and clear limits whenever federal law enforcement, the National Guard, or ICE operate in DC."
       sources:
         - url: https://www.candacefordc.com/
           title: "Candace Tiana Nelson for DC Council — Campaign Website"
@@ -1173,12 +1706,16 @@
     - question_id: labor_worker_protections
       stance: 2
       quote: "Fight for a living wage for all. … I will work to establish the DC Department of Labor & Workers Rights to enforce labor standards, prevent retaliation… I will champion a Workers' Bill of Rights."
-      explanation: "Nelson, who calls herself 'a legacy of labor' and a former union member, makes worker power a centerpiece — fighting for a living wage for all, a Workers' Bill of Rights, a DC Department of Labor & Workers Rights, and expanded union jobs and protections. Strongly supports."
+      explanation: "Nelson, who calls herself 'a legacy of labor' and a former union member, makes worker power a centerpiece — fighting for a living wage for all, a Workers' Bill of Rights, a DC Department of Labor & Workers Rights, and expanded union jobs and protections. Strongly supports. On Initiative 82, her DC for Democracy questionnaire is emphatic — 'I absolutely do not support the overturning of I-82' — and she pledges to 'work on legislation to restore I-82,' framing it as both an economic and a democracy issue."
       sources:
         - url: https://www.candacefordc.com/
           title: "Fair Wages and Stable Jobs — Candace Tiana Nelson for DC Council"
           publisher: "Candace Tiana Nelson Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: homelessness_housing_first
       stance: 2
@@ -1189,6 +1726,80 @@
           title: "Housing — Candace Tiana Nelson for DC Council"
           publisher: "Candace Tiana Nelson Campaign"
           accessed: 2026-06-04
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Nelson 'support[s] an incremental increase in taxes for the wealthiest Washingtonians and highly profitable corporations,' itemizing Just Recovery DC's People's Tax Plan: raising the capital-gains rate, higher rates on incomes above $500,000 and $1 million, a Business Activity Tax, expanding the DC EITC, and automating the Schedule H credit. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: econ_business_activity_tax
+      stance: 2
+      quote: "Restructure DC's business taxes by enacting a Business Activity Tax so that corporations operating in the District and benefitting from our economy and services, but currently not paying taxes to DC, contribute to our shared resources."
+      explanation: "In her DC for Democracy questionnaire Nelson explicitly endorses 'enacting a Business Activity Tax' so corporations operating in DC contribute to shared resources. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_support
+      stance: -2
+      quote: "I do not support imposing curfews on youth. Curfews focus on the behavior of a few while restricting the freedom and opportunity of the many."
+      explanation: "In her DC for Democracy questionnaire Nelson flatly opposes youth curfews, warning that 'expanding curfews risks deepening these inequities by increasing contact with law enforcement without addressing the root causes.' Strongly opposes."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: youth_curfew_programming
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Nelson would invest in 'youth-centered housing and workforce opportunities, like transitional housing, paid apprenticeships, and year-round employment pathways,' community-led violence interruption, mentorship, diversion programs, and a Youth City Council — programming as the alternative to curfews. Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_universal
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Nelson would 'expand access to subsidized child care by simplifying eligibility, increasing reimbursement rates... and ensuring providers can serve families without operating at a loss,' alongside sustainable, recurring funding for the Childcare Pay Equity Fund. Supports expanding subsidized childcare and educator pay, not framed as a universal-regardless-of-income program."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: childcare_birth_to_three
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Nelson would increase child-care reimbursement rates 'to reflect the actual cost of care, especially for infants and toddlers,' and stabilize the early-childhood workforce through the Pay Equity Fund. Supports expanding infant-and-toddler care via subsidy and provider support, not framed as a free universal birth-to-three guarantee."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Nelson is 'committed to governance reforms that restore democratic voice in our education system,' supporting 'reestablishing a standalone Education Committee to strengthen Council oversight' and meaningful partnership with educators, families, and students. Leans toward stronger democratic oversight of education."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: environment_renewable_energy
+      stance: 2
+      explanation: "In her DC for Democracy questionnaire Nelson supports the Healthy Homes Act, will 'work to stop attempts to raid the SETF and commit to the full restoration of funds if it is raided,' and supports prohibiting fossil-fuel furnaces and water heaters in new buildings and, for existing buildings, requiring upgrades during major renovations. Strongly supports the clean-energy transition."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Candace Tiana Nelson"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: oye-owolewa
   name: "Oye Owolewa"
@@ -1494,12 +2105,16 @@
 
     - question_id: home_rule_dc_resist
       stance: 2
-      explanation: "DC's elected Shadow Representative, an unpaid statehood advocate who led protests against a new ICE headquarters on the St. Elizabeth's campus. At the April 28, 2026 Fair Elections Program At-Large debate he said DC must 'push back against a hostile White House' while 'push[ing] forward towards DC statehood,' and must 'use the budget to protect people' — increasing the immigration legal fund and attracting industries to rehire laid-off federal workers — because residents told him at an immigration town hall they wanted 'immigration attorneys,' not 'a council member['s] thoughts and prayers.' A strongly assertive home-rule posture."
+      explanation: "DC's elected Shadow Representative, an unpaid statehood advocate who led protests against a new ICE headquarters on the St. Elizabeth's campus. At the April 28, 2026 Fair Elections Program At-Large debate he said DC must 'push back against a hostile White House' while 'push[ing] forward towards DC statehood,' and must 'use the budget to protect people' — increasing the immigration legal fund and attracting industries to rehire laid-off federal workers — because residents told him at an immigration town hall they wanted 'immigration attorneys,' not 'a council member['s] thoughts and prayers.' A strongly assertive home-rule posture. His DC for Democracy questionnaire adds using 'aggressive oversight to ensure District agencies comply with the Sanctuary Values Act,' continuing to decouple DC policy from harmful federal actions (as the Council did to preserve the child tax credit and EITC), and supporting neighborhood ICE-watch and rapid-response networks while organizing nationally for statehood."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Oye Owolewa"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: transit_metro_funding
       stance: 1
@@ -1563,12 +2178,16 @@
     - question_id: labor_worker_protections
       stance: 2
       quote: "Oye will fight to raise the minimum wage to at least twenty dollars an hour on the way to twenty five dollars… He will defend and fully restore One Fair Wage by completing Initiative 82…"
-      explanation: "Owolewa would raise the minimum wage to $20 and then $25/hour, fully implement Initiative 82, pass a Workers' Bill of Rights, strengthen paid leave and anti-wage-theft enforcement, and create a District Department of Labor. Strongly supports expanding worker protections."
+      explanation: "Owolewa would raise the minimum wage to $20 and then $25/hour, fully implement Initiative 82, pass a Workers' Bill of Rights, strengthen paid leave and anti-wage-theft enforcement, and create a District Department of Labor. Strongly supports expanding worker protections. On Initiative 82, his DC for Democracy questionnaire 'strongly oppose[s] the Council's decision to cap the tipped minimum wage,' pledging to 'fully restore and complete Initiative-82 so tipped workers receive dignified wages' and to 'oppose any attempt to weaken or delay its implementation.'"
       sources:
         - url: https://www.vote4oye.com/
           title: "Jobs / Labor — Oye Owolewa for DC Council"
           publisher: "Oye Owolewa Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Oye Owolewa"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
     - question_id: homelessness_housing_first
       stance: 2
@@ -1583,12 +2202,34 @@
     - question_id: education_impact_osse
       stance: 1
       quote: "The Mayor appoints leadership across key education agencies, including DCPS… and OSSE, limiting independent oversight. At the same time, the elected State Board of Education lacks meaningful authority…"
-      explanation: "Owolewa criticizes mayoral appointment of OSSE and other education leadership for limiting independent oversight and would push governance reforms to restore democratic voice and strengthen the elected State Board of Education — aligning with OSSE independence. He backs the governance half of this question; he does not specifically address the IMPACT teacher-evaluation system."
+      explanation: "Owolewa criticizes mayoral appointment of OSSE and other education leadership for limiting independent oversight and would push governance reforms to restore democratic voice and strengthen the elected State Board of Education — aligning with OSSE independence. He backs the governance half of this question; he does not specifically address the IMPACT teacher-evaluation system. His DC for Democracy questionnaire reiterates support for 'expanding the authority of the SBOE so it can amend the Office of the State Superintendent of Education (OSSE) proposals.'"
       sources:
         - url: https://www.vote4oye.com/
           title: "Education — Oye Owolewa for DC Council"
           publisher: "Oye Owolewa Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Oye Owolewa"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: fiscal_progressive_taxation
+      stance: 2
+      explanation: "In his DC for Democracy questionnaire Owolewa 'strongly align[s] with the Just Recovery DC vision,' supporting raising the capital-gains rate, a millionaires tax (higher rates above $500,000 and $1 million), a progressive mansion tax, a lower estate-tax exemption, a land-value/split-rate tax near Metro stations, and a Business Activity Tax — 'while rejecting ineffective corporate tax giveaways.' Strongly supports."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Oye Owolewa"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
+
+    - question_id: education_mayoral_control
+      stance: 1
+      explanation: "In his DC for Democracy questionnaire Owolewa supports 'restoring a full education committee on the Council and expanding the authority of the SBOE,' so the elected board can amend OSSE proposals and access education data — restoring 'checks and balances' that 'do not eliminate mayoral involvement' but reduce its unilateral control. Leans toward reducing mayoral control."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Oye Owolewa"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-15
 
 - id: lisa-raymond
   name: "Lisa Raymond"
@@ -1712,32 +2353,44 @@
     - question_id: crime_more_police
       stance: 1
       quote: "a well-trained, adequately staffed police force."
-      explanation: "Explicitly supports 'a well-trained, adequately staffed police force' alongside transparency and oversight. Also calls for holding federal partners accountable for prosecutions and judicial appointments."
+      explanation: "Explicitly supports 'a well-trained, adequately staffed police force' alongside transparency and oversight. Also calls for holding federal partners accountable for prosecutions and judicial appointments. In her DC for Democracy questionnaire she wrote that 'MPD must be supported with the resources needed to do its job, alongside strong Council oversight to ensure accountability and community trust,' while expanding civilian and mental-health co-responders (building on the DBH-MPD program) and reentry support for returning citizens."
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Lisa Raymond for DC Council — Campaign Website"
           publisher: "lisaraymondfordc.com"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: youth_curfew_support
       stance: 1
       quote: "supports targeted, temporary public safety measures, including curfews, when necessary to keep residents safe. But enforcement alone cannot be the foundation of youth policy."
-      explanation: "Explicitly states she 'supports targeted, temporary public safety measures, including curfews, when necessary to keep residents safe. But enforcement alone cannot be the foundation of youth policy.' One of the few At-Large candidates to explicitly endorse curfews as a tool."
+      explanation: "Explicitly states she 'supports targeted, temporary public safety measures, including curfews, when necessary to keep residents safe. But enforcement alone cannot be the foundation of youth policy.' One of the few At-Large candidates to explicitly endorse curfews as a tool. In her DC for Democracy questionnaire she was more guarded, writing that while youth curfews 'might be appropriate in certain situations, they are not a long term solution and should be limited to emergency situations.'"
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Lisa Raymond for DC Council — Campaign Website"
           publisher: "lisaraymondfordc.com"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: youth_curfew_programming
       stance: 1
       quote: "The long-term solution is opportunity, connection, and hope."
-      explanation: "Pairs her curfew support with a comprehensive youth investment agenda: evidence-based conflict management programs, career pathways, paid apprenticeships (champions DC Young Adult Corps Act), expanded safe afterschool and late-night spaces, and school-based mental health care. 'The long-term solution is opportunity, connection, and hope.'"
+      explanation: "Pairs her curfew support with a comprehensive youth investment agenda: evidence-based conflict management programs, career pathways, paid apprenticeships (champions DC Young Adult Corps Act), expanded safe afterschool and late-night spaces, and school-based mental health care. 'The long-term solution is opportunity, connection, and hope.' In her DC for Democracy questionnaire she stressed that curfews 'are not a long term solution' and that DC 'must look at more concrete solutions' — supervised late-night gathering spaces, youth employment, apprenticeships — and pledged to give young people 'a seat at the table' in designing them."
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Lisa Raymond for DC Council — Campaign Website"
           publisher: "lisaraymondfordc.com"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: transit_bike_bus_lanes
       stance: 1
@@ -1750,16 +2403,20 @@
 
     - question_id: environment_renewable_energy
       stance: 1
-      explanation: "Supports 'robust implementation of the Carbon Free DC plan' and the Healthy Homes Act. Wants gas-free, energy-efficient affordable housing construction and tough Public Service Commission oversight to control utility costs."
+      explanation: "Supports 'robust implementation of the Carbon Free DC plan' and the Healthy Homes Act. Wants gas-free, energy-efficient affordable housing construction and tough Public Service Commission oversight to control utility costs. In her DC for Democracy questionnaire she backed the Healthy Homes Act and pledged to protect the Sustainable Energy Trust Fund from raids (proposing a supermajority requirement before its funds can be diverted), and said she is 'in favor of transitioning off of fossil fuels' — while cautioning that banning fossil-fuel appliances without financial support could 'cripple lower-income families' and disproportionately burden Black and brown communities."
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Lisa Raymond for DC Council — Campaign Website"
           publisher: "lisaraymondfordc.com"
           accessed: 2026-05-30
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: housing_upzoning
       stance: 1
-      explanation: "Supports increasing housing supply across all eight wards through streamlined permitting and strategic use of public land. Endorsed by DC YIMBYs, signaling a pro-supply, pro-density orientation, though her platform emphasizes process reform over an explicit end to single-family zoning. At the April 28, 2026 Fair Elections Program At-Large debate she rejected the framing as 'either/or,' saying DC needs deeply affordable housing and to 'build more housing,' with partners and a streamlined process, to 'create a climate where people will actually come and build.'"
+      explanation: "Supports increasing housing supply across all eight wards through streamlined permitting and strategic use of public land. Endorsed by DC YIMBYs, signaling a pro-supply, pro-density orientation, though her platform emphasizes process reform over an explicit end to single-family zoning. At the April 28, 2026 Fair Elections Program At-Large debate she rejected the framing as 'either/or,' saying DC needs deeply affordable housing and to 'build more housing,' with partners and a streamlined process, to 'create a climate where people will actually come and build.' In her DC for Democracy questionnaire she backed expanding 'middle housing' — duplexes, triplexes, four-plexes, and small apartment buildings — to 'gently increase density and housing options in neighborhoods that may not support large complexes,' plus higher inclusionary-zoning mandates with density bonuses tied to deeper affordability commitments."
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Lisa Raymond for DC Council — Campaign Website"
@@ -1769,25 +2426,37 @@
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: crime_public_health
       stance: 1
-      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond, drawing on her work at Covenant House Greater Washington, said the answer to youth offending 'starts with the basics': housing, wraparound services, and high-quality workforce development that 'meets youth where they are' and puts them on a path to independence — a prevention- and services-first approach."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond, drawing on her work at Covenant House Greater Washington, said the answer to youth offending 'starts with the basics': housing, wraparound services, and high-quality workforce development that 'meets youth where they are' and puts them on a path to independence — a prevention- and services-first approach. In her DC for Democracy questionnaire she praised Baltimore's model of 'treating violence as a public health issue' with 'community-centered, evidence-driven approaches,' while stressing it need not be a binary — 'I don't think it has to be one or the other' between investing in police and addressing root causes."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: home_rule_dc_resist
       stance: 1
       quote: "We have to continue to legislate based on what our values are, not on an administration that may or may not intervene."
-      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond urged the Council to 'legislate boldly' for residents and 'based on what our values are, not on an administration that may or may not intervene' — i.e., not preemptively complying. She also stressed educating Democratic allies and said she would withhold support from out-of-state candidates who will not commit to DC statehood. Assertive in principle, paired with a relationship/education strategy."
+      explanation: "At the April 28, 2026 Fair Elections Program At-Large debate Raymond urged the Council to 'legislate boldly' for residents and 'based on what our values are, not on an administration that may or may not intervene' — i.e., not preemptively complying. She also stressed educating Democratic allies and said she would withhold support from out-of-state candidates who will not commit to DC statehood. Assertive in principle, paired with a relationship/education strategy. In her DC for Democracy questionnaire she pledged to 'fight Congressional interference, including any efforts to override D.C. laws or local decisions,' protect DC's local budget, advance full voting rights and statehood, and organize residents alongside DC Vote and FreeDC to defend home rule."
       sources:
         - url: https://www.youtube.com/watch?v=ll_lVXlwuF8
           title: "DC Fair Elections Program At-Large primary debate (April 28, 2026)"
           publisher: "DC Office of Campaign Finance"
           accessed: 2026-06-03
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
 
     - question_id: crime_police_in_schools
       stance: 1
@@ -1830,9 +2499,112 @@
     - question_id: environment_electricity_affordability
       stance: 2
       quote: "Support tough oversight of the Public Service Commission to ensure that the District's monopoly utilities are not leaving residents and businesses with crushing costs of power and heat."
-      explanation: "Raymond's Energy Affordability platform calls for tough oversight of the Public Service Commission so monopoly utilities don't leave residents with 'crushing costs,' plus the Healthy Homes Act and efficiency programs to cut low-income energy bills. Strongly supports action to lower electricity costs."
+      explanation: "Raymond's Energy Affordability platform calls for tough oversight of the Public Service Commission so monopoly utilities don't leave residents with 'crushing costs,' plus the Healthy Homes Act and efficiency programs to cut low-income energy bills. Strongly supports action to lower electricity costs. Her DC for Democracy questionnaire reinforces this: she pledged to 'fight to protect the Sustainable Energy Trust Fund' that funds the Healthy Homes Act's low-income electrification assistance, proposing statutory safeguards against diverting it."
       sources:
         - url: https://lisaraymondfordc.com/
           title: "Energy Affordability — Lisa Raymond for DC Council"
           publisher: "Lisa Raymond Campaign"
           accessed: 2026-06-04
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: mpd_ice_cooperation
+      stance: 2
+      quote: "ICE is not a legitimate law enforcement agency and as Councilmember, I would work to end all cooperation between MPD and ICE."
+      explanation: "In her DC for Democracy questionnaire Raymond wrote that 'ICE is not a legitimate law enforcement agency' and pledged to 'work to end all cooperation between MPD and ICE.' She would use the Council's oversight authority to require full disclosure of any MOUs or informal practices and hold public hearings, and would pursue new legislation barring ICE from operating near schools, hospitals, and courthouses and prohibiting use of DC-owned property for enforcement — citing LA and Chicago as models. Notes the first video she released as a candidate called on the Mayor to disclose any District–ICE agreements."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: homelessness_housing_first
+      stance: 2
+      quote: "I also strongly support a Housing First approach as the foundation of D.C.'s homelessness response."
+      explanation: "In her DC for Democracy questionnaire Raymond 'strongly support[s] a Housing First approach as the foundation of D.C.'s homelessness response,' citing its proven record reducing chronic homelessness. She would restore permanent supportive housing vouchers (none were funded in FY2026), partner with nonprofits and advocacy groups, and bolster outreach to people with mental-health and substance-use needs — insisting 'we cannot criminalize homelessness.' Draws on her work as head of major gifts at a nonprofit serving homeless youth."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: housing_topa_restore
+      stance: 0
+      quote: "A balanced approach should include carefully targeted exemptions to reduce barriers for developers where data show TOPA adds significant cost or delay, paired with stronger support for tenant education, financing assistance, and preservation tools."
+      explanation: "Asked in her DC for Democracy questionnaire whether she supports the 2025 rollback of TOPA (which ended TOPA for 2–4 unit buildings), Raymond did not commit to restoring those rights. She 'unequivocally support[s] tenants' rights' and calls TOPA an important anti-displacement tool, but endorses a 'balanced approach' with 'carefully targeted exemptions to reduce barriers for developers where data show TOPA adds significant cost or delay,' paired with tenant education and financing help. Mixed: supportive of TOPA in principle but open to narrow exemptions rather than restoring or strengthening it."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: housing_rent_stabilization
+      stance: 1
+      quote: "transforming temporary caps on rent increases into permanent protections."
+      explanation: "In her DC for Democracy questionnaire Raymond said she 'will closely examine the efficacy of rent stabilization and consider how our laws could be expanded to further protect our Black and brown communities, including transforming temporary caps on rent increases into permanent protections.' Supports expanding tenant protections, framed as study-and-expand rather than a specific coverage threshold."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: childcare_birth_to_three
+      stance: 1
+      quote: "I would commit to fully funding the Pay Equity Fund, and the Birth-to-Three Act."
+      explanation: "Childcare is Raymond's stated top priority. In her DC for Democracy questionnaire she committed to 'fully funding the Pay Equity Fund, and the Birth-to-Three Act,' issuing grants to open and expand centers, and reducing voucher red tape, framing the crisis as a supply and workforce problem and pledging OSSE oversight to ensure investments translate into more seats. A strong commitment to the Birth-to-Three framework, though she does not specifically pledge a free, no-waitlist guarantee."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: childcare_universal
+      stance: 1
+      quote: "I want to help make childcare affordable and accessible for every District family."
+      explanation: "Raymond names making 'childcare affordable and accessible for every District family' her first priority. In her DC for Democracy questionnaire she would fully fund the Child Care Pay Equity Fund and Birth-to-Three Act, issue grants to open and expand centers, and reduce subsidy red tape — a supply-and-workforce approach to broad affordability, though she does not explicitly call for income-blind universal subsidies."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: fiscal_progressive_taxation
+      stance: 0
+      quote: "I support an equitable tax system that ensures everyone is paying their fair share ... while remaining mindful of economic competitiveness and growth."
+      explanation: "Asked in her DC for Democracy questionnaire whether she supports raising taxes on high-income households and profitable corporations, Raymond gave a measured answer: she backs 'an equitable tax system' where 'everyone is paying their fair share' but stressed remaining 'mindful of economic competitiveness and growth' and keeping DC 'competitive with our neighboring jurisdictions.' Her concrete proposals are expanding credits — the restored Child Tax Credit and a broader DC EITC — rather than new taxes on wealth or corporations. Mixed."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: labor_worker_protections
+      stance: 0
+      quote: "I did not agree with the Mayor repealing the measure entirely, and I feel that the compromise that the Council arrived at was reasonable."
+      explanation: "In her DC for Democracy questionnaire Raymond said she favors 'all workers being paid a livable wage' and aggressive enforcement against wage theft (drawing on her time at the Office of the Attorney General). But on the tipped minimum wage she accepted the Council's 2025 compromise capping it at 75% of the full minimum — 'I did not agree with the Mayor repealing the measure entirely, and I feel that the compromise ... was reasonable,' while saying the Council must keep monitoring it. Supportive of worker protections in principle but accepting of a rollback of the voter-approved I-82 full tipped wage; mixed."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: education_mayoral_control
+      stance: 1
+      quote: "I continue to believe OSSE falling completely under the jurisdiction of the mayor presents various accountability and transparency challenges."
+      explanation: "A former DC State Board of Education member and President who served when mayoral control passed, Raymond told her DC for Democracy questionnaire she 'continue[s] to believe OSSE falling completely under the jurisdiction of the mayor presents various accountability and transparency challenges' and would 'consider exploring whether ... OSSE becoming an independent agency would increase accountability.' She wants governance more responsive to teachers, families, and students, but commits to structural changes 'only if it's clear that they would improve educational experiences and outcomes.' Leans support, cautiously."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
+
+    - question_id: education_impact_osse
+      stance: 1
+      explanation: "In her DC for Democracy questionnaire Raymond said she would 'consider exploring whether ... OSSE becoming an independent agency would increase accountability,' citing her past fight for State Board independence. She is strongly pro-teacher — vowing to 'recognize teachers both monetarily and systematically' and to 'stand up for public schools against' vouchers and privatization — but does not specifically address overhauling the IMPACT evaluation system. Supports the OSSE-independence half of the question."
+      sources:
+        - url: https://www.dcfordemocracy.org/endorsements
+          title: "DC for Democracy 2026 DC Council Questionnaire — Lisa Raymond"
+          publisher: "DC for Democracy"
+          accessed: 2026-06-16
